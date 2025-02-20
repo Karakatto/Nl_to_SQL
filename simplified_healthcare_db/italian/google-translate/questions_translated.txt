@@ -1,0 +1,200 @@
+Elenca tutti i pazienti.
+Elenca tutti i medici.
+Elenca tutte le ammissioni.
+Conta il numero di pazienti femminili.
+Conta i pazienti per sesso.
+Confronta i ricoveri medi nel primo e nel secondo semestre di ogni anno.
+Quante scansioni MRI e CT sono state eseguite nel corso degli anni?
+Quante vaccinazioni sono state somministrate nel corso degli anni?
+Elenca tutti i dipartimenti insieme al nome del capo del dipartimento.
+Elenca tutti i dipartimenti che hanno "ologia" nel loro nome.
+Elenca tutti i medici maschi e i loro indirizzi.
+Elenca tutte le procedure per le ammissioni eseguite dal Dr. Olivia Davis.
+Elenca tutte le procedure che includono la parola "intervento chirurgico".
+Elenca tutti i trattamenti per la paziente Linda Garcia.
+Elenca nomi e contatti di tutti i medici maschi.
+Elenca le date di ammissione e le date di scarico di tutte le ammissioni per il paziente James Miller.
+Elencare le date di ammissione e le date di scarico dei pazienti ricoverati nel dipartimento di pediatria.
+Elenca i nomi del dipartimento e i capi dipartimenti che hanno un numero di telefono contenente "555".
+Elenca la diagnosi e i trattamenti per l'ammissione della paziente Barbara Martinez.
+Elenca gli indirizzi e -mail e i numeri di telefono di medici che hanno ammesso pazienti con diagnosi di "ipertensione".
+Elenca le e -mail di tutti i medici specializzati in neurologia.
+Elenca le e -mail di tutti i pazienti.
+Elenca i nomi e gli indirizzi di tutti i medici maschi.
+Elenca i nomi e gli indirizzi dei pazienti che sono stati ammessi con una diagnosi di "BPCO".
+Elenca i nomi e gli indirizzi dei pazienti che sono stati trattati dal Dr. Mia Wilson.
+Elenca i nomi e le date di ammissione dei pazienti ricoverati nel dipartimento di neurologia.
+Elenca i nomi e le date di ammissione dei pazienti che sono stati dimessi entro 3 giorni dall'ammissione.
+Elenca i nomi e le informazioni di contatto del contatto di emergenza del paziente denominato "Linda Garcia".
+Elencare i nomi e le diagnosi di pazienti ammessi dal Dr. Ava Rodriguez nel dipartimento Pediatria.
+Elenca i nomi e le diagnosi di pazienti ammessi nelle ultime 8 settimane.
+Elenca i nomi e le diagnosi di pazienti che sono stati ammessi sia con "diabete" che con "ipertensione".
+Elenca i nomi e gli indirizzi e -mail di tutte le dottori femminili.
+Elenca i nomi e gli indirizzi e -mail dei medici che hanno ammesso i pazienti nel dipartimento di oncologia.
+Elenca i nomi e gli indirizzi e -mail dei pazienti il ​​cui contatto di emergenza è il coniuge.
+Elenca i nomi e i numeri di telefono di tutti i medici maschi.
+Elenca i nomi e i numeri di telefono di tutti i pazienti di età superiore ai 65 anni.
+Elenca i nomi e i numeri di telefono di tutti i pazienti che sono stati ammessi nel gennaio 2024.
+Elenca i nomi e i numeri di telefono di medici che hanno curato i pazienti con "ipertensione".
+Elenca i nomi e i numeri di telefono di pazienti che sono stati ammessi ai dipartimenti di emergenza e ortopedica.
+Elenca i nomi e i numeri di telefono di pazienti che hanno ricevuto terapia fisica.
+Elenca i nomi e i numeri di telefono di pazienti che sono stati ammessi nel gennaio 2023 da medici specializzati in "medicina di emergenza".
+Elenca i nomi e i numeri di telefono di pazienti il ​​cui contatto di emergenza è il fratello o la sorella.
+Elenca i nomi e i numeri di telefono di pazienti il ​​cui nome di contatto di emergenza inizia con "John".
+Elenca i nomi e le specializzazioni dei medici che hanno ammesso i pazienti al dipartimento di "neurologia".
+Elenca i nomi di tutti i dipartimenti che hanno la parola "emergenza" nel loro nome.
+Elenca i nomi di tutti i medici che hanno ammesso i pazienti sia nei dipartimenti di oncologia che di gastroenterologia.
+Elenca i nomi di tutti i medici specializzati in cardiologia.
+Elenca i nomi di tutte le pazienti di sesso femminile.
+Elenca i nomi di tutti i pazienti che hanno il "diabete" nella loro diagnosi.
+Elenca i nomi di tutti i pazienti che sono stati ammessi dal Dr. Ethan Martinez.
+Elenca i nomi di tutti i pazienti che sono stati ammessi nel dipartimento di pediatria.
+Elenca i nomi dei medici che non hanno ammesso alcun paziente negli ultimi sei mesi.
+Elenca i nomi dei pazienti che sono stati ammessi al dipartimento di "neurologia" e hanno una diagnosi di "epilessia".
+Elenca le procedure per l'ammissione della paziente Barbara Brown.
+Recuperare ID di ammissione e nomi di pazienti che hanno ricevuto più trattamenti;
+Recuperare una durata media dei ricoveri nel 2022, 2023 e 2024;
+Recupera i nomi e le date di ammissione di tutti i pazienti ammessi negli ultimi 3 mesi.
+Recupera i nomi e le date di ammissione di tutti i pazienti ammessi al dipartimento di neurologia nel 2023.
+Recupera i nomi e le date di ammissione dei pazienti che sono stati ammessi nel maggio 2024 e dimessi nel giugno 2024.
+Recupera i nomi e gli indirizzi e -mail dei medici che hanno ammesso i pazienti nel primo semestre 2023 e nel primo semestre 2024.
+Recupera i nomi e gli indirizzi e -mail dei medici che hanno ammesso pazienti in dipartimenti diversi dalla loro specializzazione.
+Recupera i nomi e i numeri di telefono dei pazienti ammessi da medici specializzati in "cardiologia".
+Recupera i nomi e i numeri di telefono di pazienti che sono stati ammessi da medici maschi e femmine nell'ultimo anno.
+Recupera i nomi e le specializzazioni dei medici che hanno ammesso i pazienti nel gennaio 2024.
+Recupera i nomi e le specializzazioni dei medici che hanno ammesso i pazienti nel gennaio 2024.
+Recupera i nomi di tutti i dipartimenti insieme ai nomi del loro capo dipartimento, dove il capo del dipartimento è specializzato in "Neurologia".
+Mostra tutte le ammissioni per il paziente Richard Martinez.
+Mostra tutti i trattamenti per l'ammissione del paziente Richard Martinez.
+Mostra tutti i trattamenti che includono la parola "terapia".
+Mostra il nome e il numero di telefono di tutti i pazienti ammessi nel 2023
+Mostra gli indirizzi di tutti i medici che hanno la parola "strada" nel loro indirizzo.
+Mostra la data di ammissione e la data di scarico per l'ammissione della paziente Barbara Brown.
+Mostra le date di ammissione e i medici per i pazienti ricoverati nel dipartimento di pediatria.
+Mostra le date di ammissione per i pazienti ammessi nel 2023.
+Mostra le date di ammissione di tutti i pazienti ammessi al dipartimento di emergenza.
+Mostra la data di nascita del Dr. Michael Brown.
+Mostra le diagnosi e le descrizioni del trattamento per i pazienti ammessi dalla dott.ssa Emma Young.
+Mostra la diagnosi e i farmaci per l'ammissione del paziente Robert Rodriguez.
+Mostra la diagnosi di tutte le ammissioni per la paziente Elizabeth Miller.
+Mostra gli indirizzi e -mail di tutte le donne pazienti.
+Mostra i farmaci per l'ammissione del paziente Jennifer Miller.
+Mostra i farmaci per le ammissioni fatte nel dipartimento di radiologia.
+Mostra i farmaci al momento dell'ammissione della paziente Margaret Jones.
+Mostra il nome e l'e -mail del capo del dipartimento di cardiologia.
+Mostra i nomi e gli indirizzi dei pazienti che sono stati ammessi negli ultimi 6 mesi.
+Mostra i nomi e le date di ammissione di tutti i pazienti che sono stati ammessi nello stesso mese di "Joseph Garcia".
+Mostra i nomi e le date di ammissione dei pazienti che hanno subito almeno un intervento chirurgico.
+Mostra i nomi e le date di ammissione dei pazienti che sono stati ammessi negli anni 2022 e 2023 e di nuovo nel primo semestre del 2024.
+Mostra i nomi e le date di ammissione dei pazienti che sono stati ammessi nello stesso mese di "Joseph Garcia".
+Mostra i nomi e le date di ammissione dei pazienti che sono stati ammessi nello stesso mese in cui sono stati dimessi.
+Mostra i nomi e le date di nascita dei medici che hanno ammesso i pazienti nel 2023.
+Mostra i nomi e le diagnosi di ammissioni per il paziente "Jennifer Brown" durante l'ammissione in corso.
+Mostra i nomi e le diagnosi di pazienti ammessi dal Dr. Ava Rodriguez nel dipartimento Pediatria.
+Mostra i nomi e gli indirizzi e -mail di tutti i medici che vivono a Metropolis.
+Mostra i nomi e gli indirizzi e -mail dei medici che hanno ammesso pazienti con diagnosi contenenti "diabete".
+Mostra i nomi e gli indirizzi e -mail dei medici che hanno ammesso pazienti con diagnosi contenenti "diabete".
+Mostra i nomi e i capi dei dipartimenti che hanno un numero di telefono elencato.
+Mostra i nomi e i numeri di telefono di tutti i medici che hanno ammesso i pazienti nel dipartimento di oncologia.
+Mostra i nomi e i numeri di telefono di tutti i medici specializzati in pediatria.
+Mostra i nomi e i numeri di telefono di tutti i pazienti che sono stati ammessi ai dipartimenti di emergenza e ortopedica.
+Mostra i nomi e i numeri di telefono di pazienti che sono stati ammessi sia ai dipartimenti di oncologia che di radiologia.
+Mostra i nomi e i numeri di telefono di pazienti che sono stati ammessi al dipartimento di emergenza nell'ultimo anno.
+Mostra i nomi e i numeri di telefono di pazienti che sono stati ammessi da medici specializzati in "ortopedia".
+Mostra i nomi e le specializzazioni di tutti i medici che hanno ammesso i pazienti al dipartimento di oncologia.
+Mostra i nomi e le specializzazioni dei medici che hanno ammesso i pazienti sia nei dipartimenti neurologici che di oncologia.
+Mostra i nomi e le specializzazioni dei medici che sono nati prima del 1970.
+Mostra i nomi e la data di nascita dei pazienti che hanno ricevuto più di un farmaco durante lo stesso ricovero ed elenca i farmaci che hanno ricevuto.
+Mostra i nomi di tutti i dipartimenti che hanno un capo dipartimento specializzato in cardiologia.
+Mostra i nomi di tutti i dipartimenti.
+Mostra i nomi di tutti i pazienti maschi.
+Mostra i nomi di tutti i pazienti ammessi nel gennaio 2024 insieme alle date di ammissione e alle date di dimissione.
+Mostra i nomi di tutti i pazienti che hanno 50 anni o più.
+Mostra i nomi di tutti i pazienti che sono stati ammessi nel "2023-11-03".
+Mostra i nomi dei medici e le date di ammissione per il paziente "Linda Johnson" ammessi nel 2023.
+Mostra i nomi dei medici e le loro specializzazioni che hanno ammesso i pazienti con "ictus".
+Mostra i nomi dei medici nati tra il 1970 e il 1980.
+Mostra i nomi dei medici specializzati in neurologia.
+Mostra i nomi, le date di ammissione e le diagnosi di ammissioni che includono la parola "malattia".
+Mostra il numero di telefono e l'indirizzo di Elizabeth Jones.
+Mostra i numeri di telefono e gli indirizzi e -mail di tutti i dipartimenti.
+Mostra le procedure per tutte le ammissioni eseguite dal Dr. Emily White.
+Mostra le specializzazioni di tutti i medici che hanno la parola "intervento chirurgico" nella loro specializzazione.
+Mostra i trattamenti e le procedure per l'ammissione della paziente Maria Rodriguez.
+Qual è la durata media del ricovero in ospedale dei pazienti che hanno ricevuto interventi chirurgici raggruppati per anno?
+Qual è la durata media dei ricoveri?
+Trova tutti i pazienti con BPCO e recupera i loro farmaci e il loro dipartimento
+Gruppo il soggiorno medio dei pazienti mediante specializzazione del medico ammessa, dal più lungo al più breve;
+Quante interventi di sostituzione dell'anca sono stati eseguiti in generale e quali farmaci hanno assunto questi pazienti?
+Quante ammissioni in corso ci sono e in quale dipartimento?
+Quanti pazienti hanno avuto interventi chirurgici nel 2022?
+Elenca tutti gli anestesisti con età e sesso e recupera i pazienti che hanno ammesso e con quali farmaci;
+Elenca tutti i pazienti ammessi nel 2024 raggruppati per diagnosi, dalla più diffusa;
+Elenca i nomi e gli indirizzi e -mail dei medici che hanno ammesso i pazienti sia nei dipartimenti di oncologia che di gastroenterologia.
+Elenca i nomi e i numeri di telefono di pazienti che sono stati ammessi da medici maschi e femmine.
+Elenca i nomi e la specializzazione dei medici che hanno ammesso i pazienti che hanno assunto l'aspirina come farmaco;
+Elenca i nomi, le diagnosi e i farmaci dei pazienti ammessi dal Dr. Benjamin Walker nel dipartimento "oncologia".
+Elenca i nomi, le diagnosi e i trattamenti per i pazienti ammessi con la parola "infezione" nella loro diagnosi.
+Recupera tutti i nomi, le e -mail e i numeri di telefono di medici, raggruppati per dipartimento.
+Recuperare le informazioni di contatto di tutti i pazienti ammessi dai cardiologi;
+Recupera i nomi e i numeri di telefono di tutti i pazienti che sono stati ammessi nello stesso dipartimento di "James Garcia" durante la sua prima ammissione.
+Mostra tutti i farmaci prescritti dal Dr. Mia Wilson e i nomi e le date di nascita dei pazienti che li hanno ricevuti.
+Mostra i nomi e le date di ammissione dei pazienti che sono stati ammessi da medici specializzati in cardiologia.
+Mostra i nomi di tutti i medici che hanno ammesso i pazienti nel dipartimento ortopedia.
+Mostra i nomi dei dipartimenti e il numero totale di ammissioni per ciascuno negli ultimi 2 mesi.
+Mostra i nomi dei dipartimenti e il numero totale di medici in ciascuno.
+Mostra i nomi dei medici e il conteggio dei pazienti che hanno ammesso a cui è stata diagnosticata "ipertensione".
+Mostra i nomi dei medici e il numero totale di diversi pazienti che hanno ammesso.
+Mostra i nomi dei pazienti e dei loro medici specializzati in cardiologia.
+Mostra i nomi, le date di ammissione e i farmaci per i pazienti ammessi dal Dr. Ethan Martinez con la parola "intervento chirurgico" nelle loro procedure.
+Mostra i nomi, le date di ammissione e i farmaci per i pazienti ammessi dai medici con la specializzazione "pediatria".
+Mostra i nomi, le date di ammissione e le procedure per i pazienti ammessi nel gennaio 2023 e dimesso nel febbraio 2023.
+Mostra il numero totale di ammissioni per ciascun dipartimento.
+Qual è il mese dell'anno in cui in media ci sono più ammissioni?
+Qual è il farmaco più prescritto?
+Qual è la chirurgia più frequentemente eseguita in generale?
+Trova pazienti che ricevono più di un farmaco e un gruppo lì per dipartimento;
+Quanti pazienti assumono più di 2 farmaci e chi è il loro medico e dipartimento?
+Quanti pazienti sono stati ammessi a maggio e giugno 2024?Elenca i loro nomi, ID, ammettendo medici e dipartimento.
+Quanti pazienti con colpi hanno ricevuto aspirina e chi era il prescrittore?
+Elenca tutti i pazienti che assumono eparina o enoxaparina e il nome dei medici che li hanno ammessi e il dipartimento in cui sono stati ammessi;
+Elenca tutti i pazienti che sono stati ammessi più di una volta.
+Elenca i nomi e gli indirizzi e -mail di tutti i medici che hanno ammesso più di 1 paziente nel dipartimento di cardiologia.
+Elenca i nomi e gli indirizzi e -mail dei medici che hanno ammesso più di 2 pazienti.
+Elenca i nomi e i numeri di telefono di tutti i pazienti che sono stati ammessi più di una volta nel dipartimento di cardiologia.
+Elenca i nomi e i numeri di telefono di pazienti che sono stati ammessi più di una volta nel dipartimento di cardiologia.
+Elenca i nomi e i numeri di telefono di pazienti a cui è stato diagnosticato il cancro più di una volta.
+Elenca gli ID pazienti dei pazienti che sono stati ammessi più di una volta.
+Recupera i nomi e le specializzazioni dei medici che hanno ammesso più di 5 pazienti.
+Recupera i nomi dei pazienti che sono stati ammessi al dipartimento di "emergenza" più di una volta.
+Recupera il numero di prescrizioni di diazepam raggruppate per anno e dipartimenti.
+Mostra le diagnosi e i farmaci dei pazienti che sono stati ammessi due o più volte.
+Mostra i nomi e gli indirizzi e -mail dei medici che hanno ammesso più di 3 pazienti negli ultimi 2 anni.
+Mostra i nomi di tutti i medici che hanno ammesso più di 5 pazienti.
+Chi è il medico che ha ammesso il paziente con il ricovero più lungo e qual è il nome, la patologia, i farmaci e il dipartimento del paziente?
+Elenca tutti i medici che hanno ammesso i pazienti, raggruppati dal Dipartimento di ammissione, e includono il nome del capo di ciascun dipartimento.
+Elenca i nomi del dipartimento, i capi dipartimenti e il numero di ammissioni gestite da ciascun capo del dipartimento, in cui il numero di ammissioni è superiore a 3.
+Elenca i nomi e gli indirizzi dei pazienti che sono stati ammessi più di due volte.
+Elenca i nomi e le date di ammissione dei pazienti che sono stati ammessi a più di un dipartimento.
+Elenca i nomi e le informazioni di contatto dei pazienti che sono stati ammessi da più di un medico.
+Elencare i nomi e le informazioni di contatto dei pazienti che sono stati ammessi in più dipartimenti.
+Elenca i nomi e gli indirizzi e -mail dei medici che hanno ammesso pazienti con diagnosi multiple.
+Elenca i nomi e i numeri di telefono di pazienti che sono stati ammessi da più di tre diversi medici.
+Elenca i nomi e i numeri di telefono di pazienti che sono stati ammessi da medici di più dipartimenti.
+Elenca i nomi e le specializzazioni dei medici che hanno ammesso pazienti in più dipartimenti.
+Elenca i nomi dei dipartimenti e il numero di ammissioni nel 2022 e 2023, in cui il numero di ammissioni è superiore a 10.
+Elenca i nomi dei medici che hanno ammesso più di 5 pazienti.
+Elenca i nomi dei pazienti e le loro diagnosi, in cui la diagnosi include il "diabete" ed è stata registrata più di due volte.
+Recupera ID, nome e informazioni di contatto del medico che ha prescritto il maggior numero di scansioni CT e MRI e contali all'anno
+Recupera tutte le informazioni del medico che ha ammesso il maggior numero di pazienti e tutti i farmaci prescritti.
+Mostra i nomi e le date di ammissione dei pazienti che sono stati ricoverati in più dipartimenti nello stesso anno.
+Mostra i nomi e le date di nascita dei pazienti a cui è stato diagnosticato il diabete più di una volta e recuperare i nomi dei medici che li hanno ammessi.
+Mostra i nomi e gli indirizzi e -mail di tutti i medici che hanno ammesso più di 2 pazienti in generale, raggruppate per dipartimento, incluso il conteggio di pazienti di sesso femminile per dipartimento.
+Mostra i nomi e i numeri di telefono di pazienti che sono stati ammessi da almeno due diversi medici.
+Mostra i nomi e i numeri di telefono di pazienti che sono stati ammessi sia dal Dr. Daniel Lee che dal Dr. Lily Baker.
+Mostra i nomi dei pazienti e dei loro medici, in cui il paziente è stato ammesso più di 3 volte.
+Mostra i nomi dei pazienti e i loro farmaci, in cui il farmaco include "antibiotico" ed è stato registrato più di una volta.
+Mostra i nomi dei pazienti che hanno avuto più interventi chirurgici.
+Qual era il farmaco più prescritto nel 2023?
+Qual è stato il farmaco più prescritto nel 2023?
+Quali medici hanno ammesso i pazienti con le ammissioni più lunghe?

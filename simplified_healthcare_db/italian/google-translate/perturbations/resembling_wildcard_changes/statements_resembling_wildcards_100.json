@@ -1,0 +1,1002 @@
+[
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7u77! ! p@z!&n7!.",
+        "q_id": 1
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7u77! ! m&d!c!.",
+        "q_id": 2
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7u77& 1& @mm!$$!0n!.",
+        "q_id": 3
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "C0n7@ !1 num&r0 d! p@z!&n7! f&mm!n!1!.",
+        "q_id": 4
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "C0n7@ ! p@z!&n7! p&r $&$$0.",
+        "q_id": 5
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "C0nfr0n7@ ! r!c0v&r! m&d! n&1 pr!m0 & n&1 $&c0nd0 $&m&$7r& d! 0gn! @nn0.",
+        "q_id": 6
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@n7& $c@n$!0n! MR! & C7 $0n0 $7@7& &$&gu!7& n&1 c0r$0 d&g1! @nn!?",
+        "q_id": 7
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@n7& v@cc!n@z!0n! $0n0 $7@7& $0mm!n!$7r@7& n&1 c0r$0 d&g1! @nn!?",
+        "q_id": 8
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7u77! ! d!p@r7!m&n7! !n$!&m& @1 n0m& d&1 c@p0 d&1 d!p@r7!m&n70.",
+        "q_id": 9
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7u77! ! d!p@r7!m&n7! ch& h@nn0 \"010g!@\" n&1 10r0 n0m&.",
+        "q_id": 10
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7u77! ! m&d!c! m@$ch! & ! 10r0 !nd!r!zz!.",
+        "q_id": 11
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7u77& 1& pr0c&dur& p&r 1& @mm!$$!0n! &$&gu!7& d@1 Dr. 01!v!@ D@v!$.",
+        "q_id": 12
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7u77& 1& pr0c&dur& ch& !nc1ud0n0 1@ p@r01@ \"!n7&rv&n70 ch!rurg!c0\".",
+        "q_id": 13
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7u77! ! 7r@77@m&n7! p&r 1@ p@z!&n7& 1!nd@ G@rc!@.",
+        "q_id": 14
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ n0m! & c0n7@77! d! 7u77! ! m&d!c! m@$ch!.",
+        "q_id": 15
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 1& d@7& d! @mm!$$!0n& & 1& d@7& d! $c@r!c0 d! 7u77& 1& @mm!$$!0n! p&r !1 p@z!&n7& J@m&$ M!11&r.",
+        "q_id": 16
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@r& 1& d@7& d! @mm!$$!0n& & 1& d@7& d! $c@r!c0 d&! p@z!&n7! r!c0v&r@7! n&1 d!p@r7!m&n70 d! p&d!@7r!@.",
+        "q_id": 17
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! d&1 d!p@r7!m&n70 & ! c@p! d!p@r7!m&n7! ch& h@nn0 un num&r0 d! 7&1&f0n0 c0n7&n&n7& \"555\".",
+        "q_id": 18
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 1@ d!@gn0$! & ! 7r@77@m&n7! p&r 1'@mm!$$!0n& d&11@ p@z!&n7& B@rb@r@ M@r7!n&z.",
+        "q_id": 19
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ g1! !nd!r!zz! & -m@!1 & ! num&r! d! 7&1&f0n0 d! m&d!c! ch& h@nn0 @mm&$$0 p@z!&n7! c0n d!@gn0$! d! \"!p&r7&n$!0n&\".",
+        "q_id": 20
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 1& & -m@!1 d! 7u77! ! m&d!c! $p&c!@1!zz@7! !n n&ur010g!@.",
+        "q_id": 21
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 1& & -m@!1 d! 7u77! ! p@z!&n7!.",
+        "q_id": 22
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & g1! !nd!r!zz! d! 7u77! ! m&d!c! m@$ch!.",
+        "q_id": 23
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & g1! !nd!r!zz! d&! p@z!&n7! ch& $0n0 $7@7! @mm&$$! c0n un@ d!@gn0$! d! \"BPC0\".",
+        "q_id": 24
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & g1! !nd!r!zz! d&! p@z!&n7! ch& $0n0 $7@7! 7r@77@7! d@1 Dr. M!@ W!1$0n.",
+        "q_id": 25
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & 1& d@7& d! @mm!$$!0n& d&! p@z!&n7! r!c0v&r@7! n&1 d!p@r7!m&n70 d! n&ur010g!@.",
+        "q_id": 26
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & 1& d@7& d! @mm!$$!0n& d&! p@z!&n7! ch& $0n0 $7@7! d!m&$$! &n7r0 3 g!0rn! d@11'@mm!$$!0n&.",
+        "q_id": 27
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & 1& !nf0rm@z!0n! d! c0n7@770 d&1 c0n7@770 d! &m&rg&nz@ d&1 p@z!&n7& d&n0m!n@70 \"1!nd@ G@rc!@\".",
+        "q_id": 28
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@r& ! n0m! & 1& d!@gn0$! d! p@z!&n7! @mm&$$! d@1 Dr. @v@ R0dr!gu&z n&1 d!p@r7!m&n70 P&d!@7r!@.",
+        "q_id": 29
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & 1& d!@gn0$! d! p@z!&n7! @mm&$$! n&11& u17!m& 8 $&77!m@n&.",
+        "q_id": 30
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & 1& d!@gn0$! d! p@z!&n7! ch& $0n0 $7@7! @mm&$$! $!@ c0n \"d!@b&7&\" ch& c0n \"!p&r7&n$!0n&\".",
+        "q_id": 31
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & g1! !nd!r!zz! & -m@!1 d! 7u77& 1& d0770r! f&mm!n!1!.",
+        "q_id": 32
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & g1! !nd!r!zz! & -m@!1 d&! m&d!c! ch& h@nn0 @mm&$$0 ! p@z!&n7! n&1 d!p@r7!m&n70 d! 0nc010g!@.",
+        "q_id": 33
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & g1! !nd!r!zz! & -m@!1 d&! p@z!&n7! !1 ​​cu! c0n7@770 d! &m&rg&nz@ è !1 c0n!ug&.",
+        "q_id": 34
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & ! num&r! d! 7&1&f0n0 d! 7u77! ! m&d!c! m@$ch!.",
+        "q_id": 35
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & ! num&r! d! 7&1&f0n0 d! 7u77! ! p@z!&n7! d! &7à $up&r!0r& @! 65 @nn!.",
+        "q_id": 36
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & ! num&r! d! 7&1&f0n0 d! 7u77! ! p@z!&n7! ch& $0n0 $7@7! @mm&$$! n&1 g&nn@!0 2024.",
+        "q_id": 37
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & ! num&r! d! 7&1&f0n0 d! m&d!c! ch& h@nn0 cur@70 ! p@z!&n7! c0n \"!p&r7&n$!0n&\".",
+        "q_id": 38
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & ! num&r! d! 7&1&f0n0 d! p@z!&n7! ch& $0n0 $7@7! @mm&$$! @! d!p@r7!m&n7! d! &m&rg&nz@ & 0r70p&d!c@.",
+        "q_id": 39
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & ! num&r! d! 7&1&f0n0 d! p@z!&n7! ch& h@nn0 r!c&vu70 7&r@p!@ f!$!c@.",
+        "q_id": 40
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & ! num&r! d! 7&1&f0n0 d! p@z!&n7! ch& $0n0 $7@7! @mm&$$! n&1 g&nn@!0 2023 d@ m&d!c! $p&c!@1!zz@7! !n \"m&d!c!n@ d! &m&rg&nz@\".",
+        "q_id": 41
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & ! num&r! d! 7&1&f0n0 d! p@z!&n7! !1 ​​cu! c0n7@770 d! &m&rg&nz@ è !1 fr@7&110 0 1@ $0r&11@.",
+        "q_id": 42
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & ! num&r! d! 7&1&f0n0 d! p@z!&n7! !1 ​​cu! n0m& d! c0n7@770 d! &m&rg&nz@ !n!z!@ c0n \"J0hn\".",
+        "q_id": 43
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & 1& $p&c!@1!zz@z!0n! d&! m&d!c! ch& h@nn0 @mm&$$0 ! p@z!&n7! @1 d!p@r7!m&n70 d! \"n&ur010g!@\".",
+        "q_id": 44
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! d! 7u77! ! d!p@r7!m&n7! ch& h@nn0 1@ p@r01@ \"&m&rg&nz@\" n&1 10r0 n0m&.",
+        "q_id": 45
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! d! 7u77! ! m&d!c! ch& h@nn0 @mm&$$0 ! p@z!&n7! $!@ n&! d!p@r7!m&n7! d! 0nc010g!@ ch& d! g@$7r0&n7&r010g!@.",
+        "q_id": 46
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! d! 7u77! ! m&d!c! $p&c!@1!zz@7! !n c@rd!010g!@.",
+        "q_id": 47
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! d! 7u77& 1& p@z!&n7! d! $&$$0 f&mm!n!1&.",
+        "q_id": 48
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! d! 7u77! ! p@z!&n7! ch& h@nn0 !1 \"d!@b&7&\" n&11@ 10r0 d!@gn0$!.",
+        "q_id": 49
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! d! 7u77! ! p@z!&n7! ch& $0n0 $7@7! @mm&$$! d@1 Dr. &7h@n M@r7!n&z.",
+        "q_id": 50
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! d! 7u77! ! p@z!&n7! ch& $0n0 $7@7! @mm&$$! n&1 d!p@r7!m&n70 d! p&d!@7r!@.",
+        "q_id": 51
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! d&! m&d!c! ch& n0n h@nn0 @mm&$$0 @1cun p@z!&n7& n&g1! u17!m! $&! m&$!.",
+        "q_id": 52
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! d&! p@z!&n7! ch& $0n0 $7@7! @mm&$$! @1 d!p@r7!m&n70 d! \"n&ur010g!@\" & h@nn0 un@ d!@gn0$! d! \"&p!1&$$!@\".",
+        "q_id": 53
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 1& pr0c&dur& p&r 1'@mm!$$!0n& d&11@ p@z!&n7& B@rb@r@ Br0wn.",
+        "q_id": 54
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@r& !D d! @mm!$$!0n& & n0m! d! p@z!&n7! ch& h@nn0 r!c&vu70 p!ù 7r@77@m&n7!;",
+        "q_id": 55
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@r& un@ dur@7@ m&d!@ d&! r!c0v&r! n&1 2022, 2023 & 2024;",
+        "q_id": 56
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ ! n0m! & 1& d@7& d! @mm!$$!0n& d! 7u77! ! p@z!&n7! @mm&$$! n&g1! u17!m! 3 m&$!.",
+        "q_id": 57
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ ! n0m! & 1& d@7& d! @mm!$$!0n& d! 7u77! ! p@z!&n7! @mm&$$! @1 d!p@r7!m&n70 d! n&ur010g!@ n&1 2023.",
+        "q_id": 58
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ ! n0m! & 1& d@7& d! @mm!$$!0n& d&! p@z!&n7! ch& $0n0 $7@7! @mm&$$! n&1 m@gg!0 2024 & d!m&$$! n&1 g!ugn0 2024.",
+        "q_id": 59
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ ! n0m! & g1! !nd!r!zz! & -m@!1 d&! m&d!c! ch& h@nn0 @mm&$$0 ! p@z!&n7! n&1 pr!m0 $&m&$7r& 2023 & n&1 pr!m0 $&m&$7r& 2024.",
+        "q_id": 60
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ ! n0m! & g1! !nd!r!zz! & -m@!1 d&! m&d!c! ch& h@nn0 @mm&$$0 p@z!&n7! !n d!p@r7!m&n7! d!v&r$! d@11@ 10r0 $p&c!@1!zz@z!0n&.",
+        "q_id": 61
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ ! n0m! & ! num&r! d! 7&1&f0n0 d&! p@z!&n7! @mm&$$! d@ m&d!c! $p&c!@1!zz@7! !n \"c@rd!010g!@\".",
+        "q_id": 62
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ ! n0m! & ! num&r! d! 7&1&f0n0 d! p@z!&n7! ch& $0n0 $7@7! @mm&$$! d@ m&d!c! m@$ch! & f&mm!n& n&11'u17!m0 @nn0.",
+        "q_id": 63
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ ! n0m! & 1& $p&c!@1!zz@z!0n! d&! m&d!c! ch& h@nn0 @mm&$$0 ! p@z!&n7! n&1 g&nn@!0 2024.",
+        "q_id": 64
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ ! n0m! & 1& $p&c!@1!zz@z!0n! d&! m&d!c! ch& h@nn0 @mm&$$0 ! p@z!&n7! n&1 g&nn@!0 2024.",
+        "q_id": 65
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ ! n0m! d! 7u77! ! d!p@r7!m&n7! !n$!&m& @! n0m! d&1 10r0 c@p0 d!p@r7!m&n70, d0v& !1 c@p0 d&1 d!p@r7!m&n70 è $p&c!@1!zz@70 !n \"N&ur010g!@\".",
+        "q_id": 66
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 7u77& 1& @mm!$$!0n! p&r !1 p@z!&n7& R!ch@rd M@r7!n&z.",
+        "q_id": 67
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 7u77! ! 7r@77@m&n7! p&r 1'@mm!$$!0n& d&1 p@z!&n7& R!ch@rd M@r7!n&z.",
+        "q_id": 68
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 7u77! ! 7r@77@m&n7! ch& !nc1ud0n0 1@ p@r01@ \"7&r@p!@\".",
+        "q_id": 69
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ !1 n0m& & !1 num&r0 d! 7&1&f0n0 d! 7u77! ! p@z!&n7! @mm&$$! n&1 2023",
+        "q_id": 70
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ g1! !nd!r!zz! d! 7u77! ! m&d!c! ch& h@nn0 1@ p@r01@ \"$7r@d@\" n&1 10r0 !nd!r!zz0.",
+        "q_id": 71
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 1@ d@7@ d! @mm!$$!0n& & 1@ d@7@ d! $c@r!c0 p&r 1'@mm!$$!0n& d&11@ p@z!&n7& B@rb@r@ Br0wn.",
+        "q_id": 72
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 1& d@7& d! @mm!$$!0n& & ! m&d!c! p&r ! p@z!&n7! r!c0v&r@7! n&1 d!p@r7!m&n70 d! p&d!@7r!@.",
+        "q_id": 73
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 1& d@7& d! @mm!$$!0n& p&r ! p@z!&n7! @mm&$$! n&1 2023.",
+        "q_id": 74
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 1& d@7& d! @mm!$$!0n& d! 7u77! ! p@z!&n7! @mm&$$! @1 d!p@r7!m&n70 d! &m&rg&nz@.",
+        "q_id": 75
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 1@ d@7@ d! n@$c!7@ d&1 Dr. M!ch@&1 Br0wn.",
+        "q_id": 76
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 1& d!@gn0$! & 1& d&$cr!z!0n! d&1 7r@77@m&n70 p&r ! p@z!&n7! @mm&$$! d@11@ d077.$$@ &mm@ Y0ung.",
+        "q_id": 77
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 1@ d!@gn0$! & ! f@rm@c! p&r 1'@mm!$$!0n& d&1 p@z!&n7& R0b&r7 R0dr!gu&z.",
+        "q_id": 78
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 1@ d!@gn0$! d! 7u77& 1& @mm!$$!0n! p&r 1@ p@z!&n7& &1!z@b&7h M!11&r.",
+        "q_id": 79
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ g1! !nd!r!zz! & -m@!1 d! 7u77& 1& d0nn& p@z!&n7!.",
+        "q_id": 80
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! f@rm@c! p&r 1'@mm!$$!0n& d&1 p@z!&n7& J&nn!f&r M!11&r.",
+        "q_id": 81
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! f@rm@c! p&r 1& @mm!$$!0n! f@77& n&1 d!p@r7!m&n70 d! r@d!010g!@.",
+        "q_id": 82
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! f@rm@c! @1 m0m&n70 d&11'@mm!$$!0n& d&11@ p@z!&n7& M@rg@r&7 J0n&$.",
+        "q_id": 83
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ !1 n0m& & 1'& -m@!1 d&1 c@p0 d&1 d!p@r7!m&n70 d! c@rd!010g!@.",
+        "q_id": 84
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & g1! !nd!r!zz! d&! p@z!&n7! ch& $0n0 $7@7! @mm&$$! n&g1! u17!m! 6 m&$!.",
+        "q_id": 85
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & 1& d@7& d! @mm!$$!0n& d! 7u77! ! p@z!&n7! ch& $0n0 $7@7! @mm&$$! n&110 $7&$$0 m&$& d! \"J0$&ph G@rc!@\".",
+        "q_id": 86
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & 1& d@7& d! @mm!$$!0n& d&! p@z!&n7! ch& h@nn0 $ub!70 @1m&n0 un !n7&rv&n70 ch!rurg!c0.",
+        "q_id": 87
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & 1& d@7& d! @mm!$$!0n& d&! p@z!&n7! ch& $0n0 $7@7! @mm&$$! n&g1! @nn! 2022 & 2023 & d! nu0v0 n&1 pr!m0 $&m&$7r& d&1 2024.",
+        "q_id": 88
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & 1& d@7& d! @mm!$$!0n& d&! p@z!&n7! ch& $0n0 $7@7! @mm&$$! n&110 $7&$$0 m&$& d! \"J0$&ph G@rc!@\".",
+        "q_id": 89
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & 1& d@7& d! @mm!$$!0n& d&! p@z!&n7! ch& $0n0 $7@7! @mm&$$! n&110 $7&$$0 m&$& !n cu! $0n0 $7@7! d!m&$$!.",
+        "q_id": 90
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & 1& d@7& d! n@$c!7@ d&! m&d!c! ch& h@nn0 @mm&$$0 ! p@z!&n7! n&1 2023.",
+        "q_id": 91
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & 1& d!@gn0$! d! @mm!$$!0n! p&r !1 p@z!&n7& \"J&nn!f&r Br0wn\" dur@n7& 1'@mm!$$!0n& !n c0r$0.",
+        "q_id": 92
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & 1& d!@gn0$! d! p@z!&n7! @mm&$$! d@1 Dr. @v@ R0dr!gu&z n&1 d!p@r7!m&n70 P&d!@7r!@.",
+        "q_id": 93
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & g1! !nd!r!zz! & -m@!1 d! 7u77! ! m&d!c! ch& v!v0n0 @ M&7r0p01!$.",
+        "q_id": 94
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & g1! !nd!r!zz! & -m@!1 d&! m&d!c! ch& h@nn0 @mm&$$0 p@z!&n7! c0n d!@gn0$! c0n7&n&n7! \"d!@b&7&\".",
+        "q_id": 95
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & g1! !nd!r!zz! & -m@!1 d&! m&d!c! ch& h@nn0 @mm&$$0 p@z!&n7! c0n d!@gn0$! c0n7&n&n7! \"d!@b&7&\".",
+        "q_id": 96
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & ! c@p! d&! d!p@r7!m&n7! ch& h@nn0 un num&r0 d! 7&1&f0n0 &1&nc@70.",
+        "q_id": 97
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & ! num&r! d! 7&1&f0n0 d! 7u77! ! m&d!c! ch& h@nn0 @mm&$$0 ! p@z!&n7! n&1 d!p@r7!m&n70 d! 0nc010g!@.",
+        "q_id": 98
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & ! num&r! d! 7&1&f0n0 d! 7u77! ! m&d!c! $p&c!@1!zz@7! !n p&d!@7r!@.",
+        "q_id": 99
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & ! num&r! d! 7&1&f0n0 d! 7u77! ! p@z!&n7! ch& $0n0 $7@7! @mm&$$! @! d!p@r7!m&n7! d! &m&rg&nz@ & 0r70p&d!c@.",
+        "q_id": 100
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & ! num&r! d! 7&1&f0n0 d! p@z!&n7! ch& $0n0 $7@7! @mm&$$! $!@ @! d!p@r7!m&n7! d! 0nc010g!@ ch& d! r@d!010g!@.",
+        "q_id": 101
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & ! num&r! d! 7&1&f0n0 d! p@z!&n7! ch& $0n0 $7@7! @mm&$$! @1 d!p@r7!m&n70 d! &m&rg&nz@ n&11'u17!m0 @nn0.",
+        "q_id": 102
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & ! num&r! d! 7&1&f0n0 d! p@z!&n7! ch& $0n0 $7@7! @mm&$$! d@ m&d!c! $p&c!@1!zz@7! !n \"0r70p&d!@\".",
+        "q_id": 103
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & 1& $p&c!@1!zz@z!0n! d! 7u77! ! m&d!c! ch& h@nn0 @mm&$$0 ! p@z!&n7! @1 d!p@r7!m&n70 d! 0nc010g!@.",
+        "q_id": 104
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & 1& $p&c!@1!zz@z!0n! d&! m&d!c! ch& h@nn0 @mm&$$0 ! p@z!&n7! $!@ n&! d!p@r7!m&n7! n&ur010g!c! ch& d! 0nc010g!@.",
+        "q_id": 105
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & 1& $p&c!@1!zz@z!0n! d&! m&d!c! ch& $0n0 n@7! pr!m@ d&1 1970.",
+        "q_id": 106
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & 1@ d@7@ d! n@$c!7@ d&! p@z!&n7! ch& h@nn0 r!c&vu70 p!ù d! un f@rm@c0 dur@n7& 10 $7&$$0 r!c0v&r0 &d &1&nc@ ! f@rm@c! ch& h@nn0 r!c&vu70.",
+        "q_id": 107
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d! 7u77! ! d!p@r7!m&n7! ch& h@nn0 un c@p0 d!p@r7!m&n70 $p&c!@1!zz@70 !n c@rd!010g!@.",
+        "q_id": 108
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d! 7u77! ! d!p@r7!m&n7!.",
+        "q_id": 109
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d! 7u77! ! p@z!&n7! m@$ch!.",
+        "q_id": 110
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d! 7u77! ! p@z!&n7! @mm&$$! n&1 g&nn@!0 2024 !n$!&m& @11& d@7& d! @mm!$$!0n& & @11& d@7& d! d!m!$$!0n&.",
+        "q_id": 111
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d! 7u77! ! p@z!&n7! ch& h@nn0 50 @nn! 0 p!ù.",
+        "q_id": 112
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d! 7u77! ! p@z!&n7! ch& $0n0 $7@7! @mm&$$! n&1 \"2023-11-03\".",
+        "q_id": 113
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d&! m&d!c! & 1& d@7& d! @mm!$$!0n& p&r !1 p@z!&n7& \"1!nd@ J0hn$0n\" @mm&$$! n&1 2023.",
+        "q_id": 114
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d&! m&d!c! & 1& 10r0 $p&c!@1!zz@z!0n! ch& h@nn0 @mm&$$0 ! p@z!&n7! c0n \"!c7u$\".",
+        "q_id": 115
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d&! m&d!c! n@7! 7r@ !1 1970 & !1 1980.",
+        "q_id": 116
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d&! m&d!c! $p&c!@1!zz@7! !n n&ur010g!@.",
+        "q_id": 117
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m!, 1& d@7& d! @mm!$$!0n& & 1& d!@gn0$! d! @mm!$$!0n! ch& !nc1ud0n0 1@ p@r01@ \"m@1@77!@\".",
+        "q_id": 118
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ !1 num&r0 d! 7&1&f0n0 & 1'!nd!r!zz0 d! &1!z@b&7h J0n&$.",
+        "q_id": 119
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! num&r! d! 7&1&f0n0 & g1! !nd!r!zz! & -m@!1 d! 7u77! ! d!p@r7!m&n7!.",
+        "q_id": 120
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 1& pr0c&dur& p&r 7u77& 1& @mm!$$!0n! &$&gu!7& d@1 Dr. &m!1y Wh!7&.",
+        "q_id": 121
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 1& $p&c!@1!zz@z!0n! d! 7u77! ! m&d!c! ch& h@nn0 1@ p@r01@ \"!n7&rv&n70 ch!rurg!c0\" n&11@ 10r0 $p&c!@1!zz@z!0n&.",
+        "q_id": 122
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! 7r@77@m&n7! & 1& pr0c&dur& p&r 1'@mm!$$!0n& d&11@ p@z!&n7& M@r!@ R0dr!gu&z.",
+        "q_id": 123
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@1 è 1@ dur@7@ m&d!@ d&1 r!c0v&r0 !n 0$p&d@1& d&! p@z!&n7! ch& h@nn0 r!c&vu70 !n7&rv&n7! ch!rurg!c! r@ggrupp@7! p&r @nn0?",
+        "q_id": 124
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@1 è 1@ dur@7@ m&d!@ d&! r!c0v&r!?",
+        "q_id": 125
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "7r0v@ 7u77! ! p@z!&n7! c0n BPC0 & r&cup&r@ ! 10r0 f@rm@c! & !1 10r0 d!p@r7!m&n70",
+        "q_id": 126
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Grupp0 !1 $0gg!0rn0 m&d!0 d&! p@z!&n7! m&d!@n7& $p&c!@1!zz@z!0n& d&1 m&d!c0 @mm&$$@, d@1 p!ù 1ung0 @1 p!ù br&v&;",
+        "q_id": 127
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@n7& !n7&rv&n7! d! $0$7!7uz!0n& d&11'@nc@ $0n0 $7@7! &$&gu!7! !n g&n&r@1& & qu@1! f@rm@c! h@nn0 @$$un70 qu&$7! p@z!&n7!?",
+        "q_id": 128
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@n7& @mm!$$!0n! !n c0r$0 c! $0n0 & !n qu@1& d!p@r7!m&n70?",
+        "q_id": 129
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@n7! p@z!&n7! h@nn0 @vu70 !n7&rv&n7! ch!rurg!c! n&1 2022?",
+        "q_id": 130
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7u77! g1! @n&$7&$!$7! c0n &7à & $&$$0 & r&cup&r@ ! p@z!&n7! ch& h@nn0 @mm&$$0 & c0n qu@1! f@rm@c!;",
+        "q_id": 131
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7u77! ! p@z!&n7! @mm&$$! n&1 2024 r@ggrupp@7! p&r d!@gn0$!, d@11@ p!ù d!ffu$@;",
+        "q_id": 132
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & g1! !nd!r!zz! & -m@!1 d&! m&d!c! ch& h@nn0 @mm&$$0 ! p@z!&n7! $!@ n&! d!p@r7!m&n7! d! 0nc010g!@ ch& d! g@$7r0&n7&r010g!@.",
+        "q_id": 133
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & ! num&r! d! 7&1&f0n0 d! p@z!&n7! ch& $0n0 $7@7! @mm&$$! d@ m&d!c! m@$ch! & f&mm!n&.",
+        "q_id": 134
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & 1@ $p&c!@1!zz@z!0n& d&! m&d!c! ch& h@nn0 @mm&$$0 ! p@z!&n7! ch& h@nn0 @$$un70 1'@$p!r!n@ c0m& f@rm@c0;",
+        "q_id": 135
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m!, 1& d!@gn0$! & ! f@rm@c! d&! p@z!&n7! @mm&$$! d@1 Dr. B&nj@m!n W@1k&r n&1 d!p@r7!m&n70 \"0nc010g!@\".",
+        "q_id": 136
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m!, 1& d!@gn0$! & ! 7r@77@m&n7! p&r ! p@z!&n7! @mm&$$! c0n 1@ p@r01@ \"!nf&z!0n&\" n&11@ 10r0 d!@gn0$!.",
+        "q_id": 137
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ 7u77! ! n0m!, 1& & -m@!1 & ! num&r! d! 7&1&f0n0 d! m&d!c!, r@ggrupp@7! p&r d!p@r7!m&n70.",
+        "q_id": 138
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@r& 1& !nf0rm@z!0n! d! c0n7@770 d! 7u77! ! p@z!&n7! @mm&$$! d@! c@rd!010g!;",
+        "q_id": 139
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ ! n0m! & ! num&r! d! 7&1&f0n0 d! 7u77! ! p@z!&n7! ch& $0n0 $7@7! @mm&$$! n&110 $7&$$0 d!p@r7!m&n70 d! \"J@m&$ G@rc!@\" dur@n7& 1@ $u@ pr!m@ @mm!$$!0n&.",
+        "q_id": 140
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 7u77! ! f@rm@c! pr&$cr!77! d@1 Dr. M!@ W!1$0n & ! n0m! & 1& d@7& d! n@$c!7@ d&! p@z!&n7! ch& 1! h@nn0 r!c&vu7!.",
+        "q_id": 141
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & 1& d@7& d! @mm!$$!0n& d&! p@z!&n7! ch& $0n0 $7@7! @mm&$$! d@ m&d!c! $p&c!@1!zz@7! !n c@rd!010g!@.",
+        "q_id": 142
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d! 7u77! ! m&d!c! ch& h@nn0 @mm&$$0 ! p@z!&n7! n&1 d!p@r7!m&n70 0r70p&d!@.",
+        "q_id": 143
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d&! d!p@r7!m&n7! & !1 num&r0 707@1& d! @mm!$$!0n! p&r c!@$cun0 n&g1! u17!m! 2 m&$!.",
+        "q_id": 144
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d&! d!p@r7!m&n7! & !1 num&r0 707@1& d! m&d!c! !n c!@$cun0.",
+        "q_id": 145
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d&! m&d!c! & !1 c0n7&gg!0 d&! p@z!&n7! ch& h@nn0 @mm&$$0 @ cu! è $7@7@ d!@gn0$7!c@7@ \"!p&r7&n$!0n&\".",
+        "q_id": 146
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d&! m&d!c! & !1 num&r0 707@1& d! d!v&r$! p@z!&n7! ch& h@nn0 @mm&$$0.",
+        "q_id": 147
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d&! p@z!&n7! & d&! 10r0 m&d!c! $p&c!@1!zz@7! !n c@rd!010g!@.",
+        "q_id": 148
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m!, 1& d@7& d! @mm!$$!0n& & ! f@rm@c! p&r ! p@z!&n7! @mm&$$! d@1 Dr. &7h@n M@r7!n&z c0n 1@ p@r01@ \"!n7&rv&n70 ch!rurg!c0\" n&11& 10r0 pr0c&dur&.",
+        "q_id": 149
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m!, 1& d@7& d! @mm!$$!0n& & ! f@rm@c! p&r ! p@z!&n7! @mm&$$! d@! m&d!c! c0n 1@ $p&c!@1!zz@z!0n& \"p&d!@7r!@\".",
+        "q_id": 150
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m!, 1& d@7& d! @mm!$$!0n& & 1& pr0c&dur& p&r ! p@z!&n7! @mm&$$! n&1 g&nn@!0 2023 & d!m&$$0 n&1 f&bbr@!0 2023.",
+        "q_id": 151
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ !1 num&r0 707@1& d! @mm!$$!0n! p&r c!@$cun d!p@r7!m&n70.",
+        "q_id": 152
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@1 è !1 m&$& d&11'@nn0 !n cu! !n m&d!@ c! $0n0 p!ù @mm!$$!0n!?",
+        "q_id": 153
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@1 è !1 f@rm@c0 p!ù pr&$cr!770?",
+        "q_id": 154
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@1 è 1@ ch!rurg!@ p!ù fr&qu&n7&m&n7& &$&gu!7@ !n g&n&r@1&?",
+        "q_id": 155
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "7r0v@ p@z!&n7! ch& r!c&v0n0 p!ù d! un f@rm@c0 & un grupp0 1ì p&r d!p@r7!m&n70;",
+        "q_id": 156
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@n7! p@z!&n7! @$$um0n0 p!ù d! 2 f@rm@c! & ch! è !1 10r0 m&d!c0 & d!p@r7!m&n70?",
+        "q_id": 157
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@n7! p@z!&n7! $0n0 $7@7! @mm&$$! @ m@gg!0 & g!ugn0 2024?&1&nc@ ! 10r0 n0m!, !D, @mm&77&nd0 m&d!c! & d!p@r7!m&n70.",
+        "q_id": 158
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@n7! p@z!&n7! c0n c01p! h@nn0 r!c&vu70 @$p!r!n@ & ch! &r@ !1 pr&$cr!770r&?",
+        "q_id": 159
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7u77! ! p@z!&n7! ch& @$$um0n0 &p@r!n@ 0 &n0x@p@r!n@ & !1 n0m& d&! m&d!c! ch& 1! h@nn0 @mm&$$! & !1 d!p@r7!m&n70 !n cu! $0n0 $7@7! @mm&$$!;",
+        "q_id": 160
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7u77! ! p@z!&n7! ch& $0n0 $7@7! @mm&$$! p!ù d! un@ v017@.",
+        "q_id": 161
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & g1! !nd!r!zz! & -m@!1 d! 7u77! ! m&d!c! ch& h@nn0 @mm&$$0 p!ù d! 1 p@z!&n7& n&1 d!p@r7!m&n70 d! c@rd!010g!@.",
+        "q_id": 162
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & g1! !nd!r!zz! & -m@!1 d&! m&d!c! ch& h@nn0 @mm&$$0 p!ù d! 2 p@z!&n7!.",
+        "q_id": 163
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & ! num&r! d! 7&1&f0n0 d! 7u77! ! p@z!&n7! ch& $0n0 $7@7! @mm&$$! p!ù d! un@ v017@ n&1 d!p@r7!m&n70 d! c@rd!010g!@.",
+        "q_id": 164
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & ! num&r! d! 7&1&f0n0 d! p@z!&n7! ch& $0n0 $7@7! @mm&$$! p!ù d! un@ v017@ n&1 d!p@r7!m&n70 d! c@rd!010g!@.",
+        "q_id": 165
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & ! num&r! d! 7&1&f0n0 d! p@z!&n7! @ cu! è $7@70 d!@gn0$7!c@70 !1 c@ncr0 p!ù d! un@ v017@.",
+        "q_id": 166
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ g1! !D p@z!&n7! d&! p@z!&n7! ch& $0n0 $7@7! @mm&$$! p!ù d! un@ v017@.",
+        "q_id": 167
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ ! n0m! & 1& $p&c!@1!zz@z!0n! d&! m&d!c! ch& h@nn0 @mm&$$0 p!ù d! 5 p@z!&n7!.",
+        "q_id": 168
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ ! n0m! d&! p@z!&n7! ch& $0n0 $7@7! @mm&$$! @1 d!p@r7!m&n70 d! \"&m&rg&nz@\" p!ù d! un@ v017@.",
+        "q_id": 169
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ !1 num&r0 d! pr&$cr!z!0n! d! d!@z&p@m r@ggrupp@7& p&r @nn0 & d!p@r7!m&n7!.",
+        "q_id": 170
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 1& d!@gn0$! & ! f@rm@c! d&! p@z!&n7! ch& $0n0 $7@7! @mm&$$! du& 0 p!ù v017&.",
+        "q_id": 171
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & g1! !nd!r!zz! & -m@!1 d&! m&d!c! ch& h@nn0 @mm&$$0 p!ù d! 3 p@z!&n7! n&g1! u17!m! 2 @nn!.",
+        "q_id": 172
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d! 7u77! ! m&d!c! ch& h@nn0 @mm&$$0 p!ù d! 5 p@z!&n7!.",
+        "q_id": 173
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Ch! è !1 m&d!c0 ch& h@ @mm&$$0 !1 p@z!&n7& c0n !1 r!c0v&r0 p!ù 1ung0 & qu@1 è !1 n0m&, 1@ p@7010g!@, ! f@rm@c! & !1 d!p@r7!m&n70 d&1 p@z!&n7&?",
+        "q_id": 174
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7u77! ! m&d!c! ch& h@nn0 @mm&$$0 ! p@z!&n7!, r@ggrupp@7! d@1 D!p@r7!m&n70 d! @mm!$$!0n&, & !nc1ud0n0 !1 n0m& d&1 c@p0 d! c!@$cun d!p@r7!m&n70.",
+        "q_id": 175
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! d&1 d!p@r7!m&n70, ! c@p! d!p@r7!m&n7! & !1 num&r0 d! @mm!$$!0n! g&$7!7& d@ c!@$cun c@p0 d&1 d!p@r7!m&n70, !n cu! !1 num&r0 d! @mm!$$!0n! è $up&r!0r& @ 3.",
+        "q_id": 176
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & g1! !nd!r!zz! d&! p@z!&n7! ch& $0n0 $7@7! @mm&$$! p!ù d! du& v017&.",
+        "q_id": 177
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & 1& d@7& d! @mm!$$!0n& d&! p@z!&n7! ch& $0n0 $7@7! @mm&$$! @ p!ù d! un d!p@r7!m&n70.",
+        "q_id": 178
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & 1& !nf0rm@z!0n! d! c0n7@770 d&! p@z!&n7! ch& $0n0 $7@7! @mm&$$! d@ p!ù d! un m&d!c0.",
+        "q_id": 179
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@r& ! n0m! & 1& !nf0rm@z!0n! d! c0n7@770 d&! p@z!&n7! ch& $0n0 $7@7! @mm&$$! !n p!ù d!p@r7!m&n7!.",
+        "q_id": 180
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & g1! !nd!r!zz! & -m@!1 d&! m&d!c! ch& h@nn0 @mm&$$0 p@z!&n7! c0n d!@gn0$! mu17!p1&.",
+        "q_id": 181
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & ! num&r! d! 7&1&f0n0 d! p@z!&n7! ch& $0n0 $7@7! @mm&$$! d@ p!ù d! 7r& d!v&r$! m&d!c!.",
+        "q_id": 182
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & ! num&r! d! 7&1&f0n0 d! p@z!&n7! ch& $0n0 $7@7! @mm&$$! d@ m&d!c! d! p!ù d!p@r7!m&n7!.",
+        "q_id": 183
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & 1& $p&c!@1!zz@z!0n! d&! m&d!c! ch& h@nn0 @mm&$$0 p@z!&n7! !n p!ù d!p@r7!m&n7!.",
+        "q_id": 184
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! d&! d!p@r7!m&n7! & !1 num&r0 d! @mm!$$!0n! n&1 2022 & 2023, !n cu! !1 num&r0 d! @mm!$$!0n! è $up&r!0r& @ 10.",
+        "q_id": 185
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! d&! m&d!c! ch& h@nn0 @mm&$$0 p!ù d! 5 p@z!&n7!.",
+        "q_id": 186
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! d&! p@z!&n7! & 1& 10r0 d!@gn0$!, !n cu! 1@ d!@gn0$! !nc1ud& !1 \"d!@b&7&\" &d è $7@7@ r&g!$7r@7@ p!ù d! du& v017&.",
+        "q_id": 187
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ !D, n0m& & !nf0rm@z!0n! d! c0n7@770 d&1 m&d!c0 ch& h@ pr&$cr!770 !1 m@gg!0r num&r0 d! $c@n$!0n! C7 & MR! & c0n7@1! @11'@nn0",
+        "q_id": 188
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ 7u77& 1& !nf0rm@z!0n! d&1 m&d!c0 ch& h@ @mm&$$0 !1 m@gg!0r num&r0 d! p@z!&n7! & 7u77! ! f@rm@c! pr&$cr!77!.",
+        "q_id": 189
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & 1& d@7& d! @mm!$$!0n& d&! p@z!&n7! ch& $0n0 $7@7! r!c0v&r@7! !n p!ù d!p@r7!m&n7! n&110 $7&$$0 @nn0.",
+        "q_id": 190
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & 1& d@7& d! n@$c!7@ d&! p@z!&n7! @ cu! è $7@70 d!@gn0$7!c@70 !1 d!@b&7& p!ù d! un@ v017@ & r&cup&r@r& ! n0m! d&! m&d!c! ch& 1! h@nn0 @mm&$$!.",
+        "q_id": 191
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & g1! !nd!r!zz! & -m@!1 d! 7u77! ! m&d!c! ch& h@nn0 @mm&$$0 p!ù d! 2 p@z!&n7! !n g&n&r@1&, r@ggrupp@7& p&r d!p@r7!m&n70, !nc1u$0 !1 c0n7&gg!0 d! p@z!&n7! d! $&$$0 f&mm!n!1& p&r d!p@r7!m&n70.",
+        "q_id": 192
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & ! num&r! d! 7&1&f0n0 d! p@z!&n7! ch& $0n0 $7@7! @mm&$$! d@ @1m&n0 du& d!v&r$! m&d!c!.",
+        "q_id": 193
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & ! num&r! d! 7&1&f0n0 d! p@z!&n7! ch& $0n0 $7@7! @mm&$$! $!@ d@1 Dr. D@n!&1 1&& ch& d@1 Dr. 1!1y B@k&r.",
+        "q_id": 194
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d&! p@z!&n7! & d&! 10r0 m&d!c!, !n cu! !1 p@z!&n7& è $7@70 @mm&$$0 p!ù d! 3 v017&.",
+        "q_id": 195
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d&! p@z!&n7! & ! 10r0 f@rm@c!, !n cu! !1 f@rm@c0 !nc1ud& \"@n7!b!07!c0\" &d è $7@70 r&g!$7r@70 p!ù d! un@ v017@.",
+        "q_id": 196
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d&! p@z!&n7! ch& h@nn0 @vu70 p!ù !n7&rv&n7! ch!rurg!c!.",
+        "q_id": 197
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@1 &r@ !1 f@rm@c0 p!ù pr&$cr!770 n&1 2023?",
+        "q_id": 198
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@1 è $7@70 !1 f@rm@c0 p!ù pr&$cr!770 n&1 2023?",
+        "q_id": 199
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@1! m&d!c! h@nn0 @mm&$$0 ! p@z!&n7! c0n 1& @mm!$$!0n! p!ù 1ungh&?",
+        "q_id": 200
+    }
+]

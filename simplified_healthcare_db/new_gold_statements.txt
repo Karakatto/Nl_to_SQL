@@ -1,0 +1,200 @@
+List all patients.
+List all doctors.
+List all admissions.
+Count the number of female patients.
+Count the patients by sex.
+Compare average hospitalizations in the first and second semester of every year.
+How many mri and ct scans were performed over the years?
+How many vaccinations were administered over the years?
+List all departments along with their head of department's name.
+List all departments that have 'ology' in their name.
+List all male doctors and their addresses.
+List all procedures for admissions done by Dr. Olivia Davis.
+List all procedures that include the word 'Surgery'.
+List all treatments for the patient Linda Garcia.
+List names and contacts of all male doctors.
+List the admission dates and discharge dates of all admissions for patient James Miller.
+List the admission dates and discharge dates of patients admitted to the Pediatrics department.
+List the department names and heads of departments that have a phone number containing '555'.
+List the diagnosis and treatments for the admission of patient Barbara Martinez.
+List the email addresses and phone numbers of doctors who have admitted patients with a diagnosis of 'Hypertension'.
+List the emails of all doctors who specialize in Neurology.
+List the emails of all patients.
+List the names and addresses of all male doctors.
+List the names and addresses of patients who have been admitted with a diagnosis of 'COPD'.
+List the names and addresses of patients who were treated by Dr. Mia Wilson.
+List the names and admission dates of patients admitted to the Neurology department.
+List the names and admission dates of patients who were discharged within 3 days from admission.
+List the names and contact information of emergency contact of patient named 'Linda Garcia'.
+List the names and diagnoses of patients admitted by Dr. Ava Rodriguez in the Pediatrics department.
+List the names and diagnoses of patients admitted in the last 8 week.
+List the names and diagnoses of patients who have been admitted with both 'Diabetes' and 'Hypertension'.
+List the names and email addresses of all female doctors.
+List the names and email addresses of doctors who admitted patients into the oncology department.
+List the names and email addresses of patients whose emergency contact is their wife.
+List the names and phone numbers of all male doctors.
+List the names and phone numbers of all patients older than 65.
+List the names and phone numbers of all patients who were admitted in january 2024.
+List the names and phone numbers of doctors who have treated patients with 'Hypertension'.
+List the names and phone numbers of patients who have been admitted to both the Emergency and Orthopedics departments.
+List the names and phone numbers of patients who have received physical therapy.
+List the names and phone numbers of patients who were admitted in January 2023 by doctors specialized in 'Emergency Medicine'.
+List the names and phone numbers of patients whose emergency contact is their brother or sister.
+List the names and phone numbers of patients whose emergency contact name starts with 'John'.
+List the names and specializations of doctors who admitted patients to the 'Neurology' department.
+List the names of all departments that have the word 'Emergency' in their name.
+List the names of all doctors who have admitted patients in both the Oncology and Gastroenterology departments.
+List the names of all doctors who specialize in Cardiology.
+List the names of all female patients.
+List the names of all patients who have 'Diabetes' in their diagnosis.
+List the names of all patients who have been admitted by Dr. Ethan Martinez.
+List the names of all patients who have been admitted in the Pediatrics department.
+List the names of doctors who have not admitted any patients in the last six months.
+List the names of patients who have been admitted to the 'Neurology' department and have a diagnosis of 'Epilepsy'.
+List the procedures for the admission of patient Barbara Brown.
+Retrieve admission IDs and names of patients who received multiple treatments;
+Retrieve average length of hospitalizations in 2022, 2023 and 2024;
+Retrieve the names and admission dates of all patients admitted in the last 3 months.
+Retrieve the names and admission dates of all patients admitted to the Neurology department in 2023.
+Retrieve the names and admission dates of patients who were admitted in May 2024 and discharged in June 2024.
+Retrieve the names and email addresses of doctors who admitted patients in the first semester 2023 and in the first semester 2024.
+Retrieve the names and email addresses of doctors who have admitted patients in departments other than their specialization.
+Retrieve the names and phone numbers of patients admitted by doctors specializing in 'Cardiology'.
+Retrieve the names and phone numbers of patients who were admitted by both male and female doctors in the last year.
+Retrieve the names and specializations of doctors who have admitted patients in January 2024.
+Retrieve the names and specializations of doctors who have admitted patients in the first semester 2024.
+Retrieve the names of all departments along with the names of their head of department, where the head of department is specialized in 'Neurology'.
+Show all admissions for patient Richard Martinez.
+Show all treatments for the admission of patient Richard Martinez.
+Show all treatments that include the word 'Therapy'.
+Show name and phone number of all patients admitted in 2023
+Show the addresses of all doctors who have the word 'Street' in their address.
+Show the admission date and discharge date for the admission of patient Barbara Brown.
+Show the admission dates and doctors for patients admitted to the Pediatrics department.
+Show the admission dates for patients admitted in 2023.
+Show the admission dates of all patients admitted to the Emergency department.
+Show the date of birth of Dr. Michael Brown.
+Show the diagnoses and treatment descriptions for patients admitted by Dr. Emma Young.
+Show the diagnosis and medications for the admission of patient Robert Rodriguez.
+Show the diagnosis of all admissions for patient Elizabeth Miller.
+Show the email addresses of all female patients.
+Show the medications for the admission of patient Jennifer Miller.
+Show the medications for the admissions done in the Radiology department.
+Show the medications on admission of patient Margaret Jones.
+Show the name and email of the head of the Cardiology department.
+Show the names and addresses of patients who have been admitted in the last 6 months.
+Show the names and admission dates of all patients who were admitted in the same month as 'Joseph Garcia'.
+Show the names and admission dates of patients who have had at least one surgery.
+Show the names and admission dates of patients who were admitted in during the years 2022 and 2023 and again in the first semester of 2024.
+Show the names and admission dates of patients who were admitted in the same month as 'Joseph Garcia'.
+Show the names and admission dates of patients who were admitted in the same month they were discharged.
+Show the names and birth dates of doctors who admitted patients in 2023.
+Show the names and diagnoses of admissions for patient 'Jennifer Brown' during the ongoing admission.
+Show the names and diagnoses of patients admitted by Dr. Ava Rodriguez in the Pediatrics department.
+Show the names and email addresses of all doctors who live in Metropolis.
+Show the names and email addresses of doctors who have admitted patients with diagnoses containing 'Diabetes'.
+Show the names and email addresses of doctors who have admitted patients with diagnoses containing 'Cancer'.
+Show the names and heads of departments that have a phone number listed.
+Show the names and phone numbers of all doctors who have admitted patients in the Oncology department.
+Show the names and phone numbers of all doctors who specialize in Pediatrics.
+Show the names and phone numbers of all patients who have been admitted to both the Emergency and Orthopedics departments.
+Show the names and phone numbers of patients who have been admitted to both the Oncology and Radiology departments.
+Show the names and phone numbers of patients who have been admitted to the Emergency department in the past year.
+Show the names and phone numbers of patients who were admitted by doctors specializing in 'Orthopedics'.
+Show the names and specializations of all doctors who have admitted patients to the Oncology department.
+Show the names and specializations of doctors who have admitted patients in both the Neurology and Oncology departments.
+Show the names and specializations of doctors who were born before 1970.
+Show the names and the date of birth of patients who received more than one medication during the same admission and list the medications they received.
+Show the names of all departments that have a head of department specialized in Cardiology.
+Show the names of all departments.
+Show the names of all male patients.
+Show the names of all patients admitted in January 2024 along with their admission dates and discharge dates.
+Show the names of all patients who are 50 years old or older.
+Show the names of all patients who were admitted on '2023-11-03'.
+Show the names of doctors and admission dates for patient 'Linda Johnson' admitted in 2023.
+Show the names of doctors and their specializations who have admitted patients with 'Stroke'.
+Show the names of doctors born between 1970 and 1980.
+Show the names of doctors who specialize in Neurology.
+Show the names, admission dates, and diagnoses of admissions that include the word 'Disease'.
+Show the phone number and address of Elizabeth Jones.
+Show the phone numbers and email addresses of all departments.
+Show the procedures for all admissions done by Dr. Emily White.
+Show the specializations of all doctors who have the word 'Surgery' in their specialization.
+Show the treatments and procedures for the admission of patient Maria Rodriguez.
+What is the average hospitalization length of patients who received surgeries grouped by year?
+What is the average length of hospitalizations?
+Find all the patients with COPD and retrieve their medication and department
+Group the average stay of patients by specialization of the admitting doctor, from longest to shortest;
+How many Hip Replacement Surgery were performed overall and which medications did these patients take?
+How many ongoing admissions are there and in which department?
+How many patients had surgeries in 2022?
+List all anesthesists with age and gender and retrieve the patients they admitted and with what medications;
+List all patients admitted in 2024 grouped by diagnosis, from the most prevalent to the least;
+List the names and email addresses of doctors who have admitted patients in both the Oncology and Gastroenterology departments.
+List the names and phone numbers of patients who were admitted by both male and female doctors.
+List the names and specialization of doctors who admitted patients taking aspirin as medication;
+List the names, diagnoses, and medications of patients admitted by Dr. Benjamin Walker in the 'Oncology' department.
+List the names, diagnoses, and treatments for patients admitted with the word 'Infection' in their diagnosis.
+Retrieve all names, emails and phone numbers of doctors, grouped by department.
+Retrieve contact information of all patients admitted by cardiologists;
+Retrieve the names and phone numbers of all patients who were admitted in the same department as 'James Garcia' during her first admission.
+Show all medications prescribed by Dr. Mia Wilson and the names and dates of birth of the patients who received them.
+Show the names and admission dates of patients who have been admitted by doctors specializing in Cardiology.
+Show the names of all doctors who have admitted patients in the Orthopedics department.
+Show the names of departments and the total number of admissions for each in the last 2 months.
+Show the names of departments and the total number of doctors in each.
+Show the names of doctors and the count of patients they have admitted who have been diagnosed with 'Hypertension'.
+Show the names of doctors and the total number of different patients they have admitted.
+Show the names of patients and their doctors who specialize in Cardiology.
+Show the names, admission dates, and medications for patients admitted by Dr. Ethan Martinez with the word 'Surgery' in their procedures.
+Show the names, admission dates, and medications for patients admitted by doctors with the specialization 'Pediatrics'.
+Show the names, admission dates, and procedures for patients admitted in January 2023 and discharged in February 2023.
+Show the total number of admissions for each department.
+What is the month of the year in which on average there are more admissions?
+What is the most prescribed medication?
+Which is the most frequently performed surgery overall?
+Find patients that receive more than one medication and group there by department;
+How many patients take more than 2 medications and who is their doctor and department?
+How many patients were admitted in May and June 2024? List their names, IDs, admitting doctors and department.
+How many patients with strokes received aspirin and who was the prescriber?
+List all patients taking heparin or enoxaparin and the name of the doctors that admitted them and the department they were admitted into;
+List all patients who have been admitted more than once.
+List the names and email addresses of all doctors who have admitted more than 1 patient in the Cardiology department.
+List the names and email addresses of doctors who have admitted more than 2 patients.
+List the names and phone numbers of all patients who have been admitted more than once in the Cardiology department.
+List the names and phone numbers of patients who have been admitted more than once in the Cardiology department.
+List the names and phone numbers of patients who have been diagnosed with cancer more than once.
+List the patient IDs of patients who have been admitted more than once.
+Retrieve the names and specializations of doctors who have admitted more than 5 patients.
+Retrieve the names of patients who have been admitted to the 'Emergency' department more than once.
+Retrieve the number of diazepam prescriptions grouped by year and departments.
+Show the diagnoses and medications of patients who have been admitted two or more times.
+Show the names and email addresses of doctors who have admitted more than 3 patients in the last 2 years.
+Show the names of all doctors who have admitted more than 5 patients.
+Who is the doctor who admitted the patient with the longest hospitalization and what is the name, pathology, medication and department of the patient?
+List all doctors who have admitted patients, grouped by the department of admission, and include the name of the head of each department.
+List the department names, heads of departments, and the number of admissions handled by each head of department, where the number of admissions is more than 3.
+List the names and addresses of patients who have been admitted more than twice.
+List the names and admission dates of patients who have been admitted to more than one department.
+List the names and contact information of patients who have been admitted by more than one doctor.
+List the names and contact information of patients who have been admitted to multiple departments.
+List the names and email addresses of doctors who have admitted patients with multiple diagnoses.
+List the names and phone numbers of patients who have been admitted by more than three different doctors.
+List the names and phone numbers of patients who were admitted by doctors from multiple departments.
+List the names and specializations of doctors who have admitted patients in multiple departments.
+List the names of departments and the number of admissions in 2022 and 2023, where the number of admissions is more than 10.
+List the names of doctors who have admitted more than 5 patients.
+List the names of patients and their diagnoses, where the diagnosis includes 'Diabetes' and has been recorded more than twice.
+Retrieve ID, name and contact information of the doctor who prescribed the highest number of CT scans and MRI and count them per year
+Retrieve all the information of the doctor who admitted the most patients and all the medications prescribed.
+Show the names and admission dates of patients who have been admitted to multiple departments within the same year.
+Show the names and dates of birth of patients who have been diagnosed with diabetes more than once and retrieve the names of the doctors who admitted them.
+Show the names and email addresses of all doctors who have admitted more than 2 female patients overall, grouped by department, including the count of female patients per department.
+Show the names and phone numbers of patients who have been admitted by at least two different doctors.
+Show the names and phone numbers of patients who have been admitted by both Dr. Daniel Lee and Dr. Lily Baker.
+Show the names of patients and their doctors, where the patient has been admitted more than 3 times.
+Show the names of patients and their medications, where the medication includes 'Antibiotic' and has been recorded more than once.
+Show the names of patients who have had multiple surgeries.
+What was the most prescribed drug in 2023?
+What was the most prescribed medication in 2023?
+Which doctors admitted the patients with the longest admissions?

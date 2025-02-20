@@ -1,0 +1,1002 @@
+[
+    {
+        "db_id": "healthcare_simplified",
+        "question": "list alL patients.",
+        "q_id": 1
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List aLl DoctORs.",
+        "q_id": 2
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LIsT all adMisSions.",
+        "q_id": 3
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "CouNt The Number Of FeMAle patientS.",
+        "q_id": 4
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "CoUNt tHe pAtiEnts by sex.",
+        "q_id": 5
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "CompaRE averaGE hoSpitaliZaTionS IN The fiRst aNd secoNd semesteR of EVerY year.",
+        "q_id": 6
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "how Many MRi aND Ct scans Were perfOrmed over thE yeaRs?",
+        "q_id": 7
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How maNy VacciNationS werE aDministered oveR the yEARs?",
+        "q_id": 8
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "list all depaRTmeNTs along with tHeIr heaD Of departmEnt's NAmE.",
+        "q_id": 9
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LiSt all dePartments ThaT haVE 'OlOgy' in theIr NamE.",
+        "q_id": 10
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LiST aLl maLe dOctORs and their addresses.",
+        "q_id": 11
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "lISt all procedUres foR aDmIsSiOns doNe by dr. OliVia Davis.",
+        "q_id": 12
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List all proceDUREs That iNclude thE wORd 'SURgerY'.",
+        "q_id": 13
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List aLL tReatmentS For the patiEnt linDa GArCia.",
+        "q_id": 14
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LiST naMEs anD COntacts of all maLe dOctorS.",
+        "q_id": 15
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List ThE aDmisSION dateS and diSchargE dates of AlL admissions for patIenT JAmEs MiLLeR.",
+        "q_id": 16
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the aDmission daTeS anD dischaRGe dAtes Of paTients AdmitteD To tHe PedIatRiCs deParTMent.",
+        "q_id": 17
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List tHe depaRtmeNT nAmes and heAds oF DePartmENtS tHat have a phOne number conTaINing '555'.",
+        "q_id": 18
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "list tHe diagnosiS And treAtMenTS foR The admisSion of patIent BarbaRa MarTinez.",
+        "q_id": 19
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "list thE emaIl AddresSes aNd phonE numbeRs of dOcToRs WHo haVE Admitted paTientS witH a diaGnosis of 'HypErtenSion'.",
+        "q_id": 20
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List The emaiLS Of alL docTors wHo specIaliZe iN Neurology.",
+        "q_id": 21
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the EMAIlS of all patieNTS.",
+        "q_id": 22
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LiSt THe NamES and aDDresses of all MAle doCtors.",
+        "q_id": 23
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LiST The naMes aNd addresses of paTieNts who Have been ADmitTed wIth A diAgNosis of 'COpd'.",
+        "q_id": 24
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LIst the nAMeS and addreSses Of patients whO wErE treaTEd bY DR. mia WIlson.",
+        "q_id": 25
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the namES And admisSIon dAtEs oF PatIenTs admITted To thE NEuRology departmenT.",
+        "q_id": 26
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LisT the NaMeS And ADmission dateS oF pAtientS Who Were discHargEd wIthin 3 days fROM admIssion.",
+        "q_id": 27
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LIsT thE NamEs and ConTact InformaTIon of eMergencY ContaCt of PAtiEnt named 'LInda GarcIA'.",
+        "q_id": 28
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the namES and DiAgnoSes oF patieNTs admitteD By dr. ava RoDriguez In the PedIatrIcs dEpartmEnt.",
+        "q_id": 29
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LiSt tHe nAMes and diAgNOSes oF pATienTs adMiTted in the lAst 8 weEk.",
+        "q_id": 30
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LiSt ThE nameS anD dIaGNoseS Of patiEnts Who hAVe beEn aDmItteD with bOTh 'diabetes' and 'Hypertension'.",
+        "q_id": 31
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LiSt the NaMes anD eMail AdDResSeS of All feMaLe dOctors.",
+        "q_id": 32
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "lisT tHe nAmEs anD emAil AdDresses of DOctOrs whO admitted patiENtS iNto The onColoGy departMent.",
+        "q_id": 33
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LisT the NAmes And eMaIl AddResseS OF pAtients Whose emeRgencY contacT is Their spOuse.",
+        "q_id": 34
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LiSt tHe NAmEs anD pHoNE numbers of aLl male DoCtors.",
+        "q_id": 35
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LIst tHe names and pHOne numbeRs of all paTienTS older tHaN 65.",
+        "q_id": 36
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LIst The nameS anD PHoNe nUmbErs oF all patiEnts whO weRe AdmiTteD In january 2024.",
+        "q_id": 37
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "lIst the names ANd pHone nuMbers oF doctors who havE treAted pAtients WitH 'HyPeRteNsioN'.",
+        "q_id": 38
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "liSt ThE nAMes aND pHoNe nuMbers of patIents wHo haVe beEn adMitted to boTh the EmErgency ANd OrthOPeDIcs departments.",
+        "q_id": 39
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List thE NaMes and phOne numbErS of pAtients WHO haVe received physicaL tHERapy.",
+        "q_id": 40
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "lISt the Names and phone nuMBerS of patIeNtS wHo wEre admitted in JaNUArY 2023 by doctors SpeciaLIzed in 'EmeRgeNcy Medicine'.",
+        "q_id": 41
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List thE nameS and pHone nUMberS Of paTiEnTs whose emergenCy contaCT Is thEir brother or SistEr.",
+        "q_id": 42
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List THE names and phoNe NUmbeRs oF patients WHose EmerGEncy conTact name staRTS WitH 'John'.",
+        "q_id": 43
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "lIst The NaMes ANd SPeciAlizations of doCtors wHo admitTeD pAtiEntS to the 'neuRoloGy' dEpartment.",
+        "q_id": 44
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LisT the names of all dEPArtments that hAve The WOrd 'emergencY' iN their nAmE.",
+        "q_id": 45
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LisT the NAMes of all doCTOrS whO have adMitted pATientS in both ThE ONcolOgy and GastroenterOlogY deParTmenTs.",
+        "q_id": 46
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LIst The names of aLl doctorS wHo SpeciaLiZe In CardioLoGY.",
+        "q_id": 47
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LIst thE NamES of all female PaTieNts.",
+        "q_id": 48
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the names Of aLl PAtiEnts who hAve 'DIabetes' iN theIR diAgnOsIs.",
+        "q_id": 49
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LiSt The NAmEs of all paTienTs who HaVE been AdmitteD by DR. EtHAn MartiNEz.",
+        "q_id": 50
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the nAmEs oF all patienTs who HavE beeN admITteD In ThE Pediatrics dePartmeNt.",
+        "q_id": 51
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "lisT the Names of doctors WhO hAvE not admitteD Any PaTiENts iN the lAst SIX monThS.",
+        "q_id": 52
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LisT the namEs oF patientS wHo HAVe been adMittEd tO the 'neUrology' dEparTmEnt and haVe a dIAgnOsis Of 'EPilepsy'.",
+        "q_id": 53
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "list THe proCedures fOr the AdmiSsIon oF patient BarbArA bRoWn.",
+        "q_id": 54
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Retrieve AdmisSIon IDS aNd names oF patientS whO reCEIved multiPLe treatMenTs;",
+        "q_id": 55
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "RetrIevE averaGe LeNgth of hospitaLizatioNs In 2022, 2023 AnD 2024;",
+        "q_id": 56
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "retrieVE tHe names aNd adMiSsIon dates of all pAtienTs admItTED in tHe lASt 3 moNths.",
+        "q_id": 57
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "retRieve the naMes And admisSioN DaTES of all patIents admitted To ThE NEuRoLoGy dePaRtment iN 2023.",
+        "q_id": 58
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "RetRieve The naMes aNd AdMiSSion daTes of patiEnts whO Were admitteD in May 2024 And dIscharged iN JuNe 2024.",
+        "q_id": 59
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "rETrieve thE Names aNd email ADdResses of dOcTORs Who aDMiTted Patients in the First semesTer 2023 and in The FIrst semeSTEr 2024.",
+        "q_id": 60
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "rEtriEve the namES aNd eMail addresSeS oF dOCtOrS whO havE admitted PATienTs In DePaRtments oTHer tHan theiR speCialization.",
+        "q_id": 61
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ReTriEVe the names aNd phonE NuMbers oF patiENts admIttED by doctorS speCialiZing In 'CArdiologY'.",
+        "q_id": 62
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "retrievE the NaMES And phOne NumBers of pAtieNts who were adMiTtEd By both MAlE and FemAlE doCtOrs iN the Last yeAr.",
+        "q_id": 63
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Retrieve thE nAmes ANd speCiAlizAtIonS oF DOctors Who havE admitTed pAtiEntS in JAnuaRy 2024.",
+        "q_id": 64
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "retrieve The namEs and sPeCiaLizaTioNs oF dOctorS wHo have admitTEd Patients in JanUaRy 2024.",
+        "q_id": 65
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Retrieve tHe naMes of all depARtMeNTS alonG wiTH the nameS of their hEad oF departMEnt, WHere ThE hEad Of departmenT iS speCialIzed in 'NeUROlogy'.",
+        "q_id": 66
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show ALl admissiOns fOr Patient RicHard MArtInez.",
+        "q_id": 67
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "shOw ALl treatmEnts fOR the aDmission Of paTient RichArd MartiNEz.",
+        "q_id": 68
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show all tReatMEnTs thAt incluDe thE Word 'tHeRapY'.",
+        "q_id": 69
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show name and phone NumBer of all paTIents ADMitted in 2023",
+        "q_id": 70
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show tHE aDdrEsses oF all doCtors WHo hAvE the wOrd 'StREEt' In tHeiR adDress.",
+        "q_id": 71
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ShOW tHe adMiSSion dAte aND discHaRGe dAte for the adMission oF patient barbara BrOWN.",
+        "q_id": 72
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show The admissioN DAtEs anD dOcTOrs fOr PaTients adMitted To The PediatRIcs dEpaRTMenT.",
+        "q_id": 73
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHoW the admiSSion Dates For PaTIents admitTeD in 2023.",
+        "q_id": 74
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHow the aDmissiOn Dates of all pAtiEnts admitteD to tHe emErgenCy DeparTmenT.",
+        "q_id": 75
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "sHOw tHe datE oF birth of dr. michael BroWn.",
+        "q_id": 76
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ShOW the diagnoses and treatment dEScriPTiOns fOR patieNTs admiTTeD By Dr. emma YouNg.",
+        "q_id": 77
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHow The DiagNosIs And mEdicATions foR the adMission of pAtient roBert RodriGUEz.",
+        "q_id": 78
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ShOw tHe diagnOsIs Of all aDmissions for paTient ElizabETH milLeR.",
+        "q_id": 79
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHow THe EMail addRESses of aLl Female patients.",
+        "q_id": 80
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the medicaTIOnS for thE aDmIsSioN Of paTient JeNniFeR Miller.",
+        "q_id": 81
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show The MEdIcaTIoNs for thE aDmissions done in thE rAdioLogy departmeNT.",
+        "q_id": 82
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHow thE MEdIcatIons oN admiSSion oF paTient MargARet jones.",
+        "q_id": 83
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "shoW the Name aNd Email Of the head of THe CaRdiOlogy deparTmeNt.",
+        "q_id": 84
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the nAmEs and AddrEssEs of patIEnTs who hAvE been admitted In thE Last 6 MoNths.",
+        "q_id": 85
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHow the Names And admisSIon dates of all patIeNts whO wEre aDmitted IN the Same montH as 'JOsEPH garCiA'.",
+        "q_id": 86
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ShoW the NamES And admiSsion dAtEs of paTIEntS whO have had aT leAst one sUrgeRY.",
+        "q_id": 87
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ShOw the NameS anD AdMission DAtEs of patients whO were admItTEd in during thE YEaRs 2022 And 2023 and AGain in tHe FirSt semestEr Of 2024.",
+        "q_id": 88
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the names AnD adMissioN datEs OF patiENts wHO were ADmiTTed iN thE saMe MonTh as 'JOseph GarcIa'.",
+        "q_id": 89
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ShOw the names aNd adMisSion DaTes oF patiENtS wHO WerE aDmiTted iN tHe Same montH tHEy Were dIsCharged.",
+        "q_id": 90
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ShoW the namEs aNd BirTH dates oF doctors WhO Admitted PatienTs iN 2023.",
+        "q_id": 91
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ShoW The NaMes anD DiAgnoses oF Admissions fOR patient 'JenniFer BrOwn' duriNg ThE ongoiNg adMiSSion.",
+        "q_id": 92
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHOw the names and diagnosEs of paTieNtS admitted By Dr. AVa rODRiGuEz in the PeDiatRics DEpARtment.",
+        "q_id": 93
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ShoW thE NamES AnD eMail addresses of aLl dOctOrs who LIve in METRopolis.",
+        "q_id": 94
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ShOw THe nameS and emaiL addReSSes of Doctors who have AdmittED patiEnts wIth diAgnOsEs ContAinIng 'DiAbetes'.",
+        "q_id": 95
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the namEs and emaIl addrEssEs of doctoRS Who havE AdMittEd PaTiEntS wiTh dIaGNOses contaIninG 'DiAbetes'.",
+        "q_id": 96
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the naMes and hEadS of dEPaRTmenTS that haVe a phone number lIstED.",
+        "q_id": 97
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHoW the NaMes anD pHone NuMbers oF all doCtors Who HAvE admItteD paTiEnts In the Oncology dePartMent.",
+        "q_id": 98
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ShOw The NaMes And phONe nUmbeRs of all doCtors wHo speCialiZe in PedIAtrics.",
+        "q_id": 99
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ShOw The naMeS And phOnE NumbErs of alL patientS who Have beEn admitTed to boTh tHe Emergency aNd ORthoPedicS DEpaRtmEnts.",
+        "q_id": 100
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show ThE Names and PHOne numbers of paTients who haVe BEeN aDmitTed To Both thE OncOloGy and rAdioLogy dEpaRtmeNTs.",
+        "q_id": 101
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show thE Names anD phone numberS OF patients wHo have BeEn admiTTed tO thE eMErgency departMent iN the pAst YEAr.",
+        "q_id": 102
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHoW the nAMEs anD pHone numbers of patieNtS whO were admitTeD by Doctors speciAlIzing IN 'oRthopedics'.",
+        "q_id": 103
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHoW the namES ANd SpeciAlIzAtions Of AlL dOctOrs who have admitted patIEntS to the OncoloGy depaRtmENt.",
+        "q_id": 104
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ShoW thE naMeS and sPecIaLizAtions Of doctors who haVE aDMITted PatienTs in bOth tHe Neurology aND oncoloGy depArtmeNts.",
+        "q_id": 105
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show tHe naMeS AnD speciAlIzations of Doctors Who were bOrn BeFore 1970.",
+        "q_id": 106
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHOw The naMes And THe date of biRTH OF patients who reCeived moRe thaN onE MediCatioN durinG the same admission And LiSt thE medIcATioNs tHey receIvED.",
+        "q_id": 107
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHow thE nAmes of all deparTMEnts that Have a Head OF depArtment SpeCiAlIzeD iN CarDiologY.",
+        "q_id": 108
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHoW the names of all depArtmeNtS.",
+        "q_id": 109
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "show THe nameS OF all male pAtiEntS.",
+        "q_id": 110
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "show tHe naMeS of aLl patIeNts aDmittED in JaNuary 2024 alONg With tHeIr admissiOn DaTes and DisChargE dates.",
+        "q_id": 111
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "show The Names Of AlL paTiEnts wHO are 50 yEars old or olDeR.",
+        "q_id": 112
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHow thE namEs oF all paTIenTs who wEre AdmITted on '2023-11-03'.",
+        "q_id": 113
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show The names OF doctorS aNd admissiOn daTEs for pAtIent 'linda joHnSoN' aDmittEd in 2023.",
+        "q_id": 114
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the naMes of doctors AND TheIr specIALiZatioNs Who HAve AdmitTed patIeNtS wiTh 'strOkE'.",
+        "q_id": 115
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the names of doctoRS born bETWEEN 1970 anD 1980.",
+        "q_id": 116
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHow tHe NAmes Of doctors Who spEcialIZe in neuroloGY.",
+        "q_id": 117
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the names, AdmissioN datES, anD diAgnoses of AdmissIONs thAT Include tHE worD 'Disease'.",
+        "q_id": 118
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show The pHONe number and addReSS oF ELIzabetH JonEs.",
+        "q_id": 119
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ShOw The Phone numbers ANd EMail addresses of aLL depaRtmeNTs.",
+        "q_id": 120
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "sHow thE proCeDures for ALl AdMIsSIons donE bY Dr. Emily White.",
+        "q_id": 121
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the spECializatIons Of aLl DoctorS wHo have THE word 'SuRgeRy' in tHeir sPecializAtIOn.",
+        "q_id": 122
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHow tHE treAtments and PROcedures foR tHe AdmissioN of paTienT MaRia RODRIguez.",
+        "q_id": 123
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "WHAt IS The AveragE hospitalizatIoN lENgtH of patientS whO receIvEd surgerieS grouped bY yeAr?",
+        "q_id": 124
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "wHAt is the averaGe lengTH OF hospiTalIZations?",
+        "q_id": 125
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Find aLL thE pAtienTS with COPD and rEtriEVe Their medIcation aND dEpArtment",
+        "q_id": 126
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "GrouP THe aVerAGe sTay of PatIEnts By speciAlizatIon oF ThE adMIttIng dOctoR, from lOnGest to sHortEst;",
+        "q_id": 127
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "how many hIp rePlaceMent SUrgery Were pERformEd overall and wHICh MEdicAtiOnS did theSe patients take?",
+        "q_id": 128
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "how many ongoIng admIssioNs are theRe anD iN which DepArTMenT?",
+        "q_id": 129
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How ManY paTientS haD suRgeries IN 2022?",
+        "q_id": 130
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "list All anEsthEsisTs wiTh aGe and genDEr and rEtrieve tHe PatiEntS They Admitted ANd wIth whaT meDicatIONs;",
+        "q_id": 131
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List all paTientS admitTed In 2024 gRouped By dIagNOSIS, from tHE most prevalEnt to The lEast;",
+        "q_id": 132
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List The NaMEs and email adDResses of DOCtorS who have admitted pAtients In both tHE ONCology aNd GasTroENTerolOGy departments.",
+        "q_id": 133
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LISt thE NamES And pHonE numberS Of patients who wEre adMitteD by both mAle anD femalE Doctors.",
+        "q_id": 134
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List tHe naMes and SPECiaLizAtion of dOCtOrs who adMitteD pATientS tAkinG Aspirin as meDiCatioN;",
+        "q_id": 135
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "lisT thE nAmes, DiagnoSEs, anD medicAtiOns of PAtients aDMittEd by DR. Benjamin WalkeR in tHE 'OncolOGy' dePArtment.",
+        "q_id": 136
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LiSt the NAmes, DiAgnoSEs, and treatmenTS foR pATiENtS aDmiTTed wiTh the word 'InfecTiOn' iN theiR diagnosIs.",
+        "q_id": 137
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "RetRieVe all Names, eMails anD phone nUmbers of docTOrs, grOupED By dePaRTment.",
+        "q_id": 138
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Retrieve cONtaCT Information of alL PaTieNTs Admitted by CaRdioLOgistS;",
+        "q_id": 139
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "RetrIeVe the names and phoNe numbers oF All patieNts Who weRe ADmItteD In the Same depArtment as 'james gARcia' duriNG her fiRST aDmiSsioN.",
+        "q_id": 140
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ShoW alL medicatioNs presCribED by DR. mIa Wilson And The nAmes And DateS of birTH of ThE patIents who receiVeD TheM.",
+        "q_id": 141
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "show THe names and AdmIssioN dAtEs oF patIents who Have BEen admiTted by docTorS SpecialIzInG in carDiolOgy.",
+        "q_id": 142
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHow the names Of AlL dOctors who HavE admITted paTIents iN the OrTHopedIcs DepARTment.",
+        "q_id": 143
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHOw The namEs of depaRtmenTS and the toTal numBeR Of admissions fOr eaCh in thE lAst 2 Months.",
+        "q_id": 144
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "shoW tHe nameS of deparTmenTs and The toTal NuMber of dOctorS in each.",
+        "q_id": 145
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show tHe naMes Of doctOrS aND the coUnT oF PatieNts they have AdmItted wHo hAVe been diAgnOsed with 'hyPertEnsiOn'.",
+        "q_id": 146
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show The NaMEs of docTors aND ThE total NumbeR OF different pAtIents theY hAve admItted.",
+        "q_id": 147
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "show the NAmES Of patienTs and their doctoRs who specialIze iN CARdiOLoGy.",
+        "q_id": 148
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHOw thE nAmes, admissiOn dateS, anD mEdiCations For patients aDmitteD bY DR. EthaN mArtinez witH THe woRd 'SurGeRy' in ThEir proCeduRes.",
+        "q_id": 149
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHOw thE names, AdmiSsion datEs, AnD meDiCAtiOns for patieNtS adMittEd bY DOcTorS with the specIAlizaTIon 'PEdIatrics'.",
+        "q_id": 150
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the nAmes, admiSsion dAtes, and pRoCedURes foR PAtIeNts AdmittEd in JaNuary 2023 ANd discHArgEd in febrUary 2023.",
+        "q_id": 151
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHow the totAl numbEr Of AdmiSsIons fOr eaCH departmeNt.",
+        "q_id": 152
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What iS the MontH of tHe year in whicH On avEraGe There aRe more admIssiOns?",
+        "q_id": 153
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "WhAt Is thE most pRescrIbeD medICation?",
+        "q_id": 154
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "which is thE most frequently PeRfORmED suRgerY ovErAll?",
+        "q_id": 155
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "find paTieNtS that recEiVE mOrE than one MeDicatiON And grOup tHere by dePartment;",
+        "q_id": 156
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "how many patieNts taKe moRe tHan 2 medicatiOns And wHo is tHEIr dOCTor aNd dePartMEnt?",
+        "q_id": 157
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many patients weRe AdmiTted iN mAy aND June 2024? LiST their naMes, iDs, aDMiTtinG doctOrs anD dEpartMent.",
+        "q_id": 158
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "HOw maNy PatienTs wiTh Strokes ReceIved aspIrin aNd Who wAS the PrEscriBeR?",
+        "q_id": 159
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List alL pAtIentS taKinG heParin or eNoxaPARIn and the name oF tHe doCtOrs that admItted them and THE dEpartmenT tHeY weRe adMitTed Into;",
+        "q_id": 160
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LisT alL paTIenTs wHo have been adMITted moRe thaN oNcE.",
+        "q_id": 161
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "lIst thE Names and EMAIl Addresses of all doctOrs who Have admiTtED more ThaN 1 PaTieNt in ThE CarDiology departmeNt.",
+        "q_id": 162
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LIsT tHe naMeS and emAiL addreSseS Of dOctORs Who Have aDmitted moRe than 2 patIents.",
+        "q_id": 163
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the Names and PhoNe numbERs of all pAtieNts wHo have been admIttEd more tHAN ONce In the CARdIoLoGY DePartment.",
+        "q_id": 164
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the NAmeS aND phone nUmbers of paTienTs Who havE BeEn admItted moRe tHaN oNce IN thE CaRdioLoGy Department.",
+        "q_id": 165
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LisT ThE names and phoNE numbers of pAtIENts who Have beeN diagnoseD with cancER More ThAn oncE.",
+        "q_id": 166
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "list tHE patient IDs of paTIents who havE bEen AdMitted moRe thaN oncE.",
+        "q_id": 167
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "RetrIeve the NamEs ANd specIalizaTIOns of dOcTorS whO hAve aDmItTed more than 5 patiEntS.",
+        "q_id": 168
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ReTrieve the nameS oF PatientS wHo have bEen aDmITted to the 'EMergencY' dEpARtment more thAn oNcE.",
+        "q_id": 169
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ReTrievE thE nUmber oF diazePAm prEscripTioNs grouped By yEar anD depArTmenTs.",
+        "q_id": 170
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHoW THE DIagNOSes ANd mediCations of patIEnts Who HavE beEn Admitted two or more times.",
+        "q_id": 171
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "sHow thE naMes AnD eMail addReSsEs Of doctoRs whO hAve admItted more than 3 patIEntS in thE last 2 yEaRs.",
+        "q_id": 172
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show ThE naMeS oF aLl Doctors wHo HaVe admitTed more than 5 pATienTS.",
+        "q_id": 173
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "WHO iS the doCToR whO admiTted the paTient with the lonGest hoSpiTaLizAtIon anD wHat IS the namE, PathOlogy, medication aNd DepartmeNT Of the paTiEnt?",
+        "q_id": 174
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List ALL dOcTorS who have aDmiTted PAtientS, Grouped by tHE departMeNt Of adMissIoN, ANd incLudE the namE oF the heaD of eAch dEpArtMEnt.",
+        "q_id": 175
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "lIsT the dePartmenT nameS, HeADs Of depArTments, anD tHe nuMber of adMIssIoNs hAndled By EacH heAd oF DepArtment, where the numBEr of admissioNs Is mOre Than 3.",
+        "q_id": 176
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "liSt the NameS AnD addreSSes of PaTiEnTS who have been aDmiTtEd morE than tWiCe.",
+        "q_id": 177
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List The nameS and admission dAtEs Of patieNtS WHo hAVe beEn aDmITted to More than One deparTmEnt.",
+        "q_id": 178
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LIST THe nAmes and ConTact informaTiOn oF PatIents who Have been aDmitted by moRe tHan one Doctor.",
+        "q_id": 179
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LIst the Names ANd COnTact inforMation of paTiEnTs who havE beEn admittEd To MulTipLe dePartmentS.",
+        "q_id": 180
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LiST thE names AnD eMaIl adDresSes of doctOrs wHo haVE aDmITted patients wIth mULtipLe diagnoses.",
+        "q_id": 181
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LIst THE nameS anD PhonE nUmbers of patiEnts who haVe BEen admItted BY moRe tHan thRee different doCTORs.",
+        "q_id": 182
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LisT thE naMES and pHonE Numbers of PAtients who wEre admitTed By doCtOrS from multiple dEpArtmEnts.",
+        "q_id": 183
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the names and spEciAlizatIons oF doctORs who have ADmItTed PAtients IN MultIple dePartmEnTs.",
+        "q_id": 184
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List tHe nAmes of DepartmEnTs AnD the nUMbER OF Admissions in 2022 anD 2023, where tHe numbER of Admissions iS moRE thAN 10.",
+        "q_id": 185
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "liSt the NamES Of doctors Who have ADmitted MoRe thAn 5 paTients.",
+        "q_id": 186
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "LisT the namEs oF patientS anD tHeir diagnoseS, wherE thE diaGnosIs inClUdes 'DiaBetES' anD Has been REcOrded moRe tHAn twice.",
+        "q_id": 187
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ReTrieve ID, nAmE and cOntAcT Information of thE doCtOr wHo preScriBed the HIghEsT nUmbeR of Ct scans And mRI and coUnt tHem pEr yEaR",
+        "q_id": 188
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "RETriEve aLl thE iNforMatIon Of The doctoR whO AdMitTed the most pATIents anD aLl tHe MeDIcAtions prescribed.",
+        "q_id": 189
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHow tHE Names aNd admiSSion dates oF patieNts Who havE BEen aDMiTtED to mUlTiple depaRtments WIthIn the saMe yeAr.",
+        "q_id": 190
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the namEs and daTes of bIrtH Of pAtiEnts whO hAve been diaGnoSEd wITh diabetes mOre tHan once and retrIeVe tHE namES Of thE doctors Who admiTTed TheM.",
+        "q_id": 191
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "sHow the names and eMail aDDResseS oF all doCtORS Who haVe admitted mOre tHaN 2 femAlE patiENts OvERall, groUpEd by dEpartmenT, includiNg thE coUnt oF feMale Patients Per DepartmenT.",
+        "q_id": 192
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHoW thE naMEs and phonE NumbErs of PaTIEnTs who haVe been aDmiTted By at leaSt tWo dIFferent doctors.",
+        "q_id": 193
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ShOw THe naMes aNd phoNe NUmbeRs of patients Who HAve BEen admItTed by bOth Dr. dANieL Lee and Dr. LIly Baker.",
+        "q_id": 194
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "shOW The namEs of paTIenTS aND thEir docTors, wheRe The patIent has been admitTed mOre ThAn 3 times.",
+        "q_id": 195
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "SHOw thE namES oF patientS anD theiR MedicaTions, wHEre the meDIcation inCludes 'ANtibioTic' and has beeN rEcorDed moRe ThAn OnCe.",
+        "q_id": 196
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the nAmEs Of PAtIentS who hAve haD multiPle sUrgErIes.",
+        "q_id": 197
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "WHat Was thE most prEscrIBEd drug iN 2023?",
+        "q_id": 198
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What Was thE MOsT prescRibed meDication iN 2023?",
+        "q_id": 199
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "whicH doctors admitteD tHe PAtIenTs WIth tHe loNgest AdmissioNs?",
+        "q_id": 200
+    }
+]

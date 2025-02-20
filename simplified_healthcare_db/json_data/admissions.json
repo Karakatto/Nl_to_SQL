@@ -1,0 +1,3812 @@
+[
+    {
+        "AdmissionID": "A0001",
+        "PatientID": "P053",
+        "DoctorID": "DOC004",
+        "DepartmentID": "DEP07",
+        "AdmissionDate": "2023-11-03",
+        "DischargeDate": "2023-11-20",
+        "InitialDiagnosisDescription": "Stroke",
+        "Treatments": [
+            "Bone Density Test",
+            "CT Scan",
+            "MRI Scan",
+            "Radiation Therapy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG017",
+                "SurgeryDescription": "Kidney Surgery",
+                "SurgeryDate": "2024-01-22"
+            }
+        ],
+        "Procedures": [
+            "Kidney Surgery"
+        ],
+        "Medications": [
+            "Clopidogrel",
+            "Aspirin"
+        ],
+        "Diagnosis": "Stroke"
+    },
+    {
+        "AdmissionID": "A0002",
+        "PatientID": "P054",
+        "DoctorID": "DOC014",
+        "DepartmentID": "DEP07",
+        "AdmissionDate": "2023-05-08",
+        "DischargeDate": "2023-05-23",
+        "InitialDiagnosisDescription": "Brain Tumor",
+        "Treatments": [
+            "Physical Therapy",
+            "Colonoscopy",
+            "Wound Care"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG001",
+                "SurgeryDescription": "Coronary Artery Bypass Surgery",
+                "SurgeryDate": "2023-09-10"
+            },
+            {
+                "SurgeryCode": "SG004",
+                "SurgeryDescription": "Hip Replacement Surgery",
+                "SurgeryDate": "2023-08-01"
+            }
+        ],
+        "Procedures": [
+            "Coronary Artery Bypass Surgery",
+            "Hip Replacement Surgery"
+        ],
+        "Medications": [
+            "Hydrocortisone",
+            "Enoxaparin",
+            "Lorazepam"
+        ],
+        "Diagnosis": "Brain Tumor"
+    },
+    {
+        "AdmissionID": "A0003",
+        "PatientID": "P004",
+        "DoctorID": "DOC018",
+        "DepartmentID": "DEP04",
+        "AdmissionDate": "2023-05-06",
+        "DischargeDate": "2023-06-07",
+        "InitialDiagnosisDescription": "Asthma, Obesity",
+        "Treatments": [
+            "Electrocardiogram"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG013",
+                "SurgeryDescription": "Orthopedic Trauma Surgery",
+                "SurgeryDate": "2023-05-08"
+            },
+            {
+                "SurgeryCode": "SG010",
+                "SurgeryDescription": "Closed reduction and fixation",
+                "SurgeryDate": "2023-05-31"
+            },
+            {
+                "SurgeryCode": "SG001",
+                "SurgeryDescription": "Coronary Artery Bypass Surgery",
+                "SurgeryDate": "2023-06-11"
+            }
+        ],
+        "Procedures": [
+            "Orthopedic Trauma Surgery",
+            "Closed reduction and fixation",
+            "Coronary Artery Bypass Surgery"
+        ],
+        "Medications": [
+            "Clopidogrel",
+            "Amlodipine"
+        ],
+        "Diagnosis": "Asthma, Obesity"
+    },
+    {
+        "AdmissionID": "A0004",
+        "PatientID": "P003",
+        "DoctorID": "DOC005",
+        "DepartmentID": "DEP07",
+        "AdmissionDate": "2024-05-09",
+        "DischargeDate": "2024-06-11",
+        "InitialDiagnosisDescription": "Systemic Lupus Erythematosus",
+        "Treatments": [
+            "Surgical Procedure",
+            "Endoscopy",
+            "CT Scan",
+            "Pulmonary Function Test"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG009",
+                "SurgeryDescription": "Gallbladder Removal Surgery",
+                "SurgeryDate": "2024-05-24"
+            },
+            {
+                "SurgeryCode": "SG008",
+                "SurgeryDescription": "Appendectomy",
+                "SurgeryDate": "2024-05-09"
+            },
+            {
+                "SurgeryCode": "SG013",
+                "SurgeryDescription": "Orthopedic Trauma Surgery",
+                "SurgeryDate": "2024-05-13"
+            }
+        ],
+        "Procedures": [
+            "Gallbladder Removal Surgery",
+            "Appendectomy",
+            "Orthopedic Trauma Surgery"
+        ],
+        "Medications": [
+            "Aspirin"
+        ],
+        "Diagnosis": "Systemic Lupus Erythematosus, Diabetes"
+    },
+    {
+        "AdmissionID": "A0005",
+        "PatientID": "P018",
+        "DoctorID": "DOC014",
+        "DepartmentID": "DEP07",
+        "AdmissionDate": "2023-04-02",
+        "DischargeDate": "2023-04-19",
+        "InitialDiagnosisDescription": "Cataracts",
+        "Treatments": [
+            "Dialysis",
+            "Radiation Therapy",
+            "Wound Care",
+            "Surgical Procedure",
+            "Chemotherapy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG020",
+                "SurgeryDescription": "Laparoscopic Cholecystectomy",
+                "SurgeryDate": "2023-07-12"
+            },
+            {
+                "SurgeryCode": "SG001",
+                "SurgeryDescription": "Coronary Artery Bypass Surgery",
+                "SurgeryDate": "2024-04-10"
+            },
+            {
+                "SurgeryCode": "SG016",
+                "SurgeryDescription": "Thyroidectomy",
+                "SurgeryDate": "2023-04-10"
+            }
+        ],
+        "Procedures": [
+            "Laparoscopic Cholecystectomy",
+            "Coronary Artery Bypass Surgery",
+            "Thyroidectomy"
+        ],
+        "Medications": [
+            "Sertraline"
+        ],
+        "Diagnosis": "Cataracts"
+    },
+    {
+        "AdmissionID": "A0006",
+        "PatientID": "P031",
+        "DoctorID": "DOC032",
+        "DepartmentID": "DEP02",
+        "AdmissionDate": "2022-09-28",
+        "DischargeDate": "2022-09-29",
+        "InitialDiagnosisDescription": "Brain Tumor",
+        "Treatments": [
+            "Radiation Therapy",
+            "Surgical Procedure",
+            "Vaccination"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG006",
+                "SurgeryDescription": "Colon Cancer Surgery",
+                "SurgeryDate": "2022-09-29"
+            }
+        ],
+        "Procedures": [
+            "Colon Cancer Surgery"
+        ],
+        "Medications": [
+            "Hydrocortisone",
+            "Atorvastatin",
+            "Albuterol"
+        ],
+        "Diagnosis": "Brain Tumor"
+    },
+    {
+        "AdmissionID": "A0007",
+        "PatientID": "P027",
+        "DoctorID": "DOC026",
+        "DepartmentID": "DEP01",
+        "AdmissionDate": "2022-03-26",
+        "DischargeDate": "2022-04-10",
+        "InitialDiagnosisDescription": "Gastric Ulcer",
+        "Treatments": [
+            "Dialysis"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG014",
+                "SurgeryDescription": "Cyst removal",
+                "SurgeryDate": "2022-11-17"
+            },
+            {
+                "SurgeryCode": "SG016",
+                "SurgeryDescription": "Thyroidectomy",
+                "SurgeryDate": "2022-09-02"
+            }
+        ],
+        "Procedures": [
+            "Cyst removal",
+            "Thyroidectomy"
+        ],
+        "Medications": [
+            "Metoprolol",
+            "Lisinopril"
+        ],
+        "Diagnosis": "Gastric Ulcer"
+    },
+    {
+        "AdmissionID": "A0008",
+        "PatientID": "P025",
+        "DoctorID": "DOC040",
+        "DepartmentID": "DEP02",
+        "AdmissionDate": "2023-07-05",
+        "DischargeDate": "2023-07-27",
+        "InitialDiagnosisDescription": "Dementia",
+        "Treatments": [
+            "X-ray",
+            "Wound Care",
+            "CT Scan",
+            "Ultrasound"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG017",
+                "SurgeryDescription": "Kidney Surgery",
+                "SurgeryDate": "2023-07-21"
+            }
+        ],
+        "Procedures": [
+            "Kidney Surgery"
+        ],
+        "Medications": [
+            "Metoprolol",
+            "Amoxicillin"
+        ],
+        "Diagnosis": "Dementia"
+    },
+    {
+        "AdmissionID": "A0009",
+        "PatientID": "P029",
+        "DoctorID": "DOC004",
+        "DepartmentID": "DEP04",
+        "AdmissionDate": "2022-09-03",
+        "DischargeDate": "2022-09-19",
+        "InitialDiagnosisDescription": "Epilepsy",
+        "Treatments": [
+            "Dialysis",
+            "Allergy Testing"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG007",
+                "SurgeryDescription": "Prostatectomy",
+                "SurgeryDate": "2022-10-19"
+            },
+            {
+                "SurgeryCode": "SG017",
+                "SurgeryDescription": "Kidney Surgery",
+                "SurgeryDate": "2023-09-19"
+            }
+        ],
+        "Procedures": [
+            "Prostatectomy",
+            "Kidney Surgery"
+        ],
+        "Medications": [
+            "Simvastatin",
+            "Aspirin"
+        ],
+        "Diagnosis": "Epilepsy"
+    },
+    {
+        "AdmissionID": "A0010",
+        "PatientID": "P023",
+        "DoctorID": "DOC010",
+        "DepartmentID": "DEP03",
+        "AdmissionDate": "2022-03-13",
+        "DischargeDate": "2022-03-14",
+        "InitialDiagnosisDescription": "Lung Cancer",
+        "Treatments": [
+            "Colonoscopy",
+            "Cardiac Catheterization",
+            "CT Scan",
+            "Pain Management",
+            "Endoscopy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG018",
+                "SurgeryDescription": "Hysterectomy",
+                "SurgeryDate": "2022-03-13"
+            },
+            {
+                "SurgeryCode": "SG002",
+                "SurgeryDescription": "Angioplasty",
+                "SurgeryDate": "2022-03-13"
+            },
+            {
+                "SurgeryCode": "SG003",
+                "SurgeryDescription": "Total Knee Replacement",
+                "SurgeryDate": "2022-03-13"
+            }
+        ],
+        "Procedures": [
+            "Hysterectomy",
+            "Angioplasty",
+            "Total Knee Replacement"
+        ],
+        "Medications": [
+            "Heparin",
+            "Fluoxetine"
+        ],
+        "Diagnosis": "Lung Cancer"
+    },
+    {
+        "AdmissionID": "A0011",
+        "PatientID": "P009",
+        "DoctorID": "DOC036",
+        "DepartmentID": "DEP08",
+        "AdmissionDate": "2023-12-31",
+        "DischargeDate": "2024-01-22",
+        "InitialDiagnosisDescription": "Hyperthyroidism",
+        "Treatments": [
+            "Pulmonary Function Test",
+            "Surgical Procedure",
+            "Endoscopy",
+            "Vaccination"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG009",
+                "SurgeryDescription": "Gallbladder Removal Surgery",
+                "SurgeryDate": "2024-01-14"
+            },
+            {
+                "SurgeryCode": "SG011",
+                "SurgeryDescription": "Liver Surgery",
+                "SurgeryDate": "2024-01-23"
+            },
+            {
+                "SurgeryCode": "SG014",
+                "SurgeryDescription": "Cyst removal",
+                "SurgeryDate": "2024-03-14"
+            }
+        ],
+        "Procedures": [
+            "Gallbladder Removal Surgery",
+            "Liver Surgery",
+            "Cyst removal"
+        ],
+        "Medications": [
+            "Aspirin",
+            "Metoprolol"
+        ],
+        "Diagnosis": "Hyperthyroidism, Diabetes"
+    },
+    {
+        "AdmissionID": "A0012",
+        "PatientID": "P040",
+        "DoctorID": "DOC012",
+        "DepartmentID": "DEP01",
+        "AdmissionDate": "2022-03-05",
+        "DischargeDate": "2022-03-26",
+        "InitialDiagnosisDescription": "Epilepsy",
+        "Treatments": [
+            "Colonoscopy",
+            "Ultrasound",
+            "Physical Therapy",
+            "CT Scan",
+            "Cardiac Catheterization"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG002",
+                "SurgeryDescription": "Angioplasty",
+                "SurgeryDate": "2022-03-22"
+            }
+        ],
+        "Procedures": [
+            "Angioplasty"
+        ],
+        "Medications": [
+            "Atorvastatin",
+            "Tramadol"
+        ],
+        "Diagnosis": "Epilepsy"
+    },
+    {
+        "AdmissionID": "A0013",
+        "PatientID": "P018",
+        "DoctorID": "DOC005",
+        "DepartmentID": "DEP04",
+        "AdmissionDate": "2022-02-15",
+        "DischargeDate": "2022-02-23",
+        "InitialDiagnosisDescription": "Sickle Cell Disease",
+        "Treatments": [
+            "Vaccination",
+            "Pain Management",
+            "Endoscopy",
+            "Ultrasound",
+            "Dialysis"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG002",
+                "SurgeryDescription": "Angioplasty",
+                "SurgeryDate": "2022-03-19"
+            },
+            {
+                "SurgeryCode": "SG019",
+                "SurgeryDescription": "Gastric Bypass Surgery",
+                "SurgeryDate": "2024-02-20"
+            }
+        ],
+        "Procedures": [
+            "Angioplasty",
+            "Gastric Bypass Surgery"
+        ],
+        "Medications": [
+            "Insulin"
+        ],
+        "Diagnosis": "Sickle Cell Disease"
+    },
+    {
+        "AdmissionID": "A0014",
+        "PatientID": "P005",
+        "DoctorID": "DOC033",
+        "DepartmentID": "DEP10",
+        "AdmissionDate": "2022-12-29",
+        "DischargeDate": "2023-02-25",
+        "InitialDiagnosisDescription": "Appendicitis",
+        "Treatments": [
+            "Wound Care",
+            "Blood Transfusion",
+            "Radiation Therapy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG005",
+                "SurgeryDescription": "Herniated disk Surgery",
+                "SurgeryDate": "2023-04-01"
+            },
+            {
+                "SurgeryCode": "SG004",
+                "SurgeryDescription": "Hip Replacement Surgery",
+                "SurgeryDate": "2023-03-30"
+            },
+            {
+                "SurgeryCode": "SG018",
+                "SurgeryDescription": "Hysterectomy",
+                "SurgeryDate": "2023-04-04"
+            }
+        ],
+        "Procedures": [
+            "Herniated disk Surgery",
+            "Hip Replacement Surgery",
+            "Hysterectomy"
+        ],
+        "Medications": [
+            "Ketorolac",
+            "Enoxaparin"
+        ],
+        "Diagnosis": "Appendicitis"
+    },
+    {
+        "AdmissionID": "A0015",
+        "PatientID": "P032",
+        "DoctorID": "DOC007",
+        "DepartmentID": "DEP07",
+        "AdmissionDate": "2022-08-15",
+        "DischargeDate": "2022-08-25",
+        "InitialDiagnosisDescription": "Coronary Artery Disease",
+        "Treatments": [
+            "Blood Transfusion"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG014",
+                "SurgeryDescription": "Cyst removal",
+                "SurgeryDate": "2023-03-09"
+            },
+            {
+                "SurgeryCode": "SG020",
+                "SurgeryDescription": "Laparoscopic Cholecystectomy",
+                "SurgeryDate": "2023-08-27"
+            }
+        ],
+        "Procedures": [
+            "Cyst removal",
+            "Laparoscopic Cholecystectomy"
+        ],
+        "Medications": [
+            "Aspirin"
+        ],
+        "Diagnosis": "Coronary Artery Disease"
+    },
+    {
+        "AdmissionID": "A0016",
+        "PatientID": "P038",
+        "DoctorID": "DOC035",
+        "DepartmentID": "DEP07",
+        "AdmissionDate": "2023-02-26",
+        "DischargeDate": "2023-03-21",
+        "InitialDiagnosisDescription": "Diabetes Mellitus",
+        "Treatments": [
+            "CT Scan",
+            "MRI Scan",
+            "Ultrasound",
+            "Pulmonary Function Test"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG014",
+                "SurgeryDescription": "Cyst removal",
+                "SurgeryDate": "2023-06-28"
+            },
+            {
+                "SurgeryCode": "SG007",
+                "SurgeryDescription": "Prostatectomy",
+                "SurgeryDate": "2023-06-06"
+            },
+            {
+                "SurgeryCode": "SG012",
+                "SurgeryDescription": "Lung Resection Surgery",
+                "SurgeryDate": "2023-08-09"
+            }
+        ],
+        "Procedures": [
+            "Cyst removal",
+            "Prostatectomy",
+            "Lung Resection Surgery"
+        ],
+        "Medications": [
+            "Metformin",
+            "Ciprofloxacin",
+            "Metoprolol"
+        ],
+        "Diagnosis": "Diabetes Mellitus, Hypertension"
+    },
+    {
+        "AdmissionID": "A0017",
+        "PatientID": "P015",
+        "DoctorID": "DOC001",
+        "DepartmentID": "DEP08",
+        "AdmissionDate": "2023-03-06",
+        "DischargeDate": "2023-03-27",
+        "InitialDiagnosisDescription": "Ear Infection",
+        "Treatments": [
+            "Colonoscopy",
+            "Blood Transfusion",
+            "X-ray"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG016",
+                "SurgeryDescription": "Thyroidectomy",
+                "SurgeryDate": "2023-06-17"
+            },
+            {
+                "SurgeryCode": "SG003",
+                "SurgeryDescription": "Total Knee Replacement",
+                "SurgeryDate": "2023-06-23"
+            },
+            {
+                "SurgeryCode": "SG008",
+                "SurgeryDescription": "Appendectomy",
+                "SurgeryDate": "2023-09-20"
+            }
+        ],
+        "Procedures": [
+            "Thyroidectomy",
+            "Total Knee Replacement",
+            "Appendectomy"
+        ],
+        "Medications": [
+            "Metformin",
+            "Tramadol"
+        ],
+        "Diagnosis": "Ear Infection"
+    },
+    {
+        "AdmissionID": "A0018",
+        "PatientID": "P052",
+        "DoctorID": "DOC018",
+        "DepartmentID": "DEP10",
+        "AdmissionDate": "2021-07-23",
+        "DischargeDate": "2021-08-19",
+        "InitialDiagnosisDescription": "Herniated Disc",
+        "Treatments": [
+            "Colonoscopy",
+            "Vaccination"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG004",
+                "SurgeryDescription": "Hip Replacement Surgery",
+                "SurgeryDate": "2022-12-21"
+            },
+            {
+                "SurgeryCode": "SG020",
+                "SurgeryDescription": "Laparoscopic Cholecystectomy",
+                "SurgeryDate": "2023-04-07"
+            },
+            {
+                "SurgeryCode": "SG019",
+                "SurgeryDescription": "Gastric Bypass Surgery",
+                "SurgeryDate": "2024-05-30"
+            }
+        ],
+        "Procedures": [
+            "Hip Replacement Surgery",
+            "Laparoscopic Cholecystectomy",
+            "Gastric Bypass Surgery"
+        ],
+        "Medications": [
+            "Omeprazole",
+            "Lorazepam"
+        ],
+        "Diagnosis": "Herniated Disc"
+    },
+    {
+        "AdmissionID": "A0019",
+        "PatientID": "P036",
+        "DoctorID": "DOC036",
+        "DepartmentID": "DEP10",
+        "AdmissionDate": "2021-11-04",
+        "DischargeDate": "2021-11-16",
+        "InitialDiagnosisDescription": "Ulcerative Colitis",
+        "Treatments": [
+            "CT Scan",
+            "X-ray",
+            "Radiation Therapy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG006",
+                "SurgeryDescription": "Colon Cancer Surgery",
+                "SurgeryDate": "2021-11-27"
+            }
+        ],
+        "Procedures": [
+            "Colon Cancer Surgery"
+        ],
+        "Medications": [
+            "Amlodipine"
+        ],
+        "Diagnosis": "Ulcerative Colitis"
+    },
+    {
+        "AdmissionID": "A0020",
+        "PatientID": "P053",
+        "DoctorID": "DOC024",
+        "DepartmentID": "DEP04",
+        "AdmissionDate": "2024-01-28",
+        "DischargeDate": "2024-02-09",
+        "InitialDiagnosisDescription": "Hypertension",
+        "Treatments": [
+            "Endoscopy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG007",
+                "SurgeryDescription": "Prostatectomy",
+                "SurgeryDate": "2024-04-05"
+            },
+            {
+                "SurgeryCode": "SG003",
+                "SurgeryDescription": "Total Knee Replacement",
+                "SurgeryDate": "2024-02-24"
+            }
+        ],
+        "Procedures": [
+            "Prostatectomy",
+            "Total Knee Replacement"
+        ],
+        "Medications": [
+            "Tramadol",
+            "Bupropion",
+            "Sertraline"
+        ],
+        "Diagnosis": "Hypertension"
+    },
+    {
+        "AdmissionID": "A0021",
+        "PatientID": "P020",
+        "DoctorID": "DOC035",
+        "DepartmentID": "DEP10",
+        "AdmissionDate": "2021-09-28",
+        "DischargeDate": "2021-10-14",
+        "InitialDiagnosisDescription": "Parkinson's Disease",
+        "Treatments": [
+            "Blood Transfusion",
+            "Chemotherapy",
+            "Pulmonary Function Test",
+            "Cardiac Catheterization",
+            "Endoscopy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG012",
+                "SurgeryDescription": "Lung Resection Surgery",
+                "SurgeryDate": "2022-10-28"
+            },
+            {
+                "SurgeryCode": "SG003",
+                "SurgeryDescription": "Total Knee Replacement",
+                "SurgeryDate": "2021-10-16"
+            }
+        ],
+        "Procedures": [
+            "Lung Resection Surgery",
+            "Total Knee Replacement"
+        ],
+        "Medications": [
+            "Tramadol",
+            "Enoxaparin",
+            "Albuterol"
+        ],
+        "Diagnosis": "Parkinson's Disease"
+    },
+    {
+        "AdmissionID": "A0022",
+        "PatientID": "P003",
+        "DoctorID": "DOC003",
+        "DepartmentID": "DEP09",
+        "AdmissionDate": "2023-03-14",
+        "DischargeDate": "2023-03-31",
+        "InitialDiagnosisDescription": "Congestive Heart Failure",
+        "Treatments": [
+            "Chemotherapy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG008",
+                "SurgeryDescription": "Appendectomy",
+                "SurgeryDate": "2023-07-26"
+            }
+        ],
+        "Procedures": [
+            "Appendectomy"
+        ],
+        "Medications": [
+            "Paracetamol",
+            "Fluoxetine"
+        ],
+        "Diagnosis": "Congestive Heart Failure"
+    },
+    {
+        "AdmissionID": "A0023",
+        "PatientID": "P011",
+        "DoctorID": "DOC001",
+        "DepartmentID": "DEP07",
+        "AdmissionDate": "2022-07-25",
+        "DischargeDate": "2022-08-05",
+        "InitialDiagnosisDescription": "Brain Tumor",
+        "Treatments": [
+            "Ultrasound",
+            "Pain Management"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG017",
+                "SurgeryDescription": "Kidney Surgery",
+                "SurgeryDate": "2022-09-27"
+            }
+        ],
+        "Procedures": [
+            "Kidney Surgery"
+        ],
+        "Medications": [
+            "Albuterol"
+        ],
+        "Diagnosis": "Brain Tumor, Diabetes"
+    },
+    {
+        "AdmissionID": "A0024",
+        "PatientID": "P032",
+        "DoctorID": "DOC023",
+        "DepartmentID": "DEP08",
+        "AdmissionDate": "2022-02-28",
+        "DischargeDate": "2022-03-22",
+        "InitialDiagnosisDescription": "Schizophrenia",
+        "Treatments": [
+            "Physical Therapy",
+            "Blood Transfusion",
+            "X-ray"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG019",
+                "SurgeryDescription": "Gastric Bypass Surgery",
+                "SurgeryDate": "2022-12-01"
+            },
+            {
+                "SurgeryCode": "SG003",
+                "SurgeryDescription": "Total Knee Replacement",
+                "SurgeryDate": "2023-03-21"
+            }
+        ],
+        "Procedures": [
+            "Gastric Bypass Surgery",
+            "Total Knee Replacement"
+        ],
+        "Medications": [
+            "Clopidogrel",
+            "Ciprofloxacin",
+            "Amlodipine"
+        ],
+        "Diagnosis": "Schizophrenia"
+    },
+    {
+        "AdmissionID": "A0025",
+        "PatientID": "P004",
+        "DoctorID": "DOC033",
+        "DepartmentID": "DEP02",
+        "AdmissionDate": "2023-01-23",
+        "DischargeDate": "2023-01-31",
+        "InitialDiagnosisDescription": "Crohn's Disease",
+        "Treatments": [
+            "Cardiac Catheterization"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG008",
+                "SurgeryDescription": "Appendectomy",
+                "SurgeryDate": "2023-05-18"
+            },
+            {
+                "SurgeryCode": "SG010",
+                "SurgeryDescription": "Closed reduction and fixation",
+                "SurgeryDate": "2023-04-24"
+            },
+            {
+                "SurgeryCode": "SG020",
+                "SurgeryDescription": "Laparoscopic Cholecystectomy",
+                "SurgeryDate": "2023-06-15"
+            }
+        ],
+        "Procedures": [
+            "Appendectomy",
+            "Closed reduction and fixation",
+            "Laparoscopic Cholecystectomy"
+        ],
+        "Medications": [
+            "Omeprazole"
+        ],
+        "Diagnosis": "Crohn's Disease"
+    },
+    {
+        "AdmissionID": "A0026",
+        "PatientID": "P009",
+        "DoctorID": "DOC006",
+        "DepartmentID": "DEP01",
+        "AdmissionDate": "2022-07-31",
+        "DischargeDate": "2022-08-04",
+        "InitialDiagnosisDescription": "Schizophrenia",
+        "Treatments": [
+            "Electrocardiogram",
+            "Vaccination",
+            "CT Scan",
+            "Colonoscopy",
+            "Bone Density Test"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG019",
+                "SurgeryDescription": "Gastric Bypass Surgery",
+                "SurgeryDate": "2023-03-19"
+            },
+            {
+                "SurgeryCode": "SG020",
+                "SurgeryDescription": "Laparoscopic Cholecystectomy",
+                "SurgeryDate": "2023-03-29"
+            },
+            {
+                "SurgeryCode": "SG011",
+                "SurgeryDescription": "Liver Surgery",
+                "SurgeryDate": "2022-10-14"
+            }
+        ],
+        "Procedures": [
+            "Gastric Bypass Surgery",
+            "Laparoscopic Cholecystectomy",
+            "Liver Surgery"
+        ],
+        "Medications": [
+            "Warfarin",
+            "Aspirin",
+            "Hydrocortisone"
+        ],
+        "Diagnosis": "Schizophrenia, Diabetes"
+    },
+    {
+        "AdmissionID": "A0027",
+        "PatientID": "P046",
+        "DoctorID": "DOC039",
+        "DepartmentID": "DEP05",
+        "AdmissionDate": "2022-08-05",
+        "DischargeDate": "2022-08-29",
+        "InitialDiagnosisDescription": "Epilepsy",
+        "Treatments": [
+            "CT Scan",
+            "Surgical Procedure",
+            "Endoscopy",
+            "MRI Scan"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG007",
+                "SurgeryDescription": "Prostatectomy",
+                "SurgeryDate": "2023-05-13"
+            },
+            {
+                "SurgeryCode": "SG006",
+                "SurgeryDescription": "Colon Cancer Surgery",
+                "SurgeryDate": "2022-08-19"
+            }
+        ],
+        "Procedures": [
+            "Prostatectomy",
+            "Colon Cancer Surgery"
+        ],
+        "Medications": [
+            "Atorvastatin",
+            "Bupropion",
+            "Albuterol",
+            "Diazepam"
+        ],
+        "Diagnosis": "Epilepsy"
+    },
+    {
+        "AdmissionID": "A0028",
+        "PatientID": "P035",
+        "DoctorID": "DOC008",
+        "DepartmentID": "DEP03",
+        "AdmissionDate": "2023-05-11",
+        "DischargeDate": "2023-05-23",
+        "InitialDiagnosisDescription": "Gastric Ulcer",
+        "Treatments": [
+            "Pulmonary Function Test",
+            "Surgical Procedure",
+            "Vaccination",
+            "Blood Transfusion",
+            "X-ray"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG004",
+                "SurgeryDescription": "Hip Replacement Surgery",
+                "SurgeryDate": "2023-08-10"
+            },
+            {
+                "SurgeryCode": "SG008",
+                "SurgeryDescription": "Appendectomy",
+                "SurgeryDate": "2024-01-06"
+            }
+        ],
+        "Procedures": [
+            "Hip Replacement Surgery",
+            "Appendectomy"
+        ],
+        "Medications": [
+            "Heparin",
+            "Vitamin-D"
+        ],
+        "Diagnosis": "Gastric Ulcer"
+    },
+    {
+        "AdmissionID": "A0029",
+        "PatientID": "P009",
+        "DoctorID": "DOC001",
+        "DepartmentID": "DEP09",
+        "AdmissionDate": "2022-04-11",
+        "DischargeDate": "2022-04-24",
+        "InitialDiagnosisDescription": "Obesity",
+        "Treatments": [
+            "Vaccination"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG009",
+                "SurgeryDescription": "Gallbladder Removal Surgery",
+                "SurgeryDate": "2023-10-13"
+            },
+            {
+                "SurgeryCode": "SG015",
+                "SurgeryDescription": "Endoscopic Sinus Surgery",
+                "SurgeryDate": "2023-07-20"
+            }
+        ],
+        "Procedures": [
+            "Gallbladder Removal Surgery",
+            "Endoscopic Sinus Surgery"
+        ],
+        "Medications": [
+            "Atorvastatin"
+        ],
+        "Diagnosis": "Obesity"
+    },
+    {
+        "AdmissionID": "A0030",
+        "PatientID": "P053",
+        "DoctorID": "DOC035",
+        "DepartmentID": "DEP02",
+        "AdmissionDate": "2022-07-11",
+        "DischargeDate": "2022-07-16",
+        "InitialDiagnosisDescription": "Fibromyalgia",
+        "Treatments": [
+            "Pulmonary Function Test",
+            "Physical Therapy",
+            "Vaccination"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG010",
+                "SurgeryDescription": "Closed reduction and fixation",
+                "SurgeryDate": "2022-09-18"
+            }
+        ],
+        "Procedures": [
+            "Closed reduction and fixation"
+        ],
+        "Medications": [
+            "Sertraline",
+            "Lorazepam",
+            "Albuterol"
+        ],
+        "Diagnosis": "Fibromyalgia"
+    },
+    {
+        "AdmissionID": "A0031",
+        "PatientID": "P060",
+        "DoctorID": "DOC005",
+        "DepartmentID": "DEP07",
+        "AdmissionDate": "2023-03-24",
+        "DischargeDate": "2023-05-18",
+        "InitialDiagnosisDescription": "Cerebral Palsy",
+        "Treatments": [
+            "Electrocardiogram",
+            "Chemotherapy",
+            "Dialysis"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG007",
+                "SurgeryDescription": "Prostatectomy",
+                "SurgeryDate": "2023-05-01"
+            }
+        ],
+        "Procedures": [
+            "Prostatectomy"
+        ],
+        "Medications": [
+            "Fluoxetine",
+            "Tramadol",
+            "Amlodipine"
+        ],
+        "Diagnosis": "Cerebral Palsy"
+    },
+    {
+        "AdmissionID": "A0032",
+        "PatientID": "P017",
+        "DoctorID": "DOC008",
+        "DepartmentID": "DEP02",
+        "AdmissionDate": "2023-09-28",
+        "DischargeDate": "2023-10-11",
+        "InitialDiagnosisDescription": "Fractured Femur",
+        "Treatments": [
+            "Physical Therapy",
+            "Surgical Procedure",
+            "Vaccination"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG011",
+                "SurgeryDescription": "Liver Surgery",
+                "SurgeryDate": "2024-01-25"
+            },
+            {
+                "SurgeryCode": "SG008",
+                "SurgeryDescription": "Appendectomy",
+                "SurgeryDate": "2024-03-28"
+            }
+        ],
+        "Procedures": [
+            "Liver Surgery",
+            "Appendectomy"
+        ],
+        "Medications": [
+            "Lorazepam",
+            "Albuterol"
+        ],
+        "Diagnosis": "Fractured Femur"
+    },
+    {
+        "AdmissionID": "A0033",
+        "PatientID": "P034",
+        "DoctorID": "DOC039",
+        "DepartmentID": "DEP04",
+        "AdmissionDate": "2021-08-15",
+        "DischargeDate": "2021-08-29",
+        "InitialDiagnosisDescription": "Crohn's Disease",
+        "Treatments": [
+            "Electrocardiogram",
+            "Allergy Testing",
+            "Blood Transfusion",
+            "Ultrasound",
+            "Surgical Procedure"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG019",
+                "SurgeryDescription": "Gastric Bypass Surgery",
+                "SurgeryDate": "2022-10-15"
+            },
+            {
+                "SurgeryCode": "SG004",
+                "SurgeryDescription": "Hip Replacement Surgery",
+                "SurgeryDate": "2023-03-08"
+            }
+        ],
+        "Procedures": [
+            "Gastric Bypass Surgery",
+            "Hip Replacement Surgery"
+        ],
+        "Medications": [
+            "Paracetamol",
+            "Lorazepam",
+            "Escitalopram"
+        ],
+        "Diagnosis": "Crohn's Disease"
+    },
+    {
+        "AdmissionID": "A0034",
+        "PatientID": "P039",
+        "DoctorID": "DOC020",
+        "DepartmentID": "DEP04",
+        "AdmissionDate": "2023-10-28",
+        "DischargeDate": "2023-10-29",
+        "InitialDiagnosisDescription": "Dementia",
+        "Treatments": [
+            "Dialysis"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG005",
+                "SurgeryDescription": "Herniated disk Surgery",
+                "SurgeryDate": "2024-03-05"
+            },
+            {
+                "SurgeryCode": "SG018",
+                "SurgeryDescription": "Hysterectomy",
+                "SurgeryDate": "2024-05-16"
+            },
+            {
+                "SurgeryCode": "SG009",
+                "SurgeryDescription": "Gallbladder Removal Surgery",
+                "SurgeryDate": "2024-04-21"
+            }
+        ],
+        "Procedures": [
+            "Herniated disk Surgery",
+            "Hysterectomy",
+            "Gallbladder Removal Surgery"
+        ],
+        "Medications": [
+            "Metformin",
+            "Paracetamol",
+            "Amoxicillin"
+        ],
+        "Diagnosis": "Dementia"
+    },
+    {
+        "AdmissionID": "A0035",
+        "PatientID": "P026",
+        "DoctorID": "DOC013",
+        "DepartmentID": "DEP05",
+        "AdmissionDate": "2023-03-22",
+        "DischargeDate": "2023-06-12",
+        "InitialDiagnosisDescription": "Stroke",
+        "Treatments": [
+            "Physical Therapy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG018",
+                "SurgeryDescription": "Hysterectomy",
+                "SurgeryDate": "2023-04-16"
+            },
+            {
+                "SurgeryCode": "SG004",
+                "SurgeryDescription": "Hip Replacement Surgery",
+                "SurgeryDate": "2023-03-29"
+            },
+            {
+                "SurgeryCode": "SG006",
+                "SurgeryDescription": "Colon Cancer Surgery",
+                "SurgeryDate": "2023-04-10"
+            }
+        ],
+        "Procedures": [
+            "Hysterectomy",
+            "Hip Replacement Surgery",
+            "Colon Cancer Surgery"
+        ],
+        "Medications": [
+            "Heparin",
+            "Clopidogrel",
+            "Aspirin",
+            "Diazepam"
+        ],
+        "Diagnosis": "Stroke, Epilepsy"
+    },
+    {
+        "AdmissionID": "A0036",
+        "PatientID": "P009",
+        "DoctorID": "DOC007",
+        "DepartmentID": "DEP05",
+        "AdmissionDate": "2022-12-07",
+        "DischargeDate": "2022-12-10",
+        "InitialDiagnosisDescription": "Gastric Ulcer",
+        "Treatments": [
+            "Pulmonary Function Test",
+            "MRI Scan"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG015",
+                "SurgeryDescription": "Endoscopic Sinus Surgery",
+                "SurgeryDate": "2023-04-19"
+            },
+            {
+                "SurgeryCode": "SG011",
+                "SurgeryDescription": "Liver Surgery",
+                "SurgeryDate": "2023-03-27"
+            },
+            {
+                "SurgeryCode": "SG012",
+                "SurgeryDescription": "Lung Resection Surgery",
+                "SurgeryDate": "2023-07-16"
+            }
+        ],
+        "Procedures": [
+            "Endoscopic Sinus Surgery",
+            "Liver Surgery",
+            "Lung Resection Surgery"
+        ],
+        "Medications": [
+            "Paracetamol"
+        ],
+        "Diagnosis": "Gastric Ulcer, Diabetes"
+    },
+    {
+        "AdmissionID": "A0037",
+        "PatientID": "P020",
+        "DoctorID": "DOC010",
+        "DepartmentID": "DEP02",
+        "AdmissionDate": "2023-01-03",
+        "DischargeDate": "2023-01-19",
+        "InitialDiagnosisDescription": "Herniated Disc",
+        "Treatments": [
+            "Endoscopy",
+            "CT Scan",
+            "Surgical Procedure"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG017",
+                "SurgeryDescription": "Kidney Surgery",
+                "SurgeryDate": "2023-01-29"
+            }
+        ],
+        "Procedures": [
+            "Kidney Surgery"
+        ],
+        "Medications": [
+            "Fluoxetine",
+            "Bupropion",
+            "Aspirin"
+        ],
+        "Diagnosis": "Herniated Disc"
+    },
+    {
+        "AdmissionID": "A0038",
+        "PatientID": "P033",
+        "DoctorID": "DOC018, DOC013",
+        "DepartmentID": "DEP01",
+        "AdmissionDate": "2021-09-23",
+        "DischargeDate": "2021-10-16",
+        "InitialDiagnosisDescription": "Prostate Cancer",
+        "Treatments": [
+            "MRI Scan",
+            "Endoscopy",
+            "Surgical Procedure",
+            "Cardiac Catheterization"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG003",
+                "SurgeryDescription": "Total Knee Replacement",
+                "SurgeryDate": "2022-08-20"
+            },
+            {
+                "SurgeryCode": "SG011",
+                "SurgeryDescription": "Liver Surgery",
+                "SurgeryDate": "2022-05-12"
+            },
+            {
+                "SurgeryCode": "SG015",
+                "SurgeryDescription": "Endoscopic Sinus Surgery",
+                "SurgeryDate": "2022-08-31"
+            }
+        ],
+        "Procedures": [
+            "Total Knee Replacement",
+            "Liver Surgery",
+            "Endoscopic Sinus Surgery"
+        ],
+        "Medications": [
+            "Paracetamol"
+        ],
+        "Diagnosis": "Prostate Cancer"
+    },
+    {
+        "AdmissionID": "A0039",
+        "PatientID": "P049",
+        "DoctorID": "DOC035",
+        "DepartmentID": "DEP01",
+        "AdmissionDate": "2023-04-29",
+        "DischargeDate": "2023-05-17",
+        "InitialDiagnosisDescription": "Endometriosis",
+        "Treatments": [
+            "Pulmonary Function Test"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG008",
+                "SurgeryDescription": "Appendectomy",
+                "SurgeryDate": "2024-02-09"
+            },
+            {
+                "SurgeryCode": "SG002",
+                "SurgeryDescription": "Angioplasty",
+                "SurgeryDate": "2023-10-29"
+            }
+        ],
+        "Procedures": [
+            "Appendectomy",
+            "Angioplasty"
+        ],
+        "Medications": [
+            "Clopidogrel",
+            "Ibuprofen",
+            "Ciprofloxacin"
+        ],
+        "Diagnosis": "Endometriosis"
+    },
+    {
+        "AdmissionID": "A0040",
+        "PatientID": "P009",
+        "DoctorID": "DOC009",
+        "DepartmentID": "DEP05",
+        "AdmissionDate": "2023-09-29",
+        "DischargeDate": "2023-10-05",
+        "InitialDiagnosisDescription": "Epilepsy",
+        "Treatments": [
+            "Wound Care",
+            "Blood Transfusion",
+            "MRI Scan",
+            "CT Scan",
+            "Pain Management"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG014",
+                "SurgeryDescription": "Cyst removal",
+                "SurgeryDate": "2024-02-24"
+            }
+        ],
+        "Procedures": [
+            "Cyst removal"
+        ],
+        "Medications": [
+            "Warfarin",
+            "Diazepam"
+        ],
+        "Diagnosis": "Epilepsy"
+    },
+    {
+        "AdmissionID": "A0041",
+        "PatientID": "P015",
+        "DoctorID": "DOC001",
+        "DepartmentID": "DEP01",
+        "AdmissionDate": "2024-06-01",
+        "DischargeDate": null,
+        "InitialDiagnosisDescription": "Osteoarthritis",
+        "Treatments": [
+            "Surgical Procedure",
+            "Pain Management",
+            "MRI Scan"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG003",
+                "SurgeryDescription": "Total Knee Replacement",
+                "SurgeryDate": "2024-06-08"
+            },
+            {
+                "SurgeryCode": "SG016",
+                "SurgeryDescription": "Thyroidectomy",
+                "SurgeryDate": "2024-05-26"
+            },
+            {
+                "SurgeryCode": "SG009",
+                "SurgeryDescription": "Gallbladder Removal Surgery",
+                "SurgeryDate": "2024-06-15"
+            }
+        ],
+        "Procedures": [
+            "Total Knee Replacement",
+            "Thyroidectomy",
+            "Gallbladder Removal Surgery"
+        ],
+        "Medications": [
+            "Amoxicillin"
+        ],
+        "Diagnosis": "Osteoarthritis"
+    },
+    {
+        "AdmissionID": "A0042",
+        "PatientID": "P014",
+        "DoctorID": "DOC032",
+        "DepartmentID": "DEP04",
+        "AdmissionDate": "2021-12-27",
+        "DischargeDate": "2021-12-30",
+        "InitialDiagnosisDescription": "Gout",
+        "Treatments": [
+            "X-ray",
+            "Radiation Therapy",
+            "Allergy Testing",
+            "MRI Scan"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG007",
+                "SurgeryDescription": "Prostatectomy",
+                "SurgeryDate": "2022-03-19"
+            }
+        ],
+        "Procedures": [
+            "Prostatectomy"
+        ],
+        "Medications": [
+            "Bupropion",
+            "Amlodipine",
+            "Ciprofloxacin"
+        ],
+        "Diagnosis": "Gout"
+    },
+    {
+        "AdmissionID": "A0043",
+        "PatientID": "P038",
+        "DoctorID": "DOC014",
+        "DepartmentID": "DEP08",
+        "AdmissionDate": "2024-06-11",
+        "DischargeDate": null,
+        "InitialDiagnosisDescription": "Cerebral Palsy",
+        "Treatments": [
+            "X-ray",
+            "Physical Therapy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG005",
+                "SurgeryDescription": "Herniated disk Surgery",
+                "SurgeryDate": "2024-06-19"
+            },
+            {
+                "SurgeryCode": "SG004",
+                "SurgeryDescription": "Hip Replacement Surgery",
+                "SurgeryDate": "2024-06-11"
+            },
+            {
+                "SurgeryCode": "SG002",
+                "SurgeryDescription": "Angioplasty",
+                "SurgeryDate": "2024-06-19"
+            }
+        ],
+        "Procedures": [
+            "Herniated disk Surgery",
+            "Hip Replacement Surgery",
+            "Angioplasty"
+        ],
+        "Medications": [
+            "Lorazepam",
+            "Atorvastatin",
+            "Bupropion"
+        ],
+        "Diagnosis": "Cerebral Palsy"
+    },
+    {
+        "AdmissionID": "A0044",
+        "PatientID": "P059",
+        "DoctorID": "DOC007",
+        "DepartmentID": "DEP10",
+        "AdmissionDate": "2021-10-30",
+        "DischargeDate": "2021-11-19",
+        "InitialDiagnosisDescription": "Systemic Lupus Erythematosus",
+        "Treatments": [
+            "Cardiac Catheterization",
+            "MRI Scan",
+            "Chemotherapy",
+            "Endoscopy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG013",
+                "SurgeryDescription": "Orthopedic Trauma Surgery",
+                "SurgeryDate": "2021-11-10"
+            },
+            {
+                "SurgeryCode": "SG015",
+                "SurgeryDescription": "Endoscopic Sinus Surgery",
+                "SurgeryDate": "2021-11-14"
+            },
+            {
+                "SurgeryCode": "SG007",
+                "SurgeryDescription": "Prostatectomy",
+                "SurgeryDate": "2021-11-09"
+            }
+        ],
+        "Procedures": [
+            "Orthopedic Trauma Surgery",
+            "Endoscopic Sinus Surgery",
+            "Prostatectomy"
+        ],
+        "Medications": [
+            "Morphine",
+            "Amoxicillin"
+        ],
+        "Diagnosis": "Systemic Lupus Erythematosus"
+    },
+    {
+        "AdmissionID": "A0045",
+        "PatientID": "P027",
+        "DoctorID": "DOC029",
+        "DepartmentID": "DEP06",
+        "AdmissionDate": "2021-10-04",
+        "DischargeDate": "2021-11-02",
+        "InitialDiagnosisDescription": "HIV/AIDS",
+        "Treatments": [
+            "Allergy Testing"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG009",
+                "SurgeryDescription": "Gallbladder Removal Surgery",
+                "SurgeryDate": "2022-02-23"
+            }
+        ],
+        "Procedures": [
+            "Gallbladder Removal Surgery"
+        ],
+        "Medications": [
+            "Atorvastatin",
+            "Sertraline"
+        ],
+        "Diagnosis": "HIV/AIDS"
+    },
+    {
+        "AdmissionID": "A0046",
+        "PatientID": "P040",
+        "DoctorID": "DOC022",
+        "DepartmentID": "DEP05",
+        "AdmissionDate": "2023-01-11",
+        "DischargeDate": "2023-01-27",
+        "InitialDiagnosisDescription": "Appendicitis",
+        "Treatments": [
+            "Physical Therapy",
+            "Dialysis"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG018",
+                "SurgeryDescription": "Hysterectomy",
+                "SurgeryDate": "2023-08-22"
+            }
+        ],
+        "Procedures": [
+            "Hysterectomy"
+        ],
+        "Medications": [
+            "Paracetamol",
+            "Morphine",
+            "Diazepam"
+        ],
+        "Diagnosis": "Epilepsy"
+    },
+    {
+        "AdmissionID": "A0047",
+        "PatientID": "P033",
+        "DoctorID": "DOC010",
+        "DepartmentID": "DEP02",
+        "AdmissionDate": "2023-10-02",
+        "DischargeDate": "2023-10-21",
+        "InitialDiagnosisDescription": "Gout",
+        "Treatments": [
+            "Vaccination"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG020",
+                "SurgeryDescription": "Laparoscopic Cholecystectomy",
+                "SurgeryDate": "2023-11-18"
+            },
+            {
+                "SurgeryCode": "SG010",
+                "SurgeryDescription": "Closed reduction and fixation",
+                "SurgeryDate": "2024-01-12"
+            },
+            {
+                "SurgeryCode": "SG006",
+                "SurgeryDescription": "Colon Cancer Surgery",
+                "SurgeryDate": "2023-12-18"
+            }
+        ],
+        "Procedures": [
+            "Laparoscopic Cholecystectomy",
+            "Closed reduction and fixation",
+            "Colon Cancer Surgery"
+        ],
+        "Medications": [
+            "Omeprazole",
+            "Lorazepam"
+        ],
+        "Diagnosis": "Gout"
+    },
+    {
+        "AdmissionID": "A0048",
+        "PatientID": "P046",
+        "DoctorID": "DOC022",
+        "DepartmentID": "DEP10",
+        "AdmissionDate": "2023-03-10",
+        "DischargeDate": "2023-03-18",
+        "InitialDiagnosisDescription": "Schizophrenia",
+        "Treatments": [
+            "Blood Transfusion",
+            "Pain Management",
+            "Radiation Therapy",
+            "X-ray"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG016",
+                "SurgeryDescription": "Thyroidectomy",
+                "SurgeryDate": "2023-11-18"
+            },
+            {
+                "SurgeryCode": "SG014",
+                "SurgeryDescription": "Cyst removal",
+                "SurgeryDate": "2023-03-31"
+            }
+        ],
+        "Procedures": [
+            "Thyroidectomy",
+            "Cyst removal"
+        ],
+        "Medications": [
+            "Lisinopril",
+            "Omeprazole",
+            "Lorazepam"
+        ],
+        "Diagnosis": "Schizophrenia"
+    },
+    {
+        "AdmissionID": "A0049",
+        "PatientID": "P023",
+        "DoctorID": "DOC021",
+        "DepartmentID": "DEP04",
+        "AdmissionDate": "2022-01-22",
+        "DischargeDate": "2022-02-05",
+        "InitialDiagnosisDescription": "Ovarian Cancer",
+        "Treatments": [
+            "CT Scan",
+            "Pain Management"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG018",
+                "SurgeryDescription": "Hysterectomy",
+                "SurgeryDate": "2022-04-10"
+            },
+            {
+                "SurgeryCode": "SG014",
+                "SurgeryDescription": "Cyst removal",
+                "SurgeryDate": "2022-03-25"
+            },
+            {
+                "SurgeryCode": "SG007",
+                "SurgeryDescription": "Prostatectomy",
+                "SurgeryDate": "2022-02-12"
+            }
+        ],
+        "Procedures": [
+            "Hysterectomy",
+            "Cyst removal",
+            "Prostatectomy"
+        ],
+        "Medications": [
+            "Albuterol",
+            "Heparin",
+            "Sertraline"
+        ],
+        "Diagnosis": "Ovarian Cancer"
+    },
+    {
+        "AdmissionID": "A0050",
+        "PatientID": "P053",
+        "DoctorID": "DOC032",
+        "DepartmentID": "DEP03",
+        "AdmissionDate": "2021-07-09",
+        "DischargeDate": "2021-08-01",
+        "InitialDiagnosisDescription": "Congestive Heart Failure",
+        "Treatments": [
+            "Allergy Testing",
+            "Wound Care"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG009",
+                "SurgeryDescription": "Gallbladder Removal Surgery",
+                "SurgeryDate": "2023-08-09"
+            },
+            {
+                "SurgeryCode": "SG013",
+                "SurgeryDescription": "Orthopedic Trauma Surgery",
+                "SurgeryDate": "2022-10-04"
+            }
+        ],
+        "Procedures": [
+            "Gallbladder Removal Surgery",
+            "Orthopedic Trauma Surgery"
+        ],
+        "Medications": [
+            "Lisinopril",
+            "Fluoxetine"
+        ],
+        "Diagnosis": "Congestive Heart Failure"
+    },
+    {
+        "AdmissionID": "A0051",
+        "PatientID": "P059",
+        "DoctorID": "DOC011",
+        "DepartmentID": "DEP10",
+        "AdmissionDate": "2021-10-25",
+        "DischargeDate": "2021-10-30",
+        "InitialDiagnosisDescription": "Fibromyalgia",
+        "Treatments": [
+            "Wound Care",
+            "Physical Therapy",
+            "Pain Management",
+            "Surgical Procedure"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG001",
+                "SurgeryDescription": "Coronary Artery Bypass Surgery",
+                "SurgeryDate": "2022-01-07"
+            },
+            {
+                "SurgeryCode": "SG012",
+                "SurgeryDescription": "Lung Resection Surgery",
+                "SurgeryDate": "2022-05-28"
+            },
+            {
+                "SurgeryCode": "SG003",
+                "SurgeryDescription": "Total Knee Replacement",
+                "SurgeryDate": "2021-12-08"
+            }
+        ],
+        "Procedures": [
+            "Coronary Artery Bypass Surgery",
+            "Lung Resection Surgery",
+            "Total Knee Replacement"
+        ],
+        "Medications": [
+            "Enoxaparin"
+        ],
+        "Diagnosis": "Fibromyalgia"
+    },
+    {
+        "AdmissionID": "A0052",
+        "PatientID": "P039",
+        "DoctorID": "DOC002",
+        "DepartmentID": "DEP06",
+        "AdmissionDate": "2023-06-19",
+        "DischargeDate": "2023-06-29",
+        "InitialDiagnosisDescription": "Gout",
+        "Treatments": [
+            "Ultrasound",
+            "Surgical Procedure"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG016",
+                "SurgeryDescription": "Thyroidectomy",
+                "SurgeryDate": "2023-08-05"
+            },
+            {
+                "SurgeryCode": "SG018",
+                "SurgeryDescription": "Hysterectomy",
+                "SurgeryDate": "2023-07-07"
+            }
+        ],
+        "Procedures": [
+            "Thyroidectomy",
+            "Hysterectomy"
+        ],
+        "Medications": [
+            "Aspirin",
+            "Morphine",
+            "Ciprofloxacin"
+        ],
+        "Diagnosis": "Gout"
+    },
+    {
+        "AdmissionID": "A0053",
+        "PatientID": "P040",
+        "DoctorID": "DOC021",
+        "DepartmentID": "DEP05",
+        "AdmissionDate": "2021-08-31",
+        "DischargeDate": "2021-09-30",
+        "InitialDiagnosisDescription": "Bladder Cancer",
+        "Treatments": [
+            "Surgical Procedure",
+            "Bone Density Test",
+            "Blood Transfusion",
+            "Pain Management"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG009",
+                "SurgeryDescription": "Gallbladder Removal Surgery",
+                "SurgeryDate": "2021-09-07"
+            },
+            {
+                "SurgeryCode": "SG006",
+                "SurgeryDescription": "Colon Cancer Surgery",
+                "SurgeryDate": "2021-10-03"
+            },
+            {
+                "SurgeryCode": "SG018",
+                "SurgeryDescription": "Hysterectomy",
+                "SurgeryDate": "2021-10-13"
+            }
+        ],
+        "Procedures": [
+            "Gallbladder Removal Surgery",
+            "Colon Cancer Surgery",
+            "Hysterectomy"
+        ],
+        "Medications": [
+            "Warfarin"
+        ],
+        "Diagnosis": "Bladder Cancer"
+    },
+    {
+        "AdmissionID": "A0054",
+        "PatientID": "P006",
+        "DoctorID": "DOC002",
+        "DepartmentID": "DEP01",
+        "AdmissionDate": "2021-07-14",
+        "DischargeDate": "2021-09-29",
+        "InitialDiagnosisDescription": "Stroke",
+        "Treatments": [
+            "CT Scan",
+            "Vaccination"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG006",
+                "SurgeryDescription": "Colon Cancer Surgery",
+                "SurgeryDate": "2021-07-20"
+            },
+            {
+                "SurgeryCode": "SG002",
+                "SurgeryDescription": "Angioplasty",
+                "SurgeryDate": "2021-07-15"
+            }
+        ],
+        "Procedures": [
+            "Colon Cancer Surgery",
+            "Angioplasty"
+        ],
+        "Medications": [
+            "Paracetamol",
+            "Atorvastatin"
+        ],
+        "Diagnosis": "Stroke"
+    },
+    {
+        "AdmissionID": "A0055",
+        "PatientID": "P031",
+        "DoctorID": "DOC040",
+        "DepartmentID": "DEP10",
+        "AdmissionDate": "2023-04-28",
+        "DischargeDate": "2023-04-30",
+        "InitialDiagnosisDescription": "Schizophrenia",
+        "Treatments": [
+            "Physical Therapy",
+            "Bone Density Test",
+            "Endoscopy",
+            "Surgical Procedure"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG012",
+                "SurgeryDescription": "Lung Resection Surgery",
+                "SurgeryDate": "2023-06-30"
+            },
+            {
+                "SurgeryCode": "SG014",
+                "SurgeryDescription": "Cyst removal",
+                "SurgeryDate": "2023-08-17"
+            },
+            {
+                "SurgeryCode": "SG004",
+                "SurgeryDescription": "Hip Replacement Surgery",
+                "SurgeryDate": "2023-07-20"
+            }
+        ],
+        "Procedures": [
+            "Lung Resection Surgery",
+            "Cyst removal",
+            "Hip Replacement Surgery"
+        ],
+        "Medications": [
+            "Sertraline",
+            "Hydrocortisone"
+        ],
+        "Diagnosis": "Schizophrenia"
+    },
+    {
+        "AdmissionID": "A0056",
+        "PatientID": "P032",
+        "DoctorID": "DOC039",
+        "DepartmentID": "DEP09",
+        "AdmissionDate": "2022-02-13",
+        "DischargeDate": "2022-03-06",
+        "InitialDiagnosisDescription": "Lung Cancer",
+        "Treatments": [
+            "Ultrasound",
+            "Chemotherapy",
+            "Surgical Procedure"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG019",
+                "SurgeryDescription": "Gastric Bypass Surgery",
+                "SurgeryDate": "2022-09-29"
+            }
+        ],
+        "Procedures": [
+            "Gastric Bypass Surgery"
+        ],
+        "Medications": [
+            "Prednisone"
+        ],
+        "Diagnosis": "Lung Cancer"
+    },
+    {
+        "AdmissionID": "A0057",
+        "PatientID": "P042",
+        "DoctorID": "DOC039",
+        "DepartmentID": "DEP09",
+        "AdmissionDate": "2021-08-26",
+        "DischargeDate": "2021-09-19",
+        "InitialDiagnosisDescription": "Acute Coronary Syndrome",
+        "Treatments": [
+            "Cardiac Catheterization",
+            "Physical Therapy",
+            "Colonoscopy",
+            "Radiation Therapy",
+            "Chemotherapy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG007",
+                "SurgeryDescription": "Prostatectomy",
+                "SurgeryDate": "2022-03-11"
+            },
+            {
+                "SurgeryCode": "SG010",
+                "SurgeryDescription": "Closed reduction and fixation",
+                "SurgeryDate": "2021-12-18"
+            }
+        ],
+        "Procedures": [
+            "Prostatectomy",
+            "Closed reduction and fixation"
+        ],
+        "Medications": [
+            "Escitalopram",
+            "Diazepam"
+        ],
+        "Diagnosis": "Acute Coronary Syndrome"
+    },
+    {
+        "AdmissionID": "A0058",
+        "PatientID": "P007",
+        "DoctorID": "DOC023",
+        "DepartmentID": "DEP03",
+        "AdmissionDate": "2023-06-25",
+        "DischargeDate": "2023-07-13",
+        "InitialDiagnosisDescription": "Migraine",
+        "Treatments": [
+            "X-ray",
+            "Allergy Testing",
+            "Dialysis"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG011",
+                "SurgeryDescription": "Liver Surgery",
+                "SurgeryDate": "2023-12-27"
+            }
+        ],
+        "Procedures": [
+            "Liver Surgery"
+        ],
+        "Medications": [
+            "Aspirin",
+            "Amlodipine",
+            "Bupropion"
+        ],
+        "Diagnosis": "Migraine"
+    },
+    {
+        "AdmissionID": "A0059",
+        "PatientID": "P023",
+        "DoctorID": "DOC025",
+        "DepartmentID": "DEP06",
+        "AdmissionDate": "2024-06-11",
+        "DischargeDate": null,
+        "InitialDiagnosisDescription": "Prostate Cancer",
+        "Treatments": [
+            "Surgical Procedure",
+            "Blood Transfusion",
+            "CT Scan",
+            "Wound Care"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG007",
+                "SurgeryDescription": "Prostatectomy",
+                "SurgeryDate": "2024-06-16"
+            },
+            {
+                "SurgeryCode": "SG005",
+                "SurgeryDescription": "Herniated disk Surgery",
+                "SurgeryDate": "2024-07-01"
+            }
+        ],
+        "Procedures": [
+            "Prostatectomy",
+            "Herniated disk Surgery"
+        ],
+        "Medications": [
+            "Prednisone",
+            "Warfarin"
+        ],
+        "Diagnosis": "Prostate Cancer"
+    },
+    {
+        "AdmissionID": "A0060",
+        "PatientID": "P028",
+        "DoctorID": "DOC015",
+        "DepartmentID": "DEP03",
+        "AdmissionDate": "2024-04-09",
+        "DischargeDate": "2024-04-17",
+        "InitialDiagnosisDescription": "Parkinson's Disease",
+        "Treatments": [
+            "Bone Density Test",
+            "X-ray",
+            "Chemotherapy",
+            "Dialysis"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG006",
+                "SurgeryDescription": "Colon Cancer Surgery",
+                "SurgeryDate": "2024-04-09"
+            },
+            {
+                "SurgeryCode": "SG005",
+                "SurgeryDescription": "Herniated disk Surgery",
+                "SurgeryDate": "2024-04-25"
+            }
+        ],
+        "Procedures": [
+            "Colon Cancer Surgery",
+            "Herniated disk Surgery"
+        ],
+        "Medications": [
+            "Tramadol",
+            "Morphine"
+        ],
+        "Diagnosis": "Parkinson's Disease"
+    },
+    {
+        "AdmissionID": "A0061",
+        "PatientID": "P006",
+        "DoctorID": "DOC001",
+        "DepartmentID": "DEP01",
+        "AdmissionDate": "2023-05-03",
+        "DischargeDate": "2023-05-28",
+        "InitialDiagnosisDescription": "Cataracts",
+        "Treatments": [
+            "Ultrasound",
+            "Endoscopy",
+            "MRI Scan",
+            "Electrocardiogram",
+            "Chemotherapy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG011",
+                "SurgeryDescription": "Liver Surgery",
+                "SurgeryDate": "2023-09-09"
+            },
+            {
+                "SurgeryCode": "SG002",
+                "SurgeryDescription": "Angioplasty",
+                "SurgeryDate": "2023-11-29"
+            }
+        ],
+        "Procedures": [
+            "Liver Surgery",
+            "Angioplasty"
+        ],
+        "Medications": [
+            "Metformin",
+            "Ciprofloxacin",
+            "Hydrocortisone"
+        ],
+        "Diagnosis": "Cataracts"
+    },
+    {
+        "AdmissionID": "A0062",
+        "PatientID": "P047",
+        "DoctorID": "DOC009",
+        "DepartmentID": "DEP03",
+        "AdmissionDate": "2021-11-21",
+        "DischargeDate": "2021-12-08",
+        "InitialDiagnosisDescription": "Kidney Stones",
+        "Treatments": [
+            "Physical Therapy",
+            "Colonoscopy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG003",
+                "SurgeryDescription": "Total Knee Replacement",
+                "SurgeryDate": "2022-03-05"
+            }
+        ],
+        "Procedures": [
+            "Total Knee Replacement"
+        ],
+        "Medications": [
+            "Escitalopram",
+            "Fluoxetine"
+        ],
+        "Diagnosis": "Kidney Stones"
+    },
+    {
+        "AdmissionID": "A0063",
+        "PatientID": "P044",
+        "DoctorID": "DOC036",
+        "DepartmentID": "DEP04",
+        "AdmissionDate": "2022-01-08",
+        "DischargeDate": "2022-01-13",
+        "InitialDiagnosisDescription": "Colon Cancer",
+        "Treatments": [
+            "Blood Transfusion",
+            "Electrocardiogram",
+            "Pulmonary Function Test",
+            "Radiation Therapy",
+            "Cardiac Catheterization"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG015",
+                "SurgeryDescription": "Endoscopic Sinus Surgery",
+                "SurgeryDate": "2022-09-21"
+            },
+            {
+                "SurgeryCode": "SG019",
+                "SurgeryDescription": "Gastric Bypass Surgery",
+                "SurgeryDate": "2023-05-25"
+            },
+            {
+                "SurgeryCode": "SG007",
+                "SurgeryDescription": "Prostatectomy",
+                "SurgeryDate": "2022-09-19"
+            }
+        ],
+        "Procedures": [
+            "Endoscopic Sinus Surgery",
+            "Gastric Bypass Surgery",
+            "Prostatectomy"
+        ],
+        "Medications": [
+            "Enoxaparin",
+            "Amoxicillin"
+        ],
+        "Diagnosis": "Colon Cancer"
+    },
+    {
+        "AdmissionID": "A0064",
+        "PatientID": "P046",
+        "DoctorID": "DOC007",
+        "DepartmentID": "DEP09",
+        "AdmissionDate": "2023-12-07",
+        "DischargeDate": "2023-12-22",
+        "InitialDiagnosisDescription": "Obesity",
+        "Treatments": [
+            "Colonoscopy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG012",
+                "SurgeryDescription": "Lung Resection Surgery",
+                "SurgeryDate": "2023-12-15"
+            },
+            {
+                "SurgeryCode": "SG005",
+                "SurgeryDescription": "Herniated disk Surgery",
+                "SurgeryDate": "2024-03-13"
+            }
+        ],
+        "Procedures": [
+            "Lung Resection Surgery",
+            "Herniated disk Surgery"
+        ],
+        "Medications": [
+            "Amlodipine",
+            "Aspirin",
+            "Prednisone"
+        ],
+        "Diagnosis": "Obesity"
+    },
+    {
+        "AdmissionID": "A0065",
+        "PatientID": "P026",
+        "DoctorID": "DOC030",
+        "DepartmentID": "DEP02",
+        "AdmissionDate": "2023-05-18",
+        "DischargeDate": "2023-05-21",
+        "InitialDiagnosisDescription": "Hyperthyroidism",
+        "Treatments": [
+            "Wound Care",
+            "Allergy Testing",
+            "X-ray"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG009",
+                "SurgeryDescription": "Gallbladder Removal Surgery",
+                "SurgeryDate": "2024-04-03"
+            }
+        ],
+        "Procedures": [
+            "Gallbladder Removal Surgery"
+        ],
+        "Medications": [
+            "Sertraline",
+            "Ciprofloxacin"
+        ],
+        "Diagnosis": "Hyperthyroidism"
+    },
+    {
+        "AdmissionID": "A0066",
+        "PatientID": "P011",
+        "DoctorID": "DOC008",
+        "DepartmentID": "DEP01",
+        "AdmissionDate": "2022-08-20",
+        "DischargeDate": "2022-09-09",
+        "InitialDiagnosisDescription": "Hyperthyroidism",
+        "Treatments": [
+            "Wound Care",
+            "Physical Therapy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG003",
+                "SurgeryDescription": "Total Knee Replacement",
+                "SurgeryDate": "2023-10-28"
+            }
+        ],
+        "Procedures": [
+            "Total Knee Replacement"
+        ],
+        "Medications": [
+            "Bupropion",
+            "Metoprolol"
+        ],
+        "Diagnosis": "Hyperthyroidism"
+    },
+    {
+        "AdmissionID": "A0067",
+        "PatientID": "P009",
+        "DoctorID": "DOC020",
+        "DepartmentID": "DEP03",
+        "AdmissionDate": "2023-04-23",
+        "DischargeDate": "2023-04-26",
+        "InitialDiagnosisDescription": "Gallstones",
+        "Treatments": [
+            "MRI Scan",
+            "Ultrasound"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG002",
+                "SurgeryDescription": "Angioplasty",
+                "SurgeryDate": "2023-11-15"
+            }
+        ],
+        "Procedures": [
+            "Angioplasty"
+        ],
+        "Medications": [
+            "Omeprazole"
+        ],
+        "Diagnosis": "Gallstones"
+    },
+    {
+        "AdmissionID": "A0068",
+        "PatientID": "P041",
+        "DoctorID": "DOC012",
+        "DepartmentID": "DEP04",
+        "AdmissionDate": "2023-10-05",
+        "DischargeDate": "2023-10-06",
+        "InitialDiagnosisDescription": "Acute Coronary Syndrome",
+        "Treatments": [
+            "Colonoscopy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG019",
+                "SurgeryDescription": "Gastric Bypass Surgery",
+                "SurgeryDate": "2024-02-15"
+            }
+        ],
+        "Procedures": [
+            "Gastric Bypass Surgery"
+        ],
+        "Medications": [
+            "Escitalopram"
+        ],
+        "Diagnosis": "Acute Coronary Syndrome"
+    },
+    {
+        "AdmissionID": "A0069",
+        "PatientID": "P053",
+        "DoctorID": "DOC023",
+        "DepartmentID": "DEP10",
+        "AdmissionDate": "2022-09-21",
+        "DischargeDate": "2022-10-03",
+        "InitialDiagnosisDescription": "Acute Coronary Syndrome",
+        "Treatments": [
+            "Ultrasound",
+            "Blood Transfusion"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG014",
+                "SurgeryDescription": "Cyst removal",
+                "SurgeryDate": "2023-05-06"
+            },
+            {
+                "SurgeryCode": "SG013",
+                "SurgeryDescription": "Orthopedic Trauma Surgery",
+                "SurgeryDate": "2023-01-11"
+            }
+        ],
+        "Procedures": [
+            "Cyst removal",
+            "Orthopedic Trauma Surgery"
+        ],
+        "Medications": [
+            "Ibuprofen",
+            "Omeprazole"
+        ],
+        "Diagnosis": "Acute Coronary Syndrome"
+    },
+    {
+        "AdmissionID": "A0070",
+        "PatientID": "P035",
+        "DoctorID": "DOC039",
+        "DepartmentID": "DEP01",
+        "AdmissionDate": "2023-10-10",
+        "DischargeDate": "2023-10-22",
+        "InitialDiagnosisDescription": "Ovarian Cancer",
+        "Treatments": [
+            "Chemotherapy",
+            "MRI Scan",
+            "Physical Therapy",
+            "Blood Transfusion",
+            "Dialysis"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG014",
+                "SurgeryDescription": "Cyst removal",
+                "SurgeryDate": "2023-12-24"
+            }
+        ],
+        "Procedures": [
+            "Cyst removal"
+        ],
+        "Medications": [
+            "Aspirin"
+        ],
+        "Diagnosis": "Ovarian Cancer"
+    },
+    {
+        "AdmissionID": "A0071",
+        "PatientID": "P052",
+        "DoctorID": "DOC005, DOC013",
+        "DepartmentID": "DEP03",
+        "AdmissionDate": "2021-11-22",
+        "DischargeDate": "2021-12-04",
+        "InitialDiagnosisDescription": "Migraine",
+        "Treatments": [
+            "Allergy Testing",
+            "Electrocardiogram",
+            "Pain Management",
+            "Ultrasound",
+            "Surgical Procedure"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG012",
+                "SurgeryDescription": "Lung Resection Surgery",
+                "SurgeryDate": "2022-01-27"
+            },
+            {
+                "SurgeryCode": "SG001",
+                "SurgeryDescription": "Coronary Artery Bypass Surgery",
+                "SurgeryDate": "2022-06-05"
+            },
+            {
+                "SurgeryCode": "SG009",
+                "SurgeryDescription": "Gallbladder Removal Surgery",
+                "SurgeryDate": "2022-04-21"
+            }
+        ],
+        "Procedures": [
+            "Lung Resection Surgery",
+            "Coronary Artery Bypass Surgery",
+            "Gallbladder Removal Surgery"
+        ],
+        "Medications": [
+            "Escitalopram",
+            "Vitamin-D"
+        ],
+        "Diagnosis": "Migraine"
+    },
+    {
+        "AdmissionID": "A0072",
+        "PatientID": "P015",
+        "DoctorID": "DOC009",
+        "DepartmentID": "DEP07",
+        "AdmissionDate": "2023-11-21",
+        "DischargeDate": "2023-12-02",
+        "InitialDiagnosisDescription": "Migraine",
+        "Treatments": [
+            "Chemotherapy",
+            "Radiation Therapy",
+            "X-ray",
+            "Dialysis"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG012",
+                "SurgeryDescription": "Lung Resection Surgery",
+                "SurgeryDate": "2024-01-16"
+            },
+            {
+                "SurgeryCode": "SG002",
+                "SurgeryDescription": "Angioplasty",
+                "SurgeryDate": "2024-01-22"
+            },
+            {
+                "SurgeryCode": "SG011",
+                "SurgeryDescription": "Liver Surgery",
+                "SurgeryDate": "2023-12-28"
+            }
+        ],
+        "Procedures": [
+            "Lung Resection Surgery",
+            "Angioplasty",
+            "Liver Surgery"
+        ],
+        "Medications": [
+            "Enoxaparin",
+            "Morphine",
+            "Hydrocortisone"
+        ],
+        "Diagnosis": "Migraine"
+    },
+    {
+        "AdmissionID": "A0073",
+        "PatientID": "P007",
+        "DoctorID": "DOC031",
+        "DepartmentID": "DEP08",
+        "AdmissionDate": "2021-12-11",
+        "DischargeDate": "2022-01-01",
+        "InitialDiagnosisDescription": "Ovarian Cancer",
+        "Treatments": [
+            "MRI Scan",
+            "Vaccination",
+            "Surgical Procedure",
+            "Pulmonary Function Test"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG001",
+                "SurgeryDescription": "Coronary Artery Bypass Surgery",
+                "SurgeryDate": "2022-07-23"
+            },
+            {
+                "SurgeryCode": "SG011",
+                "SurgeryDescription": "Liver Surgery",
+                "SurgeryDate": "2021-12-11"
+            }
+        ],
+        "Procedures": [
+            "Coronary Artery Bypass Surgery",
+            "Liver Surgery"
+        ],
+        "Medications": [
+            "Tramadol"
+        ],
+        "Diagnosis": "Ovarian Cancer"
+    },
+    {
+        "AdmissionID": "A0074",
+        "PatientID": "P056",
+        "DoctorID": "DOC002",
+        "DepartmentID": "DEP03",
+        "AdmissionDate": "2022-06-02",
+        "DischargeDate": "2022-06-20",
+        "InitialDiagnosisDescription": "Endometriosis",
+        "Treatments": [
+            "CT Scan",
+            "Endoscopy",
+            "Blood Transfusion",
+            "Dialysis",
+            "Ultrasound"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG006",
+                "SurgeryDescription": "Colon Cancer Surgery",
+                "SurgeryDate": "2022-09-15"
+            },
+            {
+                "SurgeryCode": "SG007",
+                "SurgeryDescription": "Prostatectomy",
+                "SurgeryDate": "2022-08-25"
+            },
+            {
+                "SurgeryCode": "SG010",
+                "SurgeryDescription": "Closed reduction and fixation",
+                "SurgeryDate": "2022-09-08"
+            }
+        ],
+        "Procedures": [
+            "Colon Cancer Surgery",
+            "Prostatectomy",
+            "Closed reduction and fixation"
+        ],
+        "Medications": [
+            "Simvastatin"
+        ],
+        "Diagnosis": "Endometriosis"
+    },
+    {
+        "AdmissionID": "A0075",
+        "PatientID": "P040",
+        "DoctorID": "DOC008",
+        "DepartmentID": "DEP03",
+        "AdmissionDate": "2024-01-20",
+        "DischargeDate": "2024-01-22",
+        "InitialDiagnosisDescription": "Diabetes Mellitus",
+        "Treatments": [
+            "MRI Scan",
+            "Pulmonary Function Test"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG014",
+                "SurgeryDescription": "Cyst removal",
+                "SurgeryDate": "2024-03-20"
+            }
+        ],
+        "Procedures": [
+            "Cyst removal"
+        ],
+        "Medications": [
+            "Amlodipine",
+            "Metformin"
+        ],
+        "Diagnosis": "Diabetes Mellitus, Hypertension"
+    },
+    {
+        "AdmissionID": "A0076",
+        "PatientID": "P032",
+        "DoctorID": "DOC034",
+        "DepartmentID": "DEP09",
+        "AdmissionDate": "2023-07-22",
+        "DischargeDate": "2023-07-28",
+        "InitialDiagnosisDescription": "Colon Cancer",
+        "Treatments": [
+            "Ultrasound"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG004",
+                "SurgeryDescription": "Hip Replacement Surgery",
+                "SurgeryDate": "2023-07-25"
+            },
+            {
+                "SurgeryCode": "SG003",
+                "SurgeryDescription": "Total Knee Replacement",
+                "SurgeryDate": "2023-07-23"
+            }
+        ],
+        "Procedures": [
+            "Hip Replacement Surgery",
+            "Total Knee Replacement"
+        ],
+        "Medications": [
+            "Aspirin",
+            "Morphine",
+            "Diazepam"
+        ],
+        "Diagnosis": "Colon Cancer"
+    },
+    {
+        "AdmissionID": "A0077",
+        "PatientID": "P010",
+        "DoctorID": "DOC013",
+        "DepartmentID": "DEP01",
+        "AdmissionDate": "2021-09-02",
+        "DischargeDate": "2021-10-02",
+        "InitialDiagnosisDescription": "Multiple Sclerosis",
+        "Treatments": [
+            "Physical Therapy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG003",
+                "SurgeryDescription": "Total Knee Replacement",
+                "SurgeryDate": "2024-04-21"
+            },
+            {
+                "SurgeryCode": "SG013",
+                "SurgeryDescription": "Orthopedic Trauma Surgery",
+                "SurgeryDate": "2022-01-02"
+            }
+        ],
+        "Procedures": [
+            "Total Knee Replacement",
+            "Orthopedic Trauma Surgery"
+        ],
+        "Medications": [
+            "Simvastatin",
+            "Metoprolol",
+            "Amoxicillin"
+        ],
+        "Diagnosis": "Multiple Sclerosis"
+    },
+    {
+        "AdmissionID": "A0078",
+        "PatientID": "P004",
+        "DoctorID": "DOC004",
+        "DepartmentID": "DEP06",
+        "AdmissionDate": "2023-11-17",
+        "DischargeDate": "2023-12-11",
+        "InitialDiagnosisDescription": "Fractured Femur",
+        "Treatments": [
+            "Ultrasound",
+            "Allergy Testing",
+            "Physical Therapy",
+            "Pain Management",
+            "Wound Care"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG007",
+                "SurgeryDescription": "Prostatectomy",
+                "SurgeryDate": "2023-12-20"
+            },
+            {
+                "SurgeryCode": "SG011",
+                "SurgeryDescription": "Liver Surgery",
+                "SurgeryDate": "2024-01-03"
+            },
+            {
+                "SurgeryCode": "SG002",
+                "SurgeryDescription": "Angioplasty",
+                "SurgeryDate": "2023-12-22"
+            }
+        ],
+        "Procedures": [
+            "Prostatectomy",
+            "Liver Surgery",
+            "Angioplasty"
+        ],
+        "Medications": [
+            "Albuterol",
+            "Amlodipine"
+        ],
+        "Diagnosis": "Fractured Femur"
+    },
+    {
+        "AdmissionID": "A0079",
+        "PatientID": "P052",
+        "DoctorID": "DOC024",
+        "DepartmentID": "DEP06",
+        "AdmissionDate": "2022-11-03",
+        "DischargeDate": "2022-11-15",
+        "InitialDiagnosisDescription": "Acute Coronary Syndrome",
+        "Treatments": [
+            "Wound Care",
+            "Radiation Therapy",
+            "Blood Transfusion",
+            "Allergy Testing"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG017",
+                "SurgeryDescription": "Kidney Surgery",
+                "SurgeryDate": "2023-07-20"
+            }
+        ],
+        "Procedures": [
+            "Kidney Surgery"
+        ],
+        "Medications": [
+            "Enoxaparin",
+            "Escitalopram",
+            "Tramadol"
+        ],
+        "Diagnosis": "Acute Coronary Syndrome"
+    },
+    {
+        "AdmissionID": "A0080",
+        "PatientID": "P021",
+        "DoctorID": "DOC012",
+        "DepartmentID": "DEP06",
+        "AdmissionDate": "2024-04-02",
+        "DischargeDate": "2024-04-18",
+        "InitialDiagnosisDescription": "COPD (Chronic Obstructive Pulmonary Disease)",
+        "Treatments": [
+            "Chemotherapy",
+            "Dialysis"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG012",
+                "SurgeryDescription": "Lung Resection Surgery",
+                "SurgeryDate": "2024-05-04"
+            },
+            {
+                "SurgeryCode": "SG014",
+                "SurgeryDescription": "Cyst removal",
+                "SurgeryDate": "2024-07-07"
+            }
+        ],
+        "Procedures": [
+            "Lung Resection Surgery",
+            "Cyst removal"
+        ],
+        "Medications": [
+            "Fluoxetine",
+            "Amoxicillin"
+        ],
+        "Diagnosis": "COPD (Chronic Obstructive Pulmonary Disease)"
+    },
+    {
+        "AdmissionID": "A0081",
+        "PatientID": "P023",
+        "DoctorID": "DOC014",
+        "DepartmentID": "DEP07",
+        "AdmissionDate": "2021-09-14",
+        "DischargeDate": "2021-10-29",
+        "InitialDiagnosisDescription": "Rheumatoid Arthritis",
+        "Treatments": [
+            "Radiation Therapy",
+            "Physical Therapy",
+            "MRI Scan",
+            "Blood Transfusion"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG005",
+                "SurgeryDescription": "Herniated disk Surgery",
+                "SurgeryDate": "2022-02-02"
+            },
+            {
+                "SurgeryCode": "SG010",
+                "SurgeryDescription": "Closed reduction and fixation",
+                "SurgeryDate": "2022-04-07"
+            },
+            {
+                "SurgeryCode": "SG017",
+                "SurgeryDescription": "Kidney Surgery",
+                "SurgeryDate": "2022-02-17"
+            }
+        ],
+        "Procedures": [
+            "Herniated disk Surgery",
+            "Closed reduction and fixation",
+            "Kidney Surgery"
+        ],
+        "Medications": [
+            "Atorvastatin",
+            "Bupropion",
+            "Paracetamol"
+        ],
+        "Diagnosis": "Rheumatoid Arthritis"
+    },
+    {
+        "AdmissionID": "A0082",
+        "PatientID": "P005",
+        "DoctorID": "DOC036",
+        "DepartmentID": "DEP06",
+        "AdmissionDate": "2022-12-01",
+        "DischargeDate": "2022-12-14",
+        "InitialDiagnosisDescription": "Hypertension",
+        "Treatments": [
+            "Physical Therapy",
+            "Pulmonary Function Test",
+            "Bone Density Test"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG012",
+                "SurgeryDescription": "Lung Resection Surgery",
+                "SurgeryDate": "2023-05-16"
+            }
+        ],
+        "Procedures": [
+            "Lung Resection Surgery"
+        ],
+        "Medications": [
+            "Morphine"
+        ],
+        "Diagnosis": "Hypertension"
+    },
+    {
+        "AdmissionID": "A0083",
+        "PatientID": "P017",
+        "DoctorID": "DOC020",
+        "DepartmentID": "DEP03",
+        "AdmissionDate": "2024-05-20",
+        "DischargeDate": "2024-07-17",
+        "InitialDiagnosisDescription": "Gout",
+        "Treatments": [
+            "Dialysis",
+            "Vaccination",
+            "X-ray",
+            "Electrocardiogram"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG019",
+                "SurgeryDescription": "Gastric Bypass Surgery",
+                "SurgeryDate": "2024-06-09"
+            },
+            {
+                "SurgeryCode": "SG010",
+                "SurgeryDescription": "Closed reduction and fixation",
+                "SurgeryDate": "2024-06-21"
+            },
+            {
+                "SurgeryCode": "SG011",
+                "SurgeryDescription": "Laparoscopic Cholecystectomy",
+                "SurgeryDate": "2024-07-03"
+            }
+        ],
+        "Procedures": [
+            "Gastric Bypass Surgery",
+            "Laparoscopic Cholecystectomy",
+            "Liver Surgery"
+        ],
+        "Medications": [
+            "Insulin",
+            "Metformin"
+        ],
+        "Diagnosis": "Gout"
+    },
+    {
+        "AdmissionID": "A0084",
+        "PatientID": "P010",
+        "DoctorID": "DOC025",
+        "DepartmentID": "DEP10",
+        "AdmissionDate": "2024-05-07",
+        "DischargeDate": "2024-06-02",
+        "InitialDiagnosisDescription": "COPD (Chronic Obstructive Pulmonary Disease)",
+        "Treatments": [
+            "Dialysis",
+            "Pain Management",
+            "Pulmonary Function Test",
+            "Colonoscopy",
+            "MRI Scan"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG008",
+                "SurgeryDescription": "Appendectomy",
+                "SurgeryDate": "2024-05-15"
+            },
+            {
+                "SurgeryCode": "SG002",
+                "SurgeryDescription": "Angioplasty",
+                "SurgeryDate": "2024-05-20"
+            },
+            {
+                "SurgeryCode": "SG005",
+                "SurgeryDescription": "Herniated disk Surgery",
+                "SurgeryDate": "2024-05-23"
+            }
+        ],
+        "Procedures": [
+            "Appendectomy",
+            "Angioplasty",
+            "Herniated disk Surgery"
+        ],
+        "Medications": [
+            "Fluoxetine",
+            "Amoxicillin",
+            "Paracetamol"
+        ],
+        "Diagnosis": "COPD (Chronic Obstructive Pulmonary Disease)"
+    },
+    {
+        "AdmissionID": "A0085",
+        "PatientID": "P045",
+        "DoctorID": "DOC025",
+        "DepartmentID": "DEP01",
+        "AdmissionDate": "2023-06-28",
+        "DischargeDate": "2023-07-18",
+        "InitialDiagnosisDescription": "Cataracts",
+        "Treatments": [
+            "Electrocardiogram",
+            "Chemotherapy",
+            "Pulmonary Function Test",
+            "Ultrasound",
+            "Surgical Procedure"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG015",
+                "SurgeryDescription": "Endoscopic Sinus Surgery",
+                "SurgeryDate": "2023-08-19"
+            },
+            {
+                "SurgeryCode": "SG008",
+                "SurgeryDescription": "Appendectomy",
+                "SurgeryDate": "2023-07-07"
+            }
+        ],
+        "Procedures": [
+            "Endoscopic Sinus Surgery",
+            "Appendectomy"
+        ],
+        "Medications": [
+            "Amlodipine",
+            "Albuterol"
+        ],
+        "Diagnosis": "Cataracts"
+    },
+    {
+        "AdmissionID": "A0086",
+        "PatientID": "P042",
+        "DoctorID": "DOC012",
+        "DepartmentID": "DEP02",
+        "AdmissionDate": "2022-05-24",
+        "DischargeDate": "2022-06-21",
+        "InitialDiagnosisDescription": "Prostate Cancer",
+        "Treatments": [
+            "Wound Care"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG010",
+                "SurgeryDescription": "Closed reduction and fixation",
+                "SurgeryDate": "2022-10-22"
+            },
+            {
+                "SurgeryCode": "SG008",
+                "SurgeryDescription": "Appendectomy",
+                "SurgeryDate": "2022-09-19"
+            }
+        ],
+        "Procedures": [
+            "Closed reduction and fixation",
+            "Appendectomy"
+        ],
+        "Medications": [
+            "Clopidogrel",
+            "Heparin",
+            "Warfarin"
+        ],
+        "Diagnosis": "Prostate Cancer"
+    },
+    {
+        "AdmissionID": "A0087",
+        "PatientID": "P050",
+        "DoctorID": "DOC001",
+        "DepartmentID": "DEP05",
+        "AdmissionDate": "2024-02-23",
+        "DischargeDate": "2024-02-28",
+        "InitialDiagnosisDescription": "Schizophrenia",
+        "Treatments": [
+            "Cardiac Catheterization"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG014",
+                "SurgeryDescription": "Cyst removal",
+                "SurgeryDate": "2024-03-15"
+            }
+        ],
+        "Procedures": [
+            "Cyst removal"
+        ],
+        "Medications": [
+            "Aspirin"
+        ],
+        "Diagnosis": "Schizophrenia"
+    },
+    {
+        "AdmissionID": "A0088",
+        "PatientID": "P019",
+        "DoctorID": "DOC017",
+        "DepartmentID": "DEP09",
+        "AdmissionDate": "2022-08-22",
+        "DischargeDate": "2022-09-21",
+        "InitialDiagnosisDescription": "Obstructive Sleep Apnea",
+        "Treatments": [
+            "Physical Therapy",
+            "MRI Scan"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG008",
+                "SurgeryDescription": "Appendectomy",
+                "SurgeryDate": "2022-10-11"
+            },
+            {
+                "SurgeryCode": "SG004",
+                "SurgeryDescription": "Hip Replacement Surgery",
+                "SurgeryDate": "2023-02-16"
+            },
+            {
+                "SurgeryCode": "SG012",
+                "SurgeryDescription": "Lung Resection Surgery",
+                "SurgeryDate": "2022-10-21"
+            }
+        ],
+        "Procedures": [
+            "Appendectomy",
+            "Hip Replacement Surgery",
+            "Lung Resection Surgery"
+        ],
+        "Medications": [
+            "Warfarin",
+            "Heparin"
+        ],
+        "Diagnosis": "Obstructive Sleep Apnea"
+    },
+    {
+        "AdmissionID": "A0089",
+        "PatientID": "P025",
+        "DoctorID": "DOC020",
+        "DepartmentID": "DEP02",
+        "AdmissionDate": "2023-07-18",
+        "DischargeDate": "2023-08-05",
+        "InitialDiagnosisDescription": "Gastric Ulcer",
+        "Treatments": [
+            "Endoscopy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG019",
+                "SurgeryDescription": "Gastric Bypass Surgery",
+                "SurgeryDate": "2024-02-25"
+            },
+            {
+                "SurgeryCode": "SG011",
+                "SurgeryDescription": "Liver Surgery",
+                "SurgeryDate": "2024-01-10"
+            }
+        ],
+        "Procedures": [
+            "Gastric Bypass Surgery",
+            "Liver Surgery"
+        ],
+        "Medications": [
+            "Ibuprofen",
+            "Enoxaparin",
+            "Paracetamol"
+        ],
+        "Diagnosis": "Gastric Ulcer"
+    },
+    {
+        "AdmissionID": "A0090",
+        "PatientID": "P043",
+        "DoctorID": "DOC029",
+        "DepartmentID": "DEP06",
+        "AdmissionDate": "2022-09-08",
+        "DischargeDate": "2022-09-17",
+        "InitialDiagnosisDescription": "Schizophrenia",
+        "Treatments": [
+            "Blood Transfusion",
+            "MRI Scan",
+            "Radiation Therapy",
+            "Chemotherapy",
+            "Surgical Procedure"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG015",
+                "SurgeryDescription": "Endoscopic Sinus Surgery",
+                "SurgeryDate": "2022-09-14"
+            }
+        ],
+        "Procedures": [
+            "Endoscopic Sinus Surgery"
+        ],
+        "Medications": [
+            "Tramadol",
+            "Albuterol",
+            "Aspirin"
+        ],
+        "Diagnosis": "Schizophrenia"
+    },
+    {
+        "AdmissionID": "A0091",
+        "PatientID": "P002",
+        "DoctorID": "DOC026",
+        "DepartmentID": "DEP06",
+        "AdmissionDate": "2021-08-19",
+        "DischargeDate": "2021-09-03",
+        "InitialDiagnosisDescription": "Kidney Stones",
+        "Treatments": [
+            "Pain Management",
+            "Ultrasound"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG013",
+                "SurgeryDescription": "Orthopedic Trauma Surgery",
+                "SurgeryDate": "2022-01-01"
+            },
+            {
+                "SurgeryCode": "SG012",
+                "SurgeryDescription": "Lung Resection Surgery",
+                "SurgeryDate": "2021-12-18"
+            }
+        ],
+        "Procedures": [
+            "Orthopedic Trauma Surgery",
+            "Lung Resection Surgery"
+        ],
+        "Medications": [
+            "Bupropion",
+            "Albuterol"
+        ],
+        "Diagnosis": "Kidney Stones"
+    },
+    {
+        "AdmissionID": "A0092",
+        "PatientID": "P035",
+        "DoctorID": "DOC036",
+        "DepartmentID": "DEP06",
+        "AdmissionDate": "2022-01-07",
+        "DischargeDate": "2022-02-04",
+        "InitialDiagnosisDescription": "COPD (Chronic Obstructive Pulmonary Disease)",
+        "Treatments": [
+            "X-ray",
+            "Blood Transfusion",
+            "CT Scan"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG002",
+                "SurgeryDescription": "Angioplasty",
+                "SurgeryDate": "2022-01-08"
+            }
+        ],
+        "Procedures": [
+            "Angioplasty"
+        ],
+        "Medications": [
+            "Ibuprofen",
+            "Heparin",
+            "Simvastatin"
+        ],
+        "Diagnosis": "COPD (Chronic Obstructive Pulmonary Disease)"
+    },
+    {
+        "AdmissionID": "A0093",
+        "PatientID": "P034",
+        "DoctorID": "DOC003",
+        "DepartmentID": "DEP07",
+        "AdmissionDate": "2022-11-07",
+        "DischargeDate": "2022-11-08",
+        "InitialDiagnosisDescription": "Endometriosis",
+        "Treatments": [
+            "Chemotherapy",
+            "Radiation Therapy",
+            "Cardiac Catheterization"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG005",
+                "SurgeryDescription": "Herniated disk Surgery",
+                "SurgeryDate": "2023-05-05"
+            }
+        ],
+        "Procedures": [
+            "Herniated disk Surgery"
+        ],
+        "Medications": [
+            "Hydrocortisone"
+        ],
+        "Diagnosis": "Endometriosis"
+    },
+    {
+        "AdmissionID": "A0094",
+        "PatientID": "P006",
+        "DoctorID": "DOC025",
+        "DepartmentID": "DEP01",
+        "AdmissionDate": "2024-06-01",
+        "DischargeDate": null,
+        "InitialDiagnosisDescription": "Gout",
+        "Treatments": [
+            "Blood Transfusion",
+            "Cardiac Catheterization",
+            "Electrocardiogram",
+            "Dialysis",
+            "Wound Care"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG016",
+                "SurgeryDescription": "Thyroidectomy",
+                "SurgeryDate": "2024-06-08"
+            },
+            {
+                "SurgeryCode": "SG010",
+                "SurgeryDescription": "Closed reduction and fixation",
+                "SurgeryDate": "2024-06-15"
+            },
+            {
+                "SurgeryCode": "SG009",
+                "SurgeryDescription": "Gallbladder Removal Surgery",
+                "SurgeryDate": "2024-06-18"
+            }
+        ],
+        "Procedures": [
+            "Thyroidectomy",
+            "Closed reduction and fixation",
+            "Gallbladder Removal Surgery"
+        ],
+        "Medications": [
+            "Lisinopril",
+            "Diazepam"
+        ],
+        "Diagnosis": "Gout"
+    },
+    {
+        "AdmissionID": "A0095",
+        "PatientID": "P025",
+        "DoctorID": "DOC003",
+        "DepartmentID": "DEP04",
+        "AdmissionDate": "2024-06-08",
+        "DischargeDate": "2024-07-03",
+        "InitialDiagnosisDescription": "Brain Tumor",
+        "Treatments": [
+            "Bone Density Test",
+            "Chemotherapy",
+            "Wound Care",
+            "Vaccination",
+            "Physical Therapy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG005",
+                "SurgeryDescription": "Herniated disk Surgery",
+                "SurgeryDate": "2024-06-22"
+            }
+        ],
+        "Procedures": [
+            "Herniated disk Surgery"
+        ],
+        "Medications": [
+            "Metformin",
+            "Albuterol",
+            "Heparin"
+        ],
+        "Diagnosis": "Brain Tumor"
+    },
+    {
+        "AdmissionID": "A0096",
+        "PatientID": "P003",
+        "DoctorID": "DOC038",
+        "DepartmentID": "DEP04",
+        "AdmissionDate": "2023-12-25",
+        "DischargeDate": "2024-01-01",
+        "InitialDiagnosisDescription": "Rheumatoid Arthritis",
+        "Treatments": [
+            "Allergy Testing",
+            "Blood Transfusion"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG014",
+                "SurgeryDescription": "Cyst removal",
+                "SurgeryDate": "2023-12-27"
+            },
+            {
+                "SurgeryCode": "SG010",
+                "SurgeryDescription": "Closed reduction and fixation",
+                "SurgeryDate": "2023-12-26"
+            }
+        ],
+        "Procedures": [
+            "Cyst removal",
+            "Closed reduction and fixation"
+        ],
+        "Medications": [
+            "Metformin",
+            "Aspirin",
+            "Atorvastatin"
+        ],
+        "Diagnosis": "Rheumatoid Arthritis, Diabetes"
+    },
+    {
+        "AdmissionID": "A0097",
+        "PatientID": "P055",
+        "DoctorID": "DOC006",
+        "DepartmentID": "DEP08",
+        "AdmissionDate": "2021-09-15",
+        "DischargeDate": "2021-10-06",
+        "InitialDiagnosisDescription": "Parkinson's Disease",
+        "Treatments": [
+            "Dialysis",
+            "Blood Transfusion",
+            "Physical Therapy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG014",
+                "SurgeryDescription": "Cyst removal",
+                "SurgeryDate": "2021-12-23"
+            }
+        ],
+        "Procedures": [
+            "Cyst removal"
+        ],
+        "Medications": [
+            "Paracetamol"
+        ],
+        "Diagnosis": "Parkinson's Disease"
+    },
+    {
+        "AdmissionID": "A0098",
+        "PatientID": "P003",
+        "DoctorID": "DOC014",
+        "DepartmentID": "DEP05",
+        "AdmissionDate": "2023-01-04",
+        "DischargeDate": "2023-01-30",
+        "InitialDiagnosisDescription": "Herniated Disc",
+        "Treatments": [
+            "Wound Care",
+            "Bone Density Test"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG010",
+                "SurgeryDescription": "Closed reduction and fixation",
+                "SurgeryDate": "2023-09-02"
+            },
+            {
+                "SurgeryCode": "SG004",
+                "SurgeryDescription": "Hip Replacement Surgery",
+                "SurgeryDate": "2023-09-12"
+            },
+            {
+                "SurgeryCode": "SG012",
+                "SurgeryDescription": "Lung Resection Surgery",
+                "SurgeryDate": "2023-10-16"
+            }
+        ],
+        "Procedures": [
+            "Closed reduction and fixation",
+            "Hip Replacement Surgery",
+            "Lung Resection Surgery"
+        ],
+        "Medications": [
+            "Bupropion",
+            "Simvastatin"
+        ],
+        "Diagnosis": "Herniated Disc"
+    },
+    {
+        "AdmissionID": "A0099",
+        "PatientID": "P010",
+        "DoctorID": "DOC014",
+        "DepartmentID": "DEP10",
+        "AdmissionDate": "2023-05-04",
+        "DischargeDate": "2023-05-30",
+        "InitialDiagnosisDescription": "Diabetes Mellitus",
+        "Treatments": [
+            "Endoscopy"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG014",
+                "SurgeryDescription": "Cyst removal",
+                "SurgeryDate": "2023-06-09"
+            },
+            {
+                "SurgeryCode": "SG002",
+                "SurgeryDescription": "Angioplasty",
+                "SurgeryDate": "2024-01-13"
+            },
+            {
+                "SurgeryCode": "SG008",
+                "SurgeryDescription": "Appendectomy",
+                "SurgeryDate": "2023-11-27"
+            }
+        ],
+        "Procedures": [
+            "Cyst removal",
+            "Angioplasty",
+            "Appendectomy"
+        ],
+        "Medications": [
+            "Paracetamol",
+            "Metformin",
+            "Amoxicillin"
+        ],
+        "Diagnosis": "Diabetes Mellitus"
+    },
+    {
+        "AdmissionID": "A0100",
+        "PatientID": "P010",
+        "DoctorID": "DOC019",
+        "DepartmentID": "DEP04",
+        "AdmissionDate": "2024-03-02",
+        "DischargeDate": "2024-03-13",
+        "InitialDiagnosisDescription": "Lung Cancer",
+        "Treatments": [
+            "Bone Density Test"
+        ],
+        "Surgeries": [
+            {
+                "SurgeryCode": "SG008",
+                "SurgeryDescription": "Appendectomy",
+                "SurgeryDate": "2024-03-03"
+            },
+            {
+                "SurgeryCode": "SG006",
+                "SurgeryDescription": "Colon Cancer Surgery",
+                "SurgeryDate": "2024-04-10"
+            },
+            {
+                "SurgeryCode": "SG003",
+                "SurgeryDescription": "Total Knee Replacement",
+                "SurgeryDate": "2024-04-18"
+            }
+        ],
+        "Procedures": [
+            "Appendectomy",
+            "Colon Cancer Surgery",
+            "Total Knee Replacement"
+        ],
+        "Medications": [
+            "Hydrocortisone",
+            "Metoprolol"
+        ],
+        "Diagnosis": "Lung Cancer"
+    },
+    {
+        "AdmissionID": "A0101",
+        "PatientID": "P048",
+        "DoctorID": "DOC012",
+        "DepartmentID": "DEP04",
+        "AdmissionDate": "2022-10-14",
+        "DischargeDate": "2022-10-23",
+        "Diagnosis": "HIV/AIDS",
+        "Treatments": [
+            "Physical Therapy",
+            "MRI Scan"
+        ],
+        "Procedures": [
+            "Hip Replacement Surgery",
+            "Liver Surgery"
+        ],
+        "Medications": [
+            "Tramadol"
+        ]
+    },
+    {
+        "AdmissionID": "A0102",
+        "PatientID": "P022",
+        "DoctorID": "DOC001",
+        "DepartmentID": "DEP08",
+        "AdmissionDate": "2023-02-13",
+        "DischargeDate": "2023-02-20",
+        "Diagnosis": "Gout",
+        "Treatments": [
+            "Radiation Therapy"
+        ],
+        "Procedures": [
+            "Gallbladder Removal Surgery",
+            "Thyroidectomy"
+        ],
+        "Medications": [
+            "Vitamin-D",
+            "Amoxicillin",
+            "Insulin"
+        ]
+    },
+    {
+        "AdmissionID": "A0103",
+        "PatientID": "P001",
+        "DoctorID": "DOC034",
+        "DepartmentID": "DEP03",
+        "AdmissionDate": "2023-10-31",
+        "DischargeDate": "2023-11-30",
+        "Diagnosis": "Endometriosis",
+        "Treatments": [
+            "Pulmonary Function Test"
+        ],
+        "Procedures": [
+            "Herniated disk Surgery",
+            "Laparoscopic Cholecystectomy"
+        ],
+        "Medications": [
+            "Morphine",
+            "Vitamin-D",
+            "Ciprofloxacin"
+        ]
+    },
+    {
+        "AdmissionID": "A0104",
+        "PatientID": "P013",
+        "DoctorID": "DOC031",
+        "DepartmentID": "DEP03",
+        "AdmissionDate": "2023-02-26",
+        "DischargeDate": "2023-03-17",
+        "Diagnosis": "Systemic Lupus Erythematosus",
+        "Treatments": [
+            "Pulmonary Function Test"
+        ],
+        "Procedures": [
+            "Gastric Bypass Surgery",
+            "Prostatectomy"
+        ],
+        "Medications": [
+            "Ibuprofen"
+        ]
+    },
+    {
+        "AdmissionID": "A0105",
+        "PatientID": "P012",
+        "DoctorID": "DOC026",
+        "DepartmentID": "DEP04",
+        "AdmissionDate": "2022-06-27",
+        "DischargeDate": "2022-07-19",
+        "Diagnosis": "Prostate Cancer",
+        "Treatments": [
+            "MRI Scan"
+        ],
+        "Procedures": [
+            "Lung Resection Surgery"
+        ],
+        "Medications": [
+            "Hydrocortisone",
+            "Heparin",
+            "Hydrocortisone"
+        ]
+    },
+    {
+        "AdmissionID": "A0106",
+        "PatientID": "P051",
+        "DoctorID": "DOC034",
+        "DepartmentID": "DEP10",
+        "AdmissionDate": "2023-10-09",
+        "DischargeDate": "2023-10-24",
+        "Diagnosis": "Migraine",
+        "Treatments": [
+            "X-ray",
+            "MRI Scan"
+        ],
+        "Procedures": [
+            "Prostatectomy"
+        ],
+        "Medications": [
+            "Bupropion"
+        ]
+    },
+    {
+        "AdmissionID": "A0107",
+        "PatientID": "P037",
+        "DoctorID": "DOC038",
+        "DepartmentID": "DEP09",
+        "AdmissionDate": "2023-07-30",
+        "DischargeDate": "2023-08-04",
+        "Diagnosis": "Kidney Stones",
+        "Treatments": [
+            "Surgical Procedure",
+            "Chemotherapy"
+        ],
+        "Procedures": [
+            "Hip Replacement Surgery",
+            "Total Knee Replacement"
+        ],
+        "Medications": [
+            "Clopidogrel"
+        ]
+    },
+    {
+        "AdmissionID": "A0108",
+        "PatientID": "P030",
+        "DoctorID": "DOC003",
+        "DepartmentID": "DEP02",
+        "AdmissionDate": "2022-12-01",
+        "DischargeDate": "2022-12-21",
+        "Diagnosis": "Gout",
+        "Treatments": [
+            "Dialysis",
+            "Colonoscopy",
+            "Wound Care"
+        ],
+        "Procedures": [
+            "Angioplasty",
+            "Gastric Bypass Surgery"
+        ],
+        "Medications": [
+            "Morphine"
+        ]
+    },
+    {
+        "AdmissionID": "A0109",
+        "PatientID": "P057",
+        "DoctorID": "DOC017",
+        "DepartmentID": "DEP04",
+        "AdmissionDate": "2022-03-10",
+        "DischargeDate": "2022-03-23",
+        "Diagnosis": "Hyperthyroidism",
+        "Treatments": [
+            "MRI Scan"
+        ],
+        "Procedures": [
+            "Angioplasty",
+            "Gastric Bypass Surgery"
+        ],
+        "Medications": [
+            "Heparin",
+            "Insulin"
+        ]
+    },
+    {
+        "AdmissionID": "A0110",
+        "PatientID": "P024",
+        "DoctorID": "DOC004",
+        "DepartmentID": "DEP02",
+        "AdmissionDate": "2022-09-29",
+        "DischargeDate": "2022-10-12",
+        "Diagnosis": "Obstructive Sleep Apnea",
+        "Treatments": [
+            "Blood Transfusion"
+        ],
+        "Procedures": [
+            "Lung Resection Surgery",
+            "Orthopedic Trauma Surgery"
+        ],
+        "Medications": [
+            "Paracetamol",
+            "Enoxaparin"
+        ]
+    },
+    {
+        "AdmissionID": "A0111",
+        "PatientID": "P016",
+        "DoctorID": "DOC040",
+        "DepartmentID": "DEP03",
+        "AdmissionDate": "2023-01-11",
+        "DischargeDate": "2023-01-27",
+        "Diagnosis": "Cataracts",
+        "Treatments": [
+            "CT Scan",
+            "Endoscopy",
+            "Surgical Procedure"
+        ],
+        "Procedures": [
+            "Kidney Surgery"
+        ],
+        "Medications": [
+            "Ciprofloxacin",
+            "Aspirin"
+        ]
+    },
+    {
+        "AdmissionID": "A0112",
+        "PatientID": "P058",
+        "DoctorID": "DOC036",
+        "DepartmentID": "DEP05",
+        "AdmissionDate": "2022-02-07",
+        "DischargeDate": "2022-03-06",
+        "Diagnosis": "Coronary Artery Disease",
+        "Treatments": [
+            "Wound Care",
+            "Chemotherapy",
+            "MRI Scan"
+        ],
+        "Procedures": [
+            "Coronary Artery Bypass Surgery"
+        ],
+        "Medications": [
+            "Insulin",
+            "Amlodipine"
+        ]
+    },
+    {
+        "AdmissionID": "A0113",
+        "PatientID": "P008",
+        "DoctorID": "DOC013",
+        "DepartmentID": "DEP06",
+        "AdmissionDate": "2022-11-27",
+        "DischargeDate": "2022-12-17",
+        "Diagnosis": "Gallstones",
+        "Treatments": [
+            "Cardiac Catheterization"
+        ],
+        "Procedures": [
+            "Cyst removal",
+            "Prostatectomy"
+        ],
+        "Medications": [
+            "Amoxicillin",
+            "Hydrocortisone",
+            "Prednisone"
+        ]
+    }
+]

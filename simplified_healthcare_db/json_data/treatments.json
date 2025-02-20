@@ -1,0 +1,82 @@
+[
+    {
+        "TreatmentCode": "TR001",
+        "Description": "Blood Transfusion"
+    },
+    {
+        "TreatmentCode": "TR002",
+        "Description": "Physical Therapy"
+    },
+    {
+        "TreatmentCode": "TR003",
+        "Description": "Chemotherapy"
+    },
+    {
+        "TreatmentCode": "TR004",
+        "Description": "Radiation Therapy"
+    },
+    {
+        "TreatmentCode": "TR005",
+        "Description": "Dialysis"
+    },
+    {
+        "TreatmentCode": "TR006",
+        "Description": "Electrocardiogram"
+    },
+    {
+        "TreatmentCode": "TR007",
+        "Description": "MRI Scan"
+    },
+    {
+        "TreatmentCode": "TR008",
+        "Description": "CT Scan"
+    },
+    {
+        "TreatmentCode": "TR009",
+        "Description": "Ultrasound"
+    },
+    {
+        "TreatmentCode": "TR010",
+        "Description": "X-ray"
+    },
+    {
+        "TreatmentCode": "TR011",
+        "Description": "Vaccination"
+    },
+    {
+        "TreatmentCode": "TR012",
+        "Description": "Allergy Testing"
+    },
+    {
+        "TreatmentCode": "TR013",
+        "Description": "Wound Care"
+    },
+    {
+        "TreatmentCode": "TR014",
+        "Description": "Pain Management"
+    },
+    {
+        "TreatmentCode": "TR015",
+        "Description": "Surgical Procedure"
+    },
+    {
+        "TreatmentCode": "TR016",
+        "Description": "Cardiac Catheterization"
+    },
+    {
+        "TreatmentCode": "TR017",
+        "Description": "Endoscopy"
+    },
+    {
+        "TreatmentCode": "TR018",
+        "Description": "Colonoscopy"
+    },
+    {
+        "TreatmentCode": "TR019",
+        "Description": "Pulmonary Function Test"
+    },
+    {
+        "TreatmentCode": "TR020",
+        "Description": "Bone Density Test"
+    }
+]

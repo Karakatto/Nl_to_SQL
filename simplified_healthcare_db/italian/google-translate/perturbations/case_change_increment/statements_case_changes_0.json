@@ -1,0 +1,1002 @@
+[
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca tutti i pazienti.",
+        "q_id": 1
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca tutti i medici.",
+        "q_id": 2
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca tutte le ammissioni.",
+        "q_id": 3
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Conta il numero di pazienti femminili.",
+        "q_id": 4
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Conta i pazienti per sesso.",
+        "q_id": 5
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Confronta i ricoveri medi nel primo e nel secondo semestre di ogni anno.",
+        "q_id": 6
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Quante scansioni MRI e CT sono state eseguite nel corso degli anni?",
+        "q_id": 7
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Quante vaccinazioni sono state somministrate nel corso degli anni?",
+        "q_id": 8
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca tutti i dipartimenti insieme al nome del capo del dipartimento.",
+        "q_id": 9
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca tutti i dipartimenti che hanno \"ologia\" nel loro nome.",
+        "q_id": 10
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca tutti i medici maschi e i loro indirizzi.",
+        "q_id": 11
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca tutte le procedure per le ammissioni eseguite dal Dr. Olivia Davis.",
+        "q_id": 12
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca tutte le procedure che includono la parola \"intervento chirurgico\".",
+        "q_id": 13
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca tutti i trattamenti per la paziente Linda Garcia.",
+        "q_id": 14
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca nomi e contatti di tutti i medici maschi.",
+        "q_id": 15
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca le date di ammissione e le date di scarico di tutte le ammissioni per il paziente James Miller.",
+        "q_id": 16
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elencare le date di ammissione e le date di scarico dei pazienti ricoverati nel dipartimento di pediatria.",
+        "q_id": 17
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi del dipartimento e i capi dipartimenti che hanno un numero di telefono contenente \"555\".",
+        "q_id": 18
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca la diagnosi e i trattamenti per l'ammissione della paziente Barbara Martinez.",
+        "q_id": 19
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca gli indirizzi e -mail e i numeri di telefono di medici che hanno ammesso pazienti con diagnosi di \"ipertensione\".",
+        "q_id": 20
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca le e -mail di tutti i medici specializzati in neurologia.",
+        "q_id": 21
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca le e -mail di tutti i pazienti.",
+        "q_id": 22
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e gli indirizzi di tutti i medici maschi.",
+        "q_id": 23
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e gli indirizzi dei pazienti che sono stati ammessi con una diagnosi di \"BPCO\".",
+        "q_id": 24
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e gli indirizzi dei pazienti che sono stati trattati dal Dr. Mia Wilson.",
+        "q_id": 25
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e le date di ammissione dei pazienti ricoverati nel dipartimento di neurologia.",
+        "q_id": 26
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e le date di ammissione dei pazienti che sono stati dimessi entro 3 giorni dall'ammissione.",
+        "q_id": 27
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e le informazioni di contatto del contatto di emergenza del paziente denominato \"Linda Garcia\".",
+        "q_id": 28
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elencare i nomi e le diagnosi di pazienti ammessi dal Dr. Ava Rodriguez nel dipartimento Pediatria.",
+        "q_id": 29
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e le diagnosi di pazienti ammessi nelle ultime 8 settimane.",
+        "q_id": 30
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e le diagnosi di pazienti che sono stati ammessi sia con \"diabete\" che con \"ipertensione\".",
+        "q_id": 31
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e gli indirizzi e -mail di tutte le dottori femminili.",
+        "q_id": 32
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e gli indirizzi e -mail dei medici che hanno ammesso i pazienti nel dipartimento di oncologia.",
+        "q_id": 33
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e gli indirizzi e -mail dei pazienti il ​​cui contatto di emergenza è il coniuge.",
+        "q_id": 34
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e i numeri di telefono di tutti i medici maschi.",
+        "q_id": 35
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e i numeri di telefono di tutti i pazienti di età superiore ai 65 anni.",
+        "q_id": 36
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e i numeri di telefono di tutti i pazienti che sono stati ammessi nel gennaio 2024.",
+        "q_id": 37
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e i numeri di telefono di medici che hanno curato i pazienti con \"ipertensione\".",
+        "q_id": 38
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e i numeri di telefono di pazienti che sono stati ammessi ai dipartimenti di emergenza e ortopedica.",
+        "q_id": 39
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e i numeri di telefono di pazienti che hanno ricevuto terapia fisica.",
+        "q_id": 40
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e i numeri di telefono di pazienti che sono stati ammessi nel gennaio 2023 da medici specializzati in \"medicina di emergenza\".",
+        "q_id": 41
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e i numeri di telefono di pazienti il ​​cui contatto di emergenza è il fratello o la sorella.",
+        "q_id": 42
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e i numeri di telefono di pazienti il ​​cui nome di contatto di emergenza inizia con \"John\".",
+        "q_id": 43
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e le specializzazioni dei medici che hanno ammesso i pazienti al dipartimento di \"neurologia\".",
+        "q_id": 44
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi di tutti i dipartimenti che hanno la parola \"emergenza\" nel loro nome.",
+        "q_id": 45
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi di tutti i medici che hanno ammesso i pazienti sia nei dipartimenti di oncologia che di gastroenterologia.",
+        "q_id": 46
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi di tutti i medici specializzati in cardiologia.",
+        "q_id": 47
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi di tutte le pazienti di sesso femminile.",
+        "q_id": 48
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi di tutti i pazienti che hanno il \"diabete\" nella loro diagnosi.",
+        "q_id": 49
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi di tutti i pazienti che sono stati ammessi dal Dr. Ethan Martinez.",
+        "q_id": 50
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi di tutti i pazienti che sono stati ammessi nel dipartimento di pediatria.",
+        "q_id": 51
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi dei medici che non hanno ammesso alcun paziente negli ultimi sei mesi.",
+        "q_id": 52
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi dei pazienti che sono stati ammessi al dipartimento di \"neurologia\" e hanno una diagnosi di \"epilessia\".",
+        "q_id": 53
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca le procedure per l'ammissione della paziente Barbara Brown.",
+        "q_id": 54
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recuperare ID di ammissione e nomi di pazienti che hanno ricevuto più trattamenti;",
+        "q_id": 55
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recuperare una durata media dei ricoveri nel 2022, 2023 e 2024;",
+        "q_id": 56
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera i nomi e le date di ammissione di tutti i pazienti ammessi negli ultimi 3 mesi.",
+        "q_id": 57
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera i nomi e le date di ammissione di tutti i pazienti ammessi al dipartimento di neurologia nel 2023.",
+        "q_id": 58
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera i nomi e le date di ammissione dei pazienti che sono stati ammessi nel maggio 2024 e dimessi nel giugno 2024.",
+        "q_id": 59
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera i nomi e gli indirizzi e -mail dei medici che hanno ammesso i pazienti nel primo semestre 2023 e nel primo semestre 2024.",
+        "q_id": 60
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera i nomi e gli indirizzi e -mail dei medici che hanno ammesso pazienti in dipartimenti diversi dalla loro specializzazione.",
+        "q_id": 61
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera i nomi e i numeri di telefono dei pazienti ammessi da medici specializzati in \"cardiologia\".",
+        "q_id": 62
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera i nomi e i numeri di telefono di pazienti che sono stati ammessi da medici maschi e femmine nell'ultimo anno.",
+        "q_id": 63
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera i nomi e le specializzazioni dei medici che hanno ammesso i pazienti nel gennaio 2024.",
+        "q_id": 64
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera i nomi e le specializzazioni dei medici che hanno ammesso i pazienti nel gennaio 2024.",
+        "q_id": 65
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera i nomi di tutti i dipartimenti insieme ai nomi del loro capo dipartimento, dove il capo del dipartimento è specializzato in \"Neurologia\".",
+        "q_id": 66
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra tutte le ammissioni per il paziente Richard Martinez.",
+        "q_id": 67
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra tutti i trattamenti per l'ammissione del paziente Richard Martinez.",
+        "q_id": 68
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra tutti i trattamenti che includono la parola \"terapia\".",
+        "q_id": 69
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra il nome e il numero di telefono di tutti i pazienti ammessi nel 2023",
+        "q_id": 70
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra gli indirizzi di tutti i medici che hanno la parola \"strada\" nel loro indirizzo.",
+        "q_id": 71
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra la data di ammissione e la data di scarico per l'ammissione della paziente Barbara Brown.",
+        "q_id": 72
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra le date di ammissione e i medici per i pazienti ricoverati nel dipartimento di pediatria.",
+        "q_id": 73
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra le date di ammissione per i pazienti ammessi nel 2023.",
+        "q_id": 74
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra le date di ammissione di tutti i pazienti ammessi al dipartimento di emergenza.",
+        "q_id": 75
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra la data di nascita del Dr. Michael Brown.",
+        "q_id": 76
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra le diagnosi e le descrizioni del trattamento per i pazienti ammessi dalla dott.ssa Emma Young.",
+        "q_id": 77
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra la diagnosi e i farmaci per l'ammissione del paziente Robert Rodriguez.",
+        "q_id": 78
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra la diagnosi di tutte le ammissioni per la paziente Elizabeth Miller.",
+        "q_id": 79
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra gli indirizzi e -mail di tutte le donne pazienti.",
+        "q_id": 80
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i farmaci per l'ammissione del paziente Jennifer Miller.",
+        "q_id": 81
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i farmaci per le ammissioni fatte nel dipartimento di radiologia.",
+        "q_id": 82
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i farmaci al momento dell'ammissione della paziente Margaret Jones.",
+        "q_id": 83
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra il nome e l'e -mail del capo del dipartimento di cardiologia.",
+        "q_id": 84
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e gli indirizzi dei pazienti che sono stati ammessi negli ultimi 6 mesi.",
+        "q_id": 85
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e le date di ammissione di tutti i pazienti che sono stati ammessi nello stesso mese di \"Joseph Garcia\".",
+        "q_id": 86
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e le date di ammissione dei pazienti che hanno subito almeno un intervento chirurgico.",
+        "q_id": 87
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e le date di ammissione dei pazienti che sono stati ammessi negli anni 2022 e 2023 e di nuovo nel primo semestre del 2024.",
+        "q_id": 88
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e le date di ammissione dei pazienti che sono stati ammessi nello stesso mese di \"Joseph Garcia\".",
+        "q_id": 89
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e le date di ammissione dei pazienti che sono stati ammessi nello stesso mese in cui sono stati dimessi.",
+        "q_id": 90
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e le date di nascita dei medici che hanno ammesso i pazienti nel 2023.",
+        "q_id": 91
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e le diagnosi di ammissioni per il paziente \"Jennifer Brown\" durante l'ammissione in corso.",
+        "q_id": 92
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e le diagnosi di pazienti ammessi dal Dr. Ava Rodriguez nel dipartimento Pediatria.",
+        "q_id": 93
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e gli indirizzi e -mail di tutti i medici che vivono a Metropolis.",
+        "q_id": 94
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e gli indirizzi e -mail dei medici che hanno ammesso pazienti con diagnosi contenenti \"diabete\".",
+        "q_id": 95
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e gli indirizzi e -mail dei medici che hanno ammesso pazienti con diagnosi contenenti \"diabete\".",
+        "q_id": 96
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e i capi dei dipartimenti che hanno un numero di telefono elencato.",
+        "q_id": 97
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e i numeri di telefono di tutti i medici che hanno ammesso i pazienti nel dipartimento di oncologia.",
+        "q_id": 98
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e i numeri di telefono di tutti i medici specializzati in pediatria.",
+        "q_id": 99
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e i numeri di telefono di tutti i pazienti che sono stati ammessi ai dipartimenti di emergenza e ortopedica.",
+        "q_id": 100
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e i numeri di telefono di pazienti che sono stati ammessi sia ai dipartimenti di oncologia che di radiologia.",
+        "q_id": 101
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e i numeri di telefono di pazienti che sono stati ammessi al dipartimento di emergenza nell'ultimo anno.",
+        "q_id": 102
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e i numeri di telefono di pazienti che sono stati ammessi da medici specializzati in \"ortopedia\".",
+        "q_id": 103
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e le specializzazioni di tutti i medici che hanno ammesso i pazienti al dipartimento di oncologia.",
+        "q_id": 104
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e le specializzazioni dei medici che hanno ammesso i pazienti sia nei dipartimenti neurologici che di oncologia.",
+        "q_id": 105
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e le specializzazioni dei medici che sono nati prima del 1970.",
+        "q_id": 106
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e la data di nascita dei pazienti che hanno ricevuto più di un farmaco durante lo stesso ricovero ed elenca i farmaci che hanno ricevuto.",
+        "q_id": 107
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi di tutti i dipartimenti che hanno un capo dipartimento specializzato in cardiologia.",
+        "q_id": 108
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi di tutti i dipartimenti.",
+        "q_id": 109
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi di tutti i pazienti maschi.",
+        "q_id": 110
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi di tutti i pazienti ammessi nel gennaio 2024 insieme alle date di ammissione e alle date di dimissione.",
+        "q_id": 111
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi di tutti i pazienti che hanno 50 anni o più.",
+        "q_id": 112
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi di tutti i pazienti che sono stati ammessi nel \"2023-11-03\".",
+        "q_id": 113
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi dei medici e le date di ammissione per il paziente \"Linda Johnson\" ammessi nel 2023.",
+        "q_id": 114
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi dei medici e le loro specializzazioni che hanno ammesso i pazienti con \"ictus\".",
+        "q_id": 115
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi dei medici nati tra il 1970 e il 1980.",
+        "q_id": 116
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi dei medici specializzati in neurologia.",
+        "q_id": 117
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi, le date di ammissione e le diagnosi di ammissioni che includono la parola \"malattia\".",
+        "q_id": 118
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra il numero di telefono e l'indirizzo di Elizabeth Jones.",
+        "q_id": 119
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i numeri di telefono e gli indirizzi e -mail di tutti i dipartimenti.",
+        "q_id": 120
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra le procedure per tutte le ammissioni eseguite dal Dr. Emily White.",
+        "q_id": 121
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra le specializzazioni di tutti i medici che hanno la parola \"intervento chirurgico\" nella loro specializzazione.",
+        "q_id": 122
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i trattamenti e le procedure per l'ammissione della paziente Maria Rodriguez.",
+        "q_id": 123
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qual è la durata media del ricovero in ospedale dei pazienti che hanno ricevuto interventi chirurgici raggruppati per anno?",
+        "q_id": 124
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qual è la durata media dei ricoveri?",
+        "q_id": 125
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Trova tutti i pazienti con BPCO e recupera i loro farmaci e il loro dipartimento",
+        "q_id": 126
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Gruppo il soggiorno medio dei pazienti mediante specializzazione del medico ammessa, dal più lungo al più breve;",
+        "q_id": 127
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Quante interventi di sostituzione dell'anca sono stati eseguiti in generale e quali farmaci hanno assunto questi pazienti?",
+        "q_id": 128
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Quante ammissioni in corso ci sono e in quale dipartimento?",
+        "q_id": 129
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Quanti pazienti hanno avuto interventi chirurgici nel 2022?",
+        "q_id": 130
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca tutti gli anestesisti con età e sesso e recupera i pazienti che hanno ammesso e con quali farmaci;",
+        "q_id": 131
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca tutti i pazienti ammessi nel 2024 raggruppati per diagnosi, dalla più diffusa;",
+        "q_id": 132
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e gli indirizzi e -mail dei medici che hanno ammesso i pazienti sia nei dipartimenti di oncologia che di gastroenterologia.",
+        "q_id": 133
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e i numeri di telefono di pazienti che sono stati ammessi da medici maschi e femmine.",
+        "q_id": 134
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e la specializzazione dei medici che hanno ammesso i pazienti che hanno assunto l'aspirina come farmaco;",
+        "q_id": 135
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi, le diagnosi e i farmaci dei pazienti ammessi dal Dr. Benjamin Walker nel dipartimento \"oncologia\".",
+        "q_id": 136
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi, le diagnosi e i trattamenti per i pazienti ammessi con la parola \"infezione\" nella loro diagnosi.",
+        "q_id": 137
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera tutti i nomi, le e -mail e i numeri di telefono di medici, raggruppati per dipartimento.",
+        "q_id": 138
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recuperare le informazioni di contatto di tutti i pazienti ammessi dai cardiologi;",
+        "q_id": 139
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera i nomi e i numeri di telefono di tutti i pazienti che sono stati ammessi nello stesso dipartimento di \"James Garcia\" durante la sua prima ammissione.",
+        "q_id": 140
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra tutti i farmaci prescritti dal Dr. Mia Wilson e i nomi e le date di nascita dei pazienti che li hanno ricevuti.",
+        "q_id": 141
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e le date di ammissione dei pazienti che sono stati ammessi da medici specializzati in cardiologia.",
+        "q_id": 142
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi di tutti i medici che hanno ammesso i pazienti nel dipartimento ortopedia.",
+        "q_id": 143
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi dei dipartimenti e il numero totale di ammissioni per ciascuno negli ultimi 2 mesi.",
+        "q_id": 144
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi dei dipartimenti e il numero totale di medici in ciascuno.",
+        "q_id": 145
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi dei medici e il conteggio dei pazienti che hanno ammesso a cui è stata diagnosticata \"ipertensione\".",
+        "q_id": 146
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi dei medici e il numero totale di diversi pazienti che hanno ammesso.",
+        "q_id": 147
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi dei pazienti e dei loro medici specializzati in cardiologia.",
+        "q_id": 148
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi, le date di ammissione e i farmaci per i pazienti ammessi dal Dr. Ethan Martinez con la parola \"intervento chirurgico\" nelle loro procedure.",
+        "q_id": 149
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi, le date di ammissione e i farmaci per i pazienti ammessi dai medici con la specializzazione \"pediatria\".",
+        "q_id": 150
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi, le date di ammissione e le procedure per i pazienti ammessi nel gennaio 2023 e dimesso nel febbraio 2023.",
+        "q_id": 151
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra il numero totale di ammissioni per ciascun dipartimento.",
+        "q_id": 152
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qual è il mese dell'anno in cui in media ci sono più ammissioni?",
+        "q_id": 153
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qual è il farmaco più prescritto?",
+        "q_id": 154
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qual è la chirurgia più frequentemente eseguita in generale?",
+        "q_id": 155
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Trova pazienti che ricevono più di un farmaco e un gruppo lì per dipartimento;",
+        "q_id": 156
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Quanti pazienti assumono più di 2 farmaci e chi è il loro medico e dipartimento?",
+        "q_id": 157
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Quanti pazienti sono stati ammessi a maggio e giugno 2024?Elenca i loro nomi, ID, ammettendo medici e dipartimento.",
+        "q_id": 158
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Quanti pazienti con colpi hanno ricevuto aspirina e chi era il prescrittore?",
+        "q_id": 159
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca tutti i pazienti che assumono eparina o enoxaparina e il nome dei medici che li hanno ammessi e il dipartimento in cui sono stati ammessi;",
+        "q_id": 160
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca tutti i pazienti che sono stati ammessi più di una volta.",
+        "q_id": 161
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e gli indirizzi e -mail di tutti i medici che hanno ammesso più di 1 paziente nel dipartimento di cardiologia.",
+        "q_id": 162
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e gli indirizzi e -mail dei medici che hanno ammesso più di 2 pazienti.",
+        "q_id": 163
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e i numeri di telefono di tutti i pazienti che sono stati ammessi più di una volta nel dipartimento di cardiologia.",
+        "q_id": 164
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e i numeri di telefono di pazienti che sono stati ammessi più di una volta nel dipartimento di cardiologia.",
+        "q_id": 165
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e i numeri di telefono di pazienti a cui è stato diagnosticato il cancro più di una volta.",
+        "q_id": 166
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca gli ID pazienti dei pazienti che sono stati ammessi più di una volta.",
+        "q_id": 167
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera i nomi e le specializzazioni dei medici che hanno ammesso più di 5 pazienti.",
+        "q_id": 168
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera i nomi dei pazienti che sono stati ammessi al dipartimento di \"emergenza\" più di una volta.",
+        "q_id": 169
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera il numero di prescrizioni di diazepam raggruppate per anno e dipartimenti.",
+        "q_id": 170
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra le diagnosi e i farmaci dei pazienti che sono stati ammessi due o più volte.",
+        "q_id": 171
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e gli indirizzi e -mail dei medici che hanno ammesso più di 3 pazienti negli ultimi 2 anni.",
+        "q_id": 172
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi di tutti i medici che hanno ammesso più di 5 pazienti.",
+        "q_id": 173
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Chi è il medico che ha ammesso il paziente con il ricovero più lungo e qual è il nome, la patologia, i farmaci e il dipartimento del paziente?",
+        "q_id": 174
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca tutti i medici che hanno ammesso i pazienti, raggruppati dal Dipartimento di ammissione, e includono il nome del capo di ciascun dipartimento.",
+        "q_id": 175
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi del dipartimento, i capi dipartimenti e il numero di ammissioni gestite da ciascun capo del dipartimento, in cui il numero di ammissioni è superiore a 3.",
+        "q_id": 176
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e gli indirizzi dei pazienti che sono stati ammessi più di due volte.",
+        "q_id": 177
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e le date di ammissione dei pazienti che sono stati ammessi a più di un dipartimento.",
+        "q_id": 178
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e le informazioni di contatto dei pazienti che sono stati ammessi da più di un medico.",
+        "q_id": 179
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elencare i nomi e le informazioni di contatto dei pazienti che sono stati ammessi in più dipartimenti.",
+        "q_id": 180
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e gli indirizzi e -mail dei medici che hanno ammesso pazienti con diagnosi multiple.",
+        "q_id": 181
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e i numeri di telefono di pazienti che sono stati ammessi da più di tre diversi medici.",
+        "q_id": 182
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e i numeri di telefono di pazienti che sono stati ammessi da medici di più dipartimenti.",
+        "q_id": 183
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi e le specializzazioni dei medici che hanno ammesso pazienti in più dipartimenti.",
+        "q_id": 184
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi dei dipartimenti e il numero di ammissioni nel 2022 e 2023, in cui il numero di ammissioni è superiore a 10.",
+        "q_id": 185
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi dei medici che hanno ammesso più di 5 pazienti.",
+        "q_id": 186
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca i nomi dei pazienti e le loro diagnosi, in cui la diagnosi include il \"diabete\" ed è stata registrata più di due volte.",
+        "q_id": 187
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera ID, nome e informazioni di contatto del medico che ha prescritto il maggior numero di scansioni CT e MRI e contali all'anno",
+        "q_id": 188
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera tutte le informazioni del medico che ha ammesso il maggior numero di pazienti e tutti i farmaci prescritti.",
+        "q_id": 189
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e le date di ammissione dei pazienti che sono stati ricoverati in più dipartimenti nello stesso anno.",
+        "q_id": 190
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e le date di nascita dei pazienti a cui è stato diagnosticato il diabete più di una volta e recuperare i nomi dei medici che li hanno ammessi.",
+        "q_id": 191
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e gli indirizzi e -mail di tutti i medici che hanno ammesso più di 2 pazienti in generale, raggruppate per dipartimento, incluso il conteggio di pazienti di sesso femminile per dipartimento.",
+        "q_id": 192
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e i numeri di telefono di pazienti che sono stati ammessi da almeno due diversi medici.",
+        "q_id": 193
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi e i numeri di telefono di pazienti che sono stati ammessi sia dal Dr. Daniel Lee che dal Dr. Lily Baker.",
+        "q_id": 194
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi dei pazienti e dei loro medici, in cui il paziente è stato ammesso più di 3 volte.",
+        "q_id": 195
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi dei pazienti e i loro farmaci, in cui il farmaco include \"antibiotico\" ed è stato registrato più di una volta.",
+        "q_id": 196
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostra i nomi dei pazienti che hanno avuto più interventi chirurgici.",
+        "q_id": 197
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qual era il farmaco più prescritto nel 2023?",
+        "q_id": 198
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qual è stato il farmaco più prescritto nel 2023?",
+        "q_id": 199
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Quali medici hanno ammesso i pazienti con le ammissioni più lunghe?",
+        "q_id": 200
+    }
+]

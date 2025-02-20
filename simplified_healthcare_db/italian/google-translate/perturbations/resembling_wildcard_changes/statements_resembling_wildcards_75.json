@@ -1,0 +1,1002 @@
+[
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&l&nca tu77! ! p@z!&n7i.",
+        "q_id": 1
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&l&nca 7ut7i ! m&d!ci.",
+        "q_id": 2
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&l&nc@ tu77& l& @mm!$$!0ni.",
+        "q_id": 3
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "C0n7@ !1 numero d! p@zien7! f&mm!n!1!.",
+        "q_id": 4
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "C0nta ! p@z!&n7! p&r $&$$0.",
+        "q_id": 5
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "C0nfr0n7@ ! ric0ver! med! n&1 pr!m0 & n&1 $&cond0 $em&s7r& d! ogni @nn0.",
+        "q_id": 6
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@nt& $c@ns!on! MR! & C7 $0n0 $7@7& &$&gu!t& n&1 c0r$o d&g1! @nn!?",
+        "q_id": 7
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@n7& vacc!naz!0n! $on0 $7@7e $0mm!n!$7r@te n&1 c0r$o d&gli @nn!?",
+        "q_id": 8
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nca 7ut7! ! d!p@r7!ment! !n$!&me a1 n0m& del c@p0 d&1 d!p@r7im&n70.",
+        "q_id": 9
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7u7t! ! d!p@r7!m&nti ch& h@nn0 \"01og!@\" nel 10r0 n0m&.",
+        "q_id": 10
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enc@ 7u77! ! med!c! m@schi & ! l0r0 indir!zzi.",
+        "q_id": 11
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nca tut7e le pr0c&dur& p&r le @mm!$$!0n! &$egu!7& d@1 Dr. 01!v!@ D@vi$.",
+        "q_id": 12
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7ut7e 1& pr0c&dur& ch& !nc1ud0n0 la p@ro1a \"!n7&rv&nt0 ch!rurgico\".",
+        "q_id": 13
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7ut7i i 7ra7t@m&n7! p&r l@ p@z!&n7& 1inda G@rc!@.",
+        "q_id": 14
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ nom! & cont@7ti di 7ut7! ! m&dic! m@$ch!.",
+        "q_id": 15
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ l& d@t& d! @mm!$$!0n& e 1& d@7& d! $c@r!c0 d! tu7te 1& @mmi$s!0n! p&r !l p@z!en7& J@m&$ M!11&r.",
+        "q_id": 16
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "E1&ncar& l& d@7& di @mm!$$i0n& & 1& da7& di sc@ric0 de! p@zi&nt! ric0ver@7! n&1 d!p@r7!m&n70 di p&d!@7r!@.",
+        "q_id": 17
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enc@ i n0mi d&1 d!par7!ment0 & ! c@p! dipar7!m&n7! ch& hanno un num&r0 di t&1&f0n0 c0n7&n&n7& \"555\".",
+        "q_id": 18
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 1@ d!@gn0$! & ! 7r@t7@m&nt! p&r l'@mm!$$!0n& d&l1@ pazien7& B@rb@r@ Mar7!nez.",
+        "q_id": 19
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ g1! !nd!rizz! & -ma!1 & ! num&r! d! 7e1&f0n0 di med!c! ch& h@nn0 @mm&$$o paz!&n7! c0n d!@gn0$! di \"!p&r7&ns!0n&\".",
+        "q_id": 20
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nca 1& & -ma!1 d! 7u7ti ! m&d!c! $p&c!@1!zz@t! !n n&urologi@.",
+        "q_id": 21
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 1& & -mai1 di 7u77! ! p@z!&nti.",
+        "q_id": 22
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&lenc@ ! nom! & gl! !nd!rizz! d! 7u77! ! m&d!ci m@sch!.",
+        "q_id": 23
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enc@ ! n0m! & g1! ind!r!zzi d&i p@z!&nt! ch& $0n0 $tati @mme$$! c0n una d!agn0$i d! \"BPC0\".",
+        "q_id": 24
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&l&nc@ ! n0m! & g1i !ndirizz! de! paz!&n7! ch& $0no $t@7! tr@77@7! d@1 Dr. M!a W!1s0n.",
+        "q_id": 25
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&l&nc@ ! n0mi & l& da7e di @mm!s$!0ne d&! p@z!&nt! r!cov&r@t! n&1 d!p@rtim&nt0 d! n&ur010g!a.",
+        "q_id": 26
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&l&nc@ ! n0m! e 1e da7& di @mm!s$!0n& d&! paz!en7! ch& son0 s7@t! d!m&s$! &n7r0 3 g!0rni d@1l'amm!$$!0n&.",
+        "q_id": 27
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "E1&nc@ ! n0m! & 1e !nf0rmaz!0n! d! con7@770 de1 c0n7@770 di em&rgenza d&l p@z!en7& d&n0min@70 \"1ind@ G@rci@\".",
+        "q_id": 28
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enc@re i n0m! e 1& d!agn0$i d! p@z!ent! @mm&$s! d@1 Dr. Ava Rodr!gu&z n&1 dip@rtim&n70 P&d!@7r!@.",
+        "q_id": 29
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "E1&nc@ ! n0m! & 1& di@gn0$i di pazien7! amm&s$! n&lle u17!m& 8 $&77!mane.",
+        "q_id": 30
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! nomi & l& d!agn0$! d! paz!&nt! ch& $0n0 $t@7! amm&$$! $!a con \"di@b&7e\" ch& c0n \"!p&r7&n$!on&\".",
+        "q_id": 31
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & gl! !nd!r!zz! & -ma!1 d! 7u77e 1e d07t0r! f&mm!n!1i.",
+        "q_id": 32
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ i n0mi e g1i !ndir!zz! & -ma!1 d&! m&d!ci che h@nn0 amm&s$0 ! p@z!&nt! ne1 dip@r7!men70 d! 0nc010g!@.",
+        "q_id": 33
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! nom! e g1! !ndir!zz! & -m@il d&! p@z!&nti !1 ​​cu! con7@t70 di &m&rg&nza è il c0n!ug&.",
+        "q_id": 34
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&l&nca ! n0m! & ! num&r! di 7&l&f0n0 d! tu77! i m&d!c! m@$ch!.",
+        "q_id": 35
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enc@ ! nom! e ! num&ri d! t&1&fon0 di 7u7t! ! paz!&n7! d! &7à $up&ri0re @! 65 @nn!.",
+        "q_id": 36
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enc@ ! nomi & i num&r! d! 7e1efon0 d! tu77! i p@z!&n7! ch& $on0 $7@7i @mmes$i ne1 g&nn@!0 2024.",
+        "q_id": 37
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "E1&nc@ i n0mi e ! num&ri d! 7el&f0n0 d! m&dic! che h@nn0 cura70 ! p@z!&n7! con \"!p&r7&ns!0ne\".",
+        "q_id": 38
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&l&nc@ ! n0mi & ! num&r! d! 7&1&f0n0 d! paz!&n7! ch& sono s7@7i @mm&s$! @! dip@r7!m&nt! d! &m&rg&nz@ & or70ped!ca.",
+        "q_id": 39
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nca ! n0m! & ! numer! d! 7&1&fon0 d! p@zi&n7! ch& h@nno ric&vu70 7&r@pi@ f!$!c@.",
+        "q_id": 40
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&l&nc@ i n0m! & ! num&ri di t&lef0no d! p@z!&n7i ch& $0n0 $7a7! amme$s! n&l g&nnai0 2023 da m&d!c! sp&c!a1!zza7i !n \"m&dic!n@ d! em&rg&nz@\".",
+        "q_id": 41
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "E1&nca ! nom! & ! num&r! d! 7&l&f0no d! paz!&nt! i1 ​​cu! c0n7@770 d! &m&rgenz@ è i1 fra7&11o 0 1a $ore1la.",
+        "q_id": 42
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! e i numer! d! 7&1ef0n0 d! p@zi&n7! !1 ​​cu! n0me d! c0n7@7t0 d! &m&rgenza !n!z!@ con \"J0hn\".",
+        "q_id": 43
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ i n0m! & le $p&c!@1izz@z!0n! de! m&d!c! ch& h@nn0 @mmes$0 ! p@z!&nti @l d!par7im&nt0 d! \"n&ur010g!@\".",
+        "q_id": 44
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenc@ ! nom! d! 7u77i ! d!p@r7im&n7! ch& h@nn0 1@ p@r01@ \"&m&rg&nza\" n&1 10r0 nom&.",
+        "q_id": 45
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "El&nc@ i nomi d! tu77! ! med!c! ch& h@nn0 @mm&$$o i p@z!&nt! $!@ n&i d!p@r7!m&nti d! onco10gi@ che d! g@s7r0&n7&r010g!@.",
+        "q_id": 46
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! d! tu77! ! m&d!c! spec!@1izz@t! in c@rd!0l0g!@.",
+        "q_id": 47
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0mi d! 7u7t& l& paz!&nti d! $&s$o f&mm!n!1&.",
+        "q_id": 48
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! d! 7utt! ! p@z!en7! ch& hann0 i1 \"d!@b&7e\" n&1l@ l0r0 d!@gn0$!.",
+        "q_id": 49
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enc@ ! n0mi d! tu7ti ! p@z!&nt! ch& $0n0 s7@t! @mm&$$! d@l Dr. &7h@n Martin&z.",
+        "q_id": 50
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enca i n0mi d! 7u77! ! p@z!&n7! ch& $0n0 st@t! @mm&$$! n&1 d!p@r7!ment0 d! ped!@tr!@.",
+        "q_id": 51
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0mi d&! m&dic! che n0n h@nn0 amm&$$o @lcun p@zien7e n&g1! u17im! $e! m&s!.",
+        "q_id": 52
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "E1&nc@ ! n0m! d&! p@z!&n7i ch& $0n0 $7@7! @mm&s$i @l d!p@rt!m&n70 d! \"n&ur010gi@\" e h@nno un@ d!agn0s! d! \"&p!1&s$!@\".",
+        "q_id": 53
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 1e proc&dur& p&r l'ammi$$i0n& de11@ p@zi&n7e B@rb@r@ Br0wn.",
+        "q_id": 54
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@r& !D d! @mm!s$!0n& e nom! d! pazi&n7! che hann0 ric&vu70 p!ù 7ra77@m&n7!;",
+        "q_id": 55
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recuper@re una dur@7@ m&d!@ d&! r!cov&r! n&1 2022, 2023 e 2024;",
+        "q_id": 56
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recup&ra ! n0mi & 1e d@7& d! @mm!$$i0n& d! 7u77! ! p@zi&n7i @mme$si n&gl! u17!m! 3 m&si.",
+        "q_id": 57
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recupera i n0m! & 1e d@7& d! @mm!$$!0n& d! 7u7t! ! paz!ent! @mm&$si al dip@rtim&n70 di n&ur010g!@ n&l 2023.",
+        "q_id": 58
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cupera ! nomi & l& date d! amm!s$!0ne d&! p@z!&nt! ch& s0n0 s7@7! @mm&$$! n&1 m@gg!0 2024 & d!m&$$! ne1 g!ugno 2024.",
+        "q_id": 59
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recup&r@ ! n0m! & g1i !nd!r!zz! & -m@!l de! m&d!ci che h@nno @mme$$0 ! p@z!en7! n&l pr!m0 s&m&$7re 2023 & n&l pr!m0 s&m&$7r& 2024.",
+        "q_id": 60
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cuper@ ! n0m! e g1! !ndirizzi e -m@!1 d&! m&d!c! ch& h@nn0 amm&ss0 paz!&n7! !n d!par7!m&n7! div&r$i d@l1@ l0r0 $p&c!@1!zz@zi0ne.",
+        "q_id": 61
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ ! n0mi & i numer! d! t&l&f0n0 de! p@z!&n7! amm&$$! d@ m&d!c! $p&c!a1!zz@7! in \"c@rd!010gi@\".",
+        "q_id": 62
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cuper@ ! n0m! & ! num&ri di t&1&f0n0 d! paz!&n7! ch& $0n0 $7@7! @mm&s$! d@ med!c! ma$chi & femmin& n&l1'u17im0 @nno.",
+        "q_id": 63
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cuper@ i n0mi e 1& sp&c!@1!zzazi0n! de! m&d!c! ch& hanno @mm&$$0 i p@z!&n7! ne1 g&nnai0 2024.",
+        "q_id": 64
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recup&ra ! nom! & 1& $p&ci@1izzaz!0ni d&i med!c! ch& hanno @mm&$$0 i p@z!&n7! n&1 g&nn@!o 2024.",
+        "q_id": 65
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Recup&r@ ! n0mi d! tu77! i d!p@r7im&n7! !n$!&m& @! n0m! d&1 1oro cap0 d!p@r7!m&nto, d0v& !1 c@p0 d&1 d!p@r7!m&nt0 è $p&c!@1izzat0 !n \"N&ur010gi@\".",
+        "q_id": 66
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7ra 7ut7e 1e amm!$$!0n! per !1 p@z!&n7& R!ch@rd M@r7inez.",
+        "q_id": 67
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0stra 7u77! ! tra77am&n7! per 1'amm!$s!0n& d&l p@zi&n7& R!ch@rd Martin&z.",
+        "q_id": 68
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$tr@ 7utti i 7ra77@m&n7! ch& inc1ud0n0 l@ p@r01@ \"t&r@p!a\".",
+        "q_id": 69
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ i1 n0m& & i1 numer0 d! 7&lef0n0 d! 7u77! ! p@zi&n7! @mm&$$! n&l 2023",
+        "q_id": 70
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ g1! ind!r!zz! di tut7i ! m&d!c! ch& hanno 1@ parol@ \"s7rad@\" n&l 1or0 !ndir!zz0.",
+        "q_id": 71
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ l@ dat@ d! amm!$$!0n& & 1@ da7a di $c@r!c0 per 1'amm!$s!0n& d&11@ paz!&n7& B@rb@r@ Br0wn.",
+        "q_id": 72
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mo$tr@ 1& d@7& d! @mmi$$!0n& & ! m&dic! per ! pazi&n7! ric0ver@7! n&l d!p@r7im&n70 d! p&d!@7r!a.",
+        "q_id": 73
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ l& d@7& d! @mmi$$!0n& p&r ! p@zi&n7! @mmessi n&1 2023.",
+        "q_id": 74
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ l& da7e d! amm!$s!on& d! tu77i ! p@z!&n7! @mm&$s! @1 dip@r7im&n70 d! &m&rgenz@.",
+        "q_id": 75
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 1a d@7@ d! n@$c!t@ de1 Dr. Mich@e1 Brown.",
+        "q_id": 76
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mo$tra 1& d!@gno$! e 1& d&scriz!0n! de1 7ra77@m&n70 p&r ! p@zi&nt! @mme$$! d@l1@ dott.$$@ &mm@ Y0ung.",
+        "q_id": 77
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ 1@ di@gn0$! & ! f@rm@c! p&r 1'@mmi$$!one d&1 pazi&nt& R0b&r7 R0dr!gu&z.",
+        "q_id": 78
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$tr@ l@ d!@gn0$! d! 7u77e 1& amm!$sioni per l@ p@zi&n7& &1!z@beth Mi11&r.",
+        "q_id": 79
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mos7r@ g1! !nd!r!zz! e -m@i1 d! 7u77& 1e d0nn& p@z!&n7!.",
+        "q_id": 80
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! farm@c! per 1'amm!$$!0ne de1 p@z!&n7& Jenn!f&r M!11&r.",
+        "q_id": 81
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0s7r@ i f@rm@ci p&r 1e @mm!$$i0ni f@t7& n&1 dip@rt!m&nt0 d! r@di010g!@.",
+        "q_id": 82
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$tr@ ! farm@c! @1 m0m&n70 de1l'amm!s$!0n& d&11@ p@z!&n7e M@rgare7 J0n&s.",
+        "q_id": 83
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mostr@ !1 n0m& e l'e -m@il de1 c@p0 d&1 dip@r7im&n70 di c@rd!010g!@.",
+        "q_id": 84
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$tra ! n0m! & g1! !nd!r!zz! dei paz!&n7! ch& son0 $7@7i @mme$$! n&gl! u1t!mi 6 m&$i.",
+        "q_id": 85
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & l& d@7& d! @mm!$s!on& di tu77! ! p@z!&n7! ch& $0n0 $t@7i @mme$$! ne110 s7e$$0 m&s& d! \"J0s&ph G@rci@\".",
+        "q_id": 86
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ i n0m! e 1& da7& d! @mm!$si0n& d&! paz!en7! ch& h@nno $ub!70 @1m&no un in7&rv&n70 ch!rurg!c0.",
+        "q_id": 87
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mo$7r@ ! n0mi & 1& d@7& d! @mm!$$!0ne d&i p@z!&n7! ch& $0n0 st@7! @mm&$$! n&g1! @nn! 2022 & 2023 & d! nu0v0 n&1 pr!mo $&m&$tr& d&1 2024.",
+        "q_id": 88
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mo$7r@ ! n0m! e 1& d@7e d! ammi$$!on& d&! p@z!&n7i ch& $0n0 $t@7! @mme$$i n&110 $7e$so m&$& d! \"J0$&ph G@rc!@\".",
+        "q_id": 89
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mo$7r@ ! n0m! & 1& d@t& di ammi$$i0n& d&! p@z!en7! ch& s0n0 $7@7! @mm&$s! n&110 $7&s$o m&s& !n cu! $on0 s7a7! d!m&$s!.",
+        "q_id": 90
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! e 1& d@7& di n@sci7@ d&i m&d!c! che h@nn0 amm&s$0 i p@z!&nti n&1 2023.",
+        "q_id": 91
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$tr@ ! n0m! e 1& d!@gn0$i d! @mm!s$i0n! p&r !1 p@zien7& \"J&nn!f&r Br0wn\" dur@n7& 1'@mm!$$i0n& !n c0r$o.",
+        "q_id": 92
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7ra ! n0m! & 1& d!@gn0$i d! p@z!&n7i amme$$! dal Dr. Av@ R0dr!gu&z nel d!p@r7!men70 P&d!@7ri@.",
+        "q_id": 93
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7ra i n0m! & gl! !ndirizz! & -m@!1 d! 7utti i medic! che v!v0no @ Metr0p0l!$.",
+        "q_id": 94
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0s7r@ ! n0m! & gl! !nd!r!zz! & -m@!l d&! m&d!c! ch& h@nn0 amm&s$0 paz!&nt! c0n diagno$! c0n7&n&n7! \"di@b&7&\".",
+        "q_id": 95
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mo$tr@ ! nomi e gl! ind!r!zz! e -m@!1 d&! m&d!c! che h@nn0 @mm&s$0 p@zi&nt! con di@gn0$! con7&n&n7! \"diab&7&\".",
+        "q_id": 96
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7ra ! n0m! & ! c@p! de! d!par7im&n7! ch& hann0 un num&r0 d! 7&1&f0n0 e1&nc@70.",
+        "q_id": 97
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mos7r@ i n0m! e ! numer! d! 7&l&f0n0 di 7ut7! ! m&dic! che h@nn0 @mm&$$0 ! p@z!&n7! n&1 dip@r7imen70 d! onc010g!a.",
+        "q_id": 98
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! e ! num&ri di t&1ef0n0 d! 7u77! ! m&d!ci $p&c!@l!zz@7! !n pedi@7r!@.",
+        "q_id": 99
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! e ! num&r! d! 7e1&fono d! tutt! ! paz!&n7! ch& $on0 s7@7! @mmes$! a! d!par7!men7! d! &m&rg&nza e 0r70p&d!c@.",
+        "q_id": 100
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mos7r@ ! n0m! e i num&r! di t&l&f0n0 d! p@z!ent! ch& $0no $t@7! @mmes$! $!@ @i d!p@r7!m&nti d! 0nc0l0g!@ ch& d! r@d!010g!@.",
+        "q_id": 101
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & ! num&r! d! 7el&f0no d! p@z!&n7i ch& $on0 $7a7i @mm&$$! a1 d!part!m&n7o d! &m&rg&nza n&1l'u1t!mo @nn0.",
+        "q_id": 102
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & ! num&r! d! t&l&fon0 d! p@z!&nt! ch& $0n0 $7a7! @mm&ss! d@ m&d!c! sp&c!@1izz@7! !n \"0r70p&d!@\".",
+        "q_id": 103
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! & l& $p&ci@l!zzazi0n! di 7u77! ! m&d!c! ch& hann0 @mm&ss0 ! p@z!&nt! a1 d!p@rt!men70 d! 0ncol0gia.",
+        "q_id": 104
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mo$7ra i n0mi e 1& $p&cia1!zz@z!0n! d&! m&d!c! ch& h@nn0 @mm&$$0 i pazien7! $!a n&! d!p@r7!m&n7i n&ur0log!c! ch& d! 0nc010g!@.",
+        "q_id": 105
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7ra ! n0m! & le $p&c!al!zz@z!0ni de! m&d!c! ch& s0no n@7! pr!ma d&1 1970.",
+        "q_id": 106
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! nom! & l@ d@t@ d! n@sci7@ d&! p@z!&n7! ch& h@nn0 r!c&vu7o p!ù d! un f@rm@c0 dur@n7& 1o s7e$so r!c0v&r0 ed &1enc@ ! f@rm@c! ch& h@nno r!cevu7o.",
+        "q_id": 107
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d! 7u77i ! dip@rt!m&n7! ch& hann0 un c@po d!par7!m&nt0 $p&c!@1!zz@70 !n cardi01ogi@.",
+        "q_id": 108
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$tr@ ! n0m! d! 7u77! ! dip@r7!m&n7i.",
+        "q_id": 109
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0s7r@ i n0m! di 7u77! i p@z!&nt! ma$ch!.",
+        "q_id": 110
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d! 7u7t! ! p@z!&nt! amm&s$! n&1 g&nna!o 2024 !n$!&m& @1l& dat& d! @mmiss!on& & @l1e d@7e d! dim!$si0n&.",
+        "q_id": 111
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7ra ! n0mi d! 7u77! ! p@z!&n7! ch& h@nno 50 @nni o più.",
+        "q_id": 112
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0s7r@ ! n0m! d! tu77! ! p@z!&n7! ch& $0no s7@t! amm&$$! n&1 \"2023-11-03\".",
+        "q_id": 113
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0s7ra ! n0m! d&! m&dic! & 1& d@7e d! amm!$$!on& p&r i1 p@zi&n7& \"L!nd@ J0hn$0n\" @mm&s$! ne1 2023.",
+        "q_id": 114
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0s7r@ ! n0m! d&i m&d!c! e l& 10r0 $p&c!@lizz@z!0ni ch& h@nn0 @mme$s0 ! paz!&n7i c0n \"!c7u$\".",
+        "q_id": 115
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ i n0m! d&i m&d!c! n@7! tra !1 1970 e !1 1980.",
+        "q_id": 116
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mo$7r@ i n0m! d&! m&d!c! $pec!@1!zz@7i !n neur0l0gia.",
+        "q_id": 117
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mo$tra ! n0m!, 1& d@7& d! @mm!$$!0ne & 1& d!@gn0$i d! amm!$$!oni ch& inc1ud0n0 l@ p@r01@ \"ma1at7!@\".",
+        "q_id": 118
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$tra !1 numero di 7&1ef0n0 & 1'!nd!r!zzo di &1!z@be7h J0n&s.",
+        "q_id": 119
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! num&r! d! 7&1&f0n0 e g1! !nd!r!zz! & -m@il di 7u7t! ! d!p@rtim&n7!.",
+        "q_id": 120
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mos7r@ 1e pr0c&dur& p&r 7u77& l& @mm!$$!0n! &$&gu!t& d@1 Dr. &m!ly Whi7e.",
+        "q_id": 121
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0s7r@ 1& $pecia1!zz@z!0n! d! 7ut7i ! medici ch& h@nn0 1@ par01@ \"!nt&rv&n7o ch!rurg!c0\" n&11@ lor0 $p&c!@1izzaz!0ne.",
+        "q_id": 122
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0str@ i tr@7t@m&nt! & 1& pr0cedur& p&r 1'@mm!$$!0n& d&11@ pazi&n7e M@r!@ R0dr!gu&z.",
+        "q_id": 123
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@l è la dur@7@ m&d!@ d&1 r!cover0 !n 0$ped@1& d&! p@z!&n7! ch& hann0 ric&vu70 !n7&rv&n7! chirurg!c! raggruppat! per ann0?",
+        "q_id": 124
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qual è 1a dur@7a med!a d&! r!c0ver!?",
+        "q_id": 125
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "7r0v@ 7u77i i p@z!&nt! c0n BPC0 & r&cup&r@ ! 10ro farm@c! & !1 10r0 dip@r7!men70",
+        "q_id": 126
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Grupp0 il $0gg!0rn0 m&d!o d&i paz!&n7! m&d!@n7e $pec!a1!zzaz!0n& de1 m&d!c0 @mm&$$a, da1 p!ù 1ung0 a1 p!ù br&v&;",
+        "q_id": 127
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@n7& !n7&rv&n7! d! $0$7!tuz!0n& d&l1'anc@ $0n0 $7a7i &segu!7! !n g&ner@1& & qua1! f@rm@ci h@nn0 @ssun70 qu&$7i pazi&n7i?",
+        "q_id": 128
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Quant& @mmi$$!0ni !n c0r$0 c! $on0 & in qu@1& d!p@r7im&nto?",
+        "q_id": 129
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@n7! p@z!&nti h@nn0 @vu70 !n7&rv&n7i ch!rurg!ci nel 2022?",
+        "q_id": 130
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "El&nc@ 7u77i g1! an&$7&$!$7! c0n &tà & s&$$0 & r&cup&ra i p@zi&n7! ch& hanno @mmess0 & c0n qu@l! f@rm@c!;",
+        "q_id": 131
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enc@ tutt! ! pazi&nt! @mm&$$! ne1 2024 r@ggrupp@t! p&r d!@gno$i, d@l1a p!ù d!ffu$@;",
+        "q_id": 132
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&lenc@ i nomi & g1! !nd!rizz! & -m@i1 d&! m&d!c! ch& hann0 @mm&$so ! p@zi&n7! $!@ n&! d!p@r7im&nt! di onco1ogi@ ch& di g@$7r0&n7&r010g!@.",
+        "q_id": 133
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "E1enc@ ! nom! e ! numer! di 7&l&f0n0 d! p@zi&n7! ch& $on0 $7a7! @mm&$$! d@ m&dic! m@sch! & femmin&.",
+        "q_id": 134
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "E1enc@ ! n0m! & 1@ sp&ci@1!zzaz!0ne d&i med!c! ch& h@nn0 @mm&$$0 ! p@z!&n7! ch& h@nn0 @$$un70 1'asp!rin@ c0me f@rm@co;",
+        "q_id": 135
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enc@ ! n0mi, 1& d!@gn0$! e ! f@rm@c! d&! pazi&n7i @mm&$$! d@l Dr. Benj@min W@1k&r ne1 d!p@r7!m&n70 \"0nc01og!a\".",
+        "q_id": 136
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enc@ ! n0m!, 1& d!@gnos! & ! tr@t7am&n7! per ! p@z!&n7! amm&$$! c0n 1@ p@r01@ \"inf&z!0n&\" n&11@ 1or0 d!agnos!.",
+        "q_id": 137
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ 7u77i ! n0m!, 1& & -m@!l & i num&r! d! 7&1&f0n0 di m&d!c!, r@ggrupp@ti p&r dip@r7!m&n70.",
+        "q_id": 138
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@r& 1e !nform@z!0n! di cont@77o d! 7ut7! ! paz!&n7! @mm&$$! d@! c@rd!01ogi;",
+        "q_id": 139
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&ra ! n0mi & i num&ri d! t&1ef0n0 di 7u7t! i p@zi&n7i ch& $0n0 $7@7! @mm&s$! n&l10 s7&$$0 d!par7!m&n70 di \"Jam&$ G@rc!@\" dur@n7& l@ $ua pr!m@ amm!$$!0ne.",
+        "q_id": 140
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mo$tr@ 7utti i f@rm@ci pr&$cr!t7! d@1 Dr. M!@ Wil$0n e ! n0m! e 1& d@t& d! n@$c!7@ d&! paz!&n7i ch& l! h@nn0 r!c&vu7!.",
+        "q_id": 141
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! nom! & 1& d@te d! @mmis$i0n& d&! pazi&n7! ch& s0n0 $7@ti @mm&$si da m&dici $p&c!@1!zz@7! !n c@rdi010gi@.",
+        "q_id": 142
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0s7ra ! n0m! d! 7u77! ! m&dic! ch& h@nno @mm&$$0 ! p@z!en7! n&l dipart!m&n70 0r70ped!@.",
+        "q_id": 143
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0m! d&! dipar7!m&n7i & !1 num&r0 70t@1e d! @mm!$si0n! p&r ciascun0 n&g1i u17im! 2 me$!.",
+        "q_id": 144
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mo$7r@ i n0m! d&i d!p@r7!ment! e i1 num&r0 t07@1e d! med!c! !n c!@$cun0.",
+        "q_id": 145
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! nomi d&! medic! & !1 c0n7&ggio d&! p@z!en7! ch& hann0 amme$$0 @ cu! è $7@7@ d!@gn0$tica7@ \"!p&r7&n$!0n&\".",
+        "q_id": 146
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7ra ! n0m! dei m&d!c! & !1 num&r0 7o7a1& d! d!vers! p@zi&nt! ch& h@nno @mme$$0.",
+        "q_id": 147
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mo$7r@ i n0m! d&! pazi&nt! & d&i 10ro med!c! $peci@1!zz@7! !n c@rd!010g!@.",
+        "q_id": 148
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mos7r@ i nomi, l& d@7e d! @mmis$ione & i f@rm@c! p&r i p@z!&n7i @mme$si d@1 Dr. E7h@n Mart!n&z c0n l@ p@r01@ \"!n7erv&n70 ch!rurg!c0\" n&l1& 10r0 pr0c&dur&.",
+        "q_id": 149
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mo$7r@ i n0m!, 1& dat& d! @mm!$$!0n& & ! f@rm@c! p&r ! p@z!en7! @mm&$$i d@! medic! c0n 1a $p&c!@1!zzaz!on& \"p&di@tr!@\".",
+        "q_id": 150
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ i n0m!, l& d@7e d! @mm!$$!0ne e 1& proc&dur& p&r i p@z!&n7! amm&$$! n&1 g&nn@!0 2023 e d!m&$$o n&1 f&bbr@!o 2023.",
+        "q_id": 151
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mos7r@ !1 num&r0 t07@1& d! amm!$$!on! p&r c!@$cun dip@r7!m&n70.",
+        "q_id": 152
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@1 è !1 m&$& d&l1'@nn0 !n cu! !n m&d!@ c! $0n0 p!ù @mmi$s!0ni?",
+        "q_id": 153
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qua1 è !1 f@rm@co più prescr!t70?",
+        "q_id": 154
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@1 è 1@ ch!rurg!a più fr&qu&n7&mente &s&gu!7@ !n g&ner@1&?",
+        "q_id": 155
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Tr0v@ p@z!&nti che r!c&v0n0 p!ù d! un farm@c0 e un grupp0 1ì p&r d!p@r7!m&n7o;",
+        "q_id": 156
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@n7! paz!&nt! @$$umon0 p!ù di 2 farm@c! & ch! è i1 l0r0 m&d!c0 & d!p@r7!m&n70?",
+        "q_id": 157
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Quan7i p@z!&n7! $on0 $7@7! @mm&$s! a m@gg!0 & g!ugno 2024?&1&nc@ ! l0r0 n0mi, !D, @mm&77endo medic! & dip@r7!m&nto.",
+        "q_id": 158
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Quan7! p@zi&n7! c0n c0lp! hann0 r!c&vu7o @$pirin@ & ch! &r@ !1 pr&$cr!770re?",
+        "q_id": 159
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&l&nc@ 7ut7! ! p@zi&n7i ch& @s$umon0 ep@rin@ 0 &n0xapar!n@ & i1 n0m& de! m&d!c! ch& l! h@nn0 @mm&$$! & !1 d!par7im&n70 in cui $0n0 $7@7! amm&$s!;",
+        "q_id": 160
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enc@ 7utt! ! p@z!&n7! che son0 $7@7! @mm&$$! p!ù d! un@ v017@.",
+        "q_id": 161
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&l&nc@ i n0m! & g1! !nd!r!zz! & -m@!1 d! tu77! ! m&dic! ch& hann0 @mm&$s0 p!ù d! 1 p@zi&nt& n&1 d!p@rt!men70 d! c@rdio10g!@.",
+        "q_id": 162
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enca ! nom! & g1i !nd!rizz! & -ma!1 de! m&d!c! ch& h@nno @mm&s$o più d! 2 pazi&n7!.",
+        "q_id": 163
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "E1&nc@ ! n0m! & ! num&r! d! t&l&f0n0 d! 7ut7! i p@z!&n7i ch& $0n0 $tat! @mm&$$! p!ù di un@ v01ta n&l d!p@r7!men7o d! c@rd!0log!a.",
+        "q_id": 164
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ i n0m! & ! num&ri d! 7&1&fono d! p@z!&n7! che $0no $7@7! @mm&$$! p!ù d! un@ v0lta n&1 d!partim&n70 di card!010g!@.",
+        "q_id": 165
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "E1&nc@ ! nomi & ! num&ri di 7&l&f0n0 di p@z!&n7i @ cu! è $7a70 d!@gn0$7!c@t0 !1 c@ncr0 p!ù di un@ v01t@.",
+        "q_id": 166
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "E1enc@ g1i ID p@zien7i de! p@zi&n7! ch& $on0 $7@t! @mm&s$! p!ù d! un@ v01t@.",
+        "q_id": 167
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cuper@ ! n0mi & 1e $p&ci@lizz@z!0ni d&! m&d!c! ch& h@nno @mm&s$o p!ù d! 5 p@z!en7!.",
+        "q_id": 168
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cuper@ i n0mi d&i p@z!&n7! ch& $0no s7@7! @mmes$! @1 d!par7!m&nto di \"&m&rg&nz@\" più d! un@ v01t@.",
+        "q_id": 169
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ !1 num&ro d! pre$cr!z!0n! d! d!@z&p@m raggruppa7& p&r ann0 & d!p@rt!men7i.",
+        "q_id": 170
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0s7ra 1& d!@gno$i & i f@rmac! d&! p@z!en7i ch& $0n0 $7at! @mme$s! due o p!ù v017&.",
+        "q_id": 171
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mos7r@ ! n0m! & gl! !nd!r!zz! & -m@!1 d&! med!c! ch& h@nn0 @mm&$$o p!ù d! 3 p@z!&nti n&g1! u17!m! 2 @nn!.",
+        "q_id": 172
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ i n0m! d! tut7! ! med!c! ch& hann0 @mm&s$0 p!ù d! 5 paz!&n7!.",
+        "q_id": 173
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Ch! è i1 med!c0 che h@ @mm&s$o !1 p@z!&n7& c0n !1 r!cov&ro p!ù 1ungo & qu@l è !1 n0me, la p@t0l0g!@, i f@rmac! & !l d!p@r7im&n70 de1 pazi&n7&?",
+        "q_id": 174
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ 7ut7! ! m&d!c! ch& h@nn0 @mm&$$0 ! p@z!&n7i, r@ggrupp@7i d@1 D!par7im&n7o d! @mm!$$!0n&, & includon0 !1 n0m& de1 c@po d! c!@$cun dip@r7!m&n70.",
+        "q_id": 175
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enc@ ! n0m! d&1 d!p@r7imen70, ! capi d!p@r7im&nt! & i1 num&ro di @mm!$s!0n! g&$ti7& da c!a$cun c@po d&1 d!p@r7!m&n70, !n cu! !1 num&r0 d! @mm!$$!0ni è $uperi0re @ 3.",
+        "q_id": 176
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "E1&nc@ i n0m! & g1! ind!r!zz! de! paz!&nt! ch& $on0 $t@7! @mm&$$! p!ù d! du& vo17e.",
+        "q_id": 177
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "E1&nca ! nomi & 1& d@7& d! @mm!$$!0n& d&i p@z!en7! che $0n0 s7@7! @mm&$s! @ p!ù di un d!p@r7!m&nto.",
+        "q_id": 178
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enc@ ! n0m! e 1& inf0rm@z!on! d! con7@770 d&i p@z!&n7i che $on0 $7@7i @mm&$$! d@ p!ù di un m&d!co.",
+        "q_id": 179
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enc@r& ! n0m! & le !nf0rm@z!0n! d! c0n7@770 d&! p@zien7i che s0n0 $7a7! @mm&$s! !n più d!p@r7!m&n7i.",
+        "q_id": 180
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! nom! & g1! !ndir!zz! & -ma!l d&! m&d!c! ch& hann0 @mmes$o p@zi&nti c0n d!agn0$i mu1t!p1e.",
+        "q_id": 181
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&l&nca ! n0m! & i num&r! di 7&1efon0 d! p@z!&n7i che $0n0 s7@7! @mm&s$i d@ p!ù d! 7r& d!ver$! m&dic!.",
+        "q_id": 182
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enc@ i nom! & ! num&ri d! 7&1ef0n0 d! p@z!&n7! ch& $ono $7@t! @mm&$s! d@ m&d!c! d! p!ù d!part!m&nt!.",
+        "q_id": 183
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0m! & 1e $pec!@1!zz@zioni d&i m&dic! che h@nn0 @mm&s$0 p@z!ent! !n p!ù d!par7im&nt!.",
+        "q_id": 184
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ i n0m! de! d!p@r7!m&n7! & !1 num&r0 d! @mm!$$!0n! n&1 2022 & 2023, !n cu! !l num&ro d! ammi$$!on! è sup&r!0re @ 10.",
+        "q_id": 185
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1enc@ ! n0mi d&! med!c! che hanno @mm&sso p!ù d! 5 p@z!en7i.",
+        "q_id": 186
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "&1&nc@ ! n0mi d&i p@z!en7! & 1& 10ro di@gno$!, in cui 1@ d!agn0$! !nc1ud& !1 \"d!abe7&\" &d è s7@7@ reg!$7ra7@ più di du& v0lt&.",
+        "q_id": 187
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ ID, n0me & !nf0rm@z!oni d! c0nt@770 d&l m&dico ch& h@ pre$cr!770 !l m@gg!0r num&r0 d! $c@n$i0n! C7 & MR! & c0n7@l! @l1'ann0",
+        "q_id": 188
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&cup&r@ 7u7te 1& !nf0rm@zion! d&l m&dic0 ch& ha @mm&$s0 !1 m@ggi0r num&r0 d! p@z!&nt! & 7u7t! i f@rm@c! pr&scr!t7i.",
+        "q_id": 189
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mo$tra ! n0m! e le d@7e d! @mm!$$i0n& dei p@zi&n7! ch& $0no $t@7i r!c0v&r@7! in p!ù d!p@r7!m&n7! n&1lo $7&$s0 @nn0.",
+        "q_id": 190
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0mi e l& d@t& d! na$ci7@ d&! p@z!en7i @ cu! è $7@70 d!@gno$7!c@7o !1 d!@b&7& p!ù di un@ v017a & recuperar& ! n0mi d&i med!c! ch& 1i h@nn0 @mm&ss!.",
+        "q_id": 191
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$tr@ i n0m! e gl! ind!r!zz! e -m@!1 di 7u7t! ! med!c! ch& h@nno @mm&$$0 p!ù d! 2 p@zi&nti !n g&ner@1&, r@ggrupp@7& per d!p@r7!m&n70, !nclu$0 i1 c0n7&ggi0 d! p@z!&n7! d! $e$s0 femm!n!1& per d!par7!men70.",
+        "q_id": 192
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Mo$tr@ i n0m! & ! numer! di t&1&f0n0 d! p@z!en7! che $0no s7@7! @mm&$$! da @lm&n0 du& diver$! m&d!ci.",
+        "q_id": 193
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7ra i n0m! & i numer! d! te1&fon0 d! p@zi&n7! ch& $0n0 s7@7i amm&$$! $!@ d@l Dr. D@n!&l 1&& ch& d@1 Dr. L!1y B@k&r.",
+        "q_id": 194
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! n0mi d&i p@z!&nt! & de! 10r0 m&d!c!, in cu! i1 p@z!&n7& è $7@to @mme$so p!ù di 3 v0l7e.",
+        "q_id": 195
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$tr@ ! nom! d&i p@zient! & ! l0r0 f@rm@c!, !n cui !1 f@rm@c0 !nc1ud& \"an7!b!ot!c0\" &d è st@70 r&g!$7r@70 più d! un@ vo17@.",
+        "q_id": 196
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "M0$7r@ ! nomi de! p@z!&n7i ch& hanno avuto p!ù !n7&rv&n7! ch!rurgic!.",
+        "q_id": 197
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@l &r@ !1 farm@c0 p!ù pr&$cr!t70 ne1 2023?",
+        "q_id": 198
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qua1 è $7@70 !1 f@rm@c0 p!ù pr&$cri770 n&l 2023?",
+        "q_id": 199
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qu@1i m&d!ci h@nn0 @mm&$$o ! paz!&nt! c0n 1& amm!s$!0n! più 1unghe?",
+        "q_id": 200
+    }
+]

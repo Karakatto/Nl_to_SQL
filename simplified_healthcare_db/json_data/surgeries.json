@@ -1,0 +1,84 @@
+{
+    "surgeries": [
+        {
+            "surgery_code": "SG001",
+            "description": "Coronary Artery Bypass Surgery"
+        },
+        {
+            "surgery_code": "SG002",
+            "description": "Angioplasty"
+        },
+        {
+            "surgery_code": "SG003",
+            "description": "Total Knee Replacement"
+        },
+        {
+            "surgery_code": "SG004",
+            "description": "Hip Replacement Surgery"
+        },
+        {
+            "surgery_code": "SG005",
+            "description": "Herniated disk Surgery"
+        },
+        {
+            "surgery_code": "SG006",
+            "description": "Colon Cancer Surgery"
+        },
+        {
+            "surgery_code": "SG007",
+            "description": "Prostatectomy"
+        },
+        {
+            "surgery_code": "SG008",
+            "description": "Appendectomy"
+        },
+        {
+            "surgery_code": "SG009",
+            "description": "Gallbladder Removal Surgery"
+        },
+        {
+            "surgery_code": "SG010",
+            "description": "Closed reduction and fixation"
+        },
+        {
+            "surgery_code": "SG011",
+            "description": "Liver Surgery"
+        },
+        {
+            "surgery_code": "SG012",
+            "description": "Lung Resection Surgery"
+        },
+        {
+            "surgery_code": "SG013",
+            "description": "Orthopedic Trauma Surgery"
+        },
+        {
+            "surgery_code": "SG014",
+            "description": "Cyst removal"
+        },
+        {
+            "surgery_code": "SG015",
+            "description": "Endoscopic Sinus Surgery"
+        },
+        {
+            "surgery_code": "SG016",
+            "description": "Thyroidectomy"
+        },
+        {
+            "surgery_code": "SG017",
+            "description": "Kidney Surgery"
+        },
+        {
+            "surgery_code": "SG018",
+            "description": "Hysterectomy"
+        },
+        {
+            "surgery_code": "SG019",
+            "description": "Gastric Bypass Surgery"
+        },
+        {
+            "surgery_code": "SG020",
+            "description": "Laparoscopic Cholecystectomy"
+        }
+    ]
+}

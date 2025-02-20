@@ -1,0 +1,178 @@
+[
+    {
+        "DiagnosisCode": "DG001",
+        "Description": "Acute Coronary Syndrome"
+    },
+    {
+        "DiagnosisCode": "DG002",
+        "Description": "Appendicitis"
+    },
+    {
+        "DiagnosisCode": "DG003",
+        "Description": "Asthma"
+    },
+    {
+        "DiagnosisCode": "DG004",
+        "Description": "Bladder Cancer"
+    },
+    {
+        "DiagnosisCode": "DG005",
+        "Description": "Brain Tumor"
+    },
+    {
+        "DiagnosisCode": "DG006",
+        "Description": "Cataracts"
+    },
+    {
+        "DiagnosisCode": "DG007",
+        "Description": "Colon Cancer"
+    },
+    {
+        "DiagnosisCode": "DG008",
+        "Description": "Congestive Heart Failure"
+    },
+    {
+        "DiagnosisCode": "DG009",
+        "Description": "COPD (Chronic Obstructive Pulmonary Disease)"
+    },
+    {
+        "DiagnosisCode": "DG010",
+        "Description": "Coronary Artery Disease"
+    },
+    {
+        "DiagnosisCode": "DG011",
+        "Description": "Crohn's Disease"
+    },
+    {
+        "DiagnosisCode": "DG012",
+        "Description": "Cerebral Palsy"
+    },
+    {
+        "DiagnosisCode": "DG013",
+        "Description": "Dementia"
+    },
+    {
+        "DiagnosisCode": "DG014",
+        "Description": "Diabetes Mellitus"
+    },
+    {
+        "DiagnosisCode": "DG015",
+        "Description": "Ear Infection"
+    },
+    {
+        "DiagnosisCode": "DG016",
+        "Description": "Endometriosis"
+    },
+    {
+        "DiagnosisCode": "DG017",
+        "Description": "Epilepsy"
+    },
+    {
+        "DiagnosisCode": "DG018",
+        "Description": "Fibromyalgia"
+    },
+    {
+        "DiagnosisCode": "DG019",
+        "Description": "Fractured Femur"
+    },
+    {
+        "DiagnosisCode": "DG020",
+        "Description": "Gallstones"
+    },
+    {
+        "DiagnosisCode": "DG021",
+        "Description": "Gastric Ulcer"
+    },
+    {
+        "DiagnosisCode": "DG022",
+        "Description": "Gout"
+    },
+    {
+        "DiagnosisCode": "DG023",
+        "Description": "Herniated Disc"
+    },
+    {
+        "DiagnosisCode": "DG024",
+        "Description": "Hepatitis C"
+    },
+    {
+        "DiagnosisCode": "DG025",
+        "Description": "HIV/AIDS"
+    },
+    {
+        "DiagnosisCode": "DG026",
+        "Description": "Hyperthyroidism"
+    },
+    {
+        "DiagnosisCode": "DG027",
+        "Description": "Hypertension"
+    },
+    {
+        "DiagnosisCode": "DG028",
+        "Description": "Kidney Stones"
+    },
+    {
+        "DiagnosisCode": "DG029",
+        "Description": "Lung Cancer"
+    },
+    {
+        "DiagnosisCode": "DG030",
+        "Description": "Migraine"
+    },
+    {
+        "DiagnosisCode": "DG031",
+        "Description": "Multiple Sclerosis"
+    },
+    {
+        "DiagnosisCode": "DG032",
+        "Description": "Obesity"
+    },
+    {
+        "DiagnosisCode": "DG033",
+        "Description": "Obstructive Sleep Apnea"
+    },
+    {
+        "DiagnosisCode": "DG034",
+        "Description": "Osteoarthritis"
+    },
+    {
+        "DiagnosisCode": "DG035",
+        "Description": "Ovarian Cancer"
+    },
+    {
+        "DiagnosisCode": "DG036",
+        "Description": "Parkinson's Disease"
+    },
+    {
+        "DiagnosisCode": "DG037",
+        "Description": "Prostate Cancer"
+    },
+    {
+        "DiagnosisCode": "DG038",
+        "Description": "Rheumatoid Arthritis"
+    },
+    {
+        "DiagnosisCode": "DG039",
+        "Description": "Sickle Cell Disease"
+    },
+    {
+        "DiagnosisCode": "DG040",
+        "Description": "Schizophrenia"
+    },
+    {
+        "DiagnosisCode": "DG041",
+        "Description": "Stroke"
+    },
+    {
+        "DiagnosisCode": "DG042",
+        "Description": "Systemic Lupus Erythematosus"
+    },
+    {
+        "DiagnosisCode": "DG043",
+        "Description": "Thyroid Cancer"
+    },
+    {
+        "DiagnosisCode": "DG044",
+        "Description": "Ulcerative Colitis"
+    }
+]

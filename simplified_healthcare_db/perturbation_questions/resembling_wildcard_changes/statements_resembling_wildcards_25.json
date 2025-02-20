@@ -1,0 +1,1002 @@
+[
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st al1 patients.",
+        "q_id": 1
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$7 all d0ctors.",
+        "q_id": 2
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1ist @ll admis$ions.",
+        "q_id": 3
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Coun7 7he number of female pati&nts.",
+        "q_id": 4
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Count 7h& p@tient$ by sex.",
+        "q_id": 5
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "C0mpare @ver@ge hospitaliz@tions in the fir$t and second seme$ter of ev&ry ye@r.",
+        "q_id": 6
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many mri and ct $c@ns w&re performed ov&r the ye@rs?",
+        "q_id": 7
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many vacc!nati0n$ wer& adm!nistered over the y&ars?",
+        "q_id": 8
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t al1 departmen7s @long with 7heir head of department's n@me.",
+        "q_id": 9
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1ist all departmen7$ 7hat have 'ol0gy' !n th&!r name.",
+        "q_id": 10
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t al1 male d0ctors and their addresse$.",
+        "q_id": 11
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1i$t all pr0cedures f0r adm!ss!ons d0ne by Dr. O1ivia Davi$.",
+        "q_id": 12
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!$7 all procedures th@t includ& the word 'Surgery'.",
+        "q_id": 13
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Lis7 all trea7m&nts for the patient 1ind@ Garci@.",
+        "q_id": 14
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1ist names and cont@cts 0f a1l mal& doctor$.",
+        "q_id": 15
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t 7h& admis$ion d@tes and discharge d@te$ of a11 admis$i0ns for patien7 James Mi1l&r.",
+        "q_id": 16
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1ist 7he admission da7e$ and disch@rg& dates 0f patients @dm!7ted to the Pediatric$ d&partment.",
+        "q_id": 17
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!s7 the d&partm&nt n@mes @nd heads of dep@rtment$ that hav& @ ph0ne number con7ain!ng '555'.",
+        "q_id": 18
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the d!@gno$i$ and treatments f0r the @dmissi0n 0f pa7!ent Barbara M@r7inez.",
+        "q_id": 19
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List 7h& &m@!l addr&$ses @nd ph0ne numbers of doctors who have @dm!tt&d patien7$ with a diagn0sis of 'Hypertension'.",
+        "q_id": 20
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t the emails 0f all doctors wh0 specia1ize in N&urology.",
+        "q_id": 21
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List th& emails of a1l pa7!en7s.",
+        "q_id": 22
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the n@mes and address&s of @ll m@1e doct0rs.",
+        "q_id": 23
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the names and addre$ses of patients who hav& been adm!7t&d w!th a d!agnosis of 'C0PD'.",
+        "q_id": 24
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st the n@m&$ and address&s of p@tient$ wh0 wer& trea7ed by Dr. Mia Wilson.",
+        "q_id": 25
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t the nam&s and adm!ssion d@te$ 0f pat!&nt$ admitted t0 th& Neurology d&partment.",
+        "q_id": 26
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st th& names and admission d@tes of p@tients who were discharg&d with!n 3 d@ys from @dmissi0n.",
+        "q_id": 27
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$7 the n@mes and c0ntact inform@tion of em&rgency con7act of p@tien7 n@med 'Linda G@rcia'.",
+        "q_id": 28
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st th& names and diagnoses of p@tients admit7&d by Dr. Ava Rodrigu&z in the P&di@tric$ d&partment.",
+        "q_id": 29
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st 7he n@me$ @nd diagn0ses of patient$ admitted in th& last 8 week.",
+        "q_id": 30
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Lis7 the names and d!agnoses of patients who h@ve b&en admit7ed with both 'Diabete$' and 'Hyp&r7en$i0n'.",
+        "q_id": 31
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List th& names and em@il addre$$e$ of a1l femal& doc7or$.",
+        "q_id": 32
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st the name$ and &mail addresses of d0c7ors wh0 admitt&d p@7ients int0 7he oncology d&p@rtm&nt.",
+        "q_id": 33
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!s7 the names and emai1 @ddre$ses 0f patients whose emerg&ncy cont@ct i$ their spou$e.",
+        "q_id": 34
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1ist 7h& n@mes and phon& numbers 0f a1l m@le doctors.",
+        "q_id": 35
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List 7he names and phone number$ of a1l p@t!ents o1der th@n 65.",
+        "q_id": 36
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Lis7 7he n@mes and phone numbers 0f all pati&nts wh0 were admitted in janu@ry 2024.",
+        "q_id": 37
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t the names and phone number$ of d0ctors wh0 have 7reated pa7ient$ wi7h 'Hypertension'.",
+        "q_id": 38
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the name$ and ph0ne numbers of pa7ien7s wh0 have been adm!tted 70 both th& Emergency and Orthopedics dep@rtm&n7$.",
+        "q_id": 39
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!s7 th& name$ @nd phone numbers of pa7i&nts who have r&ceived phy$ical therapy.",
+        "q_id": 40
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Lis7 the names @nd ph0n& numbers 0f pa7i&n7s who w&re admit7ed in Janu@ry 2023 by doctors specialized !n '&merg&ncy Medicine'.",
+        "q_id": 41
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st the nam&s and ph0ne numb&rs 0f pati&nts wh0se emerg&ncy contact is their bro7h&r or $i$ter.",
+        "q_id": 42
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t 7he names and phone numbers of pa7ients whose emergency c0nt@ct n@m& $t@r7s wi7h 'John'.",
+        "q_id": 43
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List th& names and specializa7ions 0f d0ctors who admitted patients t0 the 'Neuro10gy' d&p@rtmen7.",
+        "q_id": 44
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1ist the names 0f al1 departments that h@ve 7he word 'Em&rg&ncy' in 7heir name.",
+        "q_id": 45
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t th& names of all doc7ors who have admitted pa7!&nts in both 7he Onco10gy and Gastroen7er0logy d&partmen7$.",
+        "q_id": 46
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st the names of al1 d0c7ors who $pecia1ize !n Cardiology.",
+        "q_id": 47
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Lis7 the names 0f a1l fema1& patients.",
+        "q_id": 48
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1is7 the names 0f @ll pat!ents who h@ve 'Di@betes' !n 7heir diagno$!$.",
+        "q_id": 49
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List 7he n@m&$ of all patien7s who have been @dmi7ted by Dr. &than M@rtinez.",
+        "q_id": 50
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!$t th& names of all p@t!ents who h@v& been admit7ed in the P&dia7rics department.",
+        "q_id": 51
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List 7he names of doct0rs who have not admitted any p@tient$ !n the l@st six m0n7h$.",
+        "q_id": 52
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List 7h& names of p@ti&n7s wh0 have been admitted 7o 7h& 'N&urology' d&partment and have @ diagn0sis of 'Epilepsy'.",
+        "q_id": 53
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the procedures for 7he adm!s$ion of p@7ient Barbara Brown.",
+        "q_id": 54
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Retriev& admission IDs and n@mes of patients wh0 received mul7iple 7reatm&nt$;",
+        "q_id": 55
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&triev& average length of hospit@lizati0ns in 2022, 2023 @nd 2024;",
+        "q_id": 56
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Retr!&ve the name$ and admission dates of all patients admitt&d in th& las7 3 months.",
+        "q_id": 57
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Retrieve the name$ @nd adm!ss!0n dates of @ll patients @dm!tt&d to 7h& N&urol0gy d&partment in 2023.",
+        "q_id": 58
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&7ri&ve the nam&s and @dmi$sion da7e$ 0f pat!ents wh0 were admitted !n May 2024 and d!$charg&d in June 2024.",
+        "q_id": 59
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Retriev& the n@mes and ema!l @ddresses 0f doctors who admi7ted pa7!en7s in the firs7 semes7er 2023 @nd !n 7h& fir$7 seme$ter 2024.",
+        "q_id": 60
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Re7rieve 7he names and email @ddresses 0f doc7ors who h@ve admitted pa7i&nts !n depar7m&n7$ 07h&r than the!r $peci@liza7ion.",
+        "q_id": 61
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Retriev& 7he names and phon& numbers 0f patients @dmitted by doc7ors specializ!ng in 'Cardiology'.",
+        "q_id": 62
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&trieve the name$ and phone numb&rs of patients wh0 were adm!tted by both m@1& and femal& doctors !n the 1@$t ye@r.",
+        "q_id": 63
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Retri&ve the names @nd $pecializa7!ons of doctor$ who have admit7ed pa7i&n7s !n January 2024.",
+        "q_id": 64
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Retr!eve the n@mes and speci@l!zati0n$ of doctors who h@ve admitted pat!ents in J@nuary 2024.",
+        "q_id": 65
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Retr!ev& the nam&s of all d&par7ments along with the names of th&ir h&ad of department, where 7h& h&ad of d&par7men7 i$ $p&cial!z&d in 'Neur0l0gy'.",
+        "q_id": 66
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show all admis$ions for patien7 Richard Martin&z.",
+        "q_id": 67
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how all tr&atments for th& admission of p@tien7 Richard Martinez.",
+        "q_id": 68
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w @ll tr&atments th@7 inc1ude th& word 'Ther@py'.",
+        "q_id": 69
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show name @nd phone number 0f al1 p@tients @dm!tted in 2023",
+        "q_id": 70
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& @ddre$$es 0f all doctors wh0 have 7he w0rd 'S7ree7' in their @ddress.",
+        "q_id": 71
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how the @dmi$s!on date @nd discharge d@7e for th& adm!ssion of pa7ient Barbara Br0wn.",
+        "q_id": 72
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w 7he @dmiss!0n d@tes and doct0rs for patients admitt&d to 7h& Ped!atrics department.",
+        "q_id": 73
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& admiss!on date$ for patients @dmitted in 2023.",
+        "q_id": 74
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& admi$s!on dates of al1 patients admit7ed t0 the Em&rg&ncy dep@rtment.",
+        "q_id": 75
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how 7h& date of b!r7h of Dr. Michae1 Br0wn.",
+        "q_id": 76
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how 7he di@gnos&s and 7reatment descr!pt!ons for patients adm!tted by Dr. Emma Young.",
+        "q_id": 77
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the diagn0sis and medications f0r the admiss!0n of p@7ien7 R0bert Rodrigu&z.",
+        "q_id": 78
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the diagnosi$ of @ll adm!$s!0ns for pat!ent Elizabe7h Mill&r.",
+        "q_id": 79
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w th& &m@i1 addr&ss&s of a1l female pa7ien7s.",
+        "q_id": 80
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show 7h& med!cati0ns f0r the adm!$sion of p@7ient J&nnifer Mi1ler.",
+        "q_id": 81
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show 7he medic@ti0ns for the @dmi$sions d0n& in 7he R@di0logy departmen7.",
+        "q_id": 82
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how th& medica7ions on adm!s$ion of pa7!&nt Margaret Jones.",
+        "q_id": 83
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$h0w th& name and email of 7he head of the Cardiology depar7men7.",
+        "q_id": 84
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$h0w th& names @nd address&s of p@7!ent$ wh0 have be&n admitted in 7he last 6 month$.",
+        "q_id": 85
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$h0w the name$ and adm!$s!on dates of a11 pa7ients who were adm!tted in the sam& month as 'Joseph G@rci@'.",
+        "q_id": 86
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the n@m&s and admis$ion date$ of pa7ients who have had @t l&a$t one surg&ry.",
+        "q_id": 87
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how th& names and @dmission dates of patien7s wh0 were admitted in during the years 2022 and 2023 @nd aga!n in the f!r$t $emester of 2024.",
+        "q_id": 88
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show 7he name$ and @dmission dates of patients who wer& admi77ed !n 7he $am& mon7h as 'J0$eph Garcia'.",
+        "q_id": 89
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the n@me$ @nd adm!s$!on dates of p@tients who wer& admitt&d in th& s@m& month they were discharged.",
+        "q_id": 90
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the names and bir7h da7es of d0c7ors wh0 admi7ted pa7ients in 2023.",
+        "q_id": 91
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show 7he n@m&s and diagnoses of adm!ss!ons for pat!ent 'Jennifer Brown' dur!ng the ongoing @dm!ssi0n.",
+        "q_id": 92
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the names @nd di@gnos&s of patients admit7ed by Dr. @v@ Rodr!gu&z in th& Ped!atric$ d&par7m&nt.",
+        "q_id": 93
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& nam&s and email addresses of al1 doc70rs who 1ive !n M&tr0polis.",
+        "q_id": 94
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how 7he names and emai1 addre$se$ of doct0r$ who have @dmitted patient$ wi7h d!@gnoses contain!ng 'Diabet&s'.",
+        "q_id": 95
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how the name$ and &mai1 @ddr&s$es 0f doctors who have admi7ted p@ti&nts with diagnos&s c0ntaining 'Diabet&s'.",
+        "q_id": 96
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the name$ @nd heads of d&partments 7hat have a phone numb&r 1isted.",
+        "q_id": 97
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& names and phone numb&rs of @l1 d0ctors who have @dm!tted patient$ in th& Oncology department.",
+        "q_id": 98
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the n@mes and phone numbers 0f all doctors wh0 $pec!alize in P&dia7ric$.",
+        "q_id": 99
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the name$ and phon& numb&rs 0f @ll patien7$ who have been adm!tt&d to both 7he Em&rg&ncy and Orthoped!c$ departments.",
+        "q_id": 100
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how the names and phone numbers of patients who have been @dmit7ed to both the Onco1ogy @nd Rad!ology depar7men7$.",
+        "q_id": 101
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the n@m&$ and ph0ne numbers 0f pat!ent$ who hav& be&n admit7ed to the Emergency dep@rtm&nt in the past y&ar.",
+        "q_id": 102
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the names and phone numb&rs of patien7s who were admitted by d0ctors specia1!zing in 'Orth0pedic$'.",
+        "q_id": 103
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the names and sp&ci@l!zat!ons 0f all doc70rs who h@v& @dm!tted p@tien7$ 7o the Oncol0gy departm&nt.",
+        "q_id": 104
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w th& names @nd speci@1!zations of doctor$ wh0 hav& admit7ed pati&nt$ in both 7h& N&urology @nd Onc0logy departments.",
+        "q_id": 105
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how th& names and spec!alization$ of doctors wh0 w&r& born bef0re 1970.",
+        "q_id": 106
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show 7he names and 7h& da7e 0f b!rth of p@7ient$ wh0 received more than one medica7i0n dur!ng 7he $ame adm!ssi0n and 1i$t the med!c@tion$ th&y receiv&d.",
+        "q_id": 107
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w th& names 0f a1l depar7men7s th@t have a head of dep@rtm&nt sp&ci@liz&d in Cardiol0gy.",
+        "q_id": 108
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$h0w the names of al1 departments.",
+        "q_id": 109
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the nam&s of @ll ma1e p@ti&n7s.",
+        "q_id": 110
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the names of @11 pati&nts admit7&d in J@nuary 2024 along with their admission dates and discharg& da7es.",
+        "q_id": 111
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the names 0f @ll p@ti&nt$ who @re 50 ye@rs old or old&r.",
+        "q_id": 112
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w th& nam&s of all pat!en7s who w&re adm!tted on '2023-11-03'.",
+        "q_id": 113
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the name$ of doc7ors and admis$!0n dat&s for pa7ient '1inda J0hns0n' @dmitt&d in 2023.",
+        "q_id": 114
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& names of d0ctor$ and 7he!r specializa7ions who hav& admi7t&d p@t!&nts with '$tr0ke'.",
+        "q_id": 115
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& n@me$ of d0ctors b0rn between 1970 and 1980.",
+        "q_id": 116
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the name$ of doctor$ who specia1ize in Neur01ogy.",
+        "q_id": 117
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the n@mes, @dmission da7&s, and diagn0ses of admis$ion$ that includ& 7he w0rd 'D!sease'.",
+        "q_id": 118
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the phone number and addre$s of Eliz@beth Jone$.",
+        "q_id": 119
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w 7he ph0ne numbers @nd email @ddresses of all departmen7$.",
+        "q_id": 120
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& pr0cedures for all adm!ssi0ns don& by Dr. &mily White.",
+        "q_id": 121
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the specializ@7ions of al1 doctor$ who have th& word 'Surg&ry' in their sp&c!@liz@tion.",
+        "q_id": 122
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show 7he treatment$ and procedur&s for 7he admis$ion of pat!ent Maria Rodr!guez.",
+        "q_id": 123
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Wha7 !$ the @verage hospitalization l&ngth 0f patient$ who rece!v&d surgeri&s grouped by year?",
+        "q_id": 124
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Wh@t !s the aver@ge length of h0spital!z@7ions?",
+        "q_id": 125
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Find @l1 7h& pati&nts with COPD @nd r&tr!eve 7heir medication @nd dep@rtment",
+        "q_id": 126
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Gr0up the averag& stay 0f patients by spec!@lization 0f th& admitting doct0r, from longest t0 short&s7;",
+        "q_id": 127
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many Hip Replacem&n7 $urgery were performed 0veral1 @nd wh!ch medicati0ns did the$e p@t!&nts take?",
+        "q_id": 128
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How m@ny ongoing adm!$s!on$ ar& 7h&re and in which department?",
+        "q_id": 129
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How m@ny pat!en7s had surgeries !n 2022?",
+        "q_id": 130
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List all an&$th&sis7s with age @nd gend&r and re7r!&v& the pati&nts th&y admi7ted @nd wi7h what m&d!cations;",
+        "q_id": 131
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t a1l pati&n7s admit7ed !n 2024 grouped by di@gno$is, from the most prevalent to the 1east;",
+        "q_id": 132
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1ist the names and email addr&$ses of d0ctors who hav& adm!t7ed pa7ien7s in both the Onc0logy and G@str0&nterology dep@rtm&nts.",
+        "q_id": 133
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List 7he n@m&s @nd phone number$ of pa7ient$ who were adm!tted by both ma1e and female d0c7ors.",
+        "q_id": 134
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List th& names and speci@liza7ion of d0c7or$ who adm!7ted pat!en7s taking aspirin @s medica7ion;",
+        "q_id": 135
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t the n@m&s, diagnoses, and medic@7!ons of pat!&nts adm!77ed by Dr. B&njamin Walker in the 'Onc0logy' department.",
+        "q_id": 136
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!$t the name$, di@gn0se$, @nd treatmen7s f0r patients @dmit7&d with th& word 'Infection' in their diagno$!s.",
+        "q_id": 137
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Retrieve a1l nam&$, emails @nd phone numbers of doctor$, grouped by dep@rtment.",
+        "q_id": 138
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Re7r!eve c0ntact information of all patients admitt&d by cardiolog!sts;",
+        "q_id": 139
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&trieve 7h& name$ and phone numb&rs 0f a1l pa7!&nts who were admitted in 7h& same dep@rtment @s 'James Garc!a' during her first admis$ion.",
+        "q_id": 140
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show all med!cation$ pr&scrib&d by Dr. Mia Wilson and the names and da7es of b!r7h of 7h& patien7s who received them.",
+        "q_id": 141
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w the nam&s and @dmi$s!0n dates 0f pat!ents who have be&n admitted by doctor$ speci@1!zing in C@rdio1ogy.",
+        "q_id": 142
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w the nam&$ of al1 d0ctors who h@ve adm!7ted p@7!&nts in the 0rthopedic$ dep@rtment.",
+        "q_id": 143
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the n@mes of d&par7m&nts and 7he 7otal numb&r of @dmission$ for each in th& last 2 months.",
+        "q_id": 144
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how 7he n@m&s of d&par7ments and the total number of doct0rs in each.",
+        "q_id": 145
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the names of doc70rs and 7h& coun7 of patien7s they h@v& admit7ed wh0 have been d!agno$ed w!th 'Hyper7ension'.",
+        "q_id": 146
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& n@mes of doctors @nd 7h& 7ota1 numb&r of different pat!ent$ 7h&y have admit7&d.",
+        "q_id": 147
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w the nam&s of pati&n7s and th&!r d0ctors who sp&cialize in Card!01ogy.",
+        "q_id": 148
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the names, admiss!0n d@tes, and medic@t!0ns for pa7ien7s admitted by Dr. E7h@n Martinez w!th the word '$urg&ry' in th&!r procedur&$.",
+        "q_id": 149
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the n@mes, @dmission da7es, and m&dications f0r patients admitted by d0ctors with the special!za7!on 'Ped!a7rics'.",
+        "q_id": 150
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the nam&s, adm!ss!on dat&s, @nd proc&dures for patien7s adm!tted in January 2023 @nd discharged in F&bruary 2023.",
+        "q_id": 151
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show 7he tot@l number 0f admi$s!0ns for &ach dep@r7ment.",
+        "q_id": 152
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Wh@7 i$ the mon7h of the year in which on @verage 7here @re mor& admissions?",
+        "q_id": 153
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What is 7h& mos7 prescr!bed medica7i0n?",
+        "q_id": 154
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Wh!ch is 7he mos7 frequently performed $urgery 0veral1?",
+        "q_id": 155
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Find p@7i&nt$ that r&ceiv& m0r& than one medication and group there by department;",
+        "q_id": 156
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "H0w many pat!&nt$ take more th@n 2 med!ca7!ons and who i$ their doc7or and department?",
+        "q_id": 157
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many pat!en7s wer& admitted in May @nd June 2024? 1!st th&ir name$, IDs, admi7ting doctors and d&partment.",
+        "q_id": 158
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "H0w many patien7s with $trokes r&ceiv&d @spirin @nd who was th& prescriber?",
+        "q_id": 159
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st all pati&n7$ tak!ng heparin 0r enoxapar!n and the name of the doc70r$ that admitt&d 7h&m @nd 7he department th&y were admit7&d !n7o;",
+        "q_id": 160
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t @ll pa7ien7$ who have be&n admit7ed mor& th@n once.",
+        "q_id": 161
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the n@me$ and email addre$$es of a1l doctors who have admitted m0r& 7han 1 p@ti&nt in th& C@rdio10gy d&partm&nt.",
+        "q_id": 162
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t the nam&s and email addresses of d0c7ors who have admi7ted m0re than 2 pa7ien7s.",
+        "q_id": 163
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the name$ and phone number$ of al1 pa7ients who have been admitt&d m0r& than 0nc& in the Cardiol0gy d&partment.",
+        "q_id": 164
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t 7he names and phone numbers 0f patient$ who have been admitt&d more th@n onc& in 7he C@rdi0l0gy departm&nt.",
+        "q_id": 165
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st the names @nd ph0ne number$ of pati&nts wh0 h@ve been diagn0sed with c@ncer more than 0nc&.",
+        "q_id": 166
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List th& pa7i&nt ID$ of patient$ who h@ve b&&n admit7ed m0re 7han onc&.",
+        "q_id": 167
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&7rieve the names and sp&cia1izati0ns of d0ct0r$ who have admitted mor& than 5 pati&nts.",
+        "q_id": 168
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&tr!ev& 7he names of pati&nt$ who have been @dmit7ed to the 'Em&rgency' d&p@rtmen7 mor& than once.",
+        "q_id": 169
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Re7rieve the numb&r of diaz&pam prescript!on$ grouped by year and dep@r7ments.",
+        "q_id": 170
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w the diagnos&s @nd medic@ti0n$ of patients who have been @dm!tted two or m0r& time$.",
+        "q_id": 171
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w th& names and &m@il addre$se$ of doct0rs wh0 have admitted m0re th@n 3 patients !n 7h& last 2 ye@r$.",
+        "q_id": 172
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the names 0f all doctors who have adm!7ted more than 5 pati&nts.",
+        "q_id": 173
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Wh0 !$ the d0ctor who admitted 7he pat!&nt wi7h the longest h0spi7aliz@ti0n @nd what i$ 7he name, pa7h0logy, medica7!0n and dep@rtment 0f 7he pat!ent?",
+        "q_id": 174
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List al1 d0c7or$ wh0 have admitted pati&n7s, group&d by the departm&nt of admission, and !nclude the nam& of the h&ad of e@ch d&p@rtm&nt.",
+        "q_id": 175
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st 7he dep@rtment n@mes, head$ of dep@rtmen7s, @nd th& number of admi$si0ns hand1ed by each h&ad of departm&nt, where 7h& number 0f admis$ions is m0re 7han 3.",
+        "q_id": 176
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1ist the name$ @nd addr&sses of pa7ien7s wh0 have b&en admi7ted more 7han 7wic&.",
+        "q_id": 177
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List th& names @nd @dmis$ion d@te$ of pa7i&nts who have been admit7&d to more th@n one dep@rtm&n7.",
+        "q_id": 178
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!$t 7he names and con7act informati0n of patients who hav& been admit7ed by more 7han one d0ctor.",
+        "q_id": 179
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t the nam&s and c0ntac7 inform@ti0n of pati&n7s who h@ve been admi77&d t0 mu1tiple departments.",
+        "q_id": 180
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st the nam&s @nd email address&s of doctors wh0 have @dmit7ed patients with mu17iple diagno$&s.",
+        "q_id": 181
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Lis7 7he nam&s @nd ph0ne numbers 0f patien7s who hav& been adm!t7ed by m0re 7han 7hree different doctor$.",
+        "q_id": 182
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List 7h& names and phon& numbers 0f p@7i&nts wh0 were admit7&d by doc7ors fr0m multip1e depar7ment$.",
+        "q_id": 183
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1is7 th& names @nd specializa7!0n$ of doctors wh0 have @dmit7ed patien7s !n mu17ip1e depar7ment$.",
+        "q_id": 184
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t the name$ of dep@rtm&n7s and th& number of adm!s$ions !n 2022 and 2023, where th& number of admis$ion$ is more 7han 10.",
+        "q_id": 185
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t th& names of doc7ors who h@v& admitted more th@n 5 pati&n7s.",
+        "q_id": 186
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!s7 7he names of pat!ents and th&ir diagnos&s, wher& th& diagno$is !ncludes 'Diabetes' and h@s been r&c0rd&d mor& 7han tw!ce.",
+        "q_id": 187
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Retr!eve ID, name and c0ntact informat!on of the doctor who pr&scribed the highes7 numb&r of CT $cans and MRI and c0unt th&m per ye@r",
+        "q_id": 188
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&7r!&ve all 7he informat!0n 0f the doc7or who admitted the mos7 pat!ents and @ll the m&dica7ions pr&scr!bed.",
+        "q_id": 189
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the n@m&$ and admission date$ of patients wh0 h@v& been admitted to mul7!ple departments w!7hin the $am& y&ar.",
+        "q_id": 190
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the nam&$ and dates of birth 0f pati&nt$ who have be&n diagno$ed w!th diabetes more than once @nd r&tr!eve 7h& name$ of the doctors who admit7ed 7h&m.",
+        "q_id": 191
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the n@me$ @nd ema!l addres$&$ of a11 doctor$ who hav& admitted more than 2 fema1e patients ov&ral1, gr0uped by department, including the count of female pa7ien7s per depar7men7.",
+        "q_id": 192
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show 7he n@m&s and phone numbers of pat!ents who have been admitt&d by a7 lea$7 two d!fferent d0ctor$.",
+        "q_id": 193
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the name$ and phone numbers 0f pa7ients wh0 h@ve been admi7ted by both Dr. Dani&l Lee and Dr. L!ly Baker.",
+        "q_id": 194
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& nam&s of p@tien7s and 7h&!r doctors, where the pat!ent h@$ been admitt&d more th@n 3 t!mes.",
+        "q_id": 195
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& n@mes of p@t!&nts @nd their medications, where th& medic@7ion includes '@ntibi0tic' and h@s been recorded mor& than 0nce.",
+        "q_id": 196
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& names of p@tients wh0 have had multip1e surg&ries.",
+        "q_id": 197
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Wh@t wa$ the mo$t pre$cribed drug !n 2023?",
+        "q_id": 198
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What w@s 7he most pre$cribed medication in 2023?",
+        "q_id": 199
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Wh!ch doctors @dmi7ted th& pati&nts with the l0nge$t admi$s!0n$?",
+        "q_id": 200
+    }
+]

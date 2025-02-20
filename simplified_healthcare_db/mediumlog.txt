@@ -1,0 +1,1276 @@
+        "Question ID": 82,
+        "Question": "Retrieve all names, emails and phone numbers of doctors, grouped by department.",
+        "Gold standard query": "SELECT Department.DepartmentName, Doctor.Name, Doctor.Email, Doctor.Phone FROM Doctor JOIN Department ON Doctor.DoctorCode = Department.HeadOfDepartment ORDER BY Department.DepartmentName;",
+        "Predicted query": "SELECT d.Name AS DoctorName, d.Email AS DoctorEmail, d.Phone AS DoctorPhone, d.Specialization, d.Address, d.DepartmentCode, d.HeadOfDepartment, dph.DepartmentName AS DepartmentName FROM Doctor d JOIN Department dp ON d.DepartmentCode = dp.DepartmentCode JOIN Doctor dp_h ON dp.DepartmentCode = dp_h.DepartmentCode AND dp_h.HeadOfDepartment = d.DoctorCode WHERE dp.DepartmentName IS NOT NULL",
+        "Prediction result": null,
+        "Gold standard result": [
+            [
+                "555-2345",
+                "Gastroenterology",
+                "Lucas Cooper",
+                "lucas.cooper@generalhospital.com"
+            ],
+            [
+                "555-2345",
+                "Noah Hill",
+                "Oncology",
+                "noah.hill@generalhospital.com"
+            ],
+            [
+                "555-4567",
+                "Ava Rodriguez",
+                "Pediatrics",
+                "ava.rodriguez@generalhospital.com"
+            ],
+            [
+                "555-5432",
+                "General Surgery",
+                "William King",
+                "william.king@generalhospital.com"
+            ],
+            [
+                "555-5678",
+                "Alexander Ward",
+                "Cardiology",
+                "alexander.ward@generalhospital.com"
+            ],
+            [
+                "555-5678",
+                "Grace Taylor",
+                "Neurology",
+                "grace.taylor@generalhospital.com"
+            ],
+            [
+                "555-6543",
+                "Ethan Adams",
+                "Radiology",
+                "ethan.adams@generalhospital.com"
+            ],
+            [
+                "555-6789",
+                "Chloe Hill",
+                "Emergency",
+                "chloe.hill@generalhospital.com"
+            ],
+            [
+                "555-7890",
+                "Lily Baker",
+                "Orthopedics",
+                "lily.baker@generalhospital.com"
+            ],
+            [
+                "555-9012",
+                "Emma Young",
+                "Urology",
+                "emma.young@generalhospital.com"
+            ]
+        ],
+        "Exact execution match": false,
+        "Cosine similarity": 0.3098084035812756,
+        "Exact string match": false,
+        "Gold error": null,
+        "Prediction error": "no such column: d.DepartmentCode",
+        "Hardness": "medium"
+    },
+    {
+        "Question ID": 83,
+        "Question": "Retrieve the names and phone numbers of all patients who were admitted in the same department as 'James Garcia' during her first admission.",
+        "Gold standard query": "SELECT Name, PhoneNumber FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission WHERE DepartmentID = (SELECT DepartmentID FROM Admission WHERE PatientID = (SELECT PatientID FROM Patient WHERE Name = 'James Garcia') LIMIT 1));",
+        "Predicted query": "SELECT P.Name, P.PhoneNumberFROM Patient P, Admission AWHERE P.PatientID = A.PatientIDAND A.DepartmentID IN (SELECT D.DepartmentCodeFROM Doctor D, Admission ADWHERE D.DoctorCode = AD.DoctorIDAND AD.PatientID IN (SELECT A.PatientIDFROM Admission AWHERE A.DoctorID IN (SELECT D.DoctorCodeFROM Doctor DWHERE D.Name = 'James Garcia'))AND AD.AdmissionDate = (SELECT MIN(A1.AdmissionDate)FROM Admission A1WHERE A1.PatientID IN (SELECT A.PatientIDFROM Admission AWHERE A.DoctorID IN (SELECT D.DoctorCodeFROM Doctor DWHERE D.Name = 'James Garcia')))AND D.DepartmentCode = AD.DepartmentID",
+        "Prediction result": null,
+        "Gold standard result": [
+            [
+                "555-1870",
+                "Barbara Martinez"
+            ],
+            [
+                "555-3992",
+                "William Johnson"
+            ],
+            [
+                "555-4553",
+                "Jennifer Brown"
+            ],
+            [
+                "555-4633",
+                "Richard Martinez"
+            ],
+            [
+                "555-6350",
+                "Jennifer Brown"
+            ],
+            [
+                "555-6404",
+                "Maria Brown"
+            ],
+            [
+                "555-6624",
+                "Margaret Jones"
+            ],
+            [
+                "555-7773",
+                "William Johnson"
+            ],
+            [
+                "555-8239",
+                "Richard Jones"
+            ],
+            [
+                "555-9520",
+                "James Garcia"
+            ],
+            [
+                "555-9802",
+                "Robert Garcia"
+            ]
+        ],
+        "Exact execution match": false,
+        "Cosine similarity": 0.44967322699517526,
+        "Exact string match": false,
+        "Gold error": null,
+        "Prediction error": "near \"P\": syntax error",
+        "Hardness": "medium"
+    },
+    {
+        "Question ID": 84,
+        "Question": "List the names and email addresses of doctors who have admitted patients in both the Oncology and Gastroenterology departments.",
+        "Gold standard query": "SELECT DISTINCT Doctor.Name, Doctor.Email FROM Doctor WHERE Doctor.DoctorCode IN (SELECT DoctorID FROM Admission WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Oncology')) AND Doctor.DoctorCode IN (SELECT DoctorID FROM Admission WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Gastroenterology'));",
+        "Predicted query": "SELECT d.Name, d.Email FROM Doctor d JOIN Admission a ON d.DoctorCode = a.DoctorID JOIN Department dep ON a.DepartmentID = dep.DepartmentCode WHERE dep.DepartmentName IN ('Oncology', 'Gastroenterology') GROUP BY d.Name, d.Email HAVING COUNT(DISTINCT a.AdmissionID) > 1",
+        "Prediction result": [
+            [
+                "Emily White",
+                "emily.white@generalhospital.com"
+            ],
+            [
+                "Lily Cooper",
+                "lily.cooper@generalhospital.com"
+            ],
+            [
+                "William Brooks",
+                "william.brooks@generalhospital.com"
+            ]
+        ],
+        "Gold standard result": [
+            [
+                "William Brooks",
+                "william.brooks@generalhospital.com"
+            ]
+        ],
+        "Exact execution match": false,
+        "Cosine similarity": 0.44743321790854235,
+        "Exact string match": false,
+        "Gold error": null,
+        "Prediction error": null,
+        "Hardness": "medium"
+    },
+    {
+        "Question ID": 85,
+        "Question": "List the names and phone numbers of patients who were admitted by both male and female doctors.",
+        "Gold standard query": "SELECT Name, PhoneNumber FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode WHERE Doctor.Gender = 'Male') AND PatientID IN (SELECT PatientID FROM Admission JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode WHERE Doctor.Gender = 'Female');",
+        "Predicted query": "SELECT p.Name, p.PhoneNumber FROM Patient p JOIN Admission a ON p.PatientID = a.PatientID JOIN Doctor d ON a.DoctorID = d.DoctorCode WHERE d.Gender = 'Male' OR d.Gender = 'Female'",
+        "Prediction result": [
+            [
+                "555-1282",
+                "Jennifer Miller"
+            ],
+            [
+                "555-1282",
+                "Jennifer Miller"
+            ],
+            [
+                "555-1282",
+                "Jennifer Miller"
+            ],
+            [
+                "555-1331",
+                "Joseph Johnson"
+            ],
+            [
+                "555-1370",
+                "Thomas Smith"
+            ],
+            [
+                "555-1491",
+                "Mary Williams"
+            ],
+            [
+                "555-1707",
+                "Robert Garcia"
+            ],
+            [
+                "555-1735",
+                "John Brown"
+            ],
+            [
+                "555-1775",
+                "Elizabeth Jones"
+            ],
+            [
+                "555-1776",
+                "Robert Rodriguez"
+            ],
+            [
+                "555-1776",
+                "Robert Rodriguez"
+            ],
+            [
+                "555-1776",
+                "Robert Rodriguez"
+            ],
+            [
+                "555-1870",
+                "Barbara Martinez"
+            ],
+            [
+                "555-1870",
+                "Barbara Martinez"
+            ],
+            [
+                "555-1870",
+                "Barbara Martinez"
+            ],
+            [
+                "555-1870",
+                "Barbara Martinez"
+            ],
+            [
+                "555-1870",
+                "Barbara Martinez"
+            ],
+            [
+                "555-1889",
+                "Thomas Davis"
+            ],
+            [
+                "555-1889",
+                "Thomas Davis"
+            ],
+            [
+                "555-1889",
+                "Thomas Davis"
+            ],
+            [
+                "555-1889",
+                "Thomas Davis"
+            ],
+            [
+                "555-1995",
+                "Richard Martinez"
+            ],
+            [
+                "555-2109",
+                "Elizabeth Miller"
+            ],
+            [
+                "555-2295",
+                "Charles Smith"
+            ],
+            [
+                "555-2295",
+                "Charles Smith"
+            ],
+            [
+                "555-2416",
+                "Charles Brown"
+            ],
+            [
+                "555-2615",
+                "Patricia Rodriguez"
+            ],
+            [
+                "555-2677",
+                "Maria Brown"
+            ],
+            [
+                "555-2677",
+                "Maria Brown"
+            ],
+            [
+                "555-2936",
+                "Mary Johnson"
+            ],
+            [
+                "555-2936",
+                "Mary Johnson"
+            ],
+            [
+                "555-3288",
+                "Susan Davis"
+            ],
+            [
+                "555-3594",
+                "Thomas Brown"
+            ],
+            [
+                "555-3690",
+                "Richard Martinez"
+            ],
+            [
+                "555-3992",
+                "William Johnson"
+            ],
+            [
+                "555-3992",
+                "William Johnson"
+            ],
+            [
+                "555-3992",
+                "William Johnson"
+            ],
+            [
+                "555-3992",
+                "William Johnson"
+            ],
+            [
+                "555-3995",
+                "Margaret Garcia"
+            ],
+            [
+                "555-3995",
+                "Margaret Garcia"
+            ],
+            [
+                "555-4119",
+                "Patricia Martinez"
+            ],
+            [
+                "555-4166",
+                "Robert Miller"
+            ],
+            [
+                "555-4305",
+                "Susan Garcia"
+            ],
+            [
+                "555-4305",
+                "Susan Garcia"
+            ],
+            [
+                "555-4492",
+                "James Miller"
+            ],
+            [
+                "555-4492",
+                "James Miller"
+            ],
+            [
+                "555-4553",
+                "Jennifer Brown"
+            ],
+            [
+                "555-4553",
+                "Jennifer Brown"
+            ],
+            [
+                "555-4553",
+                "Jennifer Brown"
+            ],
+            [
+                "555-4554",
+                "John Smith"
+            ],
+            [
+                "555-4554",
+                "John Smith"
+            ],
+            [
+                "555-4595",
+                "Robert Garcia"
+            ],
+            [
+                "555-4633",
+                "Richard Martinez"
+            ],
+            [
+                "555-4790",
+                "Maria Rodriguez"
+            ],
+            [
+                "555-5167",
+                "Dorothy Miller"
+            ],
+            [
+                "555-5167",
+                "Dorothy Miller"
+            ],
+            [
+                "555-5167",
+                "Dorothy Miller"
+            ],
+            [
+                "555-5167",
+                "Dorothy Miller"
+            ],
+            [
+                "555-5167",
+                "Dorothy Miller"
+            ],
+            [
+                "555-5167",
+                "Dorothy Miller"
+            ],
+            [
+                "555-5356",
+                "Barbara Brown"
+            ],
+            [
+                "555-5475",
+                "Mary Williams"
+            ],
+            [
+                "555-5561",
+                "Joseph Brown"
+            ],
+            [
+                "555-5561",
+                "Joseph Brown"
+            ],
+            [
+                "555-5561",
+                "Joseph Brown"
+            ],
+            [
+                "555-5655",
+                "Michael Davis"
+            ],
+            [
+                "555-5825",
+                "Jennifer Rodriguez"
+            ],
+            [
+                "555-5929",
+                "Barbara Johnson"
+            ],
+            [
+                "555-6021",
+                "Linda Johnson"
+            ],
+            [
+                "555-6021",
+                "Linda Johnson"
+            ],
+            [
+                "555-6146",
+                "Elizabeth Johnson"
+            ],
+            [
+                "555-6146",
+                "Elizabeth Johnson"
+            ],
+            [
+                "555-6350",
+                "Jennifer Brown"
+            ],
+            [
+                "555-6350",
+                "Jennifer Brown"
+            ],
+            [
+                "555-6350",
+                "Jennifer Brown"
+            ],
+            [
+                "555-6350",
+                "Jennifer Brown"
+            ],
+            [
+                "555-6404",
+                "Maria Brown"
+            ],
+            [
+                "555-6404",
+                "Maria Brown"
+            ],
+            [
+                "555-6513",
+                "Linda Williams"
+            ],
+            [
+                "555-6623",
+                "Joseph Garcia"
+            ],
+            [
+                "555-6623",
+                "Joseph Garcia"
+            ],
+            [
+                "555-6623",
+                "Joseph Garcia"
+            ],
+            [
+                "555-6624",
+                "Margaret Jones"
+            ],
+            [
+                "555-6624",
+                "Margaret Jones"
+            ],
+            [
+                "555-6624",
+                "Margaret Jones"
+            ],
+            [
+                "555-6624",
+                "Margaret Jones"
+            ],
+            [
+                "555-6668",
+                "Barbara Davis"
+            ],
+            [
+                "555-6700",
+                "Linda Garcia"
+            ],
+            [
+                "555-6771",
+                "Richard Johnson"
+            ],
+            [
+                "555-6771",
+                "Richard Johnson"
+            ],
+            [
+                "555-6961",
+                "Richard Smith"
+            ],
+            [
+                "555-6961",
+                "Richard Smith"
+            ],
+            [
+                "555-6961",
+                "Richard Smith"
+            ],
+            [
+                "555-6961",
+                "Richard Smith"
+            ],
+            [
+                "555-7358",
+                "John Smith"
+            ],
+            [
+                "555-7773",
+                "William Johnson"
+            ],
+            [
+                "555-7773",
+                "William Johnson"
+            ],
+            [
+                "555-7996",
+                "Thomas Davis"
+            ],
+            [
+                "555-8239",
+                "Richard Jones"
+            ],
+            [
+                "555-8239",
+                "Richard Jones"
+            ],
+            [
+                "555-8953",
+                "Dorothy Smith"
+            ],
+            [
+                "555-9011",
+                "James Miller"
+            ],
+            [
+                "555-9070",
+                "John Miller"
+            ],
+            [
+                "555-9304",
+                "Maria Jones"
+            ],
+            [
+                "555-9304",
+                "Maria Jones"
+            ],
+            [
+                "555-9461",
+                "Jennifer Garcia"
+            ],
+            [
+                "555-9461",
+                "Jennifer Garcia"
+            ],
+            [
+                "555-9461",
+                "Jennifer Garcia"
+            ],
+            [
+                "555-9520",
+                "James Garcia"
+            ],
+            [
+                "555-9520",
+                "James Garcia"
+            ],
+            [
+                "555-9802",
+                "Robert Garcia"
+            ]
+        ],
+        "Gold standard result": [
+            [
+                "555-1282",
+                "Jennifer Miller"
+            ],
+            [
+                "555-1776",
+                "Robert Rodriguez"
+            ],
+            [
+                "555-1870",
+                "Barbara Martinez"
+            ],
+            [
+                "555-1889",
+                "Thomas Davis"
+            ],
+            [
+                "555-2295",
+                "Charles Smith"
+            ],
+            [
+                "555-3992",
+                "William Johnson"
+            ],
+            [
+                "555-3995",
+                "Margaret Garcia"
+            ],
+            [
+                "555-4305",
+                "Susan Garcia"
+            ],
+            [
+                "555-4554",
+                "John Smith"
+            ],
+            [
+                "555-5167",
+                "Dorothy Miller"
+            ],
+            [
+                "555-5561",
+                "Joseph Brown"
+            ],
+            [
+                "555-6350",
+                "Jennifer Brown"
+            ],
+            [
+                "555-6404",
+                "Maria Brown"
+            ],
+            [
+                "555-6623",
+                "Joseph Garcia"
+            ],
+            [
+                "555-6624",
+                "Margaret Jones"
+            ],
+            [
+                "555-6771",
+                "Richard Johnson"
+            ],
+            [
+                "555-6961",
+                "Richard Smith"
+            ],
+            [
+                "555-8239",
+                "Richard Jones"
+            ],
+            [
+                "555-9461",
+                "Jennifer Garcia"
+            ],
+            [
+                "555-9520",
+                "James Garcia"
+            ]
+        ],
+        "Exact execution match": false,
+        "Cosine similarity": 0.7692963608423375,
+        "Exact string match": false,
+        "Gold error": null,
+        "Prediction error": null,
+        "Hardness": "medium"
+    },
+    {
+        "Question ID": 86,
+        "Question": "List the names and specialization of doctors who admitted patients taking aspirin as medication;",
+        "Gold standard query": "SELECT DISTINCT Doctor.Name, Doctor.Specialization FROM Doctor JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID WHERE Admission.Medications LIKE '%Aspirin%';",
+        "Predicted query": "SELECT D.Name, D.Specialization FROM Doctor DJOIN Admission A ON D.DoctorCode = A.DoctorIDJOIN Medication M ON A.AdmissionID = M.AdmissionIDWHERE M.MedicationDescription LIKE '%aspirin%'",
+        "Prediction result": null,
+        "Gold standard result": [
+            [
+                "Abigail Cook",
+                "Gastroenterology"
+            ],
+            [
+                "Alexander Ward",
+                "Cardiology"
+            ],
+            [
+                "Anesthesiology",
+                "William Brooks"
+            ],
+            [
+                "Ava Rodriguez",
+                "Pediatrics"
+            ],
+            [
+                "Cardiology",
+                "Michael Brown"
+            ],
+            [
+                "Chloe Hill",
+                "Emergency Medicine"
+            ],
+            [
+                "Emergency Medicine",
+                "Emily White"
+            ],
+            [
+                "Ethan Martinez",
+                "Oncology"
+            ],
+            [
+                "Fernando Martinez",
+                "Pediatrics"
+            ],
+            [
+                "Gabriel Young",
+                "Urology"
+            ],
+            [
+                "General Surgery",
+                "Noah Thomas"
+            ],
+            [
+                "James Wilson",
+                "Radiology"
+            ],
+            [
+                "Lily Baker",
+                "Orthopedics"
+            ],
+            [
+                "Lily Cooper",
+                "Pediatrics"
+            ],
+            [
+                "Neurology",
+                "Sophia Garcia"
+            ]
+        ],
+        "Exact execution match": false,
+        "Cosine similarity": 0.49014987155336104,
+        "Exact string match": false,
+        "Gold error": null,
+        "Prediction error": "near \"Admission\": syntax error",
+        "Hardness": "medium"
+    },
+    {
+        "Question ID": 87,
+        "Question": "List all patients admitted in 2024 grouped by diagnosis, from the most prevalent to the least;",
+        "Gold standard query": "SELECT Admission.Diagnosis, COUNT(Patient.PatientID) AS PatientCount FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID WHERE Admission.AdmissionDate BETWEEN '2024-01-01' AND '2024-12-31' GROUP BY Admission.Diagnosis ORDER BY PatientCount DESC;",
+        "Predicted query": "SELECT d.Diagnosis,     COUNT(*) AS Count FROM     Admission a INNER JOIN     Patient p ON a.PatientID = p.PatientID WHERE     a.AdmissionDate LIKE '2024%' GROUP BY     d.Diagnosis ORDER BY     Count DESC",
+        "Prediction result": null,
+        "Gold standard result": [
+            [
+                "Gout",
+                2
+            ],
+            [
+                "Systemic Lupus Erythematosus",
+                1
+            ],
+            [
+                "Schizophrenia",
+                1
+            ],
+            [
+                "Prostate Cancer",
+                1
+            ],
+            [
+                "Parkinson's Disease",
+                1
+            ],
+            [
+                "Osteoarthritis",
+                1
+            ],
+            [
+                "Lung Cancer",
+                1
+            ],
+            [
+                "Hypertension",
+                1
+            ],
+            [
+                "Diabetes Mellitus, Hypertension",
+                1
+            ],
+            [
+                "Cerebral Palsy",
+                1
+            ],
+            [
+                "COPD (Chronic Obstructive Pulmonary Disease)",
+                1
+            ],
+            [
+                "Brain Tumor",
+                1
+            ]
+        ],
+        "Exact execution match": false,
+        "Cosine similarity": 0.6341414800351154,
+        "Exact string match": false,
+        "Gold error": "'<' not supported between instances of 'int' and 'str'",
+        "Prediction error": "no such column: d.Diagnosis",
+        "Hardness": "medium"
+    },
+    {
+        "Question ID": 88,
+        "Question": "How many Hip Replacement Surgery were performed overall and which medications did these patients take?",
+        "Gold standard query": "SELECT COUNT(*), GROUP_CONCAT(DISTINCT Admission.Medications) FROM Admission WHERE Admission.Procedures LIKE '%Hip Replacement Surgery%';",
+        "Predicted query": "SELECT COUNT(DISTINCT AdmissionID) AS \"Total Number of Surgeries\",        GROUP_CONCAT(DISTINCT Medication.MedicationDescription, ', ') AS \"Medications\" FROM   Admission JOIN   Procedure ON Admission.AdmissionID = Procedure.AdmissionID WHERE  Procedure.ProcedureDescription LIKE '%Hip Replacement%' GROUP  BY AdmissionID",
+        "Prediction result": null,
+        "Gold standard result": [
+            [
+                13,
+                "Hydrocortisone, Enoxaparin, Lorazepam,Ketorolac, Enoxaparin,Omeprazole, Lorazepam,Heparin, Vitamin-D,Paracetamol, Lorazepam, Escitalopram,Heparin, Clopidogrel, Aspirin, Diazepam,Lorazepam, Atorvastatin, Bupropion,Sertraline, Hydrocortisone,Aspirin, Morphine, Diazepam,Warfarin, Heparin,Bupropion, Simvastatin,Tramadol,Clopidogrel"
+            ]
+        ],
+        "Exact execution match": false,
+        "Cosine similarity": 0.36214760896993176,
+        "Exact string match": false,
+        "Gold error": "'<' not supported between instances of 'str' and 'int'",
+        "Prediction error": "ambiguous column name: AdmissionID",
+        "Hardness": "medium"
+    },
+    {
+        "Question ID": 89,
+        "Question": "How many ongoing admissions are there and in which department?",
+        "Gold standard query": "SELECT Department.DepartmentName, COUNT(*) AS OngoingAdmissions FROM Admission JOIN Department ON Admission.DepartmentID = Department.DepartmentCode WHERE Admission.DischargeDate IS NULL GROUP BY Department.DepartmentName;",
+        "Predicted query": "SELECT COUNT(*)FROM AdmissionWHERE DischargeDate IS NULL",
+        "Prediction result": null,
+        "Gold standard result": [
+            [
+                "Emergency",
+                2
+            ],
+            [
+                "Gastroenterology",
+                1
+            ],
+            [
+                "Oncology",
+                1
+            ]
+        ],
+        "Exact execution match": false,
+        "Cosine similarity": 0.23597529378403395,
+        "Exact string match": false,
+        "Gold error": "'<' not supported between instances of 'int' and 'str'",
+        "Prediction error": "near \"IS\": syntax error",
+        "Hardness": "medium"
+    },
+    {
+        "Question ID": 90,
+        "Question": "List all anesthesists with age and gender and retrieve the patients they admitted and with what medications;",
+        "Gold standard query": "SELECT Doctor.Name AS DoctorName, Doctor.DateOfBirth, Doctor.Gender, Patient.Name AS PatientName, Admission.Medications FROM Doctor JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID JOIN Patient ON Admission.PatientID = Patient.PatientID WHERE Doctor.Specialization = 'Anesthesiology';",
+        "Predicted query": "SELECT d.Name, d.Gender, d.DateOfBirth, a.PatientID, p.Name AS PatientName, m.MedicationDescriptionFROM Doctor dJOIN Admission a ON d.DoctorCode = a.DoctorIDJOIN Patient p ON a.PatientID = p.PatientIDJOIN Medication m ON a.AdmissionID = m.AdmissionIDWHERE d.Specialization = 'Anesthesiologist'",
+        "Prediction result": null,
+        "Gold standard result": [
+            [
+                "1968-12-08",
+                "Amlodipine",
+                "John Brown",
+                "Male",
+                "William Brooks"
+            ],
+            [
+                "1968-12-08",
+                "Aspirin, Metoprolol",
+                "Dorothy Miller",
+                "Male",
+                "William Brooks"
+            ],
+            [
+                "1968-12-08",
+                "Enoxaparin, Amoxicillin",
+                "John Miller",
+                "Male",
+                "William Brooks"
+            ],
+            [
+                "1968-12-08",
+                "Ibuprofen, Heparin, Simvastatin",
+                "Jennifer Miller",
+                "Male",
+                "William Brooks"
+            ],
+            [
+                "1968-12-08",
+                "Insulin, Amlodipine",
+                "Male",
+                "Robert Garcia",
+                "William Brooks"
+            ],
+            [
+                "1968-12-08",
+                "Male",
+                "Margaret Garcia",
+                "Morphine",
+                "William Brooks"
+            ],
+            [
+                "1975-01-05",
+                "Ava Robinson",
+                "Barbara Brown",
+                "Female",
+                "Warfarin, Heparin"
+            ],
+            [
+                "1975-01-05",
+                "Ava Robinson",
+                "Dorothy Smith",
+                "Female",
+                "Heparin, Insulin"
+            ],
+            [
+                "1990-06-03",
+                "Barbara Martinez",
+                "Emma Hughes",
+                "Female",
+                "Sertraline, Lorazepam, Albuterol"
+            ],
+            [
+                "1990-06-03",
+                "Clopidogrel, Ibuprofen, Ciprofloxacin",
+                "Elizabeth Miller",
+                "Emma Hughes",
+                "Female"
+            ],
+            [
+                "1990-06-03",
+                "Emma Hughes",
+                "Female",
+                "Metformin, Ciprofloxacin, Metoprolol",
+                "Richard Jones"
+            ],
+            [
+                "1990-06-03",
+                "Emma Hughes",
+                "Female",
+                "Richard Johnson",
+                "Tramadol, Enoxaparin, Albuterol"
+            ]
+        ],
+        "Exact execution match": false,
+        "Cosine similarity": 0.5277578999778856,
+        "Exact string match": false,
+        "Gold error": null,
+        "Prediction error": "near \"dJOIN\": syntax error",
+        "Hardness": "medium"
+    },
+    {
+        "Question ID": 91,
+        "Question": "How many patients had surgeries in 2022?",
+        "Gold standard query": "SELECT COUNT(DISTINCT Patient.PatientID) FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID WHERE Admission.AdmissionDate BETWEEN '2022-01-01' AND '2022-12-31' AND LENGTH(Admission.Procedures) > 0;",
+        "Predicted query": "SELECT COUNT(*) FROM Admission A JOIN Patient P ON A.PatientID = P.PatientID JOIN Procedure P1 ON A.AdmissionID = P1.AdmissionID WHERE P1.ProcedureDescription LIKE '%surgery%' AND EXTRACT(YEAR FROM A.AdmissionDate) = 2022",
+        "Prediction result": null,
+        "Gold standard result": [
+            [
+                27
+            ]
+        ],
+        "Exact execution match": false,
+        "Cosine similarity": 0.4151153917463548,
+        "Exact string match": false,
+        "Gold error": null,
+        "Prediction error": "near \"FROM\": syntax error",
+        "Hardness": "medium"
+    },
+    {
+        "Question ID": 92,
+        "Question": "Which is the most frequently performed surgery overall?",
+        "Gold standard query": "SELECT ProcedureDescription, COUNT(*) AS Frequency FROM Procedure GROUP BY ProcedureDescription ORDER BY Frequency DESC LIMIT 1;",
+        "Predicted query": "SELECT ProcedureDescription FROM Procedure GROUP BY ProcedureDescription ORDER BY COUNT(*) DESC LIMIT 1",
+        "Prediction result": [
+            [
+                "Cyst removal"
+            ]
+        ],
+        "Gold standard result": [
+            [
+                "Cyst removal",
+                17
+            ]
+        ],
+        "Exact execution match": false,
+        "Cosine similarity": 0.7863318635749122,
+        "Exact string match": false,
+        "Gold error": "'<' not supported between instances of 'int' and 'str'",
+        "Prediction error": null,
+        "Hardness": "medium"
+    },
+    {
+        "Question ID": 93,
+        "Question": "What is the most prescribed medication?",
+        "Gold standard query": "SELECT MedicationDescription, COUNT(*) AS Frequency FROM Medication GROUP BY MedicationDescription ORDER BY Frequency DESC LIMIT 1;",
+        "Predicted query": "SELECT m.MedicationDescription            FROM Medication m            ORDER BY COUNT(m.AdmissionID) DESC            LIMIT 1",
+        "Prediction result": null,
+        "Gold standard result": [
+            [
+                "Aspirin",
+                17
+            ]
+        ],
+        "Exact execution match": false,
+        "Cosine similarity": 0.6407602848705785,
+        "Exact string match": false,
+        "Gold error": "'<' not supported between instances of 'int' and 'str'",
+        "Prediction error": "misuse of aggregate: COUNT()",
+        "Hardness": "medium"
+    },
+    {
+        "Question ID": 94,
+        "Question": "Retrieve contact information of all patients admitted by cardiologists;",
+        "Gold standard query": "SELECT Patient.Name, Patient.PhoneNumber, Patient.Email FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode WHERE Doctor.Specialization = 'Cardiology';",
+        "Predicted query": "SELECT p.PatientID, p.Name, p.PhoneNumber, p.Email, p.Address, d.Name AS DoctorName, d.Phone AS DoctorPhone, d.Email AS DoctorEmailFROM Patient pJOIN Admission a ON p.PatientID = a.PatientIDJOIN Doctor d ON a.DoctorID = d.DoctorCodeWHERE d.Specialization = 'Cardiology'",
+        "Prediction result": null,
+        "Gold standard result": [
+            [
+                "555-1370",
+                "Thomas Smith",
+                "thomas.smith@example.com"
+            ],
+            [
+                "555-1775",
+                "Elizabeth Jones",
+                "elizabeth.jones@example.com"
+            ],
+            [
+                "555-1776",
+                "Robert Rodriguez",
+                "robert.rodriguez@example.com"
+            ],
+            [
+                "555-1870",
+                "Barbara Martinez",
+                "barbara.martinez@example.com"
+            ],
+            [
+                "555-2615",
+                "Patricia Rodriguez",
+                "patricia.rodriguez@example.com"
+            ],
+            [
+                "555-3288",
+                "Susan Davis",
+                "susan.davis@example.com"
+            ],
+            [
+                "555-3992",
+                "William Johnson",
+                "william.johnson@example.com"
+            ],
+            [
+                "555-4492",
+                "James Miller",
+                "james.miller@example.com"
+            ],
+            [
+                "555-4554",
+                "John Smith",
+                "john.smith@example.com"
+            ],
+            [
+                "555-5655",
+                "Michael Davis",
+                "michael.davis@example.com"
+            ],
+            [
+                "555-6021",
+                "Linda Johnson",
+                "linda.johnson@example.com"
+            ],
+            [
+                "555-6700",
+                "Linda Garcia",
+                "linda.garcia@example.com"
+            ],
+            [
+                "555-6961",
+                "Richard Smith",
+                "richard.smith@example.com"
+            ]
+        ],
+        "Exact execution match": false,
+        "Cosine similarity": 0.43538645569789214,
+        "Exact string match": false,
+        "Gold error": null,
+        "Prediction error": "near \"Patient\": syntax error",
+        "Hardness": "medium"
+    },
+    {
+        "Question ID": 95,
+        "Question": "Group the average stay of patients by specialization of the admitting doctor, from longest to shortest;",
+        "Gold standard query": "SELECT Doctor.Specialization, AVG(JULIANDAY(DischargeDate) - JULIANDAY(AdmissionDate)) AS AverageLengthOfStay FROM Admission JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode WHERE DischargeDate IS NOT NULL GROUP BY Doctor.Specialization ORDER BY AverageLengthOfStay DESC;",
+        "Predicted query": "SELECT d.Specialization, AVG(d2.DischargeDate - d1.AdmissionDate) AS AverageStayFROM Admission d1JOIN Doctor d ON d1.DoctorID = d.DoctorCodeJOIN Department d2 ON d1.DepartmentID = d2.DepartmentCodeGROUP BY d.SpecializationORDER BY AverageStay DESC",
+        "Prediction result": null,
+        "Gold standard result": [
+            [
+                "Orthopedics",
+                26.77777777777778
+            ],
+            [
+                "Oncology",
+                21.0
+            ],
+            [
+                "Radiology",
+                20.916666666666668
+            ],
+            [
+                "Cardiology",
+                19.615384615384617
+            ],
+            [
+                "Neurology",
+                18.25
+            ],
+            [
+                "Anesthesiology",
+                17.666666666666668
+            ],
+            [
+                "Emergency Medicine",
+                17.083333333333332
+            ],
+            [
+                "Urology",
+                15.8
+            ],
+            [
+                "Pediatrics",
+                12.11111111111111
+            ],
+            [
+                "General Surgery",
+                10.875
+            ],
+            [
+                "Gastroenterology",
+                -10.071428571428571
+            ]
+        ],
+        "Exact execution match": false,
+        "Cosine similarity": 0.31007160002443546,
+        "Exact string match": false,
+        "Gold error": "'<' not supported between instances of 'float' and 'str'",
+        "Prediction error": "near \"Admission\": syntax error",
+        "Hardness": "medium"
+    },
+    {
+        "Question ID": 96,
+        "Question": "What is the month of the year in which on average there are more admissions?",
+        "Gold standard query": "SELECT strftime('%m', AdmissionDate) AS Month, COUNT(*) AS AdmissionsCount FROM Admission GROUP BY Month ORDER BY AdmissionsCount DESC LIMIT 1;",
+        "Predicted query": "SELECT MONTHNAME(AdmissionDate) AS MonthName,    AVG(COUNT(*)) AS AverageAdmissionsFROM     AdmissionGROUP BY     MONTH(AdmissionDate)ORDER BY     AverageAdmissions DESC",
+        "Prediction result": null,
+        "Gold standard result": [
+            [
+                "09",
+                12
+            ]
+        ],
+        "Exact execution match": false,
+        "Cosine similarity": 0.47371074161044036,
+        "Exact string match": false,
+        "Gold error": "'<' not supported between instances of 'int' and 'str'",
+        "Prediction error": "near \"AdmissionGROUP\": syntax error",
+        "Hardness": "medium"
+    },
+    {
+        "Question ID": 97,
+        "Question": "Find all the patients with COPD and retrieve their medication and department",
+        "Gold standard query": "SELECT Patient.Name, Admission.Medications, Department.DepartmentName FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID JOIN Department ON Admission.DepartmentID = Department.DepartmentCode WHERE Admission.Diagnosis LIKE '%COPD%';",
+        "Predicted query": "SELECT P.Name, P.Address, P.Email, A.Diagnosis, M.MedicationDescription FROM Patient PJOIN Admission A ON P.PatientID = A.PatientIDJOIN Medication M ON A.AdmissionID = M.AdmissionIDWHERE A.Diagnosis LIKE '%COPD%' AND A.DepartmentID IN (    SELECT D.DepartmentCode FROM Department D    WHERE D.DepartmentName LIKE '%Respiratory%')",
+        "Prediction result": null,
+        "Gold standard result": [
+            [
+                "Fluoxetine, Amoxicillin",
+                "Linda Garcia",
+                "Oncology"
+            ],
+            [
+                "Fluoxetine, Amoxicillin, Paracetamol",
+                "General Surgery",
+                "Thomas Davis"
+            ],
+            [
+                "Ibuprofen, Heparin, Simvastatin",
+                "Jennifer Miller",
+                "Oncology"
+            ]
+        ],
+        "Exact execution match": false,
+        "Cosine similarity": 0.5119699618656147,
+        "Exact string match": false,
+        "Gold error": null,
+        "Prediction error": "near \"Admission\": syntax error",
+        "Hardness": "medium"
+    },
+    {
+        "Question ID": 98,
+        "Question": "Retrieve the names and specializations of doctors who have admitted more than 5 patients.",
+        "Gold standard query": "SELECT Name, Specialization FROM Doctor WHERE DoctorCode IN (SELECT DoctorID FROM Admission GROUP BY DoctorID HAVING COUNT(PatientID) > 5);",
+        "Predicted query": "SELECT d.Name, d.Specialization FROM Doctor d JOIN Admission a ON d.DoctorCode = a.DoctorID GROUP BY d.Name, d.Specialization HAVING COUNT(a.PatientID) > 5",
+        "Prediction result": [
+            [
+                "Anesthesiology",
+                "William Brooks"
+            ],
+            [
+                "Emergency Medicine",
+                "Emily White"
+            ],
+            [
+                "Lucas Sanchez",
+                "Radiology"
+            ]
+        ],
+        "Gold standard result": [
+            [
+                "Anesthesiology",
+                "William Brooks"
+            ],
+            [
+                "Emergency Medicine",
+                "Emily White"
+            ],
+            [
+                "Lucas Sanchez",
+                "Radiology"
+            ]
+        ],
+        "Exact execution match": true,
+        "Cosine similarity": 0.7375655680995054,
+        "Exact string match": false,
+        "Gold error": null,
+        "Prediction error": null,
+        "Hardness": "hard"
+    },

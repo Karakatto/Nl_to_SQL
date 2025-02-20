@@ -1,0 +1,122 @@
+[
+    {
+        "MedicationCode": "MED001",
+        "Description": "Aspirin"
+    },
+    {
+        "MedicationCode": "MED002",
+        "Description": "Ibuprofen"
+    },
+    {
+        "MedicationCode": "MED003",
+        "Description": "Paracetamol"
+    },
+    {
+        "MedicationCode": "MED004",
+        "Description": "Amoxicillin"
+    },
+    {
+        "MedicationCode": "MED005",
+        "Description": "Ciprofloxacin"
+    },
+    {
+        "MedicationCode": "MED006",
+        "Description": "Metformin"
+    },
+    {
+        "MedicationCode": "MED007",
+        "Description": "Omeprazole"
+    },
+    {
+        "MedicationCode": "MED008",
+        "Description": "Lisinopril"
+    },
+    {
+        "MedicationCode": "MED009",
+        "Description": "Amlodipine"
+    },
+    {
+        "MedicationCode": "MED010",
+        "Description": "Metoprolol"
+    },
+    {
+        "MedicationCode": "MED011",
+        "Description": "Atorvastatin"
+    },
+    {
+        "MedicationCode": "MED012",
+        "Description": "Simvastatin"
+    },
+    {
+        "MedicationCode": "MED013",
+        "Description": "Clopidogrel"
+    },
+    {
+        "MedicationCode": "MED014",
+        "Description": "Warfarin"
+    },
+    {
+        "MedicationCode": "MED015",
+        "Description": "Heparin"
+    },
+    {
+        "MedicationCode": "MED016",
+        "Description": "Enoxaparin"
+    },
+    {
+        "MedicationCode": "MED017",
+        "Description": "Insulin"
+    },
+    {
+        "MedicationCode": "MED018",
+        "Description": "Albuterol"
+    },
+    {
+        "MedicationCode": "MED019",
+        "Description": "Prednisone"
+    },
+    {
+        "MedicationCode": "MED020",
+        "Description": "Hydrocortisone"
+    },
+    {
+        "MedicationCode": "MED021",
+        "Description": "Morphine"
+    },
+    {
+        "MedicationCode": "MED022",
+        "Description": "Vitamin-D"
+    },
+    {
+        "MedicationCode": "MED023",
+        "Description": "Tramadol"
+    },
+    {
+        "MedicationCode": "MED024",
+        "Description": "Diazepam"
+    },
+    {
+        "MedicationCode": "MED025",
+        "Description": "Lorazepam"
+    },
+    {
+        "MedicationCode": "MED026",
+        "Description": "Sertraline"
+    },
+    {
+        "MedicationCode": "MED027",
+        "Description": "Fluoxetine"
+    },
+    {
+        "MedicationCode": "MED028",
+        "Description": "Ketorolac"
+    },
+    {
+        "MedicationCode": "MED029",
+        "Description": "Escitalopram"
+    },
+    {
+        "MedicationCode": "MED030",
+        "Description": "Bupropion"
+    }
+]

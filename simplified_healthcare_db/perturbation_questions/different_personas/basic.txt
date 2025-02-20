@@ -1,0 +1,200 @@
+Who all the patients?
+Gimme a list of all the docs.
+Show all the admissions.
+How many girl patients?
+Count patients by sex.
+Compare hospital stays in first and second half of the year.
+How many MRIs and CT scans done over the years?
+How many shots given over the years?
+Show all departments and their heads.
+Which departments got 'ology' in their name?
+List all male docs and where they live.
+What procedures Dr. Olivia Davis did?
+Show procedures with 'Surgery' in them.
+What treatments Linda Garcia got?
+List all male docs and their contact info.
+Show admission and discharge dates for James Miller.
+When were patients admitted and discharged from Pediatrics?
+Which departments have a phone number with '555'?
+What’s the diagnosis and treatment for Barbara Martinez?
+Show emails and phone numbers of docs who treated patients with 'Hypertension'.
+Show emails of all Neuro docs.
+Show emails of all patients.
+List all male docs and their addresses.
+Show patients with 'COPD' by name and address.
+Who did Dr. Mia Wilson treat and their addresses?
+Show names and dates when patients admitted to Neurology.
+Show names and dates of patients discharged in 3 days.
+Who's the emergency contact for Linda Garcia?
+Who Dr. Ava Rodriguez treated in Pediatrics and their diagnosis?
+Show names and diagnosis of patients from the last 8 weeks.
+Who got both 'Diabetes' and 'Hypertension' and what's their diagnosis?
+Show me the names and emails of all the lady doctors.
+Who admitted patients into oncology and what's their email?
+Show me names and emails of patients whose emergency contact is their wife.
+What's the names and phone numbers of all the male doctors?
+Who's over 65 and what's their phone numbers?
+Who was admitted in January 2024 and what's their phone numbers?
+Who treated patients with 'Hypertension' and what's their phone numbers?
+Who got admitted to both Emergency and Orthopedics and what's their phone numbers?
+Who received physical therapy and what's their phone numbers?
+Who got admitted in January 2023 by 'Emergency Medicine' doctors and what's their phone numbers?
+Who's emergency contact is their brother or sister and what's their phone numbers?
+Whose emergency contact name starts with 'John' and what's their phone numbers?
+Who admitted patients to Neurology and what's their specialization?
+Which departments have 'Emergency' in their name?
+Who admitted patients in both Oncology and Gastroenterology?
+Show me the names of doctors who specialize in Cardiology.
+Who are all the female patients?
+Who got 'Diabetes' in their diagnosis?
+Who did Dr. Ethan Martinez admit?
+Who got admitted to Pediatrics?
+Who hasn't admitted patients in the last six months?
+Who got admitted to Neurology with 'Epilepsy'?
+What's the procedures for Barbara Brown's admission?
+Who got multiple treatments and what's their admission IDs and names?
+What's the average hospital stay length in 2022, 2023, and 2024?
+Who got admitted in the last 3 months and what's their names and dates?
+Who got admitted to Neurology in 2023 and what's their names and dates?
+Who got admitted in May 2024 and discharged in June 2024 and what's their names and dates?
+Who admitted patients in the first semester 2023 and 2024 and what's their names and emails?
+Who admitted patients in departments that ain't their specialization? Need their names and emails.
+Who got admitted by heart docs? Need their names and phone numbers.
+Who got admitted by both male and female docs last year? Need their names and phone numbers.
+Which docs admitted patients in January 2024? Need their names and specializations.
+Who admitted patients in the first part of 2024? Need their names and what they specialize in.
+Which departments' heads are specialized in Neurology? Need their names.
+What's all the admissions for Richard Martinez?
+What treatments did Richard Martinez get?
+Show all treatments with 'Therapy' in them.
+Who got admitted in 2023? Need their names and phone numbers.
+Which docs live on 'Street'? Need their addresses.
+What's the admission and discharge dates for Barbara Brown?
+Which patients were admitted to Pediatrics? Need their admission dates and doctors.
+Who got admitted in 2023? Need their dates.
+Who got admitted to Emergency? Need their admission dates.
+When was Dr. Michael Brown born?
+What are the diagnoses and treatments for patients admitted by Dr. Emma Young?
+What's the diagnosis and meds for Robert Rodriguez's admission?
+What are the diagnoses for Elizabeth Miller's admissions?
+Show emails of all female patients.
+What meds did Jennifer Miller get on admission?
+What meds were given in Radiology?
+What meds did Margaret Jones get on admission?
+Who heads the Cardiology department? Need their name and email.
+Who got admitted in the last 6 months? Need their names and addresses.
+Who got admitted in the same month as 'Joseph Garcia'? Need their names and dates.
+Who had at least one surgery? Need their names and dates.
+Who got admitted in 2022, 2023, and first half of 2024? Need their names and dates.
+Who got admitted in the same month as 'Joseph Garcia'? Need their names and dates.
+Who got admitted and discharged in the same month? Need their names and dates.
+Who are the docs who admitted patients in 2023? Need their names and birth dates.
+What's the names and diagnoses of Jennifer Brown's ongoing admission?
+Who did Dr. Ava Rodriguez admit in Pediatrics? Need their names and diagnoses.
+Show me the names and emails of docs living in Metropolis.
+Which docs admitted patients with 'Diabetes'? Need their names and emails.
+Who treated 'Cancer' patients? Need their names and emails.
+Who are the department heads with a phone number listed? Need their names.
+Who admitted patients in Oncology? Need their names and phone numbers.
+Show me the names and phone numbers of all Pediatrics docs.
+Who was admitted to both Emergency and Orthopedics? Need their names and phone numbers.
+Who got admitted to both Oncology and Radiology? Need their names and phone numbers.
+Who was admitted to Emergency last year? Need their names and phone numbers.
+Who did the Orthopedics docs admit? Need their names and phone numbers.
+Which docs admitted patients in Oncology? Need their names and specializations.
+Who admitted patients in both Neurology and Oncology? Need their names and specializations.
+Show me the names and specializations of docs born before 1970.
+Who got more than one medication in the same admission? Need their names, birth dates, and medications.
+Who heads departments with a specialization in Cardiology? Need their names.
+Show me the names of all departments.
+Who are all the male patients?
+Who got admitted in January 2024? Need their names, admission dates, and discharge dates.
+Who is 50 or older? Need their names.
+Who got admitted on '2023-11-03'? Need their names.
+Who admitted Linda Johnson in 2023? Need their names and admission dates.
+Who admitted patients with 'Stroke'? Need their names and specializations.
+Who were the docs born between 1970 and 1980? Need their names.
+Who specializes in Neurology? Need their names.
+Who had admissions with 'Disease' in the diagnosis? Need their names, admission dates, and diagnoses.
+Show me the phone number and address of Elizabeth Jones.
+What's the phone numbers and emails of all departments?
+What procedures did Dr. Emily White do for all admissions?
+Which docs have 'Surgery' in their specialization?
+What treatments and procedures did Maria Rodriguez get during her admission?
+What's the average hospitalization length for patients who had surgeries, grouped by year?
+What's the average length of hospital stays?
+Find patients with COPD and show their medication and department.
+Group the average stay of patients by the specialization of the admitting doc, from longest to shortest.
+How many Hip Replacement Surgeries were done overall, and what meds did these patients take?
+How many ongoing admissions are there and in which department?
+How many patients had surgeries in 2022?
+List all anesthetists with age and gender and show the patients they admitted and with what meds.
+List all patients admitted in 2024 grouped by diagnosis, from most to least common.
+Show names and emails of docs who admitted patients in both Oncology and Gastroenterology.
+List the names and phone numbers of patients admitted by both male and female docs.
+Which docs admitted patients taking aspirin? Need their names and specializations.
+Show names, diagnoses, and meds of patients admitted by Dr. Benjamin Walker in Oncology.
+Who got admitted with 'Infection' in their diagnosis? Need names, diagnoses, and treatments.
+Show all names, emails, and phone numbers of docs, grouped by department.
+What's the contact info of all patients admitted by cardiologists?
+Who was admitted in the same department as 'James Garcia' during her first admission? Need names and phone numbers.
+Show all meds prescribed by Dr. Mia Wilson and the names and birth dates of the patients who got them.
+Show names and admission dates of patients admitted by Cardiology docs.
+Who admitted patients in Orthopedics? Need names.
+Show names of departments and the total admissions for each in the last 2 months.
+Show names of departments and the total number of docs in each.
+Which docs admitted patients with 'Hypertension'? Need names and patient counts.
+Show names of docs and the total number of different patients they admitted.
+Who got admitted by Cardiology docs? Need names of patients and docs.
+Who did Dr. Ethan Martinez admit with 'Surgery' in their procedures? Need names, admission dates, and meds.
+Show names, admission dates, and meds for patients admitted by Pediatrics docs.
+Who got admitted in January 2023 and discharged in February 2023? Need their names, admission dates, and procedures.
+What's the total number of admissions for each department?
+Which month has the most admissions on average?
+What's the most prescribed medication?
+What's the most frequently performed surgery overall?
+Find patients that take more than one medication and group them by department.
+How many patients take more than 2 medications, and who is their doctor and department?
+How many patients got admitted in May and June 2024? Need their names, IDs, admitting docs, and department.
+How many patients with strokes got aspirin, and who prescribed it?
+Who is taking heparin or enoxaparin? Need their names, admitting docs, and department.
+Who has been admitted more than once?
+Who are the docs that admitted more than 1 patient in Cardiology? Need their names and emails.
+Who are the docs that admitted more than 2 patients? Need their names and emails.
+Who got admitted more than once in Cardiology? Need their names and phone numbers.
+Who got admitted more than once in Cardiology? Need their names and phone numbers.
+Who got diagnosed with cancer more than once? Need their names and phone numbers.
+Who got admitted more than once? Need their patient IDs.
+Who are the docs that admitted more than 5 patients? Need their names and specializations.
+Who got admitted to Emergency more than once? Need their names.
+How many diazepam prescriptions were given, grouped by year and departments?
+What are the diagnoses and meds for patients admitted two or more times?
+Who are the docs that admitted more than 3 patients in the last 2 years? Need their names and emails.
+Who are the docs that admitted more than 5 patients?
+Who admitted the patient with the longest hospitalization? Need the doc's name and the patient's name, pathology, meds, and department.
+List all docs that admitted patients, grouped by department, and include the department head's name.
+Which department heads handled more than 3 admissions? Need the department names, heads, and number of admissions.
+Who got admitted more than twice? Need their names and addresses.
+Who got admitted to more than one department? Need their names and admission dates.
+Who got admitted by more than one doc? Need their names and contact info.
+Who got admitted to multiple departments? Need their names and contact info.
+Who are the docs that admitted patients with multiple diagnoses? Need their names and emails.
+Who got admitted by more than three different docs? Need their names and phone numbers.
+Who got admitted by docs from multiple departments? Need their names and phone numbers.
+Which docs admitted patients in multiple departments? Need their names and specializations.
+Which departments had more than 10 admissions in 2022 and 2023? Need their names and number of admissions.
+Who are the docs that admitted more than 5 patients? Need their names.
+Who are the patients with 'Diabetes' in their diagnosis more than twice? Need their names and diagnoses.
+Who prescribed the highest number of CT scans and MRI? Need their ID, name, contact info, and count per year.
+Who admitted the most patients and what meds did they prescribe? Need all their information.
+Who got admitted to multiple departments in the same year? Need their names and admission dates.
+Who got diagnosed with diabetes more than once? Need their names, birth dates, and the names of the docs who admitted them.
+Which docs admitted more than 2 female patients? Need their names and emails, grouped by department with the count of female patients.
+Who got admitted by at least two different docs? Need their names and phone numbers.
+Who got admitted by both Dr. Daniel Lee and Dr. Lily Baker? Need their names and phone numbers.
+Who are the patients that got admitted more than 3 times? Need their names and the names of their docs.
+Who got 'Antibiotic' more than once? Need their names and medications.
+Who had multiple surgeries? Need their names.
+What was the most prescribed drug in 2023?
+What was the most prescribed medication in 2023?
+Which docs admitted the patients with the longest admissions?

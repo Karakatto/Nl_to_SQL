@@ -1,0 +1,1002 @@
+[
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who all the patients?",
+        "q_id": 1
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Gimme a list of all the docs.",
+        "q_id": 2
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show all the admissions.",
+        "q_id": 3
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many girl patients?",
+        "q_id": 4
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Count patients by sex.",
+        "q_id": 5
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Compare hospital stays in first and second half of the year.",
+        "q_id": 6
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many MRIs and CT scans done over the years?",
+        "q_id": 7
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many shots given over the years?",
+        "q_id": 8
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show all departments and their heads.",
+        "q_id": 9
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which departments got 'ology' in their name?",
+        "q_id": 10
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List all male docs and where they live.",
+        "q_id": 11
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What procedures Dr. Olivia Davis did?",
+        "q_id": 12
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show procedures with 'Surgery' in them.",
+        "q_id": 13
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What treatments Linda Garcia got?",
+        "q_id": 14
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List all male docs and their contact info.",
+        "q_id": 15
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show admission and discharge dates for James Miller.",
+        "q_id": 16
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "When were patients admitted and discharged from Pediatrics?",
+        "q_id": 17
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which departments have a phone number with '555'?",
+        "q_id": 18
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What\u2019s the diagnosis and treatment for Barbara Martinez?",
+        "q_id": 19
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show emails and phone numbers of docs who treated patients with 'Hypertension'.",
+        "q_id": 20
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show emails of all Neuro docs.",
+        "q_id": 21
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show emails of all patients.",
+        "q_id": 22
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List all male docs and their addresses.",
+        "q_id": 23
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show patients with 'COPD' by name and address.",
+        "q_id": 24
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who did Dr. Mia Wilson treat and their addresses?",
+        "q_id": 25
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show names and dates when patients admitted to Neurology.",
+        "q_id": 26
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show names and dates of patients discharged in 3 days.",
+        "q_id": 27
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who's the emergency contact for Linda Garcia?",
+        "q_id": 28
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who Dr. Ava Rodriguez treated in Pediatrics and their diagnosis?",
+        "q_id": 29
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show names and diagnosis of patients from the last 8 weeks.",
+        "q_id": 30
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got both 'Diabetes' and 'Hypertension' and what's their diagnosis?",
+        "q_id": 31
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show me the names and emails of all the lady doctors.",
+        "q_id": 32
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who admitted patients into oncology and what's their email?",
+        "q_id": 33
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show me names and emails of patients whose emergency contact is their wife.",
+        "q_id": 34
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What's the names and phone numbers of all the male doctors?",
+        "q_id": 35
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who's over 65 and what's their phone numbers?",
+        "q_id": 36
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who was admitted in January 2024 and what's their phone numbers?",
+        "q_id": 37
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who treated patients with 'Hypertension' and what's their phone numbers?",
+        "q_id": 38
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted to both Emergency and Orthopedics and what's their phone numbers?",
+        "q_id": 39
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who received physical therapy and what's their phone numbers?",
+        "q_id": 40
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted in January 2023 by 'Emergency Medicine' doctors and what's their phone numbers?",
+        "q_id": 41
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who's emergency contact is their brother or sister and what's their phone numbers?",
+        "q_id": 42
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Whose emergency contact name starts with 'John' and what's their phone numbers?",
+        "q_id": 43
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who admitted patients to Neurology and what's their specialization?",
+        "q_id": 44
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which departments have 'Emergency' in their name?",
+        "q_id": 45
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who admitted patients in both Oncology and Gastroenterology?",
+        "q_id": 46
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show me the names of doctors who specialize in Cardiology.",
+        "q_id": 47
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who are all the female patients?",
+        "q_id": 48
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got 'Diabetes' in their diagnosis?",
+        "q_id": 49
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who did Dr. Ethan Martinez admit?",
+        "q_id": 50
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted to Pediatrics?",
+        "q_id": 51
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who hasn't admitted patients in the last six months?",
+        "q_id": 52
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted to Neurology with 'Epilepsy'?",
+        "q_id": 53
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What's the procedures for Barbara Brown's admission?",
+        "q_id": 54
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got multiple treatments and what's their admission IDs and names?",
+        "q_id": 55
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What's the average hospital stay length in 2022, 2023, and 2024?",
+        "q_id": 56
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted in the last 3 months and what's their names and dates?",
+        "q_id": 57
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted to Neurology in 2023 and what's their names and dates?",
+        "q_id": 58
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted in May 2024 and discharged in June 2024 and what's their names and dates?",
+        "q_id": 59
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who admitted patients in the first semester 2023 and 2024 and what's their names and emails?",
+        "q_id": 60
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who admitted patients in departments that ain't their specialization? Need their names and emails.",
+        "q_id": 61
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted by heart docs? Need their names and phone numbers.",
+        "q_id": 62
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted by both male and female docs last year? Need their names and phone numbers.",
+        "q_id": 63
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which docs admitted patients in January 2024? Need their names and specializations.",
+        "q_id": 64
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who admitted patients in the first part of 2024? Need their names and what they specialize in.",
+        "q_id": 65
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which departments' heads are specialized in Neurology? Need their names.",
+        "q_id": 66
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What's all the admissions for Richard Martinez?",
+        "q_id": 67
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What treatments did Richard Martinez get?",
+        "q_id": 68
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show all treatments with 'Therapy' in them.",
+        "q_id": 69
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted in 2023? Need their names and phone numbers.",
+        "q_id": 70
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which docs live on 'Street'? Need their addresses.",
+        "q_id": 71
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What's the admission and discharge dates for Barbara Brown?",
+        "q_id": 72
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which patients were admitted to Pediatrics? Need their admission dates and doctors.",
+        "q_id": 73
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted in 2023? Need their dates.",
+        "q_id": 74
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted to Emergency? Need their admission dates.",
+        "q_id": 75
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "When was Dr. Michael Brown born?",
+        "q_id": 76
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What are the diagnoses and treatments for patients admitted by Dr. Emma Young?",
+        "q_id": 77
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What's the diagnosis and meds for Robert Rodriguez's admission?",
+        "q_id": 78
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What are the diagnoses for Elizabeth Miller's admissions?",
+        "q_id": 79
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show emails of all female patients.",
+        "q_id": 80
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What meds did Jennifer Miller get on admission?",
+        "q_id": 81
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What meds were given in Radiology?",
+        "q_id": 82
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What meds did Margaret Jones get on admission?",
+        "q_id": 83
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who heads the Cardiology department? Need their name and email.",
+        "q_id": 84
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted in the last 6 months? Need their names and addresses.",
+        "q_id": 85
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted in the same month as 'Joseph Garcia'? Need their names and dates.",
+        "q_id": 86
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who had at least one surgery? Need their names and dates.",
+        "q_id": 87
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted in 2022, 2023, and first half of 2024? Need their names and dates.",
+        "q_id": 88
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted in the same month as 'Joseph Garcia'? Need their names and dates.",
+        "q_id": 89
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted and discharged in the same month? Need their names and dates.",
+        "q_id": 90
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who are the docs who admitted patients in 2023? Need their names and birth dates.",
+        "q_id": 91
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What's the names and diagnoses of Jennifer Brown's ongoing admission?",
+        "q_id": 92
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who did Dr. Ava Rodriguez admit in Pediatrics? Need their names and diagnoses.",
+        "q_id": 93
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show me the names and emails of docs living in Metropolis.",
+        "q_id": 94
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which docs admitted patients with 'Diabetes'? Need their names and emails.",
+        "q_id": 95
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who treated 'Cancer' patients? Need their names and emails.",
+        "q_id": 96
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who are the department heads with a phone number listed? Need their names.",
+        "q_id": 97
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who admitted patients in Oncology? Need their names and phone numbers.",
+        "q_id": 98
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show me the names and phone numbers of all Pediatrics docs.",
+        "q_id": 99
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who was admitted to both Emergency and Orthopedics? Need their names and phone numbers.",
+        "q_id": 100
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted to both Oncology and Radiology? Need their names and phone numbers.",
+        "q_id": 101
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who was admitted to Emergency last year? Need their names and phone numbers.",
+        "q_id": 102
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who did the Orthopedics docs admit? Need their names and phone numbers.",
+        "q_id": 103
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which docs admitted patients in Oncology? Need their names and specializations.",
+        "q_id": 104
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who admitted patients in both Neurology and Oncology? Need their names and specializations.",
+        "q_id": 105
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show me the names and specializations of docs born before 1970.",
+        "q_id": 106
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got more than one medication in the same admission? Need their names, birth dates, and medications.",
+        "q_id": 107
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who heads departments with a specialization in Cardiology? Need their names.",
+        "q_id": 108
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show me the names of all departments.",
+        "q_id": 109
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who are all the male patients?",
+        "q_id": 110
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted in January 2024? Need their names, admission dates, and discharge dates.",
+        "q_id": 111
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who is 50 or older? Need their names.",
+        "q_id": 112
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted on '2023-11-03'? Need their names.",
+        "q_id": 113
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who admitted Linda Johnson in 2023? Need their names and admission dates.",
+        "q_id": 114
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who admitted patients with 'Stroke'? Need their names and specializations.",
+        "q_id": 115
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who were the docs born between 1970 and 1980? Need their names.",
+        "q_id": 116
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who specializes in Neurology? Need their names.",
+        "q_id": 117
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who had admissions with 'Disease' in the diagnosis? Need their names, admission dates, and diagnoses.",
+        "q_id": 118
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show me the phone number and address of Elizabeth Jones.",
+        "q_id": 119
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What's the phone numbers and emails of all departments?",
+        "q_id": 120
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What procedures did Dr. Emily White do for all admissions?",
+        "q_id": 121
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which docs have 'Surgery' in their specialization?",
+        "q_id": 122
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What treatments and procedures did Maria Rodriguez get during her admission?",
+        "q_id": 123
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What's the average hospitalization length for patients who had surgeries, grouped by year?",
+        "q_id": 124
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What's the average length of hospital stays?",
+        "q_id": 125
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Find patients with COPD and show their medication and department.",
+        "q_id": 126
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Group the average stay of patients by the specialization of the admitting doc, from longest to shortest.",
+        "q_id": 127
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many Hip Replacement Surgeries were done overall, and what meds did these patients take?",
+        "q_id": 128
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many ongoing admissions are there and in which department?",
+        "q_id": 129
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many patients had surgeries in 2022?",
+        "q_id": 130
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List all anesthetists with age and gender and show the patients they admitted and with what meds.",
+        "q_id": 131
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List all patients admitted in 2024 grouped by diagnosis, from most to least common.",
+        "q_id": 132
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show names and emails of docs who admitted patients in both Oncology and Gastroenterology.",
+        "q_id": 133
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List the names and phone numbers of patients admitted by both male and female docs.",
+        "q_id": 134
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which docs admitted patients taking aspirin? Need their names and specializations.",
+        "q_id": 135
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show names, diagnoses, and meds of patients admitted by Dr. Benjamin Walker in Oncology.",
+        "q_id": 136
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted with 'Infection' in their diagnosis? Need names, diagnoses, and treatments.",
+        "q_id": 137
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show all names, emails, and phone numbers of docs, grouped by department.",
+        "q_id": 138
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What's the contact info of all patients admitted by cardiologists?",
+        "q_id": 139
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who was admitted in the same department as 'James Garcia' during her first admission? Need names and phone numbers.",
+        "q_id": 140
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show all meds prescribed by Dr. Mia Wilson and the names and birth dates of the patients who got them.",
+        "q_id": 141
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show names and admission dates of patients admitted by Cardiology docs.",
+        "q_id": 142
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who admitted patients in Orthopedics? Need names.",
+        "q_id": 143
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show names of departments and the total admissions for each in the last 2 months.",
+        "q_id": 144
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show names of departments and the total number of docs in each.",
+        "q_id": 145
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which docs admitted patients with 'Hypertension'? Need names and patient counts.",
+        "q_id": 146
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show names of docs and the total number of different patients they admitted.",
+        "q_id": 147
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted by Cardiology docs? Need names of patients and docs.",
+        "q_id": 148
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who did Dr. Ethan Martinez admit with 'Surgery' in their procedures? Need names, admission dates, and meds.",
+        "q_id": 149
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show names, admission dates, and meds for patients admitted by Pediatrics docs.",
+        "q_id": 150
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted in January 2023 and discharged in February 2023? Need their names, admission dates, and procedures.",
+        "q_id": 151
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What's the total number of admissions for each department?",
+        "q_id": 152
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which month has the most admissions on average?",
+        "q_id": 153
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What's the most prescribed medication?",
+        "q_id": 154
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What's the most frequently performed surgery overall?",
+        "q_id": 155
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Find patients that take more than one medication and group them by department.",
+        "q_id": 156
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many patients take more than 2 medications, and who is their doctor and department?",
+        "q_id": 157
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many patients got admitted in May and June 2024? Need their names, IDs, admitting docs, and department.",
+        "q_id": 158
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many patients with strokes got aspirin, and who prescribed it?",
+        "q_id": 159
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who is taking heparin or enoxaparin? Need their names, admitting docs, and department.",
+        "q_id": 160
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who has been admitted more than once?",
+        "q_id": 161
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who are the docs that admitted more than 1 patient in Cardiology? Need their names and emails.",
+        "q_id": 162
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who are the docs that admitted more than 2 patients? Need their names and emails.",
+        "q_id": 163
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted more than once in Cardiology? Need their names and phone numbers.",
+        "q_id": 164
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted more than once in Cardiology? Need their names and phone numbers.",
+        "q_id": 165
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got diagnosed with cancer more than once? Need their names and phone numbers.",
+        "q_id": 166
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted more than once? Need their patient IDs.",
+        "q_id": 167
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who are the docs that admitted more than 5 patients? Need their names and specializations.",
+        "q_id": 168
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted to Emergency more than once? Need their names.",
+        "q_id": 169
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many diazepam prescriptions were given, grouped by year and departments?",
+        "q_id": 170
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What are the diagnoses and meds for patients admitted two or more times?",
+        "q_id": 171
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who are the docs that admitted more than 3 patients in the last 2 years? Need their names and emails.",
+        "q_id": 172
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who are the docs that admitted more than 5 patients?",
+        "q_id": 173
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who admitted the patient with the longest hospitalization? Need the doc's name and the patient's name, pathology, meds, and department.",
+        "q_id": 174
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List all docs that admitted patients, grouped by department, and include the department head's name.",
+        "q_id": 175
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which department heads handled more than 3 admissions? Need the department names, heads, and number of admissions.",
+        "q_id": 176
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted more than twice? Need their names and addresses.",
+        "q_id": 177
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted to more than one department? Need their names and admission dates.",
+        "q_id": 178
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted by more than one doc? Need their names and contact info.",
+        "q_id": 179
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted to multiple departments? Need their names and contact info.",
+        "q_id": 180
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who are the docs that admitted patients with multiple diagnoses? Need their names and emails.",
+        "q_id": 181
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted by more than three different docs? Need their names and phone numbers.",
+        "q_id": 182
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted by docs from multiple departments? Need their names and phone numbers.",
+        "q_id": 183
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which docs admitted patients in multiple departments? Need their names and specializations.",
+        "q_id": 184
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which departments had more than 10 admissions in 2022 and 2023? Need their names and number of admissions.",
+        "q_id": 185
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who are the docs that admitted more than 5 patients? Need their names.",
+        "q_id": 186
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who are the patients with 'Diabetes' in their diagnosis more than twice? Need their names and diagnoses.",
+        "q_id": 187
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who prescribed the highest number of CT scans and MRI? Need their ID, name, contact info, and count per year.",
+        "q_id": 188
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who admitted the most patients and what meds did they prescribe? Need all their information.",
+        "q_id": 189
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted to multiple departments in the same year? Need their names and admission dates.",
+        "q_id": 190
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got diagnosed with diabetes more than once? Need their names, birth dates, and the names of the docs who admitted them.",
+        "q_id": 191
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which docs admitted more than 2 female patients? Need their names and emails, grouped by department with the count of female patients.",
+        "q_id": 192
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted by at least two different docs? Need their names and phone numbers.",
+        "q_id": 193
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got admitted by both Dr. Daniel Lee and Dr. Lily Baker? Need their names and phone numbers.",
+        "q_id": 194
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who are the patients that got admitted more than 3 times? Need their names and the names of their docs.",
+        "q_id": 195
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who got 'Antibiotic' more than once? Need their names and medications.",
+        "q_id": 196
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who had multiple surgeries? Need their names.",
+        "q_id": 197
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What was the most prescribed drug in 2023?",
+        "q_id": 198
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "What was the most prescribed medication in 2023?",
+        "q_id": 199
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which docs admitted the patients with the longest admissions?",
+        "q_id": 200
+    }
+]

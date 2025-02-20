@@ -1,0 +1,1002 @@
+[
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Lis7 al1 p@7!en7s.",
+        "q_id": 1
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!$7 a11 doctor$.",
+        "q_id": 2
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1i$7 a1l @dmis$ions.",
+        "q_id": 3
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "C0unt 7he number 0f fema1& p@tients.",
+        "q_id": 4
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "C0unt 7h& pat!ents by s&x.",
+        "q_id": 5
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "C0mp@r& aver@ge h0$pita1!zat!ons in 7h& f!r$7 @nd sec0nd $&me$ter of &very y&@r.",
+        "q_id": 6
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "H0w m@ny mri @nd c7 sc@ns w&r& p&rformed ov&r the y&@rs?",
+        "q_id": 7
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "H0w many v@ccination$ w&r& admini$7er&d ov&r th& y&ar$?",
+        "q_id": 8
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!$t @l1 department$ al0ng wi7h 7h&!r he@d 0f department's n@me.",
+        "q_id": 9
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$7 @11 d&partm&nts tha7 h@ve 'o1ogy' !n 7h&ir n@me.",
+        "q_id": 10
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!$7 al1 ma1e d0ctor$ and 7he!r addr&$$es.",
+        "q_id": 11
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$7 @1l proc&dur&s for admis$ion$ don& by Dr. 01ivi@ Dav!$.",
+        "q_id": 12
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1ist a11 pr0cedures th@t inc1ude 7h& word '$urgery'.",
+        "q_id": 13
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t all 7r&@tm&n7s for 7he p@t!en7 1ind@ Garc!a.",
+        "q_id": 14
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!$t names @nd contact$ 0f @11 male doct0r$.",
+        "q_id": 15
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!$7 7h& admissi0n d@7&s @nd di$ch@rg& dates 0f @11 @dm!$s!0n$ for pat!en7 J@mes Mi11&r.",
+        "q_id": 16
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1is7 th& @dm!ss!on dat&$ @nd d!$ch@rge dates 0f pa7!en7s adm!7t&d 7o the Ped!@trics dep@r7m&nt.",
+        "q_id": 17
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List th& d&p@r7m&nt n@m&s and h&ad$ of d&p@r7m&nts th@7 hav& a ph0n& number c0n7aining '555'.",
+        "q_id": 18
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!s7 7h& diagnos!s and 7r&atm&nts f0r the admi$$!0n of pa7!&n7 Barbara Mart!nez.",
+        "q_id": 19
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!s7 the email @ddre$s&s @nd phon& number$ of d0c70r$ who hav& admitted pa7!&n7s w!7h a d!agn0$is 0f 'Hypert&nsi0n'.",
+        "q_id": 20
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st 7h& em@!l$ of all d0ct0rs who $peci@1iz& in Neur01ogy.",
+        "q_id": 21
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1i$7 th& em@i1s 0f al1 pa7!ent$.",
+        "q_id": 22
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1is7 th& nam&s @nd @ddr&sse$ of all m@1e d0c7ors.",
+        "q_id": 23
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!s7 7he nam&$ @nd addresse$ of patien7$ wh0 h@ve b&en @dmi7ted wi7h @ di@gno$!s of 'C0PD'.",
+        "q_id": 24
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!$t 7he n@m&$ and @ddre$se$ of p@7!ent$ who w&re tr&@ted by Dr. Mi@ Wi1$on.",
+        "q_id": 25
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1ist the n@m&s and @dm!$s!0n d@tes 0f pa7ien7s admi77ed 7o the N&ur0logy dep@rtm&n7.",
+        "q_id": 26
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!s7 7he n@mes and @dmis$!on da7&s 0f p@tients who w&r& di$charg&d within 3 d@y$ from @dm!ss!0n.",
+        "q_id": 27
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$7 the n@m&s and c0ntac7 inf0rm@tion 0f &m&rg&ncy c0n7ac7 0f patien7 named '1!nda G@rc!@'.",
+        "q_id": 28
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!st th& name$ @nd diagn0s&s of p@7ien7s @dm!tt&d by Dr. Av@ R0drigu&z !n 7he P&diatric$ d&partment.",
+        "q_id": 29
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1is7 7he nam&s @nd diagnos&$ of patients @dmi77&d !n 7he 1@$t 8 week.",
+        "q_id": 30
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!$t th& n@me$ @nd d!agn0$&s of p@7i&nts who have b&&n @dmi7ted wi7h both 'D!@bet&$' @nd 'Hyperten$!on'.",
+        "q_id": 31
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t 7h& n@mes and em@i1 addre$se$ 0f a11 fema1e d0c70rs.",
+        "q_id": 32
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!st 7he nam&$ and &ma!l addr&ss&s 0f d0ct0r$ who admi7ted pa7!&nts in70 th& onc010gy d&p@rtm&nt.",
+        "q_id": 33
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!st 7h& n@mes @nd em@i1 addre$se$ 0f p@t!ent$ wh0se &m&rgency c0nt@c7 !s 7h&ir spouse.",
+        "q_id": 34
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1ist the n@mes and ph0ne numbers of @11 m@l& d0ct0r$.",
+        "q_id": 35
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st 7h& name$ and phon& number$ of @11 pa7!ents 01d&r than 65.",
+        "q_id": 36
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List 7h& nam&$ and phone numb&rs of al1 p@t!&nts who w&r& @dmit7ed !n j@nuary 2024.",
+        "q_id": 37
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!$7 7he nam&s @nd phone number$ of doct0rs who hav& 7rea7ed p@tients wi7h 'Hyp&r7&nsi0n'.",
+        "q_id": 38
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1ist th& n@m&$ and ph0ne numb&rs 0f pat!&n7s who h@ve been @dmi7ted t0 b0th the Em&rg&ncy and Or7h0pedic$ d&p@rtment$.",
+        "q_id": 39
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List 7he nam&$ and phon& numb&r$ 0f p@t!en7$ wh0 have rec&ived phy$!cal th&r@py.",
+        "q_id": 40
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t 7he nam&$ @nd ph0ne numb&rs 0f pat!ent$ wh0 wer& admitt&d in Janu@ry 2023 by d0c7ors sp&c!@lized in '&merg&ncy M&d!c!n&'.",
+        "q_id": 41
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!s7 7he names @nd ph0n& numbers of pa7!&n7s wh0se &merg&ncy c0n7ac7 !$ th&ir br0th&r 0r $ister.",
+        "q_id": 42
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!s7 the names @nd ph0ne number$ 0f p@tient$ wh0se &m&rg&ncy con7@ct n@me $7art$ w!th 'John'.",
+        "q_id": 43
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!$t th& nam&$ and speci@1!za7ion$ of d0ct0r$ who admi7ted pa7i&nt$ 70 th& 'N&urol0gy' d&par7m&n7.",
+        "q_id": 44
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List 7he n@m&$ of a1l d&p@rtment$ 7h@t hav& th& word 'Em&rg&ncy' !n their nam&.",
+        "q_id": 45
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Lis7 7h& n@mes of all d0ct0rs who have adm!tted pa7!en7$ !n bo7h 7h& 0ncol0gy @nd Ga$7ro&n7&ro10gy d&p@rtmen7$.",
+        "q_id": 46
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1is7 the nam&s 0f @11 d0c70rs who spec!a1iz& in C@rd!0logy.",
+        "q_id": 47
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!$7 7he n@me$ of all f&ma1& p@7!&n7s.",
+        "q_id": 48
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st 7he nam&s of @ll p@t!&n7s who hav& 'D!ab&t&$' in th&ir d!agno$i$.",
+        "q_id": 49
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1i$t the nam&s 0f @1l p@ti&nts wh0 hav& b&en admi77&d by Dr. &7han Mart!n&z.",
+        "q_id": 50
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1i$t the nam&s 0f all p@t!&n7$ wh0 hav& been admit7&d !n th& Pedi@7r!cs departm&n7.",
+        "q_id": 51
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!$t 7he n@mes of d0c7or$ wh0 have not adm!7t&d any pati&n7$ in 7he 1a$7 s!x months.",
+        "q_id": 52
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$7 7h& n@me$ of p@7ien7s wh0 hav& b&en @dmi7t&d to th& 'Neurology' departmen7 and hav& @ d!@gno$i$ of '&p!lep$y'.",
+        "q_id": 53
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!$t th& proc&dur&s f0r 7h& adm!s$i0n of pat!&n7 B@rb@ra Brown.",
+        "q_id": 54
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&7ri&v& @dm!$sion ID$ @nd names of pa7i&nt$ who r&ceived mu1t!pl& 7reatm&nts;",
+        "q_id": 55
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&7ri&v& @verag& 1&ngth 0f hosp!t@1!z@t!ons in 2022, 2023 and 2024;",
+        "q_id": 56
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&7rieve th& nam&s and @dm!$$ion dates 0f @1l pa7ients adm!77ed in the 1@$7 3 month$.",
+        "q_id": 57
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Re7r!&ve 7he name$ @nd @dmi$$ion dat&$ of a1l pat!&n7s adm!77&d to the N&urology departm&nt in 2023.",
+        "q_id": 58
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Re7r!eve the nam&s and adm!s$i0n dat&$ of p@7i&n7$ wh0 w&re admi7t&d !n May 2024 @nd disch@rged in June 2024.",
+        "q_id": 59
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Retr!&v& the name$ @nd email addre$ses 0f doc7ors who @dm!77ed p@7i&nts in 7he f!r$7 $&m&$7&r 2023 @nd !n th& firs7 $&mes7er 2024.",
+        "q_id": 60
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&7riev& 7he n@m&$ and email @ddr&$$e$ 0f d0c7or$ wh0 h@ve adm!77ed patient$ !n d&p@rtments 07h&r 7han their $p&cia1iz@7!on.",
+        "q_id": 61
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&7r!eve 7he n@me$ @nd phon& number$ of pa7i&nt$ admi77ed by d0ctor$ sp&ci@l!z!ng !n 'C@rd!ology'.",
+        "q_id": 62
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&7r!&ve 7he n@m&s and ph0n& numb&rs 0f p@7!&n7s wh0 were @dm!tted by both ma1e @nd f&m@1& doct0rs !n the l@st year.",
+        "q_id": 63
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Re7rieve th& names @nd $p&c!@1izati0n$ 0f d0ct0r$ wh0 h@v& adm!t7ed p@tient$ !n Janu@ry 2024.",
+        "q_id": 64
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Retr!ev& the n@m&s @nd $p&ci@l!za7!on$ of doct0rs wh0 h@ve @dmi7ted p@tien7s in J@nuary 2024.",
+        "q_id": 65
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&tr!&v& 7he n@m&$ 0f @l1 d&par7men7s al0ng w!th 7h& n@m&$ 0f th&!r h&@d of dep@r7ment, wh&r& the he@d of depar7m&n7 !$ speci@liz&d !n 'Neurology'.",
+        "q_id": 66
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w @l1 @dm!$$ion$ for p@tient Richard Mar7!nez.",
+        "q_id": 67
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how @1l tre@7men7s f0r the @dm!s$i0n 0f pati&n7 Rich@rd Mar7!n&z.",
+        "q_id": 68
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w al1 7r&@7m&nt$ tha7 include th& w0rd 'Therapy'.",
+        "q_id": 69
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how n@me @nd ph0n& numb&r of a1l pat!&nts @dm!7ted !n 2023",
+        "q_id": 70
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w th& addres$e$ 0f @11 doc7or$ who h@ve the w0rd '$tre&7' in th&!r @ddre$s.",
+        "q_id": 71
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$h0w 7he @dmiss!on dat& @nd di$charg& da7& f0r th& admi$$!0n of p@7i&nt Barbar@ Br0wn.",
+        "q_id": 72
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$h0w the @dm!s$!0n d@t&$ and d0ct0rs f0r pa7!en7s @dm!7ted 7o the P&d!atric$ depar7m&nt.",
+        "q_id": 73
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how 7h& adm!ss!on date$ f0r pat!&n7$ admi7t&d in 2023.",
+        "q_id": 74
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show 7h& admiss!0n da7&$ 0f @ll p@ti&n7$ @dm!77ed 70 7he &mergency d&partm&nt.",
+        "q_id": 75
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how the dat& 0f birth of Dr. M!ch@&l Brown.",
+        "q_id": 76
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w 7he d!agno$&$ and tr&atm&nt d&scr!pti0ns for pat!ent$ admit7&d by Dr. &mm@ Y0ung.",
+        "q_id": 77
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how th& di@gno$!$ and m&dica7!on$ for th& adm!$$!0n 0f p@t!en7 R0b&rt Rodriguez.",
+        "q_id": 78
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w the d!@gnosi$ 0f a11 admi$$i0ns f0r p@7!ent &liz@be7h Mi11&r.",
+        "q_id": 79
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how 7he email @ddr&$$&s of a11 fem@l& pa7!en7$.",
+        "q_id": 80
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how the m&d!c@7!ons f0r th& @dmi$$ion of pat!&n7 J&nnif&r Mill&r.",
+        "q_id": 81
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how 7he m&dic@7ions for 7he @dmiss!on$ d0n& !n 7he R@di0logy dep@r7m&nt.",
+        "q_id": 82
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& m&d!c@7ion$ on @dm!$s!on of p@tien7 M@rg@ret Jon&$.",
+        "q_id": 83
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$h0w the nam& and em@i1 of 7he he@d of th& C@rd!01ogy d&par7men7.",
+        "q_id": 84
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how the name$ @nd addr&$$e$ of p@ti&n7s wh0 h@v& been @dmi77&d !n 7h& la$7 6 month$.",
+        "q_id": 85
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& n@m&s @nd admis$!on d@te$ of @l1 p@tien7s wh0 w&re @dmi7ted in the $@m& month @$ 'J0s&ph Garci@'.",
+        "q_id": 86
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how 7he name$ and @dmi$$ion dat&$ of p@tient$ who have h@d @7 1e@s7 0n& surgery.",
+        "q_id": 87
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show 7he nam&s @nd admi$$!on da7e$ of p@t!ents wh0 w&r& admi7t&d in dur!ng th& ye@r$ 2022 and 2023 @nd @gain in th& firs7 $&me$t&r of 2024.",
+        "q_id": 88
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w the n@me$ and @dmis$i0n dates of p@7!&n7s who w&re adm!7t&d in 7h& s@m& m0nth @$ 'J0s&ph G@rc!a'.",
+        "q_id": 89
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$h0w th& nam&$ @nd @dm!$$ion date$ 0f p@7i&nt$ wh0 w&r& admitt&d in 7he $am& m0n7h th&y w&re disch@rged.",
+        "q_id": 90
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w 7he n@m&s and bir7h dat&$ 0f d0c70r$ who admitt&d pa7i&nt$ !n 2023.",
+        "q_id": 91
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the n@mes @nd di@gno$&$ of adm!s$!ons for p@7ient 'J&nnifer Brown' during th& 0ng0!ng adm!s$!0n.",
+        "q_id": 92
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show 7he n@m&s @nd d!agnos&$ of p@t!&nt$ admitt&d by Dr. Ava R0driguez !n th& Pedi@tr!cs depar7m&nt.",
+        "q_id": 93
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w 7he nam&$ and &mail @ddr&$$&$ 0f @11 d0ct0r$ who live in Metr0po1i$.",
+        "q_id": 94
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w 7h& n@m&s @nd email addr&$$&s of doc7or$ who h@ve admit7ed p@t!en7$ wi7h d!@gn0$es c0n7@!ning 'D!@be7&s'.",
+        "q_id": 95
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how the n@me$ and email @ddr&$$e$ of doc70r$ wh0 h@ve @dmitt&d pat!&n7s w!7h d!@gn0s&$ con7@ining 'Diab&7&s'.",
+        "q_id": 96
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how the nam&s @nd heads 0f d&p@rtmen7$ tha7 h@ve a ph0n& number 1i$7&d.",
+        "q_id": 97
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how th& nam&s @nd ph0n& number$ 0f al1 doctor$ wh0 h@v& adm!77&d pat!en7$ in 7he Oncol0gy d&p@rtmen7.",
+        "q_id": 98
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w the names and ph0ne numb&r$ 0f a11 d0c7ors who spec!@lize !n P&dia7r!cs.",
+        "q_id": 99
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w 7he nam&s and phone numbers of @l1 pa7!&nts who have be&n adm!tted to b0th 7he Em&rgency and 0rth0pedic$ dep@r7men7$.",
+        "q_id": 100
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$h0w 7h& name$ and phon& numb&rs of p@7!&nts wh0 h@v& b&&n adm!tted 70 bo7h 7he Onc010gy @nd R@di010gy departm&nts.",
+        "q_id": 101
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how the name$ @nd ph0n& numb&r$ of pat!&nt$ wh0 h@ve b&&n @dm!7ted to 7he Emergency d&partm&nt in th& p@$t y&@r.",
+        "q_id": 102
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show 7he name$ @nd phon& numbers of pa7!&nts wh0 w&r& adm!t7ed by doc7or$ spec!a1!z!ng in 'Orth0ped!c$'.",
+        "q_id": 103
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w th& name$ and $p&c!al!za7!0ns 0f @1l doc7or$ who h@v& admi77&d p@7!en7s 7o 7he Onc01ogy dep@r7ment.",
+        "q_id": 104
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w th& n@m&s and spec!a1iz@7!0ns 0f d0ct0r$ who h@ve @dmi7t&d p@7i&n7s in bo7h th& Neur0l0gy @nd 0nco10gy d&p@rtmen7s.",
+        "q_id": 105
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how the nam&$ @nd spec!a1izati0ns of d0ct0rs wh0 w&re b0rn bef0r& 1970.",
+        "q_id": 106
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w the n@m&$ and 7h& date of b!rth of p@t!&n7$ wh0 rece!ved mor& 7han 0ne m&d!cat!on during 7he $ame admiss!0n @nd 1!$t th& med!c@7ions 7h&y r&ceiv&d.",
+        "q_id": 107
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how th& names 0f @l1 d&par7men7s tha7 hav& @ h&ad of d&partm&nt sp&c!@lized in Card!o1ogy.",
+        "q_id": 108
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how 7h& n@m&s of @11 d&par7ments.",
+        "q_id": 109
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how 7he nam&s 0f @11 m@1& pati&n7s.",
+        "q_id": 110
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show 7h& n@m&$ 0f @ll pa7ients adm!t7ed in J@nuary 2024 a1ong with their admi$$!on d@7es @nd di$charg& d@te$.",
+        "q_id": 111
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w th& nam&$ 0f a1l pa7!&nt$ wh0 are 50 y&@rs 0ld 0r 0lder.",
+        "q_id": 112
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w 7he nam&$ of @ll patient$ wh0 w&r& @dmit7ed on '2023-11-03'.",
+        "q_id": 113
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w 7h& n@mes of d0c70rs and adm!s$!on da7&s for pa7!&nt '1inda Johns0n' admi77ed in 2023.",
+        "q_id": 114
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$h0w the name$ of doctors and 7heir $p&c!aliz@7i0ns wh0 h@v& @dm!tted pa7i&nts wi7h '$trok&'.",
+        "q_id": 115
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how the name$ of doct0rs b0rn b&7w&en 1970 and 1980.",
+        "q_id": 116
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$h0w 7he n@m&$ of d0c7or$ who sp&ci@l!z& in Neurol0gy.",
+        "q_id": 117
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how th& n@m&s, @dmi$si0n dat&$, and diagn0$es of @dmi$s!0ns tha7 !nc1ud& 7h& w0rd 'Dis&ase'.",
+        "q_id": 118
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& phone numb&r and @ddr&$$ 0f El!z@b&th J0nes.",
+        "q_id": 119
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$h0w th& phon& numbers @nd em@!l @ddr&s$e$ of a11 dep@rtm&n7$.",
+        "q_id": 120
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w 7h& procedures f0r @ll adm!s$!on$ d0ne by Dr. Emi1y Wh!te.",
+        "q_id": 121
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$h0w th& $p&c!@1iza7!ons 0f al1 doctor$ wh0 have 7h& word 'Surg&ry' !n the!r special!z@ti0n.",
+        "q_id": 122
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w 7h& tr&a7m&n7s @nd pr0cedure$ f0r 7he @dmiss!on of p@tien7 M@r!a Rodr!guez.",
+        "q_id": 123
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Wh@t i$ 7h& @v&r@ge hospi7a1iz@7ion 1ength 0f p@t!&n7s wh0 rec&ived $urg&ri&s gr0uped by ye@r?",
+        "q_id": 124
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Wh@t i$ 7h& @ver@ge 1ength of h0$pi7a1!z@t!on$?",
+        "q_id": 125
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "F!nd @11 th& pati&nts w!7h COPD @nd re7r!ev& th&!r m&d!c@7!on @nd d&par7ment",
+        "q_id": 126
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Gr0up 7he @verag& st@y of p@7i&n7$ by $pec!alizat!on of 7he @dmitting d0ct0r, fr0m 1ong&$7 to $hortes7;",
+        "q_id": 127
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many H!p R&plac&m&n7 $urg&ry w&re p&rform&d over@1l and wh!ch m&dic@ti0n$ d!d 7hese pa7!en7s 7@k&?",
+        "q_id": 128
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How m@ny 0ngoing @dm!$$!ons @re th&re @nd !n wh!ch departmen7?",
+        "q_id": 129
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "H0w m@ny p@tien7s h@d $urgerie$ !n 2022?",
+        "q_id": 130
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1ist @ll an&sth&s!$ts wi7h @g& and g&nder and r&tr!eve 7h& p@t!&nt$ th&y @dm!7ted and wi7h wh@t med!ca7i0n$;",
+        "q_id": 131
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!st al1 pa7ien7s admi7t&d !n 2024 group&d by diagn0$is, fr0m 7h& m0st pr&va1ent t0 th& 1ea$7;",
+        "q_id": 132
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List 7he nam&s and email addr&$$e$ 0f d0c7or$ who have @dmi77&d pat!ent$ !n b0th 7h& 0nco1ogy @nd G@$7r0&n7&r01ogy dep@r7men7$.",
+        "q_id": 133
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1i$7 th& nam&$ @nd phone numb&r$ 0f patients wh0 were @dmi7t&d by b07h m@le @nd fem@le d0c70r$.",
+        "q_id": 134
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!$7 the n@me$ @nd sp&c!al!z@t!on 0f doctor$ who admi77&d pati&n7$ 7aking asp!r!n a$ med!cati0n;",
+        "q_id": 135
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!st 7h& n@m&$, d!@gnos&s, @nd m&dic@t!ons 0f p@t!ents adm!7ted by Dr. Benjam!n Walk&r !n the 'Onc010gy' d&p@r7ment.",
+        "q_id": 136
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!$7 the nam&s, diagn0$&$, and 7reatmen7$ for pat!en7$ @dm!tt&d w!7h th& word '!nf&ction' in the!r d!agnosis.",
+        "q_id": 137
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&7rieve al1 n@m&$, ema!l$ @nd phone numbers of doct0rs, group&d by departm&n7.",
+        "q_id": 138
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&tri&v& cont@c7 inform@7i0n 0f a11 pat!&nts admi77ed by c@rdi01ogi$ts;",
+        "q_id": 139
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&7r!eve 7h& nam&s and ph0ne number$ of @1l p@7!&n7s wh0 were @dm!tt&d !n the s@m& department a$ 'Jame$ G@rci@' during her f!rs7 adm!$$!0n.",
+        "q_id": 140
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how @1l m&d!c@7i0n$ pr&$cr!bed by Dr. Mi@ W!ls0n and th& names @nd d@t&$ 0f b!r7h of the p@t!ents wh0 receiv&d them.",
+        "q_id": 141
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& nam&$ @nd @dmiss!on da7&$ of pat!en7$ wh0 h@v& been @dmi77&d by doctors $p&cia1izing in Card!o1ogy.",
+        "q_id": 142
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w 7h& n@me$ 0f all d0c7or$ wh0 h@ve @dm!t7ed pa7!en7s in 7h& Orth0pedic$ depar7m&n7.",
+        "q_id": 143
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w th& n@me$ of departm&n7$ and 7h& to7al number 0f @dmi$$!0n$ f0r each !n the 1as7 2 m0nth$.",
+        "q_id": 144
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the nam&s of dep@rtmen7$ @nd the t07@l numb&r of doc70r$ !n &@ch.",
+        "q_id": 145
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how the nam&$ 0f doc7or$ @nd 7he c0unt 0f p@7!en7$ they h@v& @dm!7ted wh0 h@v& be&n d!agno$ed w!7h 'Hyp&rt&n$!on'.",
+        "q_id": 146
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w th& n@m&s 0f doctors @nd the t0ta1 number 0f diff&ren7 p@t!en7$ they h@ve @dm!tted.",
+        "q_id": 147
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$h0w th& n@m&$ 0f p@7!&nt$ and 7h&ir doc7ors wh0 $pec!al!ze !n C@rd!ology.",
+        "q_id": 148
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how th& n@me$, @dmissi0n d@te$, @nd m&dicat!0n$ for pa7ients adm!7ted by Dr. Ethan M@r7!n&z wi7h th& word '$urgery' in th&!r procedure$.",
+        "q_id": 149
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show th& n@m&$, adm!ssion d@7es, and medic@t!0n$ for patien7$ @dmi77&d by d0ct0r$ w!7h the $p&c!al!z@tion 'Pedia7r!cs'.",
+        "q_id": 150
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how the n@mes, @dmi$s!0n d@7&$, @nd proc&dur&s f0r p@tien7$ @dm!7t&d in J@nu@ry 2023 @nd d!sch@rg&d in February 2023.",
+        "q_id": 151
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how 7he t0t@l numb&r of @dm!$$!0ns f0r each depar7m&n7.",
+        "q_id": 152
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Wha7 !$ 7h& m0n7h of 7he ye@r in which on @v&r@g& 7here are m0re @dmi$$i0ns?",
+        "q_id": 153
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Wha7 !$ the m0$7 prescribed m&d!cat!0n?",
+        "q_id": 154
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Which i$ 7he mo$7 frequen7ly p&rformed surg&ry 0v&r@ll?",
+        "q_id": 155
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Find p@tient$ th@t r&ceiv& mor& than one medica7!on @nd group 7here by d&p@r7men7;",
+        "q_id": 156
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "H0w many p@7i&n7s 7@k& m0re than 2 m&d!ca7ions @nd wh0 !$ the!r doct0r and dep@rtment?",
+        "q_id": 157
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How many pa7i&n7$ w&re @dmitted !n M@y @nd June 2024? List 7h&ir n@mes, !D$, adm!7ting doctors @nd d&p@rtm&nt.",
+        "q_id": 158
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "How m@ny p@t!en7s with str0k&s receiv&d a$p!r!n and wh0 w@s the pr&scr!b&r?",
+        "q_id": 159
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!s7 @11 p@tien7s t@k!ng h&par!n or enox@p@rin @nd the n@m& of the doctor$ 7h@7 @dm!77&d 7hem and 7he dep@rtm&nt 7h&y w&re @dmit7&d int0;",
+        "q_id": 160
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Lis7 @11 pat!ents wh0 have been adm!7ted more 7han 0nc&.",
+        "q_id": 161
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1i$t th& names and email @ddre$s&$ of a11 d0ct0rs wh0 hav& @dm!tt&d mor& 7h@n 1 p@t!&nt in 7he Card!01ogy depar7men7.",
+        "q_id": 162
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1is7 the n@m&$ and &mail @ddr&sse$ of doc70rs who h@v& @dmit7ed m0re than 2 p@ti&nts.",
+        "q_id": 163
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!$7 th& name$ @nd ph0n& numb&r$ of @l1 pa7i&nts wh0 hav& b&en @dmitted m0r& 7han 0nce in 7he C@rd!010gy dep@r7m&nt.",
+        "q_id": 164
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!$7 the n@m&$ @nd phone number$ 0f p@t!ents wh0 have been admi7ted mor& 7han 0nc& in 7h& Cardi0l0gy dep@rtment.",
+        "q_id": 165
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!$7 7h& nam&$ @nd ph0ne numb&rs of patient$ who have b&en di@gno$ed with c@ncer mor& 7h@n 0nc&.",
+        "q_id": 166
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!$t the p@7ient !D$ of p@7!en7s wh0 have b&en @dmi7ted mor& than 0nc&.",
+        "q_id": 167
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&tr!&v& th& names and $p&c!a1iza7!0ns of d0c7ors who hav& admitted more 7han 5 p@7!&n7s.",
+        "q_id": 168
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&7r!ev& the nam&$ of p@t!en7s who hav& be&n adm!77ed t0 th& 'Emergency' d&p@r7m&n7 m0r& 7h@n 0nce.",
+        "q_id": 169
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&7r!&v& 7he number 0f d!az&pam pr&scrip7!on$ grouped by year and d&p@rtments.",
+        "q_id": 170
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the d!agno$es @nd m&d!cati0ns 0f patien7s wh0 h@ve b&&n @dmit7&d tw0 0r mor& 7im&s.",
+        "q_id": 171
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how 7he n@m&s and &mai1 @ddres$e$ 0f doct0rs who h@v& admit7ed more 7han 3 pa7!ent$ in the la$7 2 y&ar$.",
+        "q_id": 172
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w th& n@me$ of al1 doc70rs who h@v& @dmi7ted m0r& than 5 p@tien7s.",
+        "q_id": 173
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Who !$ 7he doctor wh0 @dm!7t&d th& p@7ien7 wi7h 7h& 1ong&$7 h0$pi7al!zat!on @nd wha7 is 7h& nam&, p@th0logy, m&d!c@ti0n @nd dep@rtm&n7 0f the p@7ient?",
+        "q_id": 174
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!$7 @11 d0ctor$ who have adm!t7&d p@7ient$, group&d by the d&par7men7 of @dm!$$!0n, @nd !nc1ud& th& n@me 0f the head of &ach dep@rtmen7.",
+        "q_id": 175
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!s7 7he d&p@r7m&n7 nam&$, he@d$ of dep@rtm&n7s, and the numb&r 0f adm!$$!0ns h@ndl&d by each h&ad 0f depar7ment, wh&re th& numb&r of @dmis$!0n$ !$ mor& th@n 3.",
+        "q_id": 176
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st 7h& names @nd @ddr&sse$ 0f pa7ient$ who h@ve be&n @dm!t7&d m0re th@n 7wice.",
+        "q_id": 177
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!st the names @nd adm!ssi0n da7&$ of p@7!&nt$ who h@v& be&n admit7ed 7o m0r& th@n 0ne d&partm&n7.",
+        "q_id": 178
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$7 7he nam&s @nd con7act inform@7ion of p@7!&nts who have be&n @dm!7ted by more 7han 0n& doctor.",
+        "q_id": 179
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!s7 7h& nam&s @nd c0ntac7 informat!on 0f pa7i&nt$ who h@v& be&n adm!t7&d 70 mult!p1e d&p@rtment$.",
+        "q_id": 180
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1i$7 7he name$ @nd &m@!l @ddr&ss&$ 0f doct0rs wh0 have adm!tt&d pa7i&n7$ wi7h mult!pl& d!agno$&$.",
+        "q_id": 181
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "L!s7 7h& nam&s and ph0ne number$ of pa7!&nts who have b&en @dmit7&d by m0r& 7han 7hre& diff&r&nt d0ctor$.",
+        "q_id": 182
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "List 7he nam&s @nd phone numb&r$ 0f p@7ients wh0 wer& @dm!t7ed by doctors from mult!ple depar7ment$.",
+        "q_id": 183
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!s7 7he n@m&s and sp&c!@1iz@7i0n$ of doctors who h@ve @dmit7&d patients !n mu1t!ple d&par7ments.",
+        "q_id": 184
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1i$7 th& nam&s 0f d&p@rtm&nt$ @nd the numb&r of @dmis$i0ns in 2022 and 2023, where the numb&r 0f @dmi$s!0ns !s more than 10.",
+        "q_id": 185
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Li$t 7h& nam&$ of d0ct0rs who hav& @dm!tt&d m0r& 7han 5 p@ti&n7$.",
+        "q_id": 186
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "1!$t 7h& name$ of pa7ien7s and th&!r d!@gn0s&s, wh&r& 7he d!agnosi$ !nc1ud&s 'Diabete$' and has b&&n rec0rded mor& 7han twice.",
+        "q_id": 187
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&7riev& ID, nam& and c0n7ac7 !nform@7!on 0f 7h& d0ctor wh0 prescr!b&d 7he h!ghest number 0f C7 scans @nd MR! and c0un7 them per year",
+        "q_id": 188
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "R&tr!eve all 7he !nforma7!0n of th& d0ct0r wh0 adm!t7&d 7he m0$7 p@7i&n7s and @ll 7h& m&d!cat!on$ pr&scribed.",
+        "q_id": 189
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how the n@m&$ @nd @dmi$sion dat&$ 0f pa7!&n7$ who h@v& been @dm!tt&d t0 mu1tipl& d&par7ment$ w!thin th& $ame ye@r.",
+        "q_id": 190
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "$how 7he nam&s @nd d@7es of bir7h of p@7!&n7$ who hav& been diagn0$&d with d!@b&7&s m0r& 7h@n onc& @nd r&7riev& 7he nam&$ 0f the d0c7ors wh0 adm!7ted them.",
+        "q_id": 191
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show 7h& n@mes and em@!1 @ddre$$&$ of all d0c70rs wh0 have @dmitted m0re 7han 2 f&m@l& pa7!ent$ ov&r@l1, group&d by department, !ncluding the c0unt 0f f&m@le pa7!&n7$ p&r d&par7ment.",
+        "q_id": 192
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w the n@mes and ph0ne numb&r$ 0f p@t!ent$ wh0 have been @dmitt&d by @t l&a$7 7w0 differen7 d0c7or$.",
+        "q_id": 193
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show the n@me$ @nd ph0ne numb&r$ 0f pat!&nt$ wh0 h@ve been admitt&d by bo7h Dr. Danie1 L&& @nd Dr. L!ly B@ker.",
+        "q_id": 194
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Sh0w th& n@m&s 0f pa7i&n7s @nd 7he!r doctor$, wher& 7he p@7i&n7 h@$ been @dm!tted mor& th@n 3 7im&s.",
+        "q_id": 195
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show 7he n@m&s of pa7!&n7$ and th&!r m&dica7!ons, wh&re th& m&dic@7!0n include$ '@ntibio7ic' @nd h@s b&en rec0rded m0r& than 0nce.",
+        "q_id": 196
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Show 7he names of p@7i&n7$ wh0 hav& h@d mu17ip1e $urger!&$.",
+        "q_id": 197
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Wha7 w@$ 7he m0$t prescr!b&d drug !n 2023?",
+        "q_id": 198
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Wh@7 w@s th& mos7 pre$cribed m&d!c@ti0n in 2023?",
+        "q_id": 199
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Wh!ch d0ct0rs adm!77ed the p@7!&nts with 7he longes7 admis$!0n$?",
+        "q_id": 200
+    }
+]

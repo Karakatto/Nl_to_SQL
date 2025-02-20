@@ -1,0 +1,72 @@
+[
+    {
+        "dept_id": "DEP01",
+        "dept_name": "Emergency",
+        "phone": "+1 (555) 123-4567",
+        "email": "emergency@generalhospital.com",
+        "HeadOfDepartment": "DOC023"
+    },
+    {
+        "dept_id": "DEP02",
+        "dept_name": "Cardiology",
+        "phone": "+1 (555) 234-5678",
+        "email": "cardiology@generalhospital.com",
+        "HeadOfDepartment": "DOC034"
+    },
+    {
+        "dept_id": "DEP03",
+        "dept_name": "Orthopedics",
+        "phone": "+1 (555) 345-6789",
+        "email": "orthopedics@generalhospital.com",
+        "HeadOfDepartment": "DOC013"
+    },
+    {
+        "dept_id": "DEP04",
+        "dept_name": "Radiology",
+        "phone": "+1 (555) 456-7890",
+        "email": "radiology@generalhospital.com",
+        "HeadOfDepartment": "DOC026"
+    },
+    {
+        "dept_id": "DEP05",
+        "dept_name": "Neurology",
+        "phone": "+1 (555) 567-8901",
+        "email": "neurology@generalhospital.com",
+        "HeadOfDepartment": "DOC015"
+    },
+    {
+        "dept_id": "DEP06",
+        "dept_name": "Oncology",
+        "phone": "+1 (555) 678-9012",
+        "email": "oncology@generalhospital.com",
+        "HeadOfDepartment": "DOC028"
+    },
+    {
+        "dept_id": "DEP07",
+        "dept_name": "Pediatrics",
+        "phone": "+1 (555) 789-0123",
+        "email": "pediatrics@generalhospital.com",
+        "HeadOfDepartment": "DOC007"
+    },
+    {
+        "dept_id": "DEP08",
+        "dept_name": "Gastroenterology",
+        "phone": "+1 (555) 890-1234",
+        "email": "gastroenterology@generalhospital.com",
+        "HeadOfDepartment": "DOC020"
+    },
+    {
+        "dept_id": "DEP09",
+        "dept_name": "Urology",
+        "phone": "+1 (555) 901-2345",
+        "email": "urology@generalhospital.com",
+        "HeadOfDepartment": "DOC021"
+    },
+    {
+        "dept_id": "DEP10",
+        "dept_name": "General Surgery",
+        "phone": "+1 (555) 012-3456",
+        "email": "generalsurgery@generalhospital.com",
+        "HeadOfDepartment": "DOC022"
+    }
+]

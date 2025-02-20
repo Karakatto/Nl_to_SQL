@@ -1,0 +1,1002 @@
+[
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELENCA tutTI I PazieNtI.",
+        "q_id": 1
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "elENCA TutTI i medIci.",
+        "q_id": 2
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLeNCA Tutte Le aMMissIoni.",
+        "q_id": 3
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "CoNTa IL nuMeRO dI PaZienTI feMMInIlI.",
+        "q_id": 4
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "coNTa i pAzIEnTi PER sesSo.",
+        "q_id": 5
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ConfrONtA I rICOveRI mEdI neL PRIMO E nel seCondO SEmESTrE di OgNi anNo.",
+        "q_id": 6
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "QuaNte ScAnsionI mRi E cT SOnO sTaTE EseguItE NEl cOrSo DeGli aNNi?",
+        "q_id": 7
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "QuAnte VaCCiNaZIONI sONo stATE SommINisTraTe neL cOrsO degLi anNi?",
+        "q_id": 8
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELenca TuTTI i DiPartimENti InsIeME al NoMe dEL cAPO DEL DipaRTIMeNto.",
+        "q_id": 9
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eleNca tUtti I dIpArtImeNti chE HANnO \"OlogiA\" nEl LoRO NOMe.",
+        "q_id": 10
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "elencA TuTtI i MEDICI maschi E I lOrO InDiRiZZI.",
+        "q_id": 11
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLEnCA TuTtE LE procEdURe peR Le AMmISSionI EseguiTe Dal dr. OlIViA DAviS.",
+        "q_id": 12
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLENca tUTTe Le proCEdURe CHe incLUDonO lA PaRoLA \"IntERvENtO chirURGIco\".",
+        "q_id": 13
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLeNCa tutTI i trattAMeNTi peR la PAzIentE lINda gArCIA.",
+        "q_id": 14
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELeNCa nOmi e CONtAttI DI TuTTI i mEdIci maScHi.",
+        "q_id": 15
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLenCA LE dAte Di ammiSSIonE e lE DAte dI SCarico DI TUTte LE aMmISsIONI PEr IL pAZiENte JameS MillEr.",
+        "q_id": 16
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELENcaRe LE DAte Di AmMisSiONe E le datE dI scaRicO dEi paZiENTI riCOVeRATI nEl diPARtIMento Di pEDiATRiA.",
+        "q_id": 17
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLENCA i NomI DeL DIPaRtImento E i Capi DipArTiMEntI ChE HANnO un NUMErO Di tElefoNo COntEnEntE \"555\".",
+        "q_id": 18
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLeNcA La DiaGNosi E I tRAttaMenTI pEr l'ammIsSIoNe DELLA pAziENTe BarbARA MARTinEZ.",
+        "q_id": 19
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "elEnCa GlI iNdirIZZi E -maiL e i nUmERI DI telEFono Di mEDiCI CHE hANNO AmmEsSo PAZIenti CoN DIAGnoSI di \"ipertensionE\".",
+        "q_id": 20
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ElEnCa lE E -Mail di Tutti I meDICi speciALIZZAtI In neUROlOgIA.",
+        "q_id": 21
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLencA le E -MaIl di TUtTI I paziENtI.",
+        "q_id": 22
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eleNCa i nOmi e GlI INdirIzZi DI TuttI i mEdiCI mASCHI.",
+        "q_id": 23
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ElEnCa I nOmI E Gli INdiriZZI dEi PAziENti chE soNO stATI aMMesSI CON una DIagNosi di \"BpCo\".",
+        "q_id": 24
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ElEnca I NoMi e gLi INDIRizzi Dei PaZienTi CHE SOnO sTaTI TRattATi DAl dr. Mia WIlsoN.",
+        "q_id": 25
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "elENcA i NOMi e le daTE dI aMMISSIOne dei PaZienti rIcOveraTi nEL diPaRTimEnto DI NEUrOLOgiA.",
+        "q_id": 26
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Elenca I nOmi E LE daTE dI AMMiSSIOnE DEI paZieNti chE sONo sTAti DImeSSi ENTRO 3 giOrnI dALl'aMmiSsione.",
+        "q_id": 27
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "EleNCA i NoMI e le INfORMAZIONi dI CONTatto dEL CONtAtTo di EmeRgENza dEL pAZIEnTE denoMInatO \"Linda GarCia\".",
+        "q_id": 28
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "elENCARe I nomI e lE DiAgnoSi di paZiEnTi aMmeSSI dAL dR. ava rODriguEz Nel diPaRTiMeNtO peDIATRIa.",
+        "q_id": 29
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLEnca i NOMi E le dIAGNosI dI pAZiENtI AmMessI neLlE ULTimE 8 SETTimAne.",
+        "q_id": 30
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLENCA I nOmi E le dIagnOSi di PAZienti ChE sono sTATi AMmEsSi SIa cOn \"DiABetE\" ChE cON \"ipERTenSIonE\".",
+        "q_id": 31
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "EleNcA i nOmI e gli INdIRizzi e -MaIL Di tUTTE LE doTTORI FeMminILI.",
+        "q_id": 32
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELeNCa i noMi E gli INDiRIzZi e -MAiL DeI medicI CHe HAnno aMmESSo I pAzIentI nEl DiPARTiMento dI ONCOloGIa.",
+        "q_id": 33
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "elenca i nOMI E glI iNdIriZzi e -mail DEi PAzIeNTi IL ​​CUi CoNTatTo dI emeRgENZA È IL CONIUge.",
+        "q_id": 34
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLEnCa i noMi E i numerI dI TeLEFOnO dI tUttI i MEDICi MasChI.",
+        "q_id": 35
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELenCA I NomI e I NUmeRI Di TeLEfONO dI tUttI i pazieNTI DI Età sUPeRiore aI 65 Anni.",
+        "q_id": 36
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLeNcA i NOmI E i NuMERi di teleFoNo dI tUTTi I PAzIeNTI ChE SONO StAtI ammEssi nel GeNnaio 2024.",
+        "q_id": 37
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLeNcA i NoMi E I nUMeRI DI tELEfONo di MEDiCI cHe hANNo CuRaTo I PaziEntI cOn \"ipeRtensiOne\".",
+        "q_id": 38
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLeNcA i NOMi E I nuMeRI dI TElEFono DI pAZieNTI Che SONo staTI aMmEsSI aI DiPArtimeNtI Di eMeRGeNZA e ORtopeDicA.",
+        "q_id": 39
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ElENCA i NomI E i numeRI dI tElEfonO Di paZIeNtI CHE haNNo riceVutO TERAPiA fiSiCa.",
+        "q_id": 40
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "elEnCA I NOMi e I nUmERI dI teleFOno di pAZIEnTi chE soNO StaTI AmMESSi NeL genNaIo 2023 DA meDici speCIaLiZzATi IN \"MedICiNA di EMeRGenZa\".",
+        "q_id": 41
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "EleNca I NOMi e i numeri di TELeFoNO Di pAZientI il ​​cUi conTAtTO dI eMerGenZa È iL frATeLlO O LA soRELLA.",
+        "q_id": 42
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "elencA I NOMi e i NUMeRi Di tElEFONO di paZIenTi iL ​​Cui NOMe DI COntAttO DI EmergeNza inIziA Con \"jOhn\".",
+        "q_id": 43
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eleNca i noMi e le spECIAlIzZAZIoNI deI MeDIcI cHE hANno AMMESSO i PaziENtI Al dIPartimeNTo DI \"NEUROLogia\".",
+        "q_id": 44
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "elENca I noMi dI tUTTi i DIparTimeNti CHE hANnO lA PAROlA \"EMergenZA\" NEl lOrO noMe.",
+        "q_id": 45
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLENCA i noMi dI tUtTi i MEDICi ChE Hanno AMMesso i PaZIeNTi SiA neI DIpArtImeNti dI OncOloGIa cHE Di gAstROenTErOlOgIa.",
+        "q_id": 46
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "elENCA i NOmi di tuTti i MEDICi spECIAliZzAti In CaRDIoLogiA.",
+        "q_id": 47
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eleNca I nOmI Di TUTTe Le pazienTI Di SESso FEMMinILE.",
+        "q_id": 48
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "elEnCA I NoMI dI tutti I PAzIentI chE HannO iL \"DiaBete\" nELLA lORo dIagnOSI.",
+        "q_id": 49
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ElENCa I NoMi di tutTi i paZieNtI ChE sOnO sTatI AMmESSI dAL DR. ETHAn MArTineZ.",
+        "q_id": 50
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "elEnCa i NOMI dI tUtTi i PazIeNtI chE soNO sTAtI AmMeSSI NEL diPARtiMEnTO dI pEdiaTRia.",
+        "q_id": 51
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLeNCA I Nomi DEi mEDICi cHE noN haNNo AmMEsso AlcUn PazIEntE neGli ULtimi Sei MESI.",
+        "q_id": 52
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELEnCa i NomI Dei pazIEnTI chE SoNo STati aMMESsi AL DiPaRTimenTO DI \"neurOLOgIA\" e hANNO UnA DIaGNosi Di \"epilessiA\".",
+        "q_id": 53
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ElencA LE prOCEdURE PER L'aMmiSSioNe dElla pAzIENtE BArbarA bRown.",
+        "q_id": 54
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "RecUpERARE id di aMMIssiOnE E Nomi Di pAzieNti che HAnnO RIcEVUto pIÙ TraTtAmeNtI;",
+        "q_id": 55
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "REcUPEraRE una dUrata MEDIA dEi rIcOVEri nEL 2022, 2023 E 2024;",
+        "q_id": 56
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "RECUPerA I nomI E lE Date di AmMISSIoNE Di TutTI i pAZIenti AmmeSsI NeGlI UltIMi 3 MeSi.",
+        "q_id": 57
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "recUPEra i nomI e LE daTE Di AMmIsSiOnE dI tUtTi i paZieNTi amMESsI Al DiParTiMENTo dI NeUrolOGIA NEl 2023.",
+        "q_id": 58
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ReCUPera i noMi e Le DATe DI AmMISSione DEi PAzIEnti cHe sOnO statI aMmeSSI NEl maGgIO 2024 E dimeSSI neL giugNo 2024.",
+        "q_id": 59
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "rECUpERA I NoMi E gLI iNdIRiZzi E -MaIL DEi meDIci che HaNnO AmmesSo i PaziEntI nEl Primo SEmeSTRE 2023 e NEl pRiMo sEmeStre 2024.",
+        "q_id": 60
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "RecUpEra I noMi E gli inDIRiZzi E -MaIl DEI medIcI chE haNNO aMMeSSo pazienTI In DipARtimEnTi DiVERSI DaLLa LORO speciALIzzazIONE.",
+        "q_id": 61
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "RecUPErA I noMi E i NuMERI dI teLEfOno dEI PazIENti aMMeSsi DA medIcI spECIalIzZaTi iN \"cArdiOlogiA\".",
+        "q_id": 62
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "reCUpErA i NOMI E I numErI dI TElEfoNo dI paziENTI cHe soNo StATi AMmESSI da mEDiCi MaschI E feMmIne nElL'ULTImo Anno.",
+        "q_id": 63
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "rEcUpeRa I NomI e lE spECIaLiZzAzIOnI dEI MEdIcI cHE hanNO AmMESsO i pAziENti neL gEnnaIO 2024.",
+        "q_id": 64
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "RecUPeRA I NOmi E Le spEcIaliZZazioNi Dei MEdICI Che hanNO ammESsO I pAZIeNTi NEL geNNAio 2024.",
+        "q_id": 65
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ReCUpera I nomI Di TUtti I DiparTImEnTi iNsIEMe ai NOMI Del lOro CApo DIPaRtiMEnTO, DoVe Il cApo dEL dIPaRtiMeNTo è SPeCiAlIZzAtO iN \"NeURoLogIA\".",
+        "q_id": 66
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MoSTra TuttE LE amMiSSiOnI PER il pAZiEntE RiCHarD MartIneZ.",
+        "q_id": 67
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mostra Tutti I traTTAmenTI PEr L'aMMiSsIOnE dEl pAzIENTe RiChaRD MARtIneZ.",
+        "q_id": 68
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MoSTRA tUtti i tRattAmENtI che InCLUDoNO lA ParoLa \"TeRAPIA\".",
+        "q_id": 69
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOsTrA IL NomE E iL nUmEro dI TeLefOnO Di tUTtI i paZieNTI aMmEsSi NEl 2023",
+        "q_id": 70
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mOSTra GLi iNDirIzzI Di tuTtI I mEdIcI Che hanNo LA parOlA \"strAda\" NEl loRo INDIrIZZo.",
+        "q_id": 71
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "moStrA LA data Di AMMiSSiOne E La dATa di scaricO PeR L'amMiSsIONe delLa pAzIENTE BarbARA brOWN.",
+        "q_id": 72
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MoSTRa LE daTE Di ammiSsiOne e i MeDIcI PeR i PAzIenTI riCoVeRATI NEL diPARtiMenTo dI pediAtRIA.",
+        "q_id": 73
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "moStra Le DATe di aMmiSSIonE PER i pazIENti aMmeSSI nEl 2023.",
+        "q_id": 74
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mosTra LE datE Di AMMISsiOne Di tUttI i PaZiENtI aMmESsi al dIparTimEnTO dI EMERGEnZA.",
+        "q_id": 75
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOStrA LA daTa Di nascitA DEL Dr. miChAel brOWN.",
+        "q_id": 76
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOsTRa le diAGnosI e Le deSCrIzIONI dEL traTtAmEntO PEr I PaZIeNTI AmMesSi DALla DOtT.ssa emMa YOunG.",
+        "q_id": 77
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mOSTRA La DiagNosi e i fArMAcI pER L'amMiSSionE del pAZIenTE rOBeRt roDRIGuEz.",
+        "q_id": 78
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mostrA La DIAGnOsi di tUttE LE AMMISsIoni peR LA PAziENtE ElizAbetH mIlLEr.",
+        "q_id": 79
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MoSTRa Gli INDIRIZZi E -MaIL di TuttE Le donnE paZIenTi.",
+        "q_id": 80
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mOstRa I FaRMACI peR l'AMMiSSIone del pazIenTE jeNnIFer MiLLEr.",
+        "q_id": 81
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mostRA I fARmAcI pEr Le aMMIsSIOnI FaTtE nEl dipARtImentO di raDIOlOgia.",
+        "q_id": 82
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mOSTRA i fArmacI aL moMENTo dELl'ammiSsIone DeLla pAzIEntE mARGaREt JOneS.",
+        "q_id": 83
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOstrA il noMe e L'e -mAIL dEL capO deL dipARTiMENTO DI CaRDIoLOgia.",
+        "q_id": 84
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOSTra I NoMi E GlI IndiRiZzI deI pazIEnTi chE Sono StATi AMmesSI nEGLI ULTImI 6 Mesi.",
+        "q_id": 85
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOSTRa I nOMI e LE daTE Di aMMiSsionE DI TuttI i paziEnti CHe sOnO STaTI AmmessI nELlo sTesSO MEsE di \"joSEPh gArCia\".",
+        "q_id": 86
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MosTrA I NOMi E lE DaTE Di aMMiSSiONE DeI pazIENTi cHe HanNo SubIto aLmeNO Un inTERvento CHIRurgIcO.",
+        "q_id": 87
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mostRA i nOmi E le DatE DI AMMIsSIOne DEI PAzIenTi Che SOno statI AMMESSI NEGli anNi 2022 E 2023 e DI NUOvo NEL PrIMO SEmEstRE DEl 2024.",
+        "q_id": 88
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "moStrA i nomi e le DatE dI aMMiSSIoNe DeI PaZienti che sONo StATI AMMESSI NElLo SteSso meSE Di \"JOsEPh gARcia\".",
+        "q_id": 89
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mostRa I nOmI e LE DATE dI AMmisSIONe dEi pAzIeNti Che SOno stAtI aMmeSSI NElLo sTeSSo meSE IN CuI sonO sTatI dImessi.",
+        "q_id": 90
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOSTRA I NOMI e Le dATE di NAScIta DeI MediCI chE HAnno ammesso I pazieNTi Nel 2023.",
+        "q_id": 91
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MosTRA i noMi e LE DIaGnOsi DI aMMISsIoNi peR Il PAZIEnte \"jeNniFer bRoWn\" duRANTE L'amMisSiOne In coRSO.",
+        "q_id": 92
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOsTRa I NoMI E LE DIagnosI di pAzIENtI aMMesSI dAL DR. Ava rodRigueZ NeL DiPaRtiMento pEdiaTrIA.",
+        "q_id": 93
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mOStra i NOMi E GLi IndIrizzi e -MaiL dI tUTTI I MEDici cHE vIvoNo a METrOPoLIs.",
+        "q_id": 94
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOStra i NOmi e gLi IndIrIzzI E -Mail dEI MeDICi chE hAnno AmMeSSo pAZIeNTi cON dIAgnoSI COnteneNti \"DIaBeTE\".",
+        "q_id": 95
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "moStra I NOmI E GLi IndirIZzI e -MAiL dEi MediCi ChE haNNo AMMesSo pAZIeNtI cON DIagnosI CONTenENtI \"diABEte\".",
+        "q_id": 96
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MosTRA i nomi e I capi DEI DiPaRtIMeNTI cHE HaNNo Un nuMeRO dI TelEFONO eLencaTO.",
+        "q_id": 97
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mostRa i noMI E i NumEri DI TELEfONo di TUtTI i MediCi chE hAnno amMesSO i PAZIENTi nEl DipArTImeNtO DI oNcOLogia.",
+        "q_id": 98
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MoSTra I NOmI e I nuMERI DI teLEfonO di tuTtI I MeDiCI SPEcIaLIzZatI IN pEdiatria.",
+        "q_id": 99
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mOsTRA I Nomi E I NumeRI di telEfoNo DI tUtTI I pAZiENtI ChE soNo stati AMmessI aI dipaRtIMeNTi DI EMeRgenzA e ORTOPeDICA.",
+        "q_id": 100
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MoSTra I nomI e i nUMEri di TELEfOno dI pAZiENtI chE sonO sTatI AmMEsSi SIa aI diparTimEnTI di oNCOLoGIa ChE dI RAdIOlOGIa.",
+        "q_id": 101
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mosTra I NOMI e i NUMerI DI telEFonO DI paZiENti CHE SONo sTAtI AmMesSI al dipaRtimEnTo di emErgEnzA NELl'UlTImo AnnO.",
+        "q_id": 102
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mosTra i NOmI e I NUmeri DI TElefONo dI paZiEntI cHE SonO StAti ammEsSi dA meDICI sPECIALIzZAti In \"oRtOpeDiA\".",
+        "q_id": 103
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mOsTRA I NomI e le speCiAlIZZAziOni Di TuTTi i MedIci CHE HANNO aMmeSso I PaZienTi al DiPaRtimEnto Di oNCOLogia.",
+        "q_id": 104
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mostRA I nOmi e Le SpEciALIZZAzioni DeI medici CHE HAnNo AmmESSO I PazIENti siA nei dIparTimEntI nEUrolOgIcI cHE Di onCoLogIA.",
+        "q_id": 105
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mosTrA i nOMI e lE SPEcIALiZZAziOni dEi mEdICI cHE sOno naTi prIMA DEL 1970.",
+        "q_id": 106
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOStra i nOmi e la DAta di naScita deI PAzIeNTi cHE hAnnO RiCEvUTo PiÙ DI UN FARmaCo DURAnTE lO sTeSso RiCovERO eD eLENca I farmacI ChE hAnNO RiCEvUTo.",
+        "q_id": 107
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "moSTRa i nOmI DI Tutti i DiPArTiMeNtI che haNNO Un caPO DipARTiMenTO speciaLIZzAtO IN carDioLogIA.",
+        "q_id": 108
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MosTra I Nomi Di TUTTI i DipARtimEntI.",
+        "q_id": 109
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MostrA I nOMI di TuTtI I PAzIEntI MAscHi.",
+        "q_id": 110
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOStrA I nomI DI TUTTi I PAzieNTI aMmEsSi nel GeNNAIo 2024 InsiEMe aLle dAtE dI aMMIssioNE e aLlE DaTE di dIMisSiOnE.",
+        "q_id": 111
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mostRa I nOMI Di tUttI i pAZIENti CHe HaNnO 50 aNNI o pIÙ.",
+        "q_id": 112
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mosTRA I NoMi DI TUtTi I PAZIenTi chE sonO staTi aMmESSi NeL \"2023-11-03\".",
+        "q_id": 113
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOstrA I nOmi dei MEDIci e lE dATe DI AMmisSiONe PEr iL PaZIenTE \"liNDa johNsoN\" AmMeSSI nel 2023.",
+        "q_id": 114
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mOStra I nOMi deI MEdIcI e le LorO SpEciAlizzazIONI Che HAnno AMMEsso i PazIENTI cON \"icTus\".",
+        "q_id": 115
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MoSTra I nOMI dei MeDIci naTI TRa IL 1970 E il 1980.",
+        "q_id": 116
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mOSTRA i nomi DEi MEDici sPeciAliZZAtI In NeuROlogiA.",
+        "q_id": 117
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOstrA i NOMI, LE daTe Di AMMiSsIonE E lE diaGnOSi di AmmIssiOni Che INcLudonO LA PARolA \"malAtTiA\".",
+        "q_id": 118
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOsTra iL NUmerO Di TElEfono E L'iNDIrIZzo di eliZaBEtH JoNES.",
+        "q_id": 119
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mosTRa I NuMeri Di telefOnO E GLI iNDIrIZZI e -maIL dI tuTTi I dIpartimENti.",
+        "q_id": 120
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MosTRa Le ProCedurE PEr TUttE LE AmMIsSIONi eSeGuite DAl dr. EmILy wHiTe.",
+        "q_id": 121
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mosTra le speCIAliZzaZiOni dI tUTtI I mEdICI ChE hanNO La PArolA \"iNtErVENTO ChIRurgIco\" nElLA lORo spEciALIZzaZIOne.",
+        "q_id": 122
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mOstRa i TRAtTaMentI E le ProCEdUrE pER l'AmMiSSioNE dElLA pAzieNTe mArIa rOdrigUEZ.",
+        "q_id": 123
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "qUal è lA DuRAta MEdia del rIcoVero In OsPEdalE dEi pAzIenTI cHE hANNO rICEvUtO INteRVenti CHiRUrGICI rAGgrUppAti PeR aNnO?",
+        "q_id": 124
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "QUal È LA DURata MeDiA dEi ricoVERI?",
+        "q_id": 125
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "troVA TUTTi i pAZIENti Con bPco e reCuPErA i LOrO farmaci E iL LorO dIPaRtimenTo",
+        "q_id": 126
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "GRUPpO Il SogGiOrNo Medio dEi paZIeNtI MeDiANte speciAliZZAzIOne DEL MedICo aMMesSA, DAl PIÙ LungO aL pIù BreVe;",
+        "q_id": 127
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "QUAntE INtERVENTi DI SosTitUzIoNE dELl'ANca sono sTAtI esEgUiTi iN gEnerALe e QUaLi farmaCI hanno AsSuNTO QuEsTi PazIEntI?",
+        "q_id": 128
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "QUanTE aMmiSSiONI In COrso Ci sONO e iN QUAlE dipartiMEnto?",
+        "q_id": 129
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "QuanTi pazIentI HANnO aVuto INteRVENtI CHIRURgIci nEl 2022?",
+        "q_id": 130
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ElENcA tuTti gLi AnESTEsIsTi con Età E seSSo E recUPEra i pazieNTi cHE HaNnO aMMESsO E cON QUaLi fArmaCi;",
+        "q_id": 131
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELeNca TUtti I PAZiEnTI aMMEsSi nel 2024 rAGgRuPPaTI PEr dIAgnoSI, daLla pIÙ DiffUsa;",
+        "q_id": 132
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLENca i nOmI e gLI INDIRIZzI E -mail dei MeDICi che HaNno AMMESSO I paZieNTI SiA nEI DIpARTiMeNti dI OnCOlOgIa che dI gAStRoeNteRoloGia.",
+        "q_id": 133
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eleNCa i nOMI E i NUmERI Di tELeFONO dI pazIEntI chE sono STati aMMEssI DA medici mAsCHI E FeMMinE.",
+        "q_id": 134
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELEnca I nOmI e la SpeCIaLIZzAZionE deI MeDIcI ChE Hanno aMMeSsO i PazIeNTI cHE HAnno AsSunto L'aSPIRiNA COme farMAcO;",
+        "q_id": 135
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eleNcA i NoMI, Le dIagNoSi E i fARmAci dei pAzIEnTI ammESsI daL dr. BENJamIN WAlker Nel DIPARTimENTO \"OnColOgIA\".",
+        "q_id": 136
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ElEnCa I NOMI, le DIAgNoSi E i TrAttamentI PEr I PaZienTi ammESsi con lA PArOlA \"INFEzione\" NELLA LoRO diagNOSI.",
+        "q_id": 137
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "rEcuPERA TuTti i NOMI, lE E -mail E I nUMerI di teLEfonO DI MedicI, rAggRUPPati pEr diParTImEnto.",
+        "q_id": 138
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "RECuPERaRe le iNforMAZIoNI di ConTaTTo DI tuTtI i PAZienTI aMMessI DaI caRDiolOgI;",
+        "q_id": 139
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "REcuPeRa i nOMi e I NUMErI DI tEleFOno Di TuTti i pAZIEnTi ChE sOno sTaTI AmmESsi NellO StESSo DIPArTiMEnTO dI \"jAmes GaRcIa\" duRANTe La SUA pRIMa ammissIOne.",
+        "q_id": 140
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "moSTra tutTI I faRMaci prESCriTTI dAL dr. miA WILSON E i NomI E LE daTE Di nAsCiTa Dei paZiEntI CHE li hanNo RIceVuti.",
+        "q_id": 141
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MoStra I NomI e lE daTE Di aMMIssiOne dEI PAZiEnTI cHe SoNO staTi aMMeSsI dA mEdIcI SpeCiaLizZatI iN CaRdioLOGIA.",
+        "q_id": 142
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mosTrA i NomI dI tUTTi i MEdIci Che HAnno aMMEsSo i PAzIeNtI NEl dIparTIMenTo ortoPEdiA.",
+        "q_id": 143
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mosTrA I NoMI DEi DiPARtImeNti e il NUmERo toTaLe dI amMisSIOni pEr cIAScUNO NegLi uLTIMi 2 MESI.",
+        "q_id": 144
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MosTRa I nOmI dEi diPArTIMEnTi E iL nUmeRo tOtALE di MeDICI In CiasCunO.",
+        "q_id": 145
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mOSTra i noMI dei mEdiCI E il coNTEgGIO dei pazientI Che haNnO AMMESsO a CuI È StaTa DIaGNOstiCatA \"IpertENSIONE\".",
+        "q_id": 146
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mOStRa i NomI DeI MEDici e Il numero TOTalE DI DIVErSI paziEnTi CHE Hanno AMMEssO.",
+        "q_id": 147
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOsTra i nOMi DeI paZienTI e DeI lORo meDIcI sPEcialiZZAtI In CaRDIolOgia.",
+        "q_id": 148
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOStRa i NOmI, le DatE di amMIssIOne E I farmacI PEr I PAzIENti AmMEsSI DAl dr. eTHaN MaRTIneZ coN la PAroLa \"iNTErvEnto ChirurGicO\" NelLE LoRO pRoCeduRe.",
+        "q_id": 149
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MoStRa i NOmi, Le dATE di AmmIsSIone e I farmaCI PeR I PaziENTI Ammessi DAi mEDIcI CON la sPeciaLIzZAZIOne \"PedIaTriA\".",
+        "q_id": 150
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mosTRa I NoMI, Le daTe di aMmIssione e LE PROCeDuRe pER i PazIEnTI AMmESsI NEL gEnnaIO 2023 E DimEssO NEl feBbRaIo 2023.",
+        "q_id": 151
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOStRA il nUmeRO totale di ammisSIONi PEr cIAScUN diPaRtIMEnTo.",
+        "q_id": 152
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "Qual è Il mEsE dElL'anNo in cUI IN MEDiA ci SoNo pIù AmMiSSIoni?",
+        "q_id": 153
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "quAl è Il FaRMacO piÙ pREscRitTO?",
+        "q_id": 154
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "QuAl è lA cHiRuRGIA piÙ fRequeNTEMENTE ESeGuitA in geNERaLE?",
+        "q_id": 155
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "TrOva pazIenTI CHe RICeVoNO piÙ DI un fARMAco e Un GrUpPo lÌ peR DIPaRTImeNTo;",
+        "q_id": 156
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "QUantI pAZientI ASsUmOnO Più DI 2 FArMACi e chi È iL loRo MEdiCO e DIpARtIMENTO?",
+        "q_id": 157
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "QUanTI PAZIentI soNo STATI AMMesSi a maggIo E GIUGnO 2024?eleNcA i LORO NomI, iD, aMmETteNdo MediCI e DipARtimEntO.",
+        "q_id": 158
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "quaNTI pAZIEnTi coN cOLpi hanNO RICEvuto ASPiRIna E cHI ErA Il PRescrIttorE?",
+        "q_id": 159
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLENcA tutTI i PaZienTi CHE ASSUMONO EParInA O eNoxaParina e IL NoMe DeI meDiCi che li HAnno aMmeSsI e iL diPARtIMEntO iN CUI sONO StAti AmMEssi;",
+        "q_id": 160
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLencA tUttI I paZienTi CHe SOno Stati ammeSSI pIÙ di UnA VOLTA.",
+        "q_id": 161
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELEnCa i NomI E GLI iNdIrIzzi E -MaIL Di tuttI I mEdICI chE HaNno AMmESso PIù di 1 PAZIenTe nEl DIparTIMEnTo di CarDIolOgIa.",
+        "q_id": 162
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLeNCa I nOmi e gLi indiRizZI E -maIl DEI meDIci CHE haNNo AMmEssO Più dI 2 PaZIeNTI.",
+        "q_id": 163
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ElENCa i nOMI e I NumerI di tELefoNo DI TuTTI I PaZIentI cHe SoNo sTatI aMMessI PIù dI unA voLTA Nel diPArtImeNtO di caRdIolOGiA.",
+        "q_id": 164
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLEnCa I nomi e I nUmERI Di tElefONo dI PaZIenti chE sONo StaTI aMMEssI pIÙ dI UNA VOLta nEl diPArTIMEntO DI caRDioloGia.",
+        "q_id": 165
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ElEnCA i noMI E I numeRI dI TeleFonO DI PAziENTI A CUI È STATO diAGnOSTIcaTO il CAncro più Di una VOlTa.",
+        "q_id": 166
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELENCa gLI Id PAZieNTI dei pazIentI cHE soNo stAtI ammeSSI pIù di UNa VOltA.",
+        "q_id": 167
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "reCUpERA i nOMI E lE sPEcIaLIZZAZioni dei medIci CHe Hanno AMmEsSO più Di 5 pAZIEnTI.",
+        "q_id": 168
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "REcuPera i nOMI DeI paZiEnTI chE soNO StATi AMMesSI aL dIparTiMEntO DI \"eMergeNzA\" pIù DI Una voLta.",
+        "q_id": 169
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "rEcuPera il nUmEro dI preSCRIZionI Di DIaZePam RaGgRuPPATe per aNNO e dIPARTiMeNti.",
+        "q_id": 170
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MosTra Le DiagnOsI e I fArMACi DEI PaziENti Che SoNO StATi ammESSI due O PIù voltE.",
+        "q_id": 171
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mOsTRa I NOmI e Gli INdIRiZzi E -MaIL Dei mEdicI cHE hanNo AmmESsO piÙ di 3 pAZIENtI NeGli ultiMI 2 aNnI.",
+        "q_id": 172
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOstRA I Nomi Di TUTti i MEDIcI Che haNno AMMESsO pIÙ dI 5 paZIEnti.",
+        "q_id": 173
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ChI è il mEdiCo chE HA aMMesSO il PaZIEntE Con IL rICoVeRo PIù LungO e qUaL è il NomE, la pAtOLoGIa, I fArMACI e Il DIPARtImento DEl PaZiENte?",
+        "q_id": 174
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELeNCA tUtti I MEDIci Che HANNo amMEsSO i pazIeNTI, rAggrUPPAtI DAL DipartiMEnto di aMMISsiOnE, E IncLUDONO iL noMe DEL cAPo DI ciAscUn diPaRTimeNTo.",
+        "q_id": 175
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "EleNca i nOmi DEL dipARTImEntO, i capI DiPArtIMENTi E iL NumERo Di AmmIsSioNI gESTiTe Da CiAScuN Capo DeL dIPARtIMENTo, In cuI IL nuMERo di aMmiSsiOni È SUpErIore a 3.",
+        "q_id": 176
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "elencA i nOMI E GLi IndIriZZi DEi pazIeNTi che sOno sTaTI AmMESSI più Di DUe VoLtE.",
+        "q_id": 177
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELENCA I NoMi e lE dAte Di aMmISsiOne deI pAzIENTI CHe SOno STAtI ammEsSi A più Di Un DIPaRtimEntO.",
+        "q_id": 178
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eleNCA I NomI e LE InFOrmaZIonI dI cONtAtTo dEI PazIENTI che SONo sTAti AMmEsSI dA più DI un mEdico.",
+        "q_id": 179
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELeNcare I nOMi E lE inforMaZIONI Di cONtATTo DEI pazIENti che soNO STaTi AmMESsi In più DiPArtiMeNti.",
+        "q_id": 180
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELeNcA I NoMI e gLi iNdiRIZzI E -MAil dei mEdIcI che HannO AmMEsso pAZIENTi COn DiAGNosI mUlTIPle.",
+        "q_id": 181
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELeNcA I NOMi e I NUmeri DI TELEFONO Di pAzIenTi cHe sono Stati AMmesSi da pIÙ DI TRe dIVERsi MeDiCI.",
+        "q_id": 182
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELEncA i nomI E i NUmeri Di teLEfoNO DI pAzieNtI chE SonO STAtI amMEssi da mEdICI di PiÙ DipaRTiMENTI.",
+        "q_id": 183
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "EleNCa i NOMi E lE spECiALIzzAzIoni DEI mEDiCi ChE hAnNo ammEsSo PAzIEnti in piÙ DIpaRTIMenTi.",
+        "q_id": 184
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "eLEnca i NomI dEi DIpArTIMeNTi E il numEro DI amMiSSIoNi NEL 2022 E 2023, IN CuI iL NumERo dI ammIssIoni è supERioRE A 10.",
+        "q_id": 185
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELeNCA I Nomi dei MEDICi ChE HaNno AmmeSSo PIÙ DI 5 paZIenti.",
+        "q_id": 186
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ELencA I NOmi Dei PaZIeNTI E le LOro diAGnOSi, IN cUi lA DIaGNoSi INclUdE iL \"dIABEtE\" Ed È sTATA RegiSTRaTa PIÙ di dUe VoltE.",
+        "q_id": 187
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "ReCuPeRA ID, nome E iNForMAZioNi DI cOntaTTo dEL MEDiCO CHE Ha PrESCRiTTo Il MAGGiOR NuMeRo Di ScansiOni Ct E MRI E COnTali AlL'aNNO",
+        "q_id": 188
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "reCUPera tuTTe lE InFormAzIoNi DeL MEdICo ChE hA amMESsO iL MaggIOR nUmERO Di PAZienTi E tUttI I FArMAci PrEScritti.",
+        "q_id": 189
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "moStrA I NOMI E lE daTE dI aMMissIONE dEI pAZIeNti Che sono stAti rIcoVEratI in PiÙ DiparTimENTi neLlo STEsso aNno.",
+        "q_id": 190
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOSTRA I noMI E Le DaTe Di NASCitA deI paZIENTi a cui È stato diaGNoSTIcatO iL DiAbEtE PIù dI Una vOltA E ReCUPERARE i noMi DEI MeDICi chE lI haNno aMmeSsI.",
+        "q_id": 191
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "moSTRa I NOmI e gli inDirIZzi E -MAil DI tuTti i mEdICi che HaNno ammessO Più di 2 pAzIenti in GENErALE, RAgGruppaTe pER DiPartimENTO, INcLUSo il ContEgGIO DI pAZiEnti DI SeSSO femMINIle peR diPaRtiMeNTO.",
+        "q_id": 192
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "moStRA I noMi E I nuMerI dI TElEfoNo dI pazIEntI cHE SoNo StATI amMESsi Da alMeNO due dIvErsi MedICI.",
+        "q_id": 193
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mOsTRa I nomI E i nuMERi DI TElEFONO dI paZIEntI CHe SOno STaTi aMmesSI sIA dal dr. DANieL LEe cHE daL DR. lily bakEr.",
+        "q_id": 194
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MOstRA i noMI dei PAziENTi e DeI lOrO MEDici, In cUI iL PAzIeNte è sTAtO amMEsSo più di 3 VOlte.",
+        "q_id": 195
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "mOStrA i nOmi DEI PaziEntI E I LORo FarMaci, IN cui Il FArmacO iNcLUDe \"AnTibIoTICo\" ed è STAto regISTRaTO Più dI UNA vOlTA.",
+        "q_id": 196
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "MosTRA i nOmI dEI pAZiENTi chE HaNNo avuTo Più INTervENTI ChiruRGICI.",
+        "q_id": 197
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "quAl Era IL fArMAco piÙ PresCritTO NEl 2023?",
+        "q_id": 198
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "quAl è sTAtO Il fArmAcO PiÙ PReSCrITTO nel 2023?",
+        "q_id": 199
+    },
+    {
+        "db_id": "healthcare_simplified",
+        "question": "quALi MEDiCi HaNnO AmmesSo i paziENti con Le aMmiSsIOnI PIÙ LunGhE?",
+        "q_id": 200
+    }
+]
