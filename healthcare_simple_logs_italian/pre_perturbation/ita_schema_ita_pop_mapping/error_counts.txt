@@ -1,0 +1,104 @@
+Categorized Error Counts:
+syntax_error: 40
+no_such_column: 33
+no_such_function: 10
+ambiguous_column_name: 4
+no_such_table: 3
+other: 2
+misuse_of_aggregate: 2
+
+Specific Error Counts:
+Error executing predicted query 5 on Italian database: no such function: YEAR: 1
+Error executing predicted query 6 on Italian database: no such column: Tipo_di_esame: 1
+Error executing predicted query 7 on Italian database: near "Somministrazione": syntax error: 1
+Error executing predicted query 8 on Italian database: near "RJOIN": syntax error: 1
+Error executing predicted query 16 on Italian database: no such column: Specializzazione: 1
+Error executing predicted query 20 on Italian database: ambiguous column name: Email: 1
+Error executing predicted query 23 on Italian database: no such table: Diagnosi: 1
+Error executing predicted query 24 on Italian database: ambiguous column name: Nome: 1
+Error executing predicted query 25 on Italian database: no such column: Nome: 1
+Error executing predicted query 29 on Italian database: near "'8 week'": syntax error: 1
+Error executing predicted query 30 on Italian database: no such column: Nome: 1
+Error executing predicted query 35 on Italian database: near "65": syntax error: 1
+Error executing predicted query 42 on Italian database: near "Pazienti": syntax error: 1
+Error executing predicted query 43 on Italian database: near "M": syntax error: 1
+Error executing predicted query 48 on Italian database: no such column: Diagnosi: 1
+Error executing predicted query 49 on Italian database: no such column: Pazienti.Nome: 1
+Error executing predicted query 50 on Italian database: ambiguous column name: ID_paziente: 1
+Error executing predicted query 51 on Italian database: near "6": syntax error: 1
+Error executing predicted query 54 on Italian database: no such column: Trattamenti.Descrizione: 1
+Error executing predicted query 55 on Italian database: near "FROM": syntax error: 1
+Error executing predicted query 56 on Italian database: near "3": syntax error: 1
+Error executing predicted query 57 on Italian database: no such column: Nome: 1
+Error executing predicted query 58 on Italian database: no such column: Nome: 1
+Error executing predicted query 60 on Italian database: no such column: M.ID: 1
+Error executing predicted query 62 on Italian database: near "1": syntax error: 1
+Error executing predicted query 63 on Italian database: no such function: MONTH: 1
+Error executing predicted query 64 on Italian database: near "MJOIN": syntax error: 1
+Error executing predicted query 68 on Italian database: unrecognized token: "'%terapia%": 1
+Error executing predicted query 69 on Italian database: no such function: YEAR: 1
+Error executing predicted query 76 on Italian database: near "rJOIN": syntax error: 1
+Error executing predicted query 83 on Italian database: no such column: direttore_reparto: 1
+Error executing predicted query 84 on Italian database: near "6": syntax error: 1
+Error executing predicted query 85 on Italian database: no such function: MONTH: 1
+Error executing predicted query 87 on Italian database: no such column: Nome: 1
+Error executing predicted query 88 on Italian database: no such column: Nome: 1
+Error executing predicted query 89 on Italian database: no such column: Nome: 1
+Error executing predicted query 90 on Italian database: no such function: YEAR: 1
+Error executing predicted query 91 on Italian database: no such column: Nome: 1
+Error executing predicted query 94 on Italian database: no such column: P.Diagnosi: 1
+Error executing predicted query 95 on Italian database: no such column: Pazienti.Diagnosi: 1
+Error executing predicted query 98 on Italian database: no such table: Specializzazioni: 1
+Error executing predicted query 100 on Italian database: near "Ricoveri": syntax error: 1
+Error executing predicted query 101 on Italian database: near "1": syntax error: 1
+Error executing predicted query 106 on Italian database: near "Ricoveri": syntax error: 1
+Error executing predicted query 110 on Italian database: no such function: MONTH: 1
+Error executing predicted query 111 on Italian database: near "50": syntax error: 1
+Error executing predicted query 114 on Italian database: no such column: P.Diagnosi: 1
+Error executing predicted query 117 on Italian database: no such column: Nome: 1
+Error executing predicted query 119 on Italian database: no such column: Reparti.indirizzo: 1
+Error executing predicted query 120 on Italian database: no such column: p.ID_ricovero: 1
+Error executing predicted query 122 on Italian database: no such column: p.Descrizione: 1
+Error executing predicted query 123 on Italian database: near "FROM": syntax error: 1
+Error executing predicted query 124 on Italian database: no such function: DATEDIFF: 1
+Error executing predicted query 125 on Italian database: near "Reparti": syntax error: 1
+Error executing predicted query 127 on Italian database: no such column: Ricovero.ID_ricovero: 1
+Error executing predicted query 128 on Italian database: no such column: r.nome_reparto: 1
+Error executing predicted query 131 on Italian database: near "pJOIN": syntax error: 1
+Error executing predicted query 133 on Italian database: near "Ricoveri": syntax error: 1
+Error executing predicted query 135 on Italian database: near "Ricoveri": syntax error: 1
+Error executing predicted query 136 on Italian database: near "Ricoveri": syntax error: 1
+Error executing predicted query 137 on Italian database: near "Reparti": syntax error: 1
+Error executing predicted query 138 on Italian database: near "Pazienti": syntax error: 1
+Error executing predicted query 142 on Italian database: near "MJOIN": syntax error: 1
+Error executing predicted query 143 on Italian database: near "2": syntax error: 1
+Error executing predicted query 148 on Italian database: near "Ricoveri": syntax error: 1
+Error executing predicted query 149 on Italian database: near "P": syntax error: 1
+Error executing predicted query 150 on Italian database: near "Ricoveri": syntax error: 1
+Error executing predicted query 151 on Italian database: no such column: R.nome_reparto: 1
+Error executing predicted query 152 on Italian database: no such function: MONTHNAME: 1
+Error executing predicted query 154 on Italian database: near "procedure": syntax error: 1
+Error executing predicted query 156 on Italian database: no such column: R.nome_reparto: 1
+Error executing predicted query 157 on Italian database: no such function: MONTH: 1
+Error executing predicted query 159 on Italian database: no such column: r.nome_reparto: 1
+Error executing predicted query 165 on Italian database: no such table: Diagnosis: 1
+Error executing predicted query 169 on Italian database: near "FROM": syntax error: 1
+Error executing predicted query 170 on Italian database: near "Pazienti": syntax error: 1
+Error executing predicted query 173 on Italian database: near "Ricoveri": syntax error: 1
+Error executing predicted query 174 on Italian database: no such column: r.nome_reparto: 1
+Error executing predicted query 175 on Italian database: near "Reparti": syntax error: 1
+Error executing predicted query 177 on Italian database: no such column: Nome: 1
+Error executing predicted query 178 on Italian database: near "Pazienti": syntax error: 1
+Error executing predicted query 179 on Italian database: no such column: Reparti.ID_reparto: 1
+Error executing predicted query 180 on Italian database: no such column: P.Diagnosi: 1
+Error executing predicted query 184 on Italian database: no such function: YEAR: 1
+Error executing predicted query 185 on Italian database: ambiguous column name: Nome: 1
+Error executing predicted query 187 on Italian database: near "MJOIN": syntax error: 1
+Error executing predicted query 189 on Italian database: no such column: re.Data_di_nascita: 1
+Error executing predicted query 190 on Italian database: misuse of aggregate function COUNT(): 1
+Error executing predicted query 191 on Italian database: unrecognized token: "2ORDER": 1
+Error executing predicted query 192 on Italian database: no such column: p.Numero: 1
+Error executing predicted query 193 on Italian database: near "pJOIN": syntax error: 1
+Error executing predicted query 195 on Italian database: near "PJOIN": syntax error: 1
+Error executing predicted query 197 on Italian database: misuse of aggregate: COUNT(): 1
+Error executing predicted query 199 on Italian database: near "Ricoveri": syntax error: 1

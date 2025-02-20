@@ -1,0 +1,81 @@
+Categorized Error Counts:
+syntax_error: 54
+no_such_column: 12
+no_such_function: 4
+misuse_of_aggregate: 2
+no_such_table: 1
+
+Specific Error Counts:
+Error executing predicted query 5 on Italian database: near "'6 month'": syntax error: 1
+Error executing predicted query 8 on Italian database: no such column: D.Address: 1
+Error executing predicted query 9 on Italian database: near "Department": syntax error: 1
+Error executing predicted query 18 on Italian database: no such column: P.ProcedureID: 1
+Error executing predicted query 19 on Italian database: no such column: p.Diagnosis: 1
+Error executing predicted query 22 on Italian database: near "dWHERE": syntax error: 1
+Error executing predicted query 26 on Italian database: near "3": syntax error: 1
+Error executing predicted query 29 on Italian database: near "8": syntax error: 1
+Error executing predicted query 33 on Italian database: near "Admission": syntax error: 1
+Error executing predicted query 35 on Italian database: near "Patient": syntax error: 1
+Error executing predicted query 36 on Italian database: near "FROM": syntax error: 1
+Error executing predicted query 42 on Italian database: near "pJOIN": syntax error: 1
+Error executing predicted query 46 on Italian database: no such column: d.DoctorName: 1
+Error executing predicted query 51 on Italian database: near "6": syntax error: 1
+Error executing predicted query 54 on Italian database: no such column: Procedure.ProcedureDescription: 1
+Error executing predicted query 55 on Italian database: near "ADMISSIONWHERE": syntax error: 1
+Error executing predicted query 56 on Italian database: near "3": syntax error: 1
+Error executing predicted query 59 on Italian database: near "dJOIN": syntax error: 1
+Error executing predicted query 61 on Italian database: near "P": syntax error: 1
+Error executing predicted query 62 on Italian database: near "Admission": syntax error: 1
+Error executing predicted query 63 on Italian database: near "Admission": syntax error: 1
+Error executing predicted query 64 on Italian database: near "Admission": syntax error: 1
+Error executing predicted query 83 on Italian database: no such column: d.Name: 1
+Error executing predicted query 84 on Italian database: near "6": syntax error: 1
+Error executing predicted query 86 on Italian database: near "pJOIN": syntax error: 1
+Error executing predicted query 87 on Italian database: near "pJOIN": syntax error: 1
+Error executing predicted query 89 on Italian database: no such function: MONTH: 1
+Error executing predicted query 94 on Italian database: near "dJOIN": syntax error: 1
+Error executing predicted query 96 on Italian database: near "dWHERE": syntax error: 1
+Error executing predicted query 101 on Italian database: near "1": syntax error: 1
+Error executing predicted query 102 on Italian database: near "pJOIN": syntax error: 1
+Error executing predicted query 105 on Italian database: near "d": syntax error: 1
+Error executing predicted query 111 on Italian database: near "50": syntax error: 1
+Error executing predicted query 113 on Italian database: near "FROM": syntax error: 1
+Error executing predicted query 115 on Italian database: near "FROM": syntax error: 1
+Error executing predicted query 123 on Italian database: no such function: DATEDIFF: 1
+Error executing predicted query 124 on Italian database: no such function: DATEDIFF: 1
+Error executing predicted query 125 on Italian database: near "pJOIN": syntax error: 1
+Error executing predicted query 126 on Italian database: near "Doctor": syntax error: 1
+Error executing predicted query 130 on Italian database: near "dJOIN": syntax error: 1
+Error executing predicted query 131 on Italian database: near "Patient": syntax error: 1
+Error executing predicted query 137 on Italian database: no such column: D.DoorCode: 1
+Error executing predicted query 140 on Italian database: near "pJOIN": syntax error: 1
+Error executing predicted query 141 on Italian database: near "P": syntax error: 1
+Error executing predicted query 143 on Italian database: near "2": syntax error: 1
+Error executing predicted query 145 on Italian database: near "Admission": syntax error: 1
+Error executing predicted query 147 on Italian database: near "PJOIN": syntax error: 1
+Error executing predicted query 148 on Italian database: near "pJOIN": syntax error: 1
+Error executing predicted query 149 on Italian database: near "pJOIN": syntax error: 1
+Error executing predicted query 150 on Italian database: no such column: p.Procedure: 1
+Error executing predicted query 152 on Italian database: near "Admission": syntax error: 1
+Error executing predicted query 156 on Italian database: misuse of aggregate: COUNT(): 1
+Error executing predicted query 157 on Italian database: no such column: D.DepartmentCode: 1
+Error executing predicted query 159 on Italian database: no such column: d.DepartmentCode: 1
+Error executing predicted query 161 on Italian database: near "dJOIN": syntax error: 1
+Error executing predicted query 163 on Italian database: near "pJOIN": syntax error: 1
+Error executing predicted query 165 on Italian database: no such table: Diagnosis: 1
+Error executing predicted query 169 on Italian database: no such function: YEAR: 1
+Error executing predicted query 171 on Italian database: near "WHERE": syntax error: 1
+Error executing predicted query 172 on Italian database: misuse of aggregate function COUNT(): 1
+Error executing predicted query 173 on Italian database: near "aJOIN": syntax error: 1
+Error executing predicted query 174 on Italian database: near "Admission": syntax error: 1
+Error executing predicted query 175 on Italian database: near "Department": syntax error: 1
+Error executing predicted query 178 on Italian database: near "Patient": syntax error: 1
+Error executing predicted query 180 on Italian database: near "dJOIN": syntax error: 1
+Error executing predicted query 181 on Italian database: near "Admission": syntax error: 1
+Error executing predicted query 182 on Italian database: no such column: D.DepartmentCode: 1
+Error executing predicted query 187 on Italian database: near "dJOIN": syntax error: 1
+Error executing predicted query 188 on Italian database: near "AdmissionJOIN": syntax error: 1
+Error executing predicted query 189 on Italian database: near "pJOIN": syntax error: 1
+Error executing predicted query 191 on Italian database: no such column: d.DepartmentCode: 1
+Error executing predicted query 195 on Italian database: near "Admission": syntax error: 1
+Error executing predicted query 198 on Italian database: near "FROM": syntax error: 1

@@ -1,0 +1,566 @@
+[
+    [
+        5,
+        "SELECT strftime('%Y', AdmissionDate) AS Year, CASE WHEN strftime('%m', AdmissionDate) BETWEEN '01' AND '06' THEN 'First Semester' ELSE 'Second Semester' END AS Semester, AVG(JULIANDAY(DischargeDate) - JULIANDAY(AdmissionDate)) AS AverageLengthOfStay FROM Admission WHERE DischargeDate IS NOT NULL GROUP BY Year, Semester;",
+        "SELECT DISTINCT     YEAR(r.Data_ricovero) AS Anno,    SEMESTRE(r.Data_ricovero) AS Semestre,    COUNT(r.ID_ricovero) AS Numero_ricoveri FROM     Ricoveri r WHERE     MONTH(r.Data_ricovero) BETWEEN 1 AND 6     OR MONTH(r.Data_ricovero) BETWEEN 7 AND 12 GROUP BY     YEAR(r.Data_ricovero),     SEMESTRE(r.Data_ricovero)",
+        "no such function: YEAR"
+    ],
+    [
+        6,
+        "SELECT strftime('%Y', Admission.AdmissionDate) AS Year, COUNT(*) AS ScansCount FROM Admission WHERE Admission.Treatments LIKE '%MRI Scan%' OR Admission.Treatments LIKE '%CT Scan%' GROUP BY Year;",
+        "SELECT COUNT(DISTINCT ID_ricovero) AS Total_Imaging_Scans FROM Ricoveri WHERE Data_ricovero BETWEEN '2000-01-01' AND '2022-12-31' AND Tipo_di_esame IN ('MRI', 'CT')",
+        "no such column: Tipo_di_esame"
+    ],
+    [
+        7,
+        "SELECT strftime('%Y', Admission.AdmissionDate) AS Year, COUNT(*) AS VaccinationsCount FROM Admission WHERE Admission.Treatments LIKE '%Vaccination%' GROUP BY Year;",
+        "SELECT COUNT(*) FROM Vaccini WHERE Data Somministrazione BETWEEN '2020-01-01' AND '2022-12-31'",
+        "near \"Somministrazione\": syntax error"
+    ],
+    [
+        8,
+        "SELECT DepartmentName, (SELECT Name FROM Doctor WHERE DoctorCode = Department.HeadOfDepartment) AS HeadName FROM Department;",
+        "SELECT R.nome_reparto, M.NomeFROM Reparti RJOIN Medici M ON R.direttore_reparto = M.ID_medico",
+        "near \"RJOIN\": syntax error"
+    ],
+    [
+        16,
+        "SELECT AdmissionDate, DischargeDate FROM Admission WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Pediatrics');",
+        "SELECT Data_ricovero, Data_dimissione FROM Ricoveri WHERE ID_reparto IN (SELECT ID_reparto FROM Reparti WHERE Specializzazione = 'Pediatria')",
+        "no such column: Specializzazione"
+    ],
+    [
+        20,
+        "SELECT Email FROM Doctor WHERE Specialization = 'Neurology';",
+        "SELECT Email FROM Medici INNER JOIN Reparti ON Medici.ID_medico = Reparti.direttore_reparto WHERE Specializzazione = 'neurologia'",
+        "ambiguous column name: Email"
+    ],
+    [
+        23,
+        "SELECT Patient.Name, Patient.Address FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE Admission.Diagnosis LIKE '%COPD%';",
+        "SELECT Nome, Indirizzo FROM Pazienti, Ricoveri, Diagnosi WHERE Pazienti.ID_paziente = Ricoveri.ID_paziente AND Ricoveri.ID_ricovero = Diagnosi.ID_ricovero AND Diagnosi.Diagnosi = \"BPCO\"",
+        "no such table: Diagnosi"
+    ],
+    [
+        24,
+        "SELECT Name, Address FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission WHERE DoctorID = (SELECT DoctorCode FROM Doctor WHERE Name = 'Mia Wilson'));",
+        "SELECT Nome, Indirizzo FROM Pazienti, Ricoveri, Medici WHERE ID_medico = 'ID_medico' AND ID_paziente = ID_paziente AND Nome = 'Mia Wilson'",
+        "ambiguous column name: Nome"
+    ],
+    [
+        25,
+        "SELECT Name, AdmissionDate FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Neurology');",
+        "SELECT Nome, Data_ricovero FROM Ricoveri JOIN Reparti ON Ricoveri.ID_reparto = Reparti.ID_reparto WHERE Reparti.nome_reparto = 'Neurologia'",
+        "no such column: Nome"
+    ],
+    [
+        29,
+        "SELECT Name, Diagnosis FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE AdmissionDate >= DATE('now', '-56 days');",
+        "SELECT p.Nome, r.Diagnosi FROM Pazienti p JOIN Ricoveri r ON p.ID_paziente = r.ID_paziente WHERE r.Data_ricovero > (CURRENT_DATE - INTERVAL '8 week') ORDER BY p.Nome, r.Diagnosi",
+        "near \"'8 week'\": syntax error"
+    ],
+    [
+        30,
+        "SELECT Patient.Name, Admission.Diagnosis FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE Admission.Diagnosis LIKE '%Diabetes%' AND Admission.Diagnosis LIKE '%Hypertension%';",
+        "SELECT Nome, Diagnosi FROM Ricoveri WHERE Diagnosi LIKE '%diabete%' AND Diagnosi LIKE '%ipertensione%'",
+        "no such column: Nome"
+    ],
+    [
+        35,
+        "SELECT Name, PhoneNumber FROM Patient WHERE DateOfBirth <= DATE('now', '-65 years');",
+        "SELECT Nome, Numero_di_telefono FROM Pazienti WHERE Data_nascita < DATE_SUB(CURDATE(), INTERVAL 65 YEAR)",
+        "near \"65\": syntax error"
+    ],
+    [
+        42,
+        "SELECT Name, PhoneNumber FROM Patient WHERE EmergencyContactName LIKE 'John%';",
+        "SELECT Pazienti.Nome, Pazienti.Numero_di_telefonoFROM PazientiWHERE Pazienti.NominativoContattoEmergenza LIKE 'John%'",
+        "near \"Pazienti\": syntax error"
+    ],
+    [
+        43,
+        "SELECT Name, Specialization FROM Doctor WHERE DoctorCode IN (SELECT DoctorID FROM Admission WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Neurology'));",
+        "SELECT M.Nome, M.SpecializzazioneFROM Medici M, Ricoveri R, Reparti REWHERE R.ID_reparto = RE.ID_reparto AND R.ID_medico = M.ID_medico AND RE.nome_reparto = 'neurologia'",
+        "near \"M\": syntax error"
+    ],
+    [
+        48,
+        "SELECT Name FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission WHERE Diagnosis LIKE '%Diabetes%');",
+        "SELECT Nome FROM Pazienti WHERE Diagnosi LIKE '%Diabete%'",
+        "no such column: Diagnosi"
+    ],
+    [
+        49,
+        "SELECT Name FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission WHERE DoctorID = (SELECT DoctorCode FROM Doctor WHERE Name = 'Ethan Martinez'));",
+        "SELECT Pazienti.Nome FROM Ricoveri JOIN Medici ON Ricoveri.ID_medico = Medici.ID_medico WHERE Medici.Nome = 'Ethan Martinez'",
+        "no such column: Pazienti.Nome"
+    ],
+    [
+        50,
+        "SELECT Name FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Pediatrics'));",
+        "SELECT Nome FROM Pazienti, Ricoveri WHERE ID_reparto IN (SELECT ID_reparto FROM Reparti WHERE nome_reparto = 'Pediatria') AND ID_paziente IN (SELECT ID_paziente FROM Ricoveri)",
+        "ambiguous column name: ID_paziente"
+    ],
+    [
+        51,
+        "SELECT Doctor.Name FROM Doctor WHERE DoctorCode NOT IN (SELECT DoctorID FROM Admission WHERE AdmissionDate >= DATE('now', '-6 months'));",
+        "SELECT M.Nome FROM Medici M WHERE M.ID_medico NOT IN (SELECT R.ID_medico FROM Ricoveri R WHERE R.Data_ricovero >= DATE_SUB(CURRENT_DATE, INTERVAL 6 MONTH))",
+        "near \"6\": syntax error"
+    ],
+    [
+        54,
+        "SELECT Admission.AdmissionID, Patient.Name FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID WHERE LENGTH(Admission.Treatments) - LENGTH(REPLACE(Admission.Treatments, ',', '')) > 0;",
+        "SELECT ID_ricovero, Nome FROM Pazienti, Ricoveri WHERE Pazienti.ID_paziente = Ricoveri.ID_paziente GROUP BY ID_ricovero, Nome HAVING COUNT(Trattamenti.Descrizione) > 1",
+        "no such column: Trattamenti.Descrizione"
+    ],
+    [
+        55,
+        "SELECT strftime('%Y', AdmissionDate) AS Year, AVG(JULIANDAY(DischargeDate) - JULIANDAY(AdmissionDate)) AS AverageLengthOfStay FROM Admission WHERE DischargeDate IS NOT NULL GROUP BY Year;",
+        "SELECT AVG(DATEDIFF(Data_dimissione, Data_ricovero)) AS \"Durata media dei ricoveri\" FROM Ricoveri WHERE EXTRACT(YEAR FROM Data_ricovero) IN (2022, 2023, 2024)",
+        "near \"FROM\": syntax error"
+    ],
+    [
+        56,
+        "SELECT Name, AdmissionDate FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE AdmissionDate >= DATE('now', '-3 month');",
+        "SELECT Nome, Data_ricovero FROM Pazienti, Ricoveri WHERE ID_paziente = ID_paziente AND Data_ricovero >= DATE_SUB(CURRENT_DATE, INTERVAL 3 MONTH) ORDER BY Data_ricovero ASC",
+        "near \"3\": syntax error"
+    ],
+    [
+        57,
+        "SELECT Name, AdmissionDate FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Neurology') AND AdmissionDate BETWEEN '2023-01-01' AND '2023-12-31';",
+        "SELECT Nome, Data_ricovero FROM Ricoveri WHERE ID_reparto IN (SELECT ID_reparto FROM Reparti WHERE nome_reparto LIKE '%neurologia%') AND Data_ricovero BETWEEN '2023-01-01' AND '2023-12-31'",
+        "no such column: Nome"
+    ],
+    [
+        58,
+        "SELECT Name, AdmissionDate FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE AdmissionDate BETWEEN '2024-05-01' AND '2024-05-31' AND DischargeDate BETWEEN '2024-06-01' AND '2024-06-30';",
+        "SELECT Nome, Data_ricovero FROM Ricoveri WHERE MONTH(Data_ricovero) = 5 AND YEAR(Data_ricovero) = 2024 AND (MONTH(Data_dimissione) = 6 AND YEAR(Data_dimissione) = 2024)",
+        "no such column: Nome"
+    ],
+    [
+        60,
+        "SELECT Name, Email FROM Doctor WHERE DoctorCode IN (SELECT DoctorID FROM Admission WHERE DepartmentID NOT IN (SELECT DepartmentCode FROM Department WHERE DepartmentName = Doctor.Specialization));",
+        "SELECT DISTINCT M.Nome, M.Indirizzo, M.Email FROM Medici M, Ricoveri R, Reparti RE WHERE M.ID = R.ID_medico AND R.ID_reparto = RE.ID_reparto AND M.Specializzazione <> RE.nome_reparto",
+        "no such column: M.ID"
+    ],
+    [
+        62,
+        "SELECT Name, PhoneNumber FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission WHERE DoctorID IN (SELECT DoctorCode FROM Doctor WHERE Gender = 'Male')) AND PatientID IN (SELECT PatientID FROM Admission WHERE DoctorID IN (SELECT DoctorCode FROM Doctor WHERE Gender = 'Female')) AND PatientID IN (SELECT PatientID FROM Admission WHERE strftime('%Y', AdmissionDate) = strftime('%Y', 'now', '-1 year'));",
+        "SELECT p.Nome, p.Numero_di_telefono FROM Pazienti p JOIN Ricoveri r ON p.ID_paziente = r.ID_paziente JOIN Medici m ON r.ID_medico = m.ID_medico WHERE m.Genere IN ('M', 'F') AND r.Data_ricovero >= DATE_SUB(CURRENT_DATE, INTERVAL 1 YEAR) ORDER BY p.Nome",
+        "near \"1\": syntax error"
+    ],
+    [
+        63,
+        "SELECT Name, Specialization FROM Doctor WHERE DoctorCode IN (SELECT DoctorID FROM Admission WHERE AdmissionDate BETWEEN '2024-01-01' AND '2024-01-31');",
+        "SELECT M.Nome, M.Specializzazione FROM Medici M INNER JOIN Ricoveri R ON M.ID_medico = R.ID_medico INNER JOIN Pazienti P ON R.ID_paziente = P.ID_paziente WHERE MONTH(R.Data_ricovero) = 1 AND YEAR(R.Data_ricovero) = 2024",
+        "no such function: MONTH"
+    ],
+    [
+        64,
+        "SELECT Doctor.Name, Doctor.Specialization FROM Doctor INNER JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID WHERE Admission.AdmissionDate BETWEEN '2024-01-01' AND '2024-06-30';",
+        "SELECT M.Nome, M.SpecializzazioneFROM Medici MJOIN Ricoveri R ON M.ID_medico = R.ID_medicoWHERE R.Data_ricovero BETWEEN '2024-01-01' AND '2024-01-31'",
+        "near \"MJOIN\": syntax error"
+    ],
+    [
+        68,
+        "SELECT TreatmentDescription FROM Treatment WHERE TreatmentDescription LIKE '%Therapy%';",
+        "SELECT * FROM Trattamenti WHERE Descrizione LIKE '%terapia%",
+        "unrecognized token: \"'%terapia%\""
+    ],
+    [
+        69,
+        "SELECT Name, PhoneNumber FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission WHERE AdmissionDate BETWEEN '2023-01-01' AND '2023-12-31');",
+        "SELECT Nome, Numero_di_telefono FROM Pazienti WHERE YEAR(Data_nascita) <= 2023",
+        "no such function: YEAR"
+    ],
+    [
+        76,
+        "SELECT Diagnosis, TreatmentDescription FROM Admission INNER JOIN Treatment ON Admission.AdmissionID = Treatment.AdmissionID WHERE DoctorID = (SELECT DoctorCode FROM Doctor WHERE Name = 'Emma Young');",
+        "SELECT p.Nome, r.Diagnosi, t.DescrizioneFROM Ricoveri rJOIN Pazienti p ON r.ID_paziente = p.ID_pazienteJOIN Medici m ON r.ID_medico = m.ID_medicoWHERE m.Nome = 'Emma Young'",
+        "near \"rJOIN\": syntax error"
+    ],
+    [
+        83,
+        "SELECT Name, Email FROM Doctor WHERE DoctorCode = (SELECT HeadOfDepartment FROM Department WHERE DepartmentName = 'Cardiology');",
+        "SELECT Nome, Email FROM Medici WHERE Specializzazione = 'Cardiologia' AND direttore_reparto = ID_medico",
+        "no such column: direttore_reparto"
+    ],
+    [
+        84,
+        "SELECT Patient.Name, Patient.Address FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE Admission.AdmissionDate >= DATE('now', '-6 months');",
+        "SELECT Nome, Indirizzo FROM Pazienti, Ricoveri WHERE Ricovero.Data_ricovero >= DATE_SUB(CURRENT_DATE, INTERVAL 6 MONTH) AND Pazienti.ID_paziente = Ricoveri.ID_paziente",
+        "near \"6\": syntax error"
+    ],
+    [
+        85,
+        "SELECT Name, AdmissionDate FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE strftime('%Y-%m', AdmissionDate) = (SELECT strftime('%Y-%m', AdmissionDate) FROM Admission WHERE PatientID = (SELECT PatientID FROM Patient WHERE Name = 'Joseph Garcia'));",
+        "SELECT Nome, Data_ricovero FROM Pazienti p, Ricoveri r WHERE p.ID_paziente = r.ID_paziente AND MONTH(Data_ricovero) = MONTH('2022-06-01') ORDER BY Nome",
+        "no such function: MONTH"
+    ],
+    [
+        87,
+        "SELECT Name, AdmissionDate FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE AdmissionDate BETWEEN '2022-01-01' AND '2023-12-31' AND AdmissionDate BETWEEN '2023-01-01' AND '2023-06-30';",
+        "SELECT Nome, Data_ricovero FROM Ricoveri WHERE YEAR(Data_ricovero) BETWEEN 2022 AND 2023 OR (YEAR(Data_ricovero) = 2024 AND QUARTER(Data_ricovero) = 1)",
+        "no such column: Nome"
+    ],
+    [
+        88,
+        "SELECT Name, AdmissionDate FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE strftime('%Y-%m', AdmissionDate) = (SELECT strftime('%Y-%m', AdmissionDate) FROM Admission WHERE PatientID = (SELECT PatientID FROM Patient WHERE Name = 'Joseph Garcia'));",
+        "SELECT Nome, Data_ricovero FROM Ricoveri WHERE MONTH(Data_ricovero) = MONTH('2022-06-15') AND ID_paziente IN (SELECT ID_paziente FROM Pazienti WHERE Nome = 'Joseph Garcia')",
+        "no such column: Nome"
+    ],
+    [
+        89,
+        "SELECT Name, AdmissionDate FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE strftime('%m', AdmissionDate) = strftime('%m', DischargeDate);",
+        "SELECT Nome, Data_di_ammissione FROM Ricoveri WHERE Data_di_ammissione = Data_di_dimissione",
+        "no such column: Nome"
+    ],
+    [
+        90,
+        "SELECT Name, DateOfBirth FROM Doctor WHERE DoctorCode IN (SELECT DoctorID FROM Admission WHERE AdmissionDate BETWEEN '2023-01-01' AND '2023-12-31');",
+        "SELECT Medici.Nome, Medici.Data_di_nascita FROM Medici JOIN Ricoveri ON Medici.ID_medico = Ricoveri.ID_medico WHERE YEAR(Ricoveri.Data_ricovero) = 2023",
+        "no such function: YEAR"
+    ],
+    [
+        91,
+        "SELECT Patient.Name, Admission.Diagnosis FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID WHERE Patient.Name = 'Jennifer Brown' AND Admission.DischargeDate IS NULL;",
+        "SELECT Nome, Diagnosi FROM Ricoveri WHERE ID_paziente = (SELECT ID_paziente FROM Pazienti WHERE Nome = 'Jennifer Brown') AND Data_dimissione IS NULL",
+        "no such column: Nome"
+    ],
+    [
+        94,
+        "SELECT Name, Email FROM Doctor WHERE DoctorCode IN (SELECT DoctorID FROM Admission WHERE Diagnosis LIKE '%diabetes%');",
+        "SELECT M.Nome, M.Indirizzo, M.Email FROM Medici M JOIN Ricoveri R ON M.ID_medico = R.ID_medico JOIN Pazienti P ON R.ID_paziente = P.ID_paziente WHERE P.Diagnosi LIKE '%diabete%'",
+        "no such column: P.Diagnosi"
+    ],
+    [
+        95,
+        "SELECT Name, Email FROM Doctor WHERE DoctorCode IN (SELECT DoctorID FROM Admission WHERE Diagnosis LIKE '%Cancer%');",
+        "SELECT Medici.Nome, Medici.Indirizzo, Medici.Email FROM Medici JOIN Ricoveri ON Medici.ID_medico = Ricoveri.ID_medico JOIN Pazienti ON Ricoveri.ID_paziente = Pazienti.ID_paziente WHERE Pazienti.Diagnosi LIKE '%diabete%' GROUP BY Medici.ID_medico, Medici.Nome, Medici.Indirizzo, Medici.Email",
+        "no such column: Pazienti.Diagnosi"
+    ],
+    [
+        98,
+        "SELECT Name, Phone FROM Doctor WHERE Specialization = 'Pediatrics';",
+        "SELECT Nome, Numero_di_telefono FROM Medici, Specializzazioni WHERE Medici.ID_medico = Specializzazioni.ID_medico AND Specializzazioni.Specializzazione = 'Pediatria'",
+        "no such table: Specializzazioni"
+    ],
+    [
+        100,
+        "SELECT Name, PhoneNumber FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Oncology')) AND PatientID IN (SELECT PatientID FROM Admission WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Radiology'));",
+        "SELECT P.Nome, P.Numero_di_telefono FROM Pazienti PJOIN Ricoveri R ON P.ID_paziente = R.ID_pazienteJOIN Reparti RP ON R.ID_reparto = RP.ID_repartoWHERE RP.nome_reparto IN ('Oncologia', 'Radiologia')",
+        "near \"Ricoveri\": syntax error"
+    ],
+    [
+        101,
+        "SELECT Patient.Name, Patient.PhoneNumber FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE Admission.DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Emergency') AND Admission.AdmissionDate >= DATE('now', '-1 year');",
+        "SELECT Pazienti.Nome, Pazienti.Numero_di_telefono FROM Pazienti, Ricoveri WHERE Ricoveri.ID_paziente = Pazienti.ID_paziente AND Ricoveri.Data_ricovero >= DATE_SUB(CURRENT_DATE, INTERVAL 1 YEAR) AND Ricoveri.ID_reparto = 'Emergenza'",
+        "near \"1\": syntax error"
+    ],
+    [
+        106,
+        "SELECT Patient.Name, Patient.DateOfBirth, Admission.Medications FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE LENGTH(Admission.Medications) - LENGTH(REPLACE(Admission.Medications, ',', '')) + 1 > 1;",
+        "SELECT Pazienti.Nome, Pazienti.Data_nascita, Ricoveri.ID_ricovero, Farmaci.DescrizioneFROM PazientiJOIN Ricoveri ON Pazienti.ID_paziente = Ricoveri.ID_pazienteJOIN Farmaci ON Ricoveri.ID_ricovero = Farmaci.ID_ricoveroGROUP BY Pazienti.Nome, Pazienti.Data_nascita, Ricoveri.ID_ricovero, Farmaci.DescrizioneHAVING COUNT(Farmaci.Descrizione) > 1",
+        "near \"Ricoveri\": syntax error"
+    ],
+    [
+        110,
+        "SELECT Name, AdmissionDate, DischargeDate FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE AdmissionDate BETWEEN '2024-01-01' AND '2024-01-31';",
+        "SELECT Pazienti.Nome, Ricoveri.Data_ricovero, Ricoveri.Data_dimissione FROM Pazienti INNER JOIN Ricoveri ON Pazienti.ID_paziente = Ricoveri.ID_paziente WHERE MONTH(Ricoveri.Data_ricovero) = '1' AND YEAR(Ricoveri.Data_ricovero) = '2024'",
+        "no such function: MONTH"
+    ],
+    [
+        111,
+        "SELECT Name FROM Patient WHERE strftime('%Y', 'now') - strftime('%Y', DateOfBirth) >= 50;",
+        "SELECT Nome FROM Pazienti WHERE Data_nascita <= DATE_SUB(CURDATE(), INTERVAL 50 YEAR)",
+        "near \"50\": syntax error"
+    ],
+    [
+        114,
+        "SELECT Doctor.Name, Doctor.Specialization FROM Doctor INNER JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID WHERE Admission.Diagnosis LIKE '%Stroke%';",
+        "SELECT M.Nome, M.Specializzazione FROM Medici M INNER JOIN Ricoveri R ON M.ID_medico = R.ID_medico INNER JOIN Pazienti P ON R.ID_paziente = P.ID_paziente WHERE P.Diagnosi LIKE '%ictus%'",
+        "no such column: P.Diagnosi"
+    ],
+    [
+        117,
+        "SELECT Patient.Name, Admission.AdmissionDate, Admission.Diagnosis FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID WHERE Admission.Diagnosis LIKE '%Disease';",
+        "SELECT Nome, Data_ricovero, Diagnosi FROM Ricoveri WHERE Diagnosi LIKE '%malattia%'",
+        "no such column: Nome"
+    ],
+    [
+        119,
+        "SELECT Phone, Email FROM Department;",
+        "SELECT Reparti.telefono, Reparti.email, Reparti.indirizzo FROM Reparti",
+        "no such column: Reparti.indirizzo"
+    ],
+    [
+        120,
+        "SELECT ProcedureDescription FROM Procedure WHERE AdmissionID IN (SELECT AdmissionID FROM Admission WHERE DoctorID = (SELECT DoctorCode FROM Doctor WHERE Name = 'Emily White'));",
+        "SELECT p.ID_ricovero, r.Descrizione FROM Ricoveri r JOIN Pazienti p ON r.ID_paziente = p.ID_paziente JOIN Medici m ON r.ID_medico = m.ID_medico WHERE m.Nome = 'Emily White' AND r.Data_ricovero <= CURRENT_DATE",
+        "no such column: p.ID_ricovero"
+    ],
+    [
+        122,
+        "SELECT Treatments, Procedures FROM Admission WHERE AdmissionID IN (SELECT AdmissionID FROM Admission WHERE PatientID = (SELECT PatientID FROM Patient WHERE Name = 'Maria Rodriguez'));",
+        "SELECT t.Descrizione, p.Descrizione FROM Trattamenti t, Ricoveri r, Pazienti p, Procedure p2 WHERE r.ID_paziente = p.ID_paziente AND r.ID_medico = '...' AND r.ID_reparto = '...' AND r.ID_ricovero = t.ID_ricovero AND r.ID_ricovero = p2.ID_ricovero AND p.Nome = 'Maria Rodriguez'",
+        "no such column: p.Descrizione"
+    ],
+    [
+        123,
+        "SELECT strftime('%Y', AdmissionDate) AS Year, AVG(JULIANDAY(DischargeDate) - JULIANDAY(AdmissionDate)) AS AverageLengthOfStay FROM Admission WHERE DischargeDate IS NOT NULL AND LENGTH(Procedures) > 0 GROUP BY Year;",
+        "SELECT EXTRACT(YEAR FROM Data_ricovero) AS Anno,     AVG(DATEDIFF(Data_dimissione, Data_ricovero)) AS Durata_mediaFROM     Ricoveri WHERE     ID_medico IN (        SELECT             ID_medico         FROM             Medici         WHERE             Specializzazione LIKE '%Chirurgia%'    )GROUP BY     EXTRACT(YEAR FROM Data_ricovero)",
+        "near \"FROM\": syntax error"
+    ],
+    [
+        124,
+        "SELECT AVG(JULIANDAY(Admission.DischargeDate) - JULIANDAY(Admission.AdmissionDate)) AS AverageLengthOfStay FROM Admission WHERE Admission.DischargeDate IS NOT NULL;",
+        "SELECT AVG(DATEDIFF(Data_dimissione, Data_ricovero)) FROM Ricoveri",
+        "no such function: DATEDIFF"
+    ],
+    [
+        125,
+        "SELECT Patient.Name, Admission.Medications, Department.DepartmentName FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID JOIN Department ON Admission.DepartmentID = Department.DepartmentCode WHERE Admission.Diagnosis LIKE '%COPD%';",
+        "SELECT Pazienti.Nome, Reparti.nome_reparto, Farmaci.Descrizione FROM PazientiJOIN Ricoveri ON Pazienti.ID_paziente = Ricoveri.ID_pazienteJOIN Reparti ON Ricoveri.ID_reparto = Reparti.ID_repartoJOIN Farmaci ON Ricoveri.ID_ricovero = Farmaci.ID_ricoveroWHERE Pazienti.Nome IN (SELECT Nome FROM Pazienti WHERE Diagnosi LIKE '%BPCO%')",
+        "near \"Reparti\": syntax error"
+    ],
+    [
+        127,
+        "SELECT COUNT(*), GROUP_CONCAT(DISTINCT Admission.Medications) FROM Admission WHERE Admission.Procedures LIKE '%Hip Replacement Surgery%';",
+        "SELECT COUNT(*) as Num_of_procedures, Farmaci.Descrizione as Medication FROM Ricoveri JOIN Procedure ON Ricoveri.ID_ricovero = Procedure.ID_ricovero JOIN Farmaci ON Ricovero.ID_ricovero = Farmaci.ID_ricovero WHERE Procedure.Descrizione LIKE '%anca%' AND Farmaci.Descrizione IS NOT NULL GROUP BY Farmaci.Descrizione",
+        "no such column: Ricovero.ID_ricovero"
+    ],
+    [
+        128,
+        "SELECT Department.DepartmentName, COUNT(*) AS OngoingAdmissions FROM Admission JOIN Department ON Admission.DepartmentID = Department.DepartmentCode WHERE Admission.DischargeDate IS NULL GROUP BY Department.DepartmentName;",
+        "SELECT COUNT(*) AS Conteggio_Ammissioni, r.nome_reparto AS Dipartimento FROM Ricoveri r WHERE Data_dimissione IS NULL GROUP BY r.ID_reparto, r.nome_reparto",
+        "no such column: r.nome_reparto"
+    ],
+    [
+        131,
+        "SELECT Admission.Diagnosis, COUNT(Patient.PatientID) AS PatientCount FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID WHERE Admission.AdmissionDate BETWEEN '2024-01-01' AND '2024-12-31' GROUP BY Admission.Diagnosis ORDER BY PatientCount DESC;",
+        "SELECT p.Nome, COUNT(r.Diagnosi) AS 'Numero_di_pazienti', r.DiagnosiFROM Pazienti pJOIN Ricoveri r ON p.ID_paziente = r.ID_pazienteWHERE YEAR(r.Data_ricovero) = 2024GROUP BY r.Diagnosi, p.NomeORDER BY COUNT(r.Diagnosi) DESC",
+        "near \"pJOIN\": syntax error"
+    ],
+    [
+        133,
+        "SELECT Name, PhoneNumber FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode WHERE Doctor.Gender = 'Male') AND PatientID IN (SELECT PatientID FROM Admission JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode WHERE Doctor.Gender = 'Female');",
+        "SELECT P.Nome, P.Numero_di_telefono FROM Pazienti PJOIN Ricoveri R ON P.ID_paziente = R.ID_pazienteJOIN Medici M ON R.ID_medico = M.ID_medicoWHERE M.Genere IN ('Maschio', 'Femmina')",
+        "near \"Ricoveri\": syntax error"
+    ],
+    [
+        135,
+        "SELECT Name, Diagnosis, MedicationDescription FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID INNER JOIN Medication ON Admission.AdmissionID = Medication.AdmissionID WHERE DoctorID = (SELECT DoctorCode FROM Doctor WHERE Name = 'Benjamin Walker') AND DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Oncology');",
+        "SELECT Pazienti.Nome, Ricoveri.Diagnosi, Farmaci.DescrizioneFROM PazientiJOIN Ricoveri ON Pazienti.ID_paziente = Ricoveri.ID_pazienteJOIN Farmaci ON Ricoveri.ID_ricovero = Farmaci.ID_ricoveroWHERE Ricoveri.ID_medico = (SELECT Medici.ID_medico FROM Medici WHERE Medici.Nome = 'Benjamin Walker')AND Ricoveri.ID_reparto = (SELECT Reparti.ID_reparto FROM Reparti WHERE Reparti.nome_reparto = 'oncologia')",
+        "near \"Ricoveri\": syntax error"
+    ],
+    [
+        136,
+        "SELECT Name, Diagnosis, TreatmentDescription FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID INNER JOIN Treatment ON Admission.AdmissionID = Treatment.AdmissionID WHERE Diagnosis LIKE '%Infection%';",
+        "SELECT Pazienti.Nome, Ricoveri.Diagnosi, Trattamenti.DescrizioneFROM PazientiJOIN Ricoveri ON Pazienti.ID_paziente = Ricoveri.ID_pazienteJOIN Trattamenti ON Ricoveri.ID_ricovero = Trattamenti.ID_ricoveroWHERE Ricoveri.Diagnosi LIKE '%infezione%'",
+        "near \"Ricoveri\": syntax error"
+    ],
+    [
+        137,
+        "SELECT Department.DepartmentName, Doctor.Name, Doctor.Email, Doctor.Phone FROM Doctor JOIN Department ON Doctor.DoctorCode = Department.HeadOfDepartment ORDER BY Department.DepartmentName;",
+        "SELECT DISTINCT Medici.Nome, Medici.Email, Medici.Telefono, Reparti.nome_repartoFROM MediciJOIN Reparti ON Medici.ID_medico = Reparti.direttore_repartoORDER BY Reparti.nome_reparto",
+        "near \"Reparti\": syntax error"
+    ],
+    [
+        138,
+        "SELECT Patient.Name, Patient.PhoneNumber, Patient.Email FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode WHERE Doctor.Specialization = 'Cardiology';",
+        "SELECT P.Nome, P.Numero_di_telefono, P.Email, M.Nome AS Medico_cardiologo, R.nome_reparto AS Reparto_direzionaleFROM Pazienti PJOIN Ricoveri R ON P.ID_paziente = R.ID_pazienteJOIN Medici M ON R.ID_medico = M.ID_medicoWHERE M.Specializzazione = 'Cardiologia'",
+        "near \"Pazienti\": syntax error"
+    ],
+    [
+        142,
+        "SELECT DISTINCT Name FROM Doctor WHERE DoctorCode IN (SELECT DoctorID FROM Admission WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Orthopedics'));",
+        "SELECT M.NomeFROM Medici MJOIN Ricoveri R ON M.ID_medico = R.ID_medicoJOIN Reparti REP ON R.ID_reparto = REP.ID_repartoWHERE REP.nome_reparto = 'Ortopedia'",
+        "near \"MJOIN\": syntax error"
+    ],
+    [
+        143,
+        "SELECT Department.DepartmentName, COUNT(Admission.AdmissionID) AS TotalAdmissions FROM Department INNER JOIN Admission ON Department.DepartmentCode = Admission.DepartmentID WHERE Admission.AdmissionDate >= DATE('now', '-2 month') GROUP BY Department.DepartmentName;",
+        "SELECT R.nome_reparto, COUNT(R.id_reparto) AS Numero_ammissioni FROM Ricoveri R JOIN Reparti R2 ON R.id_reparto = R2.id_reparto WHERE R.data_ricovero BETWEEN DATE_SUB(CURDATE(), INTERVAL 2 MONTH) AND CURDATE() GROUP BY R2.nome_reparto",
+        "near \"2\": syntax error"
+    ],
+    [
+        148,
+        "SELECT Name, AdmissionDate, MedicationDescription FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID INNER JOIN Medication ON Admission.AdmissionID = Medication.AdmissionID WHERE DoctorID = (SELECT DoctorCode FROM Doctor WHERE Name = 'Ethan Martinez');",
+        "SELECT Pazienti.Nome, Ricoveri.Data_ricovero, Farmaci.DescrizioneFROM PazientiJOIN Ricoveri ON Pazienti.ID_paziente = Ricoveri.ID_pazienteJOIN Medici ON Ricoveri.ID_medico = Medici.ID_medicoJOIN Reparti ON Ricoveri.ID_reparto = Reparti.ID_repartoJOIN Procedure ON Ricoveri.ID_ricovero = Procedure.ID_ricoveroJOIN Trattamenti ON Ricoveri.ID_ricovero = Trattamenti.ID_ricoveroJOIN Farmaci ON Ricoveri.ID_ricovero = Farmaci.ID_ricoveroWHERE Medici.Nome = 'Ethan Martinez'AND Procedure.Descrizione LIKE '%intervento chirurgico%'ORDER BY Pazienti.Nome, Ricoveri.Data_ricovero",
+        "near \"Ricoveri\": syntax error"
+    ],
+    [
+        149,
+        "SELECT Name, AdmissionDate, MedicationDescription FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID INNER JOIN Medication ON Admission.AdmissionID = Medication.AdmissionID WHERE DoctorID IN (SELECT DoctorCode FROM Doctor WHERE Specialization = 'Pediatrics');",
+        "SELECT P.Nome, R.Data_ricovero, F.DescrizioneFROM Pazienti P JOIN Ricoveri R ON P.ID_paziente = R.ID_paziente JOIN Medici M ON R.ID_medico = M.ID_medico JOIN Reparti RE ON R.ID_reparto = RE.ID_reparto JOIN Farmaci F ON R.ID_ricovero = F.ID_ricovero WHERE M.Specializzazione = 'pediatria'",
+        "near \"P\": syntax error"
+    ],
+    [
+        150,
+        "SELECT Name, AdmissionDate, ProcedureDescription FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID INNER JOIN Procedure ON Admission.AdmissionID = Procedure.AdmissionID WHERE AdmissionDate BETWEEN '2023-01-01' AND '2023-02-28';",
+        "SELECT Pazienti.Nome, Ricoveri.Data_ricovero, Procedure.DescrizioneFROM PazientiJOIN Ricoveri ON Pazienti.ID_paziente = Ricoveri.ID_pazienteJOIN Procedure ON Ricoveri.ID_ricovero = Procedure.ID_ricoveroWHERE Ricoveri.Data_ricovero LIKE '2023-01-%' AND Ricoveri.Data_dimissione LIKE '2023-02-%'",
+        "near \"Ricoveri\": syntax error"
+    ],
+    [
+        151,
+        "SELECT Department.DepartmentName, COUNT(Admission.AdmissionID) AS TotalAdmissions FROM Department INNER JOIN Admission ON Department.DepartmentCode = Admission.DepartmentID GROUP BY Department.DepartmentName;",
+        "SELECT COUNT(R.ID_ricovero) AS \"Totale ammissioni\", R.nome_reparto FROM Ricoveri R JOIN Reparti RE ON R.ID_reparto = RE.ID_reparto GROUP BY R.nome_reparto",
+        "no such column: R.nome_reparto"
+    ],
+    [
+        152,
+        "SELECT strftime('%m', AdmissionDate) AS Month, COUNT(*) AS AdmissionsCount FROM Admission GROUP BY Month ORDER BY AdmissionsCount DESC LIMIT 1;",
+        "SELECT MONTHNAME(Data_ricovero) as Mese, COUNT(*) as Numero_ammissioni FROM Ricoveri GROUP BY MONTH(Data_ricovero) ORDER BY Numero_ammissioni DESC",
+        "no such function: MONTHNAME"
+    ],
+    [
+        154,
+        "SELECT ProcedureDescription, COUNT(*) AS Frequency FROM Procedure GROUP BY ProcedureDescription ORDER BY Frequency DESC LIMIT 1;",
+        "SELECT COUNT(Descrizione) AS 'Qta procedure', Descrizione FROM Procedure GROUP BY Descrizione ORDER BY Qta procedure DESC",
+        "near \"procedure\": syntax error"
+    ],
+    [
+        156,
+        "SELECT Patient.Name AS PatientName, Doctor.Name AS DoctorName, Department.DepartmentName FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode JOIN Department ON Admission.DepartmentID = Department.DepartmentCode WHERE LENGTH(Admission.Medications) - LENGTH(REPLACE(Admission.Medications, ',', '')) > 1;",
+        "SELECT COUNT(DISTINCT P.ID_paziente) AS Conteggio, M.Nome AS Nome_medico, R.nome_reparto AS Nome_reparto FROM Ricoveri R INNER JOIN Pazienti P ON R.ID_paziente = P.ID_paziente INNER JOIN Medici M ON R.ID_medico = M.ID_medico WHERE R.ID_ricovero IN (SELECT ID_ricovero FROM Farmaci GROUP BY ID_ricovero HAVING COUNT(*) > 2) GROUP BY P.ID_paziente, M.Nome, R.nome_reparto",
+        "no such column: R.nome_reparto"
+    ],
+    [
+        157,
+        "SELECT Patient.PatientID, Patient.Name, Doctor.Name AS DoctorName, Department.DepartmentName FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode JOIN Department ON Admission.DepartmentID = Department.DepartmentCode WHERE Admission.AdmissionDate BETWEEN '2024-05-01' AND '2024-06-30';",
+        "SELECT Pazienti.Nome, Pazienti.ID_paziente, Medici.Nome as \"M\u00e9dico\", Reparti.nome_reparto as \"Dipartimento\" FROM Pazienti JOIN Ricoveri ON Pazienti.ID_paziente = Ricoveri.ID_paziente JOIN Medici ON Ricoveri.ID_medico = Medici.ID_medico JOIN Reparti ON Ricoveri.ID_reparto = Reparti.ID_reparto WHERE MONTH(Ricoveri.Data_ricovero) IN (5,6) AND YEAR(Ricoveri.Data_ricovero) = 2024",
+        "no such function: MONTH"
+    ],
+    [
+        159,
+        "SELECT Patient.Name, Doctor.Name, Department.DepartmentName FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode JOIN Department ON Admission.DepartmentID = Department.DepartmentCode WHERE Admission.Medications LIKE '%Heparin%' OR Admission.Medications LIKE '%Enoxaparin%';",
+        "SELECT p.Nome, m.Nome, r.nome_reparto FROM Pazienti p JOIN Ricoveri r ON p.ID_paziente = r.ID_paziente JOIN Medici m ON r.ID_medico = m.ID_medico WHERE p.ID_paziente IN (SELECT ID_paziente FROM Ricoveri JOIN Procedure p2 ON Ricoveri.ID_ricovero = p2.ID_ricovero JOIN Trattamenti t ON p2.ID_ricovero = t.ID_ricovero WHERE t.Descrizione IN ('Eparina', 'Enoxaparina'))",
+        "no such column: r.nome_reparto"
+    ],
+    [
+        165,
+        "SELECT Name, PhoneNumber FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission WHERE Diagnosis LIKE '%Cancer%' GROUP BY PatientID HAVING COUNT(*) > 1);",
+        "SELECT P.Nome, P.Numero_di_telefono FROM Pazienti P JOIN Ricoveri R ON P.ID_paziente = R.ID_paziente JOIN Diagnosis D ON R.ID_ricovero = D.ID_ricovero WHERE D.Diagnosi = 'Cancro' GROUP BY P.Nome, P.Numero_di_telefono HAVING COUNT(D.Diagnosi) > 1",
+        "no such table: Diagnosis"
+    ],
+    [
+        169,
+        "SELECT strftime('%Y', Admission.AdmissionDate) AS Year, Department.DepartmentName, COUNT(*) AS DiazepamPrescriptions FROM Medication JOIN Admission ON Medication.AdmissionID = Admission.AdmissionID JOIN Department ON Admission.DepartmentID = Department.DepartmentCode WHERE Medication.MedicationDescription = 'Diazepam' GROUP BY Year, Department.DepartmentName;",
+        "SELECT EXTRACT(YEAR FROM R.data_ricovero) AS anno,    R.ID_reparto,    COUNT(DISTINCT F.ID_ricovero) AS numero_di_prescrizioniFROM     Ricoveri RJOIN     Farmaci F ON R.ID_ricovero = F.ID_ricoveroWHERE     F.Descrizione = 'Diazepam'GROUP BY     EXTRACT(YEAR FROM R.data_ricovero),     R.ID_reparto",
+        "near \"FROM\": syntax error"
+    ],
+    [
+        170,
+        "SELECT Diagnosis, Medications FROM Admission WHERE PatientID IN (SELECT PatientID FROM (SELECT PatientID, COUNT(*) as admission_count FROM Admission GROUP BY PatientID HAVING admission_count >= 2));",
+        "SELECT DISTINCT p.ID_paziente, p.Nome, r.Diagnosi, f.Descrizione as FarmaciFROM Pazienti pJOIN Ricoveri r ON p.ID_paziente = r.ID_pazienteJOIN Farmaci f ON r.ID_ricovero = f.ID_ricoveroWHERE r.Data_dimissione IS NULLGROUP BY p.ID_paziente, p.Nome, r.Diagnosi, f.DescrizioneHAVING COUNT(r.ID_ricovero) >= 2",
+        "near \"Pazienti\": syntax error"
+    ],
+    [
+        173,
+        "SELECT Doctor.Name AS DoctorName, Patient.Name AS PatientName, Admission.Diagnosis, Admission.Medications, Department.DepartmentName FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode JOIN Department ON Admission.DepartmentID = Department.DepartmentCode ORDER BY JULIANDAY(Admission.DischargeDate) - JULIANDAY(Admission.AdmissionDate) DESC LIMIT 1;",
+        "SELECT M.Nome, R.Diagnosi, F.Descrizione AS Farmaci, R.ID_reparto FROM Medici MJOIN Ricoveri R ON M.ID_medico = R.ID_medicoJOIN Farmaci F ON R.ID_ricovero = F.ID_ricoveroORDER BY DATEDIFF(R.Data_dimissione, R.Data_ricovero) DESCLIMIT 1",
+        "near \"Ricoveri\": syntax error"
+    ],
+    [
+        174,
+        "SELECT d.DepartmentName, doc.Name AS DoctorName, doc.Email AS DoctorEmail, head.Name AS HeadOfDepartment FROM Department d LEFT JOIN Doctor head ON d.HeadOfDepartment = head.DoctorCode JOIN Admission adm ON d.DepartmentCode = adm.DepartmentID JOIN Doctor doc ON adm.DoctorID = doc.DoctorCode GROUP BY d.DepartmentName, doc.Name, doc.Email, head.Name ORDER BY d.DepartmentName, doc.Name;",
+        "SELECT m.Nome, r.nome_reparto, d.Nome as Direttore FROM Medici m INNER JOIN Ricoveri r ON m.ID_medico = r.ID_medico INNER JOIN Reparti d ON r.ID_reparto = d.ID_reparto GROUP BY r.nome_reparto, m.Nome ORDER BY r.nome_reparto",
+        "no such column: r.nome_reparto"
+    ],
+    [
+        175,
+        "SELECT Department.DepartmentName, Doctor.Name, COUNT(*) FROM Department INNER JOIN Doctor ON Department.HeadOfDepartment = Doctor.DoctorCode INNER JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID GROUP BY Department.DepartmentName, Doctor.Name HAVING COUNT(*) > 3;",
+        "SELECT R.nome_reparto, M.Nome, COUNT(R.id_ricovero) AS Numero_ammissioniFROM Reparti RJOIN Medici M ON R.direttore_reparto = M.ID_medicoJOIN Ricoveri RC ON R.ID_reparto = RC.ID_repartoGROUP BY R.nome_reparto, M.NomeHAVING COUNT(RC.ID_ricovero) > 3",
+        "near \"Reparti\": syntax error"
+    ],
+    [
+        177,
+        "SELECT Name, AdmissionDate FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE Patient.PatientID IN (SELECT PatientID FROM Admission GROUP BY PatientID HAVING COUNT(DISTINCT DepartmentID) > 1);",
+        "SELECT Nome, Data_ricovero FROM Ricoveri WHERE ID_paziente IN (SELECT ID_paziente FROM Ricoveri GROUP BY ID_paziente HAVING COUNT(DISTINCT ID_reparto) > 1) ORDER BY Nome, Data_ricovero",
+        "no such column: Nome"
+    ],
+    [
+        178,
+        "SELECT Name, EmergencyContactName, EmergencyContactPhone FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission GROUP BY PatientID HAVING COUNT(DISTINCT DoctorID) > 1);",
+        "SELECT p.Nome, p.Numero_di_telefono, p.Email, m.Nome AS Nome_medicoFROM Pazienti pJOIN Ricoveri r ON p.ID_paziente = r.ID_pazienteJOIN Medici m ON r.ID_medico = m.ID_medicoGROUP BY p.Nome, p.Numero_di_telefono, p.Email, m.NomeHAVING COUNT(DISTINCT m.Nome) > 1",
+        "near \"Pazienti\": syntax error"
+    ],
+    [
+        179,
+        "SELECT Name, PhoneNumber FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission GROUP BY PatientID HAVING COUNT(DISTINCT DepartmentID) > 1);",
+        "SELECT Nome, Numero_di_telefono, Indirizzo, Email FROM Pazienti, Ricoveri WHERE Pazienti.ID_paziente = Ricoveri.ID_paziente AND Reparti.ID_reparto = Ricoveri.ID_reparto GROUP BY Pazienti.ID_paziente, Pazienti.Nome",
+        "no such column: Reparti.ID_reparto"
+    ],
+    [
+        180,
+        "SELECT Name, Email FROM Doctor WHERE DoctorCode IN (SELECT DoctorID FROM Admission GROUP BY DoctorID HAVING COUNT(DISTINCT Diagnosis) > 1);",
+        "SELECT M.Nome, M.Indirizzo, M.Email FROM Medici M JOIN Ricoveri R ON M.ID_medico = R.ID_medico JOIN Pazienti P ON R.ID_paziente = P.ID_paziente WHERE P.Diagnosi LIKE '%,%'",
+        "no such column: P.Diagnosi"
+    ],
+    [
+        184,
+        "SELECT Department.DepartmentName, COUNT(*) FROM Department INNER JOIN Admission ON Department.DepartmentCode = Admission.DepartmentID WHERE Admission.AdmissionDate BETWEEN '2022-01-01' AND '2023-12-31' GROUP BY Department.DepartmentName HAVING COUNT(*) > 10;",
+        "SELECT nome_reparto, COUNT(*) as 'Numero di ammissioni' FROM Ricoveri, Reparti WHERE YEAR(Data_ricovero) = 2022 OR YEAR(Data_ricovero) = 2023 GROUP BY nome_reparto HAVING COUNT(*) > 10",
+        "no such function: YEAR"
+    ],
+    [
+        185,
+        "SELECT Doctor.Name, COUNT(*) FROM Doctor INNER JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID GROUP BY Doctor.Name HAVING COUNT(*) > 5;",
+        "SELECT Nome FROM Medici, Pazienti WHERE Pazienti.ID_paziente IN (SELECT ID_paziente FROM Ricoveri GROUP BY ID_paziente HAVING COUNT(ID_paziente) > 5) AND Pazienti.ID_medico = Medici.ID_medico",
+        "ambiguous column name: Nome"
+    ],
+    [
+        187,
+        "SELECT Doctor.DoctorCode, Doctor.Name, Doctor.Email, Doctor.Phone, strftime('%Y', Admission.AdmissionDate) AS Year, COUNT(*) AS ScanCount FROM Doctor JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID WHERE Admission.Treatments LIKE '%CT Scan%' OR Admission.Treatments LIKE '%MRI Scan%' GROUP BY Doctor.DoctorCode, Year ORDER BY ScanCount DESC LIMIT 1;",
+        "SELECT M.ID_medico, M.Nome, M.Telefono, M.EmailFROM Medici MJOIN Ricoveri R ON M.ID_medico = R.ID_medicoJOIN Procedure P ON R.ID_ricovero = P.ID_ricoveroWHERE P.Descrizione IN ('Scansione CT', 'Scansione MRI')GROUP BY M.ID_medico, M.Nome, M.Telefono, M.EmailORDER BY COUNT(P.ID_ricovero) DESC",
+        "near \"MJOIN\": syntax error"
+    ],
+    [
+        189,
+        "SELECT Name, AdmissionDate FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE Patient.PatientID IN (SELECT PatientID FROM Admission GROUP BY PatientID HAVING COUNT(DISTINCT DepartmentID) > 1);",
+        "SELECT DISTINCT p.Nome, r.Data_ricovero FROM Pazienti p, Ricoveri r, Reparti re WHERE r.ID_paziente = p.ID_paziente AND r.ID_reparto = re.ID_reparto AND YEAR(r.Data_ricovero) = YEAR(re.Data_di_nascita) GROUP BY p.Nome, r.Data_ricovero HAVING COUNT(DISTINCT re.ID_reparto) > 1",
+        "no such column: re.Data_di_nascita"
+    ],
+    [
+        190,
+        "SELECT Patient.Name AS PatientName, Patient.DateOfBirth, GROUP_CONCAT(DISTINCT Doctor.Name) AS DoctorNames FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID INNER JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode WHERE LOWER(Admission.Diagnosis) LIKE '%diabetes%' GROUP BY Patient.PatientID, Patient.Name, Patient.DateOfBirth HAVING COUNT(*) > 1;",
+        "SELECT p.Nome, p.Data_nascita, r.ID_medico, m.Nome AS 'Nome del medico' FROM Pazienti p JOIN Ricoveri r ON p.ID_paziente = r.ID_paziente JOIN Medici m ON r.ID_medico = m.ID_medico WHERE r.Diagnosi LIKE '%diabete%' AND COUNT(r.Diagnosi) > 1",
+        "misuse of aggregate function COUNT()"
+    ],
+    [
+        191,
+        "SELECT Department.DepartmentName, Doctor.Name, Doctor.Email, COUNT(Patient.PatientID) AS FemalePatientCount FROM Doctor JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID JOIN Patient ON Admission.PatientID = Patient.PatientID JOIN Department ON Admission.DepartmentID = Department.DepartmentCode WHERE Patient.Gender = 'Female' GROUP BY Department.DepartmentName, Doctor.DoctorCode HAVING (SELECT COUNT(Patient.PatientID) FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID WHERE Patient.Gender = 'Female' AND Admission.DoctorID = Doctor.DoctorCode) > 2;",
+        "SELECT DISTINCT     M.Nome,     M.Indirizzo,     M.Email,     R.nome_reparto,     COUNT(P.ID_paziente) AS 'Totale pazienti',     COUNT(CASE WHEN P.Genere = 'Femminile' THEN 1 ELSE NULL END) AS 'Pazienti femminili'FROM     Medici M     JOIN Ricoveri R ON M.ID_medico = R.ID_medico     JOIN Pazienti P ON R.ID_paziente = P.ID_paziente GROUP BY     M.ID_medico,     R.ID_reparto,     M.Nome,     M.Indirizzo,     M.Email HAVING     COUNT(P.ID_paziente) > 2ORDER BY     R.nome_reparto",
+        "unrecognized token: \"2ORDER\""
+    ],
+    [
+        192,
+        "SELECT Name, PhoneNumber FROM Patient WHERE PatientID IN (SELECT PatientID FROM (SELECT PatientID, COUNT(DISTINCT DoctorID) as doctor_count FROM Admission GROUP BY PatientID HAVING doctor_count >= 2));",
+        "SELECT p.Nome, p.Numero_di_telefono FROM Pazienti p JOIN Ricoveri r ON p.ID_paziente = r.ID_paziente JOIN Medici m ON r.ID_medico = m.ID_medico GROUP BY p.Nome, p.Numero-di-telefono HAVING COUNT(DISTINCT m.ID_medico) > 1",
+        "no such column: p.Numero"
+    ],
+    [
+        193,
+        "SELECT p.Name, p.PhoneNumber FROM Patient p JOIN Admission a1 ON p.PatientID = a1.PatientID JOIN Admission a2 ON p.PatientID = a2.PatientID JOIN Doctor d1 ON a1.DoctorID LIKE '%' || d1.DoctorCode || '%' JOIN Doctor d2 ON a2.DoctorID LIKE '%' || d2.DoctorCode || '%' WHERE d1.Name = 'Daniel Lee' AND d2.Name = 'Lily Baker';",
+        "SELECT p.Nome, p.Numero_di_telefonoFROM Pazienti pJOIN Ricoveri r ON p.ID_paziente = r.ID_pazienteWHERE r.ID_medico IN ('ID_medico Daniel Lee', 'ID_medico Lily Baker')",
+        "near \"pJOIN\": syntax error"
+    ],
+    [
+        195,
+        "SELECT Patient.Name, COUNT(*) AS AmoxicillinCount FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE LOWER(Admission.Medications) LIKE '%amoxicillin%' GROUP BY Patient.PatientID HAVING COUNT(*) > 1;",
+        "SELECT P.Nome, F.DescrizioneFROM Pazienti PJOIN Ricoveri R ON P.ID_paziente = R.ID_pazienteJOIN Farmaci F ON R.ID_ricovero = F.ID_ricoveroWHERE F.Descrizione LIKE '%antibiotico%' AND F.ID_ricovero IN (    SELECT ID_ricovero    FROM Farmaci    GROUP BY ID_ricovero    HAVING COUNT(*) > 1)",
+        "near \"PJOIN\": syntax error"
+    ],
+    [
+        197,
+        "SELECT MedicationDescription, COUNT(*) AS Frequency FROM Medication JOIN Admission ON Medication.AdmissionID = Admission.AdmissionID WHERE Admission.AdmissionDate BETWEEN '2023-01-01' AND '2023-12-31' GROUP BY MedicationDescription ORDER BY Frequency DESC LIMIT 1;",
+        "SELECT Descrizione FROM Farmaci WHERE ID_ricovero IN (SELECT ID_ricovero FROM Ricoveri WHERE Data_ricovero LIKE '2023-%') ORDER BY COUNT(*) DESC LIMIT 1",
+        "misuse of aggregate: COUNT()"
+    ],
+    [
+        199,
+        "SELECT Doctor.Name, Admission.AdmissionID, Patient.Name, (JULIANDAY(Admission.DischargeDate) - JULIANDAY(Admission.AdmissionDate)) AS LengthOfStay FROM Admission JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode JOIN Patient ON Admission.PatientID = Patient.PatientID ORDER BY LengthOfStay DESC LIMIT 1;",
+        "SELECT M.Nome, AVG(R.Data_dimissione - R.Data_ricovero) AS 'Durata Ricovero'FROM Medici MJOIN Ricoveri R ON M.ID_medico = R.ID_medicoGROUP BY M.NomeORDER BY 'Durata Ricovero' DESC",
+        "near \"Ricoveri\": syntax error"
+    ]
+]
