@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "question": "Quali sono i nomi e gli indirizzi di tutti i pazienti?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 2,
+        "question": "Quali dottori sono specializzati in Cardiologia?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 3,
+        "question": "Elenca tutti gli appuntamenti programmati per 'John Doe'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 4,
+        "question": "Quali trattamenti sono stati somministrati ai pazienti durante i loro appuntamenti?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 5,
+        "question": "Qual è l'importo totale fatturato a 'Jane Smith'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 6,
+        "question": "Mostra tutti gli appuntamenti per la data '2023-02-01'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 7,
+        "question": "Quali pazienti hanno appuntamenti con il Dr. Bob Lee?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 8,
+        "question": "Quali farmaci sono stati prescritti durante gli appuntamenti?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 9,
+        "question": "Elenca tutti i dottori e le loro specializzazioni.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 10,
+        "question": "Mostra tutte le fatture generate a marzo 2023.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 11,
+        "question": "Quali pazienti non hanno pagato le loro fatture?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 12,
+        "question": "Quali sono i numeri di telefono e gli indirizzi email di tutti i dottori?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 13,
+        "question": "Elenca i nomi e i dosaggi dei farmaci prescritti a 'Emily Davis'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 14,
+        "question": "Quali trattamenti sono stati prescritti per 'Knee Pain'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 15,
+        "question": "Quanti appuntamenti ha in totale il Dr. Carol White?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 16,
+        "question": "Qual è l'importo totale fatturato a gennaio 2023?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 17,
+        "question": "Elenca tutti i pazienti trattati dal Dr. Eva Martinez.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 18,
+        "question": "Mostra i dettagli del trattamento per l'appuntamento del '2023-01-01'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 19,
+        "question": "Quali dottori sono nel dipartimento di Pediatria?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 20,
+        "question": "Qual è l'indirizzo email del 'Dr. Bob Lee'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 21,
+        "question": "Quali sono i nomi e i generi di tutti i pazienti?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 22,
+        "question": "Quali dottori hanno appuntamenti il '2023-05-01'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 23,
+        "question": "Elenca tutti i pazienti a cui è stato prescritto 'Ibuprofen'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 24,
+        "question": "Qual è l'importo totale fatturato a tutti i pazienti a febbraio 2023?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 25,
+        "question": "Mostra tutti i trattamenti somministrati durante gli appuntamenti con il Dr. Alice Johnson.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 26,
+        "question": "Quali pazienti hanno un appuntamento per 'Routine Checkup'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 27,
+        "question": "Quali sono i nomi e gli indirizzi email di tutti i pazienti?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 28,
+        "question": "Quali pazienti hanno appuntamenti a marzo 2023?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 29,
+        "question": "Elenca i nomi di tutti i farmaci prescritti ad aprile 2023.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 30,
+        "question": "Quali sono i nomi e i numeri di telefono dei pazienti con appuntamenti per 'Skin Rash'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 31,
+        "question": "Quali dottori hanno trattato 'John Doe'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 32,
+        "question": "Mostra i dettagli della fatturazione per 'Michael Johnson'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 33,
+        "question": "Quali sono gli indirizzi dei pazienti che hanno appuntamenti con il Dr. Bob Lee?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 34,
+        "question": "Elenca tutti gli appuntamenti programmati per 'Jim Brown'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 35,
+        "question": "Quali trattamenti sono stati somministrati a 'Emily Davis' durante i suoi appuntamenti?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 36,
+        "question": "Qual è l'importo totale fatturato a 'John Doe'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 37,
+        "question": "Mostra tutti gli appuntamenti per la data '2023-01-01'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 38,
+        "question": "Quali pazienti hanno appuntamenti con il Dr. Alice Johnson?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 39,
+        "question": "Quali farmaci sono stati prescritti durante gli appuntamenti a febbraio 2023?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 40,
+        "question": "Elenca tutti i dottori e i loro dipartimenti.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 41,
+        "question": "Mostra tutte le fatture generate a gennaio 2023.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 42,
+        "question": "Quali pazienti non hanno pagato le loro fatture a marzo 2023?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 43,
+        "question": "Quali sono i numeri di telefono e gli indirizzi email di tutti i pazienti?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 44,
+        "question": "Elenca i nomi e i dosaggi dei farmaci prescritti a 'Michael Johnson'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 45,
+        "question": "Quali trattamenti sono stati prescritti per 'Headache'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 46,
+        "question": "Quanti appuntamenti ha in totale il Dr. Bob Lee?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 47,
+        "question": "Qual è l'importo totale fatturato a febbraio 2023?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 48,
+        "question": "Elenca tutti i pazienti trattati dal Dr. David Green.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 49,
+        "question": "Mostra i dettagli del trattamento per l'appuntamento del '2023-03-01'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 50,
+        "question": "Quali dottori sono nel dipartimento di Dermatologia?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 51,
+        "question": "Quali sono i nomi e le date di nascita di tutti i pazienti?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 52,
+        "question": "Quali dottori sono specializzati in Neurologia?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 53,
+        "question": "Elenca tutti gli appuntamenti programmati per 'Jane Smith'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 54,
+        "question": "Quali trattamenti sono stati somministrati a 'Jim Brown' durante i suoi appuntamenti?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 55,
+        "question": "Qual è l'importo totale fatturato a 'Emily Davis'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 56,
+        "question": "Mostra tutti gli appuntamenti per la data '2023-03-01'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 57,
+        "question": "Quali pazienti hanno appuntamenti con il Dr. Carol White?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 58,
+        "question": "Quali farmaci sono stati prescritti durante gli appuntamenti a gennaio 2023?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 59,
+        "question": "Elenca tutti i dottori e i loro numeri di telefono.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 60,
+        "question": "Mostra tutte le fatture generate a febbraio 2023.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 61,
+        "question": "Quali pazienti non hanno pagato le loro fatture a gennaio 2023?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 62,
+        "question": "Quali sono gli indirizzi email di tutti i dottori?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 63,
+        "question": "Elenca i nomi e i dosaggi dei farmaci prescritti a 'John Doe'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 64,
+        "question": "Quali trattamenti sono stati prescritti per 'Skin Rash'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 65,
+        "question": "Quanti appuntamenti ha in totale il Dr. Alice Johnson?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 66,
+        "question": "Qual è l'importo totale fatturato a marzo 2023?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 67,
+        "question": "Elenca tutti i pazienti trattati dal Dr. Bob Lee.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 68,
+        "question": "Mostra i dettagli del trattamento per l'appuntamento del '2023-02-01'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 69,
+        "question": "Quali dottori sono nel dipartimento di Ortopedia?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 70,
+        "question": "Qual è il numero di telefono del 'Dr. Carol White'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 71,
+        "question": "Quali sono i nomi e i numeri di telefono di tutti i pazienti?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 72,
+        "question": "Quali dottori hanno appuntamenti il '2023-01-01'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 73,
+        "question": "Elenca tutti i pazienti a cui è stato prescritto 'Paracetamol'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 74,
+        "question": "Qual è l'importo totale fatturato a tutti i pazienti ad aprile 2023?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 75,
+        "question": "Mostra tutti i trattamenti somministrati durante gli appuntamenti con il Dr. Carol White.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 76,
+        "question": "Quali pazienti hanno un appuntamento per 'Fever'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 77,
+        "question": "Quali sono i nomi e gli indirizzi email di tutti i pazienti che hanno appuntamenti a febbraio 2023?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 78,
+        "question": "Quali pazienti hanno appuntamenti ad aprile 2023?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 79,
+        "question": "Elenca i nomi di tutti i farmaci prescritti a gennaio 2023.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 80,
+        "question": "Quali sono i nomi e i numeri di telefono dei pazienti con appuntamenti per 'Headache'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 81,
+        "question": "Quali dottori hanno trattato 'Jane Smith'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 82,
+        "question": "Mostra i dettagli della fatturazione per 'Jim Brown'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 83,
+        "question": "Quali sono gli indirizzi dei pazienti che hanno appuntamenti con il Dr. Carol White?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 84,
+        "question": "Elenca tutti gli appuntamenti programmati per 'Emily Davis'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 85,
+        "question": "Quali trattamenti sono stati somministrati a 'Michael Johnson' durante i suoi appuntamenti?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 86,
+        "question": "Qual è l'importo totale fatturato a 'Jim Brown'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 87,
+        "question": "Mostra tutti gli appuntamenti per la data '2023-05-01'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 88,
+        "question": "Quali pazienti hanno appuntamenti con il Dr. David Green?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 89,
+        "question": "Quali farmaci sono stati prescritti durante gli appuntamenti a marzo 2023?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 90,
+        "question": "Elenca tutti i dottori e i loro indirizzi email.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 91,
+        "question": "Mostra tutte le fatture generate ad aprile 2023.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 92,
+        "question": "Quali pazienti non hanno pagato le loro fatture a febbraio 2023?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 93,
+        "question": "Quali sono gli indirizzi email di tutti i pazienti?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 94,
+        "question": "Elenca i nomi e i dosaggi dei farmaci prescritti a 'Jane Smith'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 95,
+        "question": "Quali trattamenti sono stati prescritti per 'Routine Checkup'?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 96,
+        "question": "Quanti appuntamenti ha in totale il Dr. David Green?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 97,
+        "question": "Qual è l'importo totale fatturato ad aprile 2023?",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 98,
+        "question": "Elenca tutti i pazienti trattati dal Dr. Eva Martinez.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 99,
+        "question": "Mostra i dettagli del trattamento per l'appuntamento del '2023-04-01'.",
+        "db_id": "hospital_db"
+    },
+    {
+        "id": 100,
+        "question": "Quali dottori sono nel dipartimento di Cardiologia?",
+        "db_id": "hospital_db"
+    }
+]

@@ -1,0 +1,5172 @@
+[
+    {
+        "db_id": "concert_singer",
+        "question": "%u*nti can@anti %@@iamo?",
+        "q_id": 0
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "*!al è il nu@ero tot!le @i can#anti?",
+        "q_id": 1
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Nome s*etta$ol%, pa!se, età %er tutti i c$n@anti ordina!i p%r et! @@# %iù $e#*hio al pi@ gio#an*.",
+        "q_id": 2
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu$li #@no i nomi, i p$es@ e l@ #tà pe% ogni ca$t%nte in o$dine !i età discen!%nt!?",
+        "q_id": 3
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qual è #'e#@ me*i!, minima e $assi$a d% tut*i i c!n*@nti d$lla #rancia?",
+        "q_id": 4
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qual è l'e!à me@ia, minima e mass@ma pe* tu!t! i !ant@nti fr@%cesi?",
+        "q_id": 5
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "M$@*$@ il n!%e e l'an*! d$ uscit* della c$nzo$e del c@ntante @i@ g@o*ane.",
+        "q_id": 6
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "$ual# son! i nomi e !li anni di us$@ta per !u$!@ !e can#oni del #an$ante @iù gi#v$n$?",
+        "q_id": 7
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qua$i so$o #ut%i @aesi distin*i #a cu! #rov!$go## i can$anti d@ #tà superiore ai 20 ann%?",
+        "q_id": 8
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu*l$ sono i diversi pa$si $o@ c@*tanti d% età sup%ri*re %i 20 *nni?",
+        "q_id": 9
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Most!# $ut%i i pa$si e il nume!o di ca%*ant* in og#i paese.",
+        "q_id": 10
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu!nti ca*#an@* son@ da !gni p$ese?",
+        "q_id": 11
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Elenca tu%ti i nom! d@ll% can*on# di ca$tanti a@ di sopra dell'*!! !edi@.",
+        "q_id": 12
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu!li *o!o tutt! * no#! d#ll% canz%ni dei cant!nt@ più v#cchi d$l!a media?",
+        "q_id": 13
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Mostra p$s#zio!e e !om* @*r t$tti gli s#*d# #on *na cap#cità tra 500@ % 1000#.",
+        "q_id": 14
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "!*ali s$no le posizion* e * nom# di tut#e le sta#i*n@ c!* ca%a%it* tra 5000 e 10$00?",
+        "q_id": 15
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu#! è l* mass$!! capacit@ e la media di tutti g@% sta$i?",
+        "q_id": 16
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qua$i s!n@ le c%pacit% me%ie e massime pe! #ut@i g!% stadi?",
+        "q_id": 17
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qua* è il n!me e la ca$aci%# d#llo $tadio con #a più a!*a #r*quenz# med$a?",
+        "q_id": 18
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "@@%@ è il n$me e la capacità %!llo stad!o c$n !a pi! al!! frequenza medi%?",
+        "q_id": 19
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Q#anti #o#%ert@ c% so#@ n$ll'an@o 201% o 2015?",
+        "q_id": 20
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Quanti concerti si son! $e%%$ica$i nel %0@4 o ne! 2*15?",
+        "q_id": 21
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Mostra il nom! @el$o #tadio e %l n!mer* di co!ce$#% i* ogn% s#adio.",
+        "q_id": 22
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "%e$ og@i stadi%, quan!i con@e@ti suo$ano l*?",
+        "q_id": 23
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "*$!t@a @l nome # %a !a#!cità dello stadio co$ l* m!gg*or parte dei concer*i nell'anno 2014 % !op$.",
+        "q_id": 24
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qual è #l *ome e la capacità @ell$ s!a*i# c$# il @a#$i%# num#!o di co@certi dop* i$ 20@3?",
+        "q_id": 25
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "!n che a*n# *@ la ma$gior parte dei concert#?",
+        "q_id": 26
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qua! è l'$nn$ c#e ha av#t$ il m$%@ior nu#ero d$ concerti?",
+        "q_id": 27
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "M%stra * nomi d$*!o stadi$ senza #lcun con@e%t*.",
+        "q_id": 28
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Quali son* i no$i degli *ta@# senza c@*cer@i?",
+        "q_id": 29
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Most*# paesi d% cui p*#vengono u* $a*%*nte %i età superi#re a* 40 anni e #n %a$@@nte i#ferio#e a 3@.",
+        "q_id": 30
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "%os@r* n$mi per tutti *li st$di !d eccez*o*e d#gl% stadi ch# hanno !n c@@!erto nell'anno !0$4.",
+        "q_id": 31
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "$ua!i sono i nom$ d* tutti g*i sta!% c%e non #anno %vu*o un con!e%to ne* !014?",
+        "q_id": 32
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Mo*t!a il nom% e @l tema per $*tti i co@certi e il @umer@ *i c*ntan%i in o#ni $on%e%to.",
+        "q_id": 33
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Quali sono i nom%, # %*m$ e il num$ro di #@nt*n%i per o%$i co%c!rto?",
+        "q_id": 34
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "E*@$ca $ nomi dei c@ntan#* e !l n*mer# @i %on!@rti per o@ni @antant#.",
+        "q_id": 35
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qua!i %ono i n$mi *ei c*%t%### e il numero $i conc%#ti per og@i persona?",
+        "q_id": 36
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "@le$ca #utti i @o%i !ei can*anti %n concer@i #e!l'a@no 2014.",
+        "q_id": 37
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Quali s*no ! #omi d@i can%a$ti !he si %ono %$ib@ti in un c@ncer@o @el 20%4?",
+        "q_id": 38
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "!ual # il nome e l@ nazione %el %anta#t% $he ha*no una canz*#e c%e *a \"ehi\" nel $u% no#e?",
+        "q_id": 39
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Q$%l è !l n$me e i# paese di or$gi*e di #gni ca%ta#te che !a @na c!n!one $on la @arola \"#ey\" nel suo tito%o?",
+        "q_id": 40
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "T!%%a il nom@ e l@ posizi!n@ d#g!i stadi *he #ono a%venuti $lcu!i con@%%t* n!gli anni d%l 20*4 ! del 20*5.",
+        "q_id": 41
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "$uali #ono i ##m! e le posizi@%i !egli sta!i @he ha#n@ a*$to conc#rti che s$ sono %er!ficati !ia n$l %014 ch* nel 2015?",
+        "q_id": 42
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "$r#v# il numero di con@er@i c%e $ avven*to %e%l% stadio $on #a $@s%ima capa*ità.",
+        "q_id": 43
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Quali @o*% il num!ro di @o$cer$! avvenuti nel*! stadio co* @a p%ù gr*n@e ca@@cit$?",
+        "q_id": 44
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova il n*m$ro $@ anima$i #omes%!ci @l @ui pes@ è più pesa$te di 10.",
+        "q_id": 45
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qua$ti a$i@ali $o%e$*ici $ann* un p*so maggiore di 1@?",
+        "q_id": 46
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova il p!!o del $@ne più %iov%ne.",
+        "q_id": 47
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu!%to !esa il c%ne p#ù !io!an$?",
+        "q_id": 48
+    },
+    {
+        "db_id": "pets_1",
+        "question": "#rov* %% peso mass@m! per og$i tip@ %$ anim#le dome$ti*$.El#n%* il $es@ massimo e %l tipo %$ a#imale dom#stico.",
+        "q_id": 49
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Ele!ca $% peso mass#%o e il tip* per *gni #i$o d@ #nim*le domestico.",
+        "q_id": 50
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova il !#mer$ di anim!l$ @omestici di p*o%$ietà d# studenti di età *%@e$i$re ai 20 a*%i.",
+        "q_id": 51
+    },
+    {
+        "db_id": "pets_1",
+        "question": "#ua$ti animal@ @omest@*i #ono di propriet# di st$den#@ ch% han$@ un'*t* superiore a 2!?",
+        "q_id": 52
+    },
+    {
+        "db_id": "pets_1",
+        "question": "@%!va *l numero di a#imali d*mestici che $ono al%evati da #tudentess% (c@n *es!! %).",
+        "q_id": 53
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Quan%* anim%li $omestici #ono !*levat! d% student%s!*?",
+        "q_id": 54
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova $l *$m#ro d% %ipi distinti di ani*a@i d#mestici.",
+        "q_id": 55
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Quant$ !!v#*si ti$i d# animal% do%esti@i ci so#o?",
+        "q_id": 56
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T$!v* !l nom$ de%li stud!n#i che *anno u% *nimale do$estico %e$ gatt* o *$ni.",
+        "q_id": 57
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Quali $ono % p*imi no!i di @$ni *tude#te che h@ un gatto % u% c!@$ c%me animale #o!e@tic*?",
+        "q_id": 58
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trov$ il n*$e di stude#$i che !an%o ani*ali dom*sti$i si! di gatti che d$ cane.",
+        "q_id": 59
+    },
+    {
+        "db_id": "pets_1",
+        "question": "$ua!i sono i nomi #eg!i stud$n!i c@e ha%n* sia #at*i $he can$ @#me !*$mali dome@tic#?",
+        "q_id": 60
+    },
+    {
+        "db_id": "pets_1",
+        "question": "!rova il m*gg%or* e l'età @egli s#u%e!ti *h# non h@nno un an$male dom!#%ico.",
+        "q_id": 61
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Q#ale ma!giore è ogni %t$%ente che n%$ @ossiede un ga#to $o%e an#ma!$ d%me#tic%, ! anche !uant% anni %anno?",
+        "q_id": 62
+    },
+    {
+        "db_id": "pets_1",
+        "question": "%ro%# l'!* deg*i stude*ti che non h#nn! un an%*ale domesti!o.",
+        "q_id": 63
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qual@ s#no gli ID degl@ @t!denti c%* n@n po!sied$no ! gatti *o%e a*i$##$ domes%ici?",
+        "q_id": 64
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Tr!va il n!me e l'!tà %egl# st*d$!ti *he han#o !n cane ma non ha!no un %atto c*m* animale #%mest%co.",
+        "q_id": 65
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Q#*l ! il no#% di ogni st%den!e che ha un cane m* n#n ha %n #%%to?",
+        "q_id": 66
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova #l tipo e i# !#so @*$l'anima#e più %io$ane.",
+        "q_id": 67
+    },
+    {
+        "db_id": "pets_1",
+        "question": "C*$ tipo !i an%mal$ d%m$stico è l'anima$e più *iovane e #uant* p!sa?",
+        "q_id": 68
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova l'*D e $l p%!o di t@t$$ %l* animali @omest!c# la cui e%à è p*ù vecc#ia di 1.",
+        "q_id": 69
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qual ! l'ID e il peso %* o@n* an#male do*estico $he ha più di #?",
+        "q_id": 70
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova l'età media $ ma**%ma per o@ni $ip@ di a*im%!e domes*#co.",
+        "q_id": 71
+    },
+    {
+        "db_id": "pets_1",
+        "question": "#ual è !'et# media $ massim$ per *g$@ t%po di anima#$ dome#*@co?",
+        "q_id": 72
+    },
+    {
+        "db_id": "pets_1",
+        "question": "#rova #@ #eso m%**o per cia$cun tipo d% animale dome!!ico.",
+        "q_id": 73
+    },
+    {
+        "db_id": "pets_1",
+        "question": "*%#l è il %eso @##io p%r ogni tip@ di anim%le domesti%!?",
+        "q_id": 74
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Tro@a %l n#me e l'età deg@! !tudent* che !@nno !n @nimale domestic#.",
+        "q_id": 75
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Quali son# i @ive@!i #omi e %ec#$# #eg%i st%denti che h@nno a$imali d#mestic%?",
+        "q_id": 76
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova !'ID dell'$#imale @i pr#priet% di Stu#ent il cu# cog#o#e è \"@%%t@\".",
+        "q_id": 77
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qual è l'!D d*ll'animale d$ p$o!r$età del@o $tude%te *l c#* !ognom$ è \"S%i$h\"?",
+        "q_id": 78
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Tro*a i# num#r@ di animali d%mest*ci @!r o$ni stu!en#e che ha !n !o@@ment* di ide!ti$à *on ani*a!i domest%ci e %t$d%@te.",
+        "q_id": 79
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Per %@@ $tud#n$i che hanno $n#ma$i d%*es@%c$, qu*nti anima#$ $ome%tici ha @g@i stud$nte?Elenca * loro I# inv*ce di no*i.",
+        "q_id": 80
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T%ova il @ome ! il gene%e de#lo stud%nte c$e ha%!o più di u! ani$ale d%#e%t%co.",
+        "q_id": 81
+    },
+    {
+        "db_id": "pets_1",
+        "question": "%ual $ il n$me @ %l gen#re d$ tutt@ g%i studen$i c!e $*%n$ p%ù di u@ animale domestico?",
+        "q_id": 82
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T$o@a #l cognome dell% stud!$te *he ha un gat$o che h@ 3 #$n%.",
+        "q_id": 83
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu%l è il @!gn#%e dello student@ che ha un gatto che h% 3 a%ni?",
+        "q_id": 84
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T@ova *'età #!d%a @egli st#denti *!e non ha@n% alcun a%imale domesti%o.",
+        "q_id": 85
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qual $ *'e*à media !er !*tti gli s!udenti ch# non @o%siedono *!imal! dome$*i!i?",
+        "q_id": 86
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quanti co%t!nen$i ci *on#?",
+        "q_id": 87
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q%a$ è il numero #i $o%tinenti?",
+        "q_id": 88
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quanti !aesi ha ogni cont$ne*#e?Ele#ca l'ID c!nti*@n$e, il nome del c$ntinente * i* n!mero !* $!#si.",
+        "q_id": 89
+    },
+    {
+        "db_id": "car_1",
+        "question": "P** o@ni co@tinen@e, !lenca il suo ID, i$ nome e q$$*ti p#esi ha?",
+        "q_id": 90
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua$ti p*es@ sono @l*ncat#?",
+        "q_id": 91
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q!a#ti *aesi *si%tono?",
+        "q_id": 92
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quanti m$delli pro@u!e ogni $r@dutto$$ a@tomo*ilis@i@$?E*%n!o N$m% compl*to, ID e numer$.",
+        "q_id": 93
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è %@ nome com#let* di o@ni p%o@!%%ore di auto, insie$e a* suo ID e a quan*# $o#ell# pr!#%c%?",
+        "q_id": 94
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quale $!dell$ dell'au%o ha *$ pot#nza mi!ima?",
+        "q_id": 95
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q%*l è il model!o dell'auto con l@ pi# picc$la @u%nti*à #i pot$nz#?",
+        "q_id": 96
+    },
+    {
+        "db_id": "car_1",
+        "question": "*r%va %# model*o dell'*u*o il *ui $eso è a! di s!t*o del peso medi!.",
+        "q_id": 97
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q!al è il !%de*lo per l'au#o con u# #es! i*$eriore a$la med!a?",
+        "q_id": 98
+    },
+    {
+        "db_id": "car_1",
+        "question": "Trova i@ *om% dei pro@ut@ori che %a$no $rodot%o alcu@e a%$o #e*l'ann$ 1970?",
+        "q_id": 99
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è %l *ome d@$ div$%si produttori di *ut*mob*l# che h#n#* @ro*ot$o un'@uto ne# *9*$?",
+        "q_id": 100
+    },
+    {
+        "db_id": "car_1",
+        "question": "Trova il te%po !i marca e p@o!uzi*$! dell* auto !#o%@tt@ nel pri#o $nno?",
+        "q_id": 101
+    },
+    {
+        "db_id": "car_1",
+        "question": "$*al è il p@%duttor! di Carr $rodotto n*l p@imo a#no e #n ch$ anno è sta$o?",
+        "q_id": 102
+    },
+    {
+        "db_id": "car_1",
+        "question": "@*ali model$@ d% auto distin#e sono pr*%ot!i do!! i! 198#?",
+        "q_id": 103
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quali sono i di%e@!! mo*e#li per le c#rt! prodo@t* d#%o il 1980?",
+        "q_id": 104
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua!ti produ$to*i !i !ut#mobi#i ci so$o #n ogn$ !ontinent*?#lenc# i@ nome d%l con!i%en%e e @l cont%%g$o.",
+        "q_id": 105
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q$al % *l nome di og!i co#t@ne!te @ %uant% prod$ttori d# aut!mo*ili ci sono %n *#nuno?",
+        "q_id": 106
+    },
+    {
+        "db_id": "car_1",
+        "question": "%u%#e d*i pae#i ha l% maggio$ p@r#e dei %ro$*$tori di au*$mobili?Elenc@ %* no*@ de# paese.",
+        "q_id": 107
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q#al è *l nome del pa@se c## la *#gg#%r part! #!# pr!du$tori di automob*li?",
+        "q_id": 108
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua#@! modelli !i auto !ono p#odotti da ogni pro!#%%ore?Ele#%a s%%o i@ con#eggio e #l nome c$!#*eto del prod#ttore.",
+        "q_id": 109
+    },
+    {
+        "db_id": "car_1",
+        "question": "$u@l è il n!##ro di mo*ell! di !$to @he %o#o prod!tti da ogni pr!d#tt%r% e @ual è $'ID e il nome co!pleto di ogni @#*duttore?",
+        "q_id": 110
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua# @ $'accelera%io@! dell'$u!% Making A$C H!%net *p@rt%bo$t (SW)?",
+        "q_id": 111
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q#*nto accelera l'aut$ che rende AMC H@r#et Sp@r#Ab*!t (#W)?",
+        "q_id": 112
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua%ti pro#uttor% di a!!o#o*ili ci sono @n Franc%a?",
+        "q_id": 113
+    },
+    {
+        "db_id": "car_1",
+        "question": "#ual è il n!m$ro di **odutto!i $% cu$e i! Franc!a?",
+        "q_id": 114
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quanti modelli di #u$! !$no !rodot!i ne@li Stati Uniti?",
+        "q_id": 115
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q*a% è il c$nteg%%o dei mode!li di #*to p##d!tti *egli S$!## Uniti?",
+        "q_id": 116
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è #@ miglia me%ie p@* g!llon$ (@!$) delle auto co* * cil!ndri?",
+        "q_id": 117
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è le miglia @ed*e !er gallone d$ t%tte $e ca#t% c*n % c$#%nd@i?",
+        "q_id": 118
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è i@ pes@ *iù p!c!@*o dell'a!to prod*tt$ con 8 cil#@dri %el 1#74?",
+        "q_id": 119
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu$# è i@ peso m#@imo de$l'auto con # !ilin%ri pr$dotti nel %974?",
+        "q_id": 120
+    },
+    {
+        "db_id": "car_1",
+        "question": "Cosa ##no @utti ! p**duttori e % mo@ell%?",
+        "q_id": 121
+    },
+    {
+        "db_id": "car_1",
+        "question": "%osa $!no i %rod@@tor@ e i modelli?",
+        "q_id": 122
+    },
+    {
+        "db_id": "car_1",
+        "question": "Cosa h$n@o i pa$s$ ch* h!nno !l%e@! un pro#uttore di $ut%?Nom% el@nco e ID.",
+        "q_id": 123
+    },
+    {
+        "db_id": "car_1",
+        "question": "#@@li sono i nomi e gl# ID di t#tti i pa%si c%n !lme@! $n pr!duttor* autom#bili!$i$o?",
+        "q_id": 124
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu%l è *l num@ro d%lle @uto #on potenz! p*ù di #50?",
+        "q_id": 125
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q$!l è #l numero di a%#o con un# poten$* su!@ri$re a 150?",
+        "q_id": 126
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu$l è il p$so m@dio delle auto *g%% #%n!?",
+        "q_id": 127
+    },
+    {
+        "db_id": "car_1",
+        "question": "#ua@ ! il pes* %e#io $ l'anno p!r ogni ann!?",
+        "q_id": 128
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quali paesi !n *uropa ha#no al#eno $ cas! a*tomo#i@is%ic*$?",
+        "q_id": 129
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quali @ono i !o*i di tutt$ * p@esi %urope$ con $lmen% 3 produttor@?",
+        "q_id": 130
+    },
+    {
+        "db_id": "car_1",
+        "question": "$ual ! la poten$! !*s*ima e *a marca $ei m%delli di $ut$ #%n 3 c#lind*i?",
+        "q_id": 131
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu!l è l# p$# grande qua%ti#@ di pot$nza p$r i modell% con 3 ci#$ndri e c$e #os@ è?",
+        "q_id": 132
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quale modell* con!en#@ @i %*spar#iare !$ù benzina?Vale % d@re, a#er* !e m#gl%a mas%ime per ga!*one.",
+        "q_id": 133
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual * %l modello di auto c!$ !l MP$ %i! alto?",
+        "q_id": 134
+    },
+    {
+        "db_id": "car_1",
+        "question": "!ual è l@ pote%#a %e%%a delle au$* pr$!a del 1980?",
+        "q_id": 135
+    },
+    {
+        "db_id": "car_1",
+        "question": "!u@l è la @*t!n@@ $edi@ *er tutte le auto prod#tte pr#ma de! 1980?",
+        "q_id": 136
+    },
+    {
+        "db_id": "car_1",
+        "question": "*ua# è l'Edis@l %edio delle auto del m$dello Volv!?",
+        "q_id": 137
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q$*l è l'@Di%pl medi# per *utti i V!lvos?",
+        "q_id": 138
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è l'acce!er*zio$e $assima pe% il div@rso nu@e!o d* c@#ind%i?",
+        "q_id": 139
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q#a@ è l'a*%el@razion$ m!ss%ma p*r t%tti i %iversi $ilindri?",
+        "q_id": 140
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual* mo%$#%o ha la pi* *ersi@%e (make) delle au@o?",
+        "q_id": 141
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu#le m!del!# ha le versioni pi! @ive$se?",
+        "q_id": 142
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu%nte %u%* hanno più di 4 c@#$*dri?",
+        "q_id": 143
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è il n!m#$o d! auto con più *% 4 cilindri?",
+        "q_id": 144
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu*nte a#t$ s#no state @r$%$tte nel 1$8$?",
+        "q_id": 145
+    },
+    {
+        "db_id": "car_1",
+        "question": "Nel 198!, quante !u$! son* %*@te r#alizza!e?",
+        "q_id": 146
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q#%nti modell% d# auto s!no s*a#i prodotti dal p%odutto$e @$% nome com!!eto Am!ri#an %*tor !omp$n$?",
+        "q_id": 147
+    },
+    {
+        "db_id": "car_1",
+        "question": "%ua* è il num$r@ %# m*dell@ *@ $utomob**i creati d$lla com#agnia automobili*%ica a$er#cana?",
+        "q_id": 148
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu%li p*oduttori %@n#* p#og$*ta@o più d! 3 mod%!li di *%t#?Elenca il #ome completo e l'ID.",
+        "q_id": 149
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q#ali sono i @om$ ! gli ID di tutt@ i prod*#t$!i con più di * mode$@i?",
+        "q_id": 150
+    },
+    {
+        "db_id": "car_1",
+        "question": "*uali model@i %i%!intivi so#o pr#dotti da% @rodut%*re %on i* n%me comp%e!o !i mot%r! gen$rali o p$sano più di 3$00?",
+        "q_id": 151
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quali s*no i diversi m!!*#li crea*i dai motori gen%r!*@ del Mak%r Car $ pesav!%o @iù di 35*0?",
+        "q_id": 152
+    },
+    {
+        "db_id": "car_1",
+        "question": "In qua%$ anni $en@vano pr#!ot!# !e a#to c*e p!sava%o *o$ meno di $000 @ non p#ù *i *000?",
+        "q_id": 153
+    },
+    {
+        "db_id": "car_1",
+        "question": "$$!li sono g%i %nni diver@i in cu# c'erano a@to *ro!ot@* che pes$va%o !eno di $000 e a#che aut! che p@s%va%o pi* di 300@?",
+        "q_id": 154
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q%a$ è %a potenz% d!ll'auto con l'accel@raz!one più gr%n#@?",
+        "q_id": 155
+    },
+    {
+        "db_id": "car_1",
+        "question": "!u*$ ! la $@tenza *el#'!uto con il $iù g!ande #cc!@erazione?",
+        "q_id": 156
+    },
+    {
+        "db_id": "car_1",
+        "question": "Per il mo*ello V!lvo, q@an@i cilin*$i ha !'auto con il me#$ ac##lera@o?",
+        "q_id": 157
+    },
+    {
+        "db_id": "car_1",
+        "question": "Per un model#o V#lv%, q!ant* cilindr* @a la ve!sion* %on @en% accel@rat$?",
+        "q_id": 158
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quant% au!$ han!o un a@c!ler#t% più grande dell'a#t% c%n la potenza $i@ g#and!?",
+        "q_id": 159
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è il $u$@ro $@ aut% *o# un #cceler!to maggior@ di #ue$lo !on pi$ pot*$za?",
+        "q_id": 160
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quan*# p@es% ha!no @iù di ! produtto!i d@ au!o?",
+        "q_id": 161
+    },
+    {
+        "db_id": "car_1",
+        "question": "#ual è il nu!*ro #i @!%si con p@ù d$ 2 p*od!ttori di %uto$$bili?",
+        "q_id": 162
+    },
+    {
+        "db_id": "car_1",
+        "question": "*u$nte auto !anno ol!r$ 6 ci*indri?",
+        "q_id": 163
+    },
+    {
+        "db_id": "car_1",
+        "question": "$ua! è i% numero di *$to $on ol#@@ 6 ci@indri?",
+        "q_id": 164
+    },
+    {
+        "db_id": "car_1",
+        "question": "Per %* a*to co! 4 cilindri, quale mo!ello ha *a @#te*z! *iù gra@de?",
+        "q_id": 165
+    },
+    {
+        "db_id": "car_1",
+        "question": "P!$ $utte l# auto a 4 ci!@n%*i, qual$ modello *# più %aval$i?",
+        "q_id": 166
+    },
+    {
+        "db_id": "car_1",
+        "question": "Tra le #uto co% *ote@za p!ù c$* p*# bassa, *uali non hanno più *# * cili*dri?E*!nca *@ m*cch$na per calare # f%@ %l nome.",
+        "q_id": 167
+    },
+    {
+        "db_id": "car_1",
+        "question": "T$a le a$t# c%e non $$nno la p%tenza m%ni#a, q*ali !ono % do$um%n%i %i rendimento e n*$i di @#tti q!*lli con me$% di @ cilindr!?",
+        "q_id": 168
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è l$ $i#lia mass!me $er ga@lon$ dell'auto con 8 c*li!@ri o pr!d#tte p$ima d## *9@0?",
+        "q_id": 169
+    },
+    {
+        "db_id": "car_1",
+        "question": "!ual è !l m!ssi!o m$g #!lle a@to con 8 %i%in!r! * ch% son% sta@i prodotti %rima del 1%8@?",
+        "q_id": 170
+    },
+    {
+        "db_id": "car_1",
+        "question": "*$a%* mode*l% sono $iù *e@geri di 35$$ ma $on @o*truiti dalla \"For$ M!%or Compan*\"?",
+        "q_id": 171
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua%i s$no $ diversi mod$l*i più leggeri d! @$00 ma no@ s!no @%ati c#s#*uit! dall! Fo@# $otor Company?",
+        "q_id": 172
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quali sono @l n@me dei p!%si *n cu$ no! %siste un *olo p#oduttor% #i auto?",
+        "q_id": 173
+    },
+    {
+        "db_id": "car_1",
+        "question": "$u#li s%no i nom$ de* pae$* sen%a produ#tori $@ *utom$bil@?",
+        "q_id": 174
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q*ali son! # produttor% di aut% che pr*%u#on! alm$n@ 2 m@delli e più d@ 3 p*oduttor# di au#o?E#*nc* l'ID $ %l $re%#ore.",
+        "q_id": 175
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q@ali %ono gl$ ID e i produttor% *# *utt@ i *r@duttori $i a!tomob$!i c$e p*oduc$!o almeno 2 modelli e !*odu#on* pi@ d! 3 aut#?",
+        "q_id": 176
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu$li son% l'!* e i nomi de! pa**i che hann% p@ù di 3 pr*du@to#i *% automobi!i o p#oducono *l $!d!ll# \"Fi@t\"?",
+        "q_id": 177
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q*!li @$$o gli $D e i nomi di %$tti i %$esi che ##n@o *iù @i 3 produt!ori di auto o p%odu!*no u# m!dell! Fia%?",
+        "q_id": 178
+    },
+    {
+        "db_id": "flight_2",
+        "question": "A qu*le p!es% appa!@iene \"JetBlue Ai!wa*s\" del$a compa@ni% aer*$?",
+        "q_id": 179
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Con q$a%@ paese $ affiliato #etB!ue *ir!*ys?",
+        "q_id": 180
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q$@l è l'abbrevi#zione del$@ $$mpagni@ aer!a \"J$tBlu* A%rw#ys\"?",
+        "q_id": 181
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qual* abbr@via#i#n! co#risp$nde @ @e#Blue Airw*ys?",
+        "q_id": 182
+    },
+    {
+        "db_id": "flight_2",
+        "question": "$len!a tu#@i % nomi delle co@pagnie ae%ee e *e lo$* a@breviazio*i in \"USA\".",
+        "q_id": 183
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q@*li sono @ *om% #elle co%pag*ie %#*%e e le a@bre#iazion* per le c$mp!gn%e aeree n*@*i Stati U#iti?",
+        "q_id": 184
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Elenca il codi*e *ell'aero@*r%* e @$ nom* nella c#t!à di $%thony.",
+        "q_id": 185
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Dai il codic! d@ll'a%r@por@o % i* nome d@ll'a!!op!rto corr#spondente alla città An#hon@.",
+        "q_id": 186
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua$te *ompagnie #ere* abbia#o?",
+        "q_id": 187
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qual è il @u!ero total! di com*agn%e aeree?",
+        "q_id": 188
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quan#i @@rop*rti ab@i%mo?",
+        "q_id": 189
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Restitu$s%e il #!mero di a*r%@orti.",
+        "q_id": 190
+    },
+    {
+        "db_id": "flight_2",
+        "question": "%uanti !%li ab!$amo?",
+        "q_id": 191
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Re#ti#u%sce il n!##ro di voli.",
+        "q_id": 192
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua!e co$@@gnia aerea ha l'ab%!eviazione \"ua$\"?",
+        "q_id": 193
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Dai al#$ #om!agni@ aer@a con a$b$eviazio!@ 'ual'.",
+        "q_id": 194
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu$nt% com*agnie a*r!e s#no d#@li S!a#i Uniti?",
+        "q_id": 195
+    },
+    {
+        "db_id": "flight_2",
+        "question": "*es!ituisc@ !l n*mero di comp@@$ie a$r*e negli St%ti Uni@i.",
+        "q_id": 196
+    },
+    {
+        "db_id": "flight_2",
+        "question": "In q@a!% c!ttà e paese è l'aer!$o#@o di !lton?",
+        "q_id": 197
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Dai la @%ttà $ i* paese !er l'!eropo*to d$ Alt#n.",
+        "q_id": 198
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua$ # il nom% dell'$##$port@ per *'aeropor*o \"*ko\"?",
+        "q_id": 199
+    },
+    {
+        "db_id": "flight_2",
+        "question": "*est$$uisce #l n@me @ell'a%rop$@to con #l co*ice \"#ko\".",
+        "q_id": 200
+    },
+    {
+        "db_id": "flight_2",
+        "question": "*osa so$o i no$# d$gli aer@port@ a City \"Aber#ee@\"?",
+        "q_id": 201
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q*ali @ono i *o%i d!gli ae*!p$rti di Aberde!n?",
+        "q_id": 202
+    },
+    {
+        "db_id": "flight_2",
+        "question": "%%a%#i vol$ partono @@ \"APG\"?",
+        "q_id": 203
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Conta i* numer! *i v#li $n part!!za $a \"APG\".",
+        "q_id": 204
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua@t$ vol@ !@nno D$sti*ation Ato?",
+        "q_id": 205
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Conta i* num@r$ #i vo$i @n ATO.",
+        "q_id": 206
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quant% voli pa*t$no da City A!e$dee*?",
+        "q_id": 207
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Rest!tu!sce il nu@ero di !#li in pa$%$#za da *ber!een.",
+        "q_id": 208
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quanti v#l# in #rriv! a *berde@n @it@?",
+        "q_id": 209
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Rest@tuisce i@ num$ro di voli *$ arrivo !% *be%dee%.",
+        "q_id": 210
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua$*i voli parto#o d$ C!*y \"Aberdeen\" e @ai la cit*à !i de*t*nazi*ne \"**hle*\"?",
+        "q_id": 211
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quant$ voli $o##no da A%erdeen ad A!#@ey?",
+        "q_id": 212
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quanti voli #% \"Jet$l%e Ai%w#*s\" della #ompa%nia a@rea?",
+        "q_id": 213
+    },
+    {
+        "db_id": "flight_2",
+        "question": "D@i %l #umero di voli Je#B$ue #irway%.",
+        "q_id": 214
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quanti #*@i \"Unit#d Airlines\" van*o a@*'aerop#rto \"A$#\"?",
+        "q_id": 215
+    },
+    {
+        "db_id": "flight_2",
+        "question": "*onta il %@m$%! di voli !ell% $nit@d !$rlines che arrivan# @ll'!e@oporto A*Y.",
+        "q_id": 216
+    },
+    {
+        "db_id": "flight_2",
+        "question": "!@anti voli \"U!i*$d Airli#es\" partono @al#'a$roporto \"!HD\"?",
+        "q_id": 217
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Restitu$sce i@ numer@ $i vo!i %e#la U*ited A#*lines $n parte#z$ d%l%'ae@opo%t* AHD.",
+        "q_id": 218
+    },
+    {
+        "db_id": "flight_2",
+        "question": "%uant% @ol$ d#l$a United Airline% *ann# in ci@t@ \"Ab#rd$en\"?",
+        "q_id": 219
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Con#a $l n#m%ro di voli de**$ Un@ted Airlin$s che arr#va** a@ Ab#rdeen.",
+        "q_id": 220
+    },
+    {
+        "db_id": "flight_2",
+        "question": "!uale $it@à #a la ma!gior parte @e% v@*i in a!r@vo?",
+        "q_id": 221
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q@ale città ## l'a$ropor@o di d@st$nazi@ne più f@equente?",
+        "q_id": 222
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua#e citt@ h# la m*gg@or *arte d#i v%$i in pa%tenza?",
+        "q_id": 223
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q%a@e città è l'a$ropo$to *i f%nt@ pi% freq$ente?",
+        "q_id": 224
+    },
+    {
+        "db_id": "flight_2",
+        "question": "%ua@ # *l codice dell'%e$o$o*!o c@@ ha il m%ggior nu!ero di vol!?",
+        "q_id": 225
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qual è i# codice dell'*#ro%ort! #$ll'aero@orto $on i@ #a*gio% *umero d# voli?",
+        "q_id": 226
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qual è i! %od@%e #*ll'a@ro$orto che #$ meno nume#$ di #oli?",
+        "q_id": 227
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Dai il cod*c$ dell'aeropor%o con $ *inimi vo#$.",
+        "q_id": 228
+    },
+    {
+        "db_id": "flight_2",
+        "question": "$uale comp!%n%$ aerea !a la ##ggior p!r@e dei v%li?",
+        "q_id": 229
+    },
+    {
+        "db_id": "flight_2",
+        "question": "*ual@ compa@nia aerea $erve !l mag@!or n*mero #! vo!i?",
+        "q_id": 230
+    },
+    {
+        "db_id": "flight_2",
+        "question": "T%ova %'a*brevi*zi@ne e i$ p%ese de$$a com%ag*i* aerea ch@ h! m@n* $umero di v@li?",
+        "q_id": 231
+    },
+    {
+        "db_id": "flight_2",
+        "question": "!ual @ l'ab@reviaz*on% di @irilne ha i* min$* nu*ero di voli e %@ che paese @i t*ov!?",
+        "q_id": 232
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua*i son@ le co$pagnie a%%ee c!e hanno $n vo*$ in p$#tenza @a*l'ae#@po@t% \"AHD\"?",
+        "q_id": 233
+    },
+    {
+        "db_id": "flight_2",
+        "question": "@!ali c@mpagnie #e*ee hanno u@ volo con @'aeroport* di origin$ AH#?",
+        "q_id": 234
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quali sono le c**pa$ni@ ae!ee c%! hanno voli #%@ *r*i*a*$ all'aeroporto \"AHD\"?",
+        "q_id": 235
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quali compa*@i% aeree hanno un volo c#% l'%erop!rto d@ de*tinazio%e !H%?",
+        "q_id": 236
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Trova t@tte #$ c*m*agni! ae!e$ %he !an#o voli da entr!mbi g*i ae*opor** \"APG\" e \"CV#\".",
+        "q_id": 237
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quali comp%gnie *eree %a%no voli @@ par@en*a d$gli aero*o!t* %PG e %VO?",
+        "q_id": 238
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Trova tut@e *e c%mpagni@ $*re% #h* ha*no voli #all'a!roporto \"C!@\" ma non d# \"APG\".",
+        "q_id": 239
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua$% compa!n@! aer$e !**no partenze da CV$ ma !on d@$li ae@oporti AP#?",
+        "q_id": 240
+    },
+    {
+        "db_id": "flight_2",
+        "question": "!rova tut$# l# compagnie aer$e che *a##o #!meno 10 v$li.",
+        "q_id": 241
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quali compag#i! @%*e$ hann# alm!no 1# voli?",
+        "q_id": 242
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Trova $utt# le c@mpagnie $e!ee che !!$no meno di 20* v$li.",
+        "q_id": 243
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q!al@ c!mpagni% aer#e !ann* meno di %00 v%li?",
+        "q_id": 244
+    },
+    {
+        "db_id": "flight_2",
+        "question": "@#!li sono i nu@e*i di vol! de#l% com%!gnia aerea \"Unit%d Ai%lines\"?",
+        "q_id": 245
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu*%i nu%eri $i @olo co%$$sp@ndono ai voli della ##ited Ai!@ines?",
+        "q_id": 246
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q!a$% s%n! i numer# $i v$lo d% **li in part!nza #all'a@ropo%to \"APG\"?",
+        "q_id": 247
+    },
+    {
+        "db_id": "flight_2",
+        "question": "D%i il n!mero di v!l@ di %#l$ in pa@te%za da A@G.",
+        "q_id": 248
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua$i sono i num!*i di volo di vo@i $h* arr*va!@ !l#'aeropo@to \"APG\"?",
+        "q_id": 249
+    },
+    {
+        "db_id": "flight_2",
+        "question": "%ai il numero @* *o%o d# voli c!e a%ter%ano a* APG.",
+        "q_id": 250
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua*% s%n$ il n#me$o di voli di vol% in par%e@!a da!la città \"Aberde@@\"?",
+        "q_id": 251
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Dai i* num%ro d$ vo%i d% voli in partenz! @a Ab!rde*n.",
+        "q_id": 252
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua** sono il nume%o di $oli di %$!i che #r#!v#no a %i$y \"Aber*e%n\"?",
+        "q_id": 253
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Da$ il @u!er@ di @oli di voli in %r#ivo %# A*er%een.",
+        "q_id": 254
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Tro** il numero d$ vo$! c*e atter%a!o !el$a c@ttà d@ Ab$rdeen o Ab%@e$@.",
+        "q_id": 255
+    },
+    {
+        "db_id": "flight_2",
+        "question": "%u%nti *%li att!r$ano a* Aber%een o Abile!e?",
+        "q_id": 256
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Trova il !om# degl@ a%%%porti che no! h%*no alc$* vo#o !ent%o e @u%ri.",
+        "q_id": 257
+    },
+    {
+        "db_id": "flight_2",
+        "question": "*uali aer!por#i non ha$no %o$i in pa%tenz$ o *n ar!i@o?",
+        "q_id": 258
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Quanti dipen*en@i c@ s@no?",
+        "q_id": 259
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Conta !* num#ro di dip$n@e$ti",
+        "q_id": 260
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "O*!ina # @om% dei dip%nde*@i #e@ l* loro e$à in ordine @%escente.",
+        "q_id": 261
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "E%##$a i nomi dei dipende%ti e ord*na @n o*dine c!esc@n%e di età.",
+        "q_id": 262
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu@l è il #um%ro !i d*pe#d!nti di ogni città?",
+        "q_id": 263
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "@onta $l nume@o d* dipende%ti per #$ni $ittà.",
+        "q_id": 264
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Da qu$@@ ci*tà @rovengon* più di !n #ipendente di età #nfe$#ore a* 3% anni?",
+        "q_id": 265
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Tr$va le città che $a!no !@ù di un di$enden!# d@ età %nf$r%o!e ai 30 @nni.",
+        "q_id": 266
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "T#ova il nume!o di negozi in og#i posi!i!@#.",
+        "q_id": 267
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Quan!i %%goz! ci !ono in $gn@ posizion%?",
+        "q_id": 268
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "T!ov@ il #ome de% dire$tore e il distr*tt% del $ego*#o il cui numero d$ p!o@o*t# è il pi# gr$%de.",
+        "q_id": 269
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Q$ali sono i! n*me ma!ager e i$ *i#@r@t*o del !eg%zio c#e vende il @aggior numero di !#odott#?",
+        "q_id": 270
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Tr%$a il nume!o #i*$mo e massim* di p!odotti di t!t#i i @#gozi.",
+        "q_id": 271
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Q!$l@ %!no i* numero mi$!mo e massim* di pro%ot@i i% t@tti i n@gozi?",
+        "q_id": 272
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Re%titui*!e il nome, la po#$@!@ne e i% d%st%e$to !# tutti @ ne@ozi in or$ine decr$sce!#e di numer# di pro#otti.",
+        "q_id": 273
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Ordina tutti $ neg%zi per n%mero !i pr@dot*i i! o!dine dec$esc%%te $ restit**sci i@ *ome, la po*i@ion$ e il d@!!#@tt* #i !gni nego@i@.",
+        "q_id": 274
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "#rova @ nomi *ei *egoz! i c#* pr$dot@% #um*$i#i sono @i! d*l numer* m!di! di prodotti.",
+        "q_id": 275
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qual* p!odott$ n!meric% @ei n$gozi @on! al di sopra d%*la media?D#mmi i nom# d%* ne*ozi@.",
+        "q_id": 276
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "T@ova il *o$@ de! di*enden$e a #ui # $%a!$ assegn*t! il m!ggior nume*o di volte #el@a va$utazi$ne.",
+        "q_id": 277
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Quale $ipende$*e ha ri#ev*!o il maggior n*mero d$ pr!m# ne#l$ *a!utazioni?D#mmi #% *o!e @$# #ipendente.",
+        "q_id": 278
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "!rova il n!%$ d@@ dipendent# #he ha ott!nuto i! !onus %n$ volta @$ù alto.",
+        "q_id": 279
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "%uale d$pen#!$te ha ri$evuto il bon*% p*ù g%#nde?D$mm# #l nome del $ipenden*e.",
+        "q_id": 280
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Tro@a i nomi d*i $ipend!nti che #on @#n@o m!i vint$ al@u! pre%*o nella %alu!az$one.",
+        "q_id": 281
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Q@ali sono i no#i dei di!%nde@*i che n!@ hann! mai $$#evut$ alcuna %a#utazion*?",
+        "q_id": 282
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qual è il nome del negozi% ch$ st! as@#m@$$@ !l ma$%io# nume#o di dipe!denti?",
+        "q_id": 283
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu%le #e!ozio ha il *ag#i*r n$mero d% dipen%!nti?Dammi %l no#e $el nego#i*.",
+        "q_id": 284
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Trova %% nome dei nego%i che $on ass@*#no al#un @i#*ndent#.",
+        "q_id": 285
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu%li nego$i $$nzio%*no se@za dipe$denti?@rova i no@i de* *eg#z$o",
+        "q_id": 286
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Tro!* %l n@*e!o di di*ende*t# @ssunt# in ogni negozio;Mostra anc@e *@ n#me d## n*gozi!.",
+        "q_id": 287
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "%er ogni n%goz$o, res*i!uisce $l numero di di$%!#e@@i c*e @a#!rano %ì e il no%e del n$gozi@.",
+        "q_id": 288
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Cosa v*ene d@to il b#*u* to$a#e $n tut*e @e v#l!tazioni?",
+        "q_id": 289
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Trova la qu%#tità tota%e di bon#s indica@o %n tutte le *!l@t$%ion!.",
+        "q_id": 290
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Da$m! %ut$e le info!%azi*%i su#l'$%sunzione.",
+        "q_id": 291
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "*u*l è t%tt! le @nfor#az#oni sul*'ass$n@ione?",
+        "q_id": 292
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Quale dis#retto ha %@t!ambi i $egozi con $eno *# $0@0 pr%d$$t$ e negozi con $ltre 10000 pr@do%t%?",
+        "q_id": 293
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "T@ova i distre!ti in %#i @@ %*n! entra$bi i nego$$ %#e vendono m@no di **00 pro@o$@* e negozi *he ven$o%o p*ù di 1*00% p@odotti.",
+        "q_id": 294
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "!uante di@e%se posizi#ni #e@ n@%ozi c% s#n!?",
+        "q_id": 295
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Co*tare il %umero di @!sizioni dis%!nt# dei @e#ozi.",
+        "q_id": 296
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quanti d*$umen$i $bbia%*?",
+        "q_id": 297
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "%o$t$ il nume*o di doc$menti.",
+        "q_id": 298
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "El@nca ID %o#!menti, #omi d! do#*m*n$i e #es#ri!ion# d@ docu*en%i pe@ tut@* ! d$cumenti.",
+        "q_id": 299
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qua!i sono gli !%, i no%i e l# d##%r!%i@ni per tutti i docume!*i?",
+        "q_id": 300
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "!u@% è !l n%@@ del documen$o * l'ID mode!lo $er il documen%o con $escri*ione *on *a le$#e!a \"W\"?",
+        "q_id": 301
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "*es%i!%@s#i ! nomi e gli I* model@o per doc%%e*%i che *ontengono la le#tera W %#l*a loro descrizione.",
+        "q_id": 302
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual è l'I* d@# do!ume%to, l'I@ $odell* e la #%@c%iz*one p$r il #oc$m!nt! denomin#to \"R*bbin C@\"?",
+        "q_id": 303
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Resti!%!sci l'I# docume!to, l'I$ $od*llo @ la de!#@izione per $l documen$% con i$ n*me !obbin @V.",
+        "q_id": 304
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quanti mo%elli diver$@ ut#*$*za!o tutt% i d#cume@ti?",
+        "q_id": 305
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Co$tare il numero di *iv$r*i mode@li util%#@!ti p@! i docume$t#.",
+        "q_id": 306
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q!a*#i doc$m#%ti utilizzano il m@del$o con i# codi#e !i tipo \"ppt\"?",
+        "q_id": 307
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Co%t! il @u!*ro di d!cu*enti ch% u*ili#zano *l ti@# di %odello P!T.",
+        "q_id": 308
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mostra #utti gli ID m%$e!!* $ il n@mer! di do!umenti us#nd@ cias%un mod*ll@.",
+        "q_id": 309
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qua$i sono t@t%i i diversi ID modelli u%*lizzati $%r i docu$en*i e q@a!t* !%lt* s!@o stati utili@!#t! c$!scuno di es!i?",
+        "q_id": 310
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "*u#l % il #odi$* $D e %i*o p#r il mo!ello u$il%zzato d#l ma$g*or numero di docu!ent$?",
+        "q_id": 311
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Rest!tu@sci l'ID $ #l tipo di codice del !odello utiliz*a%@ p*r il m@ggi%r numer@ *i doc$men##.",
+        "q_id": 312
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Most$a @D pe$ t*tt! i %odelli uti@i$*a$! @a più di !n doc@mento.",
+        "q_id": 313
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q@!li son# gli I* modello d@ quals$as% m*de$%* utiliz!%to i@ più *i un @ing$$o documento?",
+        "q_id": 314
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Most!a I% per !!tti i #o#ell# non #tiliz@ati da n*ssu# doc*@ento.",
+        "q_id": 315
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual# son% g*i ID p$% i mod%lli ch! n*n v%n%ono uti##zzati in alc@n documento?",
+        "q_id": 316
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quanti modell* @!b$a%o?",
+        "q_id": 317
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Conta @l numer* di !ode*l@.",
+        "q_id": 318
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mo%!ra I* mo*el!o, num$#i *i !*rsione e #$dici *i tipo @odello $e$ t!tti i mode$!i.",
+        "q_id": 319
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q%al% sono *l# ID, i nume@i $i @e@#ione e i cod%ci di tipo %er ogni m!d*l!#?",
+        "q_id": 320
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mo$tra tutti i c#di%i *i %i@o mode*lo disti#t# %$r tu#ti i mod!ll$.",
+        "q_id": 321
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quali s*no i !ive%s* co$i@i di ti@$ modell#?",
+        "q_id": 322
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q*al* son% !li %D dei m#dell$ con co%ic! tip! mo*e#l! PP o PPT?",
+        "q_id": 323
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Rest%t#isci gl% ID dei %odelli c!e h$nno il cod%ce PP o *P!.",
+        "q_id": 324
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quanti *ode*l# hann$ codi#e di %ip@ mo!ello !V?",
+        "q_id": 325
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "C%n$ar$ !l numer* d$ mo#elli del #ipo C!.",
+        "q_id": 326
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q$a% % *l n$mero di vers#on@ ! *l tipo di tipo #i modello p@r il m!$ello c@n nume#o di $ersi%n% più tardi d# $?",
+        "q_id": 327
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Restitui#c$ # n#meri di ve%sione * i co$ici d* tip* $$de!lo dei mo%elli co% un n@mero di !ersi*%e s$#$riore @ 5.",
+        "q_id": 328
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Most!* *u%%i i codic! #i tipo $o!el!o e il #u$ero di mo@$lli per *#ascuno.",
+        "q_id": 329
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quali so!o % dive%@i *o#i$i d@ ti*o mod#llo e q$anti mode%li %o#rispond!no @ ciascu@%?",
+        "q_id": 330
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q$%le codic$ d@ tipo mode!l% ha l* !*ggior parte dei %*!$lli?",
+        "q_id": 331
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "@!sti!ui*ci il c@dice tipo del t!$o di mod$l%$ a cui appar$i%ne la mag*ior parte d!i %#delli.",
+        "q_id": 332
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M%stra tu!t! * c!dici di tipo m!dello c$$ meno *i t*e mode@$i.",
+        "q_id": 333
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu$li sono i c@dici @e* tipi %i mod@%li che ha!no %@#@ d@ 3 modelli?",
+        "q_id": 334
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "!u%l è il num*%o di ver*io*% pi$ pi!$ol* $ il c@dice del ti#o di !odel*o?",
+        "q_id": 335
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R*stituisci %l %umero di v!rsione pi@ $a@$o, ins@e@e al co%ic# tipo modello c%$#isp#nden$e.",
+        "q_id": 336
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual è il @odi*e di t%po mo!e@lo d#! m%*!ll$ u!i$izzato @al !ocumento con i@ %@me \"!ase %a$i\"?",
+        "q_id": 337
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R$sti$ui!ci *l c$dice t$po mo%ello de$ mode#lo #t@$izzat% da un d!@@me$to den%minat* base di dati.",
+        "q_id": 338
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mo@t!a tutti i $*mi dei docum%nti #sando mo%e$li co! %o!i%e tip$ mo$ello B#.",
+        "q_id": 339
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quali so## i %omi %e@ d#cumen$i ch! util@zzano i m#dell# @on il *o*@c$ BK?",
+        "q_id": 340
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mos@ra tutti i co@ic% d! t$po !#d$llo e il numer@ di d$cu%e$ti @$ando ci%scun t@po.",
+        "q_id": 341
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q$al* s#no i !iversi co#ici di tipo mo!ello e q@%nti @o*um%nti *$ano ogni t*po?",
+        "q_id": 342
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu%le co*ice di tipo m%d%llo viene utilizz#to !a!l! *a@gior p%#te del n%m$ro di d#!um#nti?",
+        "q_id": 343
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Restituisci il codice de$ t$po *i mod*ll@ che #ie!! ##ù com$n!mente u%@to nei doc$m$n@i.",
+        "q_id": 344
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "%o#tra t%tti $ c#di!# d$ tipo model@o che non !o%o utili$$at# da nes%un do$u*$nt!.",
+        "q_id": 345
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q!a%i s*no % #odici dei **pi !* !@d$lli $he non @*ngono u@ilizz*$! p!r nes*un documento?",
+        "q_id": 346
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M#st%* tutti $ @@d!c% e l* descrizio%i del tipo d* m$dello.",
+        "q_id": 347
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quali @on$ ! cod#ci di t#po $ le d*#crizioni per t@t%i $ tipi d@ @odelli?",
+        "q_id": 348
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu%l è le %escr%zion# del @i*o di mod$ll* p*$ il codi$e ti#* \"a$nunc%*\".",
+        "q_id": 349
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Re*tituis$i il tip% di %!d$l$% D*scrizio$e del ti%o *@ @odel%! con l'annunci! %e% cod@ce.",
+        "q_id": 350
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu$l è $# codic$ t$po $odel$* per il !i*o di mo$ell$ Des%riz#one \"!i!ro\".",
+        "q_id": 351
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Re%t$t$isci il c*dice #i#o d@# ti%o di m%dello con i@ \"li%ro\" del*a de%!rizio#e.",
+        "q_id": 352
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q**li s*no l! desc%i$i%ni del tip$ d$ modelli $i@ti!te p@r i modelli m#i util@@z@$* da un docum#nto?",
+        "q_id": 353
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R!!tit@i%ce !e di@erse descrizio!i per i *%d#@!i che so*% stat! @tilizzati i! un docu@ento.",
+        "q_id": 354
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu$!i s@!% gli ID mode*lo con tipo di m*dello D!s%%izione **l %@p* \"Presentaz@one\".",
+        "q_id": 355
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Res*ituisc* gli ID cor!!spond$nti ai m*$e%*i con @a d%sc#izi*!e \"Present$z@*!e\".",
+        "q_id": 356
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu*n$i pa$agrafi #n !otal*?",
+        "q_id": 357
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "C*n$are il numero d* *a#agrafi.",
+        "q_id": 358
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q*ant@ par%graf@ p@r *l documento $$@ il no#e \"%ummer %*ow\"?",
+        "q_id": 359
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Conta @l num%ro di pa%a!rafi ne# docum!nto c*ia$ato \"Su%m$r @how\".",
+        "q_id": 360
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mostra * de#*a#li @el p@ragrafo @er il pa%agrafo c@n il %e%t% \"C*$ea\".",
+        "q_id": 361
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q*ali @ono i de$ta**i per !l paragraf! c*e !nc$ude il t$sto \"Cor@@\"?",
+        "q_id": 362
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mostr% t%tti g%* ID @ test# di par#graf$ per il d$cu%#n*o con il n*me \"@$lc*me t% NY\".",
+        "q_id": 363
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "%uali #ono gli I* $ i test% d*@ *ar$g@afi nel docum!n#o @n!itolato \"W$l@o*e to N*\"?",
+        "q_id": 364
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "!ostra *utti i t*s%i di p$ragr$*o pe$ il doc@m%#to \"Re%e!sioni *ei cli#$ti\".",
+        "q_id": 365
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu$li s$no i te!ti #% p$ragrafo @@* il @ocumen!% con !l nome \"re$e%$i@n# de* $lienti\"?",
+        "q_id": 366
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Most*a tut#i gli %D doc$m#nt! e i! n!mer* d@ para!#afi #n ciascun d*cu@en#o.Ordi*e per docu#%n@o ID.",
+        "q_id": 367
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "@es$itu$sci i diversi ID *el d!*umento !n#ieme al #!me$* di $aragrafi corr%s#o%%*nti ! ci$scuno, ordinato p!r I!.",
+        "q_id": 368
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "!o$tr! t*t#i g$i I# doc@menti, i no*i e i% n#*er$ di paragraf# in cias#un d!*ume$to.",
+        "q_id": 369
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quali %*no gli ID % i nomi di ci@sc#@ d@cu!$nto, n$nché il #umero $i paragr$*i in cia##@n$?",
+        "q_id": 370
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Elenca tut!i g$* ID documenti co* $#$eno d$e $arag@*f!.",
+        "q_id": 371
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual# s$no g#i I$ dei d$%u##nti %#e hanno 2 o più paragr@$i?",
+        "q_id": 372
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qua# @ l'%D do#um#nto % il nome con il ma@gio! #u#e$* di paragrafi?",
+        "q_id": 373
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Res!it$isc# l'ID e !% nome d!l doc!m!*@! co# il mag$ior nume$o di parag$af@.",
+        "q_id": 374
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qua! è l'@D documento co! il mi*or num#r# di %*#ag%afi?",
+        "q_id": 375
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "@esti!u$sci l'!D de$ do%ume!to con il minor n*mer$ di pa@$g*af#.",
+        "q_id": 376
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual è l'I% do%!me@t# c!n 1 a 2 paragraf!?",
+        "q_id": 377
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "D!re @li ID *e! docume$t! c$e hanno tra un! e d!e paragr*fi.",
+        "q_id": 378
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "!os%r% l'*D %o$@m@#to con il tes#o d@ par@grafo \"Br!si%e\" e \"Irlanda\".",
+        "q_id": 379
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@li *ono gli $D %ei d$cumenti che co$te!%ono i@ testo di para#r$fo \"$rasi!!\" e \"Irlan*a\"?",
+        "q_id": 380
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Quanti i#segnant$ ci s#no?",
+        "q_id": 381
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qua# è il conte$gio *ot$l! de!li inseg**nti?",
+        "q_id": 382
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Elenca $ n!mi de@#i *ns*gna%ti in ordi$e di e*à cres$@nte.",
+        "q_id": 383
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu@l% s$** i *omi degli !ns%gnan$i o!di@ati da*l'et# ascen$#nte?",
+        "q_id": 384
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Q!##i sono l'%tà e $a c#%tà nata*e d!g$i insegnanti?",
+        "q_id": 385
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qual è !'%tà e @a cit*à n#tale di ogn* insegn#n!e?",
+        "q_id": 386
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Elen#a il nome d#gli i!se@nant# %a cui @#ttà na$ale no% è `` Lit$$e #ev*r Urb%n D@s%rict ''.",
+        "q_id": 387
+    },
+    {
+        "db_id": "course_teach",
+        "question": "!u@l@ s%no i nomi d$*li in!egnant* la @ui ci*tà nat%%e non è `` L$ttl% #!v@r Urb@# Distr@ct ''?",
+        "q_id": 388
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Mo!#ra il nome d* insegn!*%i di e%à @o@pre$a tra 32 o %3?",
+        "q_id": 389
+    },
+    {
+        "db_id": "course_teach",
+        "question": "$ual# s%no i nomi de#l% inse@n!nti che hanno %! $ 33 anni?",
+        "q_id": 390
+    },
+    {
+        "db_id": "course_teach",
+        "question": "!*a# è #a c*ttà nat$le dell'#nse*n%nte $iù g@ov%ne?",
+        "q_id": 391
+    },
+    {
+        "db_id": "course_teach",
+        "question": "@a dov$ vie*% l'ins*g**nte p@ù giovane?",
+        "q_id": 392
+    },
+    {
+        "db_id": "course_teach",
+        "question": "M*stra di#erse città di insegna*ti e il nu!ero di inseg***t$ #i %@ni cit@# @at$le.",
+        "q_id": 393
+    },
+    {
+        "db_id": "course_teach",
+        "question": "P!r $gni ci#tà %a!ale, qu@nti *!se@$*nti ci son@?",
+        "q_id": 394
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Elenca l* c@*tà #$tale p@ù comun% degli $n@egnanti.",
+        "q_id": 395
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Quali sono l@ ci*tà pi# %@mun@ per %li i*segnanti?",
+        "q_id": 396
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Mostra le c$$tà %elle città co#%ivi@e da !lmen! du# %nse$na#ti.",
+        "q_id": 397
+    },
+    {
+        "db_id": "course_teach",
+        "question": "!a cosa pr@ven!o%$ l$ ci$tà !* cu% p!ovengo*o almeno due i%se#nanti?",
+        "q_id": 398
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Most!a i n$mi !egli i@seg%ant! e de% *@rsi che sono organizzati %er #n!%gn%re.",
+        "q_id": 399
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qual è @l nome di ogni in*egn@n!e e qua!e $orso in%egna*o?",
+        "q_id": 400
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Mos@ra % n*mi degli ins$g#ant! e !@! co%si ch% *on@ o#gani*z*ti !er i#se$*are i$ un ordin! alfab%tico asc*nde$@# del $om! dell'*nsegnante.",
+        "q_id": 401
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qual$ sono i no%i !e#%i ins%!*anti e dei !*%si ch! i*segna!o nell'$rdi*e alfa@!tico as$endent! c#* *l nome dell'insegn@nte?",
+        "q_id": 402
+    },
+    {
+        "db_id": "course_teach",
+        "question": "M@str# il !ome %ell'inseg$ant$ per @l cor#o di #at%mat!c%.",
+        "q_id": 403
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu!li so!o i nomi del!e p#rson@ c@e insegnano #$!si *i ma@emat%$a?",
+        "q_id": 404
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Mostr# * nomi !eg#i #n*e@nant! e il numero %i corsi che insegna*$.",
+        "q_id": 405
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu$l# s$@@ i nom# degli i*se*nanti e q*anti co*si inseg%*no?",
+        "q_id": 406
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Mos#ra nomi *$ in#!gna@ti c%e inse#nano al@eno @*@ c!rsi.",
+        "q_id": 407
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Q*al@ $%$* i $omi degli inseg%$n*i che i*segnan* a%m!n$ due cor$i?",
+        "q_id": 408
+    },
+    {
+        "db_id": "course_teach",
+        "question": "%@e$ca i nomi d%gli i#s$*!anti c#e non @on# s@ati organ!zzati per insegn!!e corsi.",
+        "q_id": 409
+    },
+    {
+        "db_id": "course_teach",
+        "question": "*uali sono $ no!i d#gl# in*egn@!t! i cui corsi no# sono sta#* org*niz#ati?",
+        "q_id": 410
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Q$anti vi%i*atori *i età inf$riore ai #0 anni %@ #$no?",
+        "q_id": 411
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Tr#va i nomi dei $isit!tor@ i* c%i live@lo di *scriz%one è s%p@rio!e a % * ordin# % risu*tati *#l live$lo d@ alto a b#s#o.",
+        "q_id": 412
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qual è l'*$à media $ei @isitatori il cui livello !i @s@rizio$e no$ è supe%i$$e a 4?",
+        "q_id": 413
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Trova il nome $ i* livell% @i abbon%*e*to dei visi%at$ri il c$i livello di $%criz@o#e è su@eri@re % 4 e ordina p%r l! $oro e*à *! #ec*hio a gi@va*i.",
+        "q_id": 414
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Trov@ l'ID e *% %om! del m%*eo che ha il m%ggior n*#er* di me!bri #el$o s!aff?",
+        "q_id": 415
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "!rova i! n!@*ro m#di@ di personal$ che la*ora per i musei $perti !$im$ del 20%9.",
+        "q_id": 416
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Quali sono l'%#no di a@@rtura e il nume** del pe*son**e *e@ mu%e* del Mus%o di Plaz$?",
+        "q_id": 417
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Trova i n%mi dei mus#i che h!nno @i* #er@on@le risp%tt# al @u@ero minimo d% tut!i # m!$ei $perti @o*o il %0#0.",
+        "q_id": 418
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "T!ova @'ID, il no$e e l'$tà p!r i visitat@$# @he hanno vis*tat% a%cu%i musei più di u@a volta.",
+        "q_id": 419
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qua#i s#no l'ID, il !$me e il li$ello di iscrizione dei visi@$t%#$ c@e %a%*o sp*so la più gr!nd% @#a#@it* di denaro #! total% in !@tti i b*#!i**t@ per #l m@s!o?",
+        "q_id": 420
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qu$li $on@ $'ID e il n%m* !e! museo visit#to la *aggio* parte de*#e volte?",
+        "q_id": 421
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Q!al è i# @ome del m!se! che @%n av@va ancor% v#s$tat**i?",
+        "q_id": 422
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Trov$ il nome e l'e#à #el v*si@a*ore che @an*! ac$uistato il #a%gi@r numer# @i big!@*tt$ conte$po@anea@ente.",
+        "q_id": 423
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Quali %o#o %l num!## me$io e $assimo d@ !i@*ietti %cqui$tati *n #utte le vis%te?",
+        "q_id": 424
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Q%al è @a spesa to$@le del b$g$*etto dei vi!it@$ori il #ui l*vell@ di iscr$zione è 1?",
+        "q_id": 425
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Q#a@ è il no*e del visitat#re c%$ ha vis$t%to sia u* museo aper*o pr#%a del $$0* e u$ %useo @per#o dopo il @0$1?",
+        "q_id": 426
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "@rova i% n$mero di visitato*i che non hanno !@#ita@o a%$%$ museo !@e%to dopo il 2%1$.",
+        "q_id": 427
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qu*n$i %usei !on! stati a$er$i dopo i@ %%13 o prima del %0%*?",
+        "q_id": 428
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trov$ @l $u!ero @o*ale d$ *io*atori.",
+        "q_id": 429
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quanti gioc!$o%$ ci s#n!?",
+        "q_id": 430
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trova !l *umer! totale di !or$is*o!@$nze.",
+        "q_id": 431
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Con@a !l numero d# $artit!.",
+        "q_id": 432
+    },
+    {
+        "db_id": "wta_1",
+        "question": "#lenca i@ nom# # @a d%ta di %a*cit! di tutti $ gioc*@ori del p$%se con Cod* U!%.",
+        "q_id": 433
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu*%i sono i nomi e !e date di nascita dei giocat@*i *egli @@ati U!*@i?",
+        "q_id": 434
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tr@va l'età m#dia @@i perd#n!i e %e# vi#c$tori di tutte le part$t!.",
+        "q_id": 435
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@li son@ l'età me$ia %ei perden#i e dei vi$citori #@trav@r%o l$ p@r$i!%?",
+        "q_id": 436
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tr**a $l grado medio di @i#cit$ri $n #ut*e l* partit%.",
+        "q_id": 437
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu%l è il !$#do @e@io %er i vincitori i% !utte %$ @ar#ite?",
+        "q_id": 438
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tr@va i# %iù @lto grado %# %erdenti $n tutte l% %*rt!t*.",
+        "q_id": 439
+    },
+    {
+        "db_id": "wta_1",
+        "question": "@ual $ il mi*lior gra$o d@ %er*ent* i$ tut*e l# partit@?",
+        "q_id": 440
+    },
+    {
+        "db_id": "wta_1",
+        "question": "#%$va il numer* di cod#ci @#zionali @istinti di tu#$i i gio%at@%i.",
+        "q_id": 441
+    },
+    {
+        "db_id": "wta_1",
+        "question": "#* q*anti paesi di*#in%i prov!ngono % gioc$$#*i?",
+        "q_id": 442
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trova $l nu#ero di dist!nt* no@$ di perden!i.",
+        "q_id": 443
+    },
+    {
+        "db_id": "wta_1",
+        "question": "@*ant# n$m# di !er%e*ti *@versi ci sono?",
+        "q_id": 444
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tro*a #l nome @el torne# c$# !a @iù di 10 par@ite.",
+        "q_id": 445
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q$%li sono i nomi dei t$rne$ che *%nno #iù di 1* *a%tit*?",
+        "q_id": 446
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Elenca i no%i di #utt$ @ vi@c%tori ch! *a!n% gioc@to sia !e% !013 %he nel 2016.",
+        "q_id": 447
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quali @ono ! nom* #ei g*#cator@ *h$ hann% vin*o #i@ n%l !013 che n#l 2016?",
+        "q_id": 448
+    },
+    {
+        "db_id": "wta_1",
+        "question": "!l$nc# *# n@mero di tutte $e par@ite ch# @a$no $io*ato negl$ ann* 20$3 o 2#16.",
+        "q_id": 449
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q%a*te p#r%it* #@no state g$oca#e nel 20*3 o nel 2016?",
+        "q_id": 450
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quali sono $l codice di campag%a e @$ *o%e dei g@ocat@r% che h#$!o @$#to s!# nei c%mp*onati WT! $el %orneo @he aus$ral*ani Open?",
+        "q_id": 451
+    },
+    {
+        "db_id": "wta_1",
+        "question": "!uali %!n% i nomi e i codici $i $#m@agna per i gio@a%o#% che hanno %into sia i cam@i!$$$i WTA $h@ gl% *us#ralia$ Open?",
+        "q_id": 452
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trova #l n*m% e il codic* di $amp%%n% del g#ocator@ !iù anziano.",
+        "q_id": 453
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qual è %l n%me e il c%dice d% #am#agn% de@ $i@cator@ pi% a*@iano?",
+        "q_id": 454
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Elenca i! @*me e %l cognome di t!t$# i #io!atori ne!l'ordine di $*s@it!.",
+        "q_id": 455
+    },
+    {
+        "db_id": "wta_1",
+        "question": "!uali sono i !omi %@mp#et! di t%#t% i gioc%to!i, ord@nati per d@@a di %ascita?",
+        "q_id": 456
+    },
+    {
+        "db_id": "wta_1",
+        "question": "E@e!ca il %ome e i$ c*gnome %i tu%@i i gi$ca$ori ch* s#@# rima!ti / L *e$la data d@ nascita.",
+        "q_id": 457
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qua$! sono i !o*$ %o@pl%*% di t@tt@ $ giocatori a sinistr!, in #*dine $i n!scita?",
+        "q_id": 458
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trova il $om$ e il cod*ce di %a**ag%a d%@ !io!ator* $he ha fatto il mag#io$ n!m$r! di t$ur.",
+        "q_id": 459
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qual % !l nome # il codi*$ %i #a%pag!a del $iocato!e co* il mag#ior n@mero *i *our?",
+        "q_id": 460
+    },
+    {
+        "db_id": "wta_1",
+        "question": "@rova l'!nno ch# ha i# *a*gior numero di $a$*ite.",
+        "q_id": 461
+    },
+    {
+        "db_id": "wta_1",
+        "question": "I# q**@e anno h# avut$ #l m@ggior num#ro di parti%#?",
+        "q_id": 462
+    },
+    {
+        "db_id": "wta_1",
+        "question": "@!$v* il nom* e i #u#t% d! rang* #el vinc!tore che ha @into il @a*gior nume!! di volte.",
+        "q_id": 463
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu%l è #l no$e de# *incitore !he h$ vinto @l mag$io% numero $@ partite e #u!nti #unti @i $ango h# qu@sto gioca@o@e?",
+        "q_id": 464
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T#ov! *l no%e del v!nc#tore che ha % punt# pi# #lti e ha partecipato al #orneo aper*o a#@%r@lia$o.",
+        "q_id": 465
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q$al $ !l nom$ del %incito@e con i p%n%i #iù di rango che h%n%o pa!teci$at# $l Torneo Austr@li%* Open?",
+        "q_id": 466
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tr$$a i no@i #e$ perde$te e #el vincitore che ha*@% g#%cato *el@a part**a con un *a$gi#r nu$ero %$ minut!.",
+        "q_id": 467
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qua%i sono * %omi d@l #%ncitore e del perde*te che ha*!o gi@cat! @ella #$r%i!a p!ù !un#*?",
+        "q_id": 468
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trova la $lassifica %edi# per !#ni %i%$a#%re e il $o#% nom*.",
+        "q_id": 469
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qua%i *ono # %r$mi n$mi di tut#i i g$o#!tori ! le lor* #lassi$!!he medie?",
+        "q_id": 470
+    },
+    {
+        "db_id": "wta_1",
+        "question": "$rova i punt! di cl@#s@ficazio$e #o*ale per ogn@ @i#ca$ore e i% lor* #$me.",
+        "q_id": 471
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q#ali s%*# i primi *omi di tut!i i g@ocato!i @ i lor# !u#t$ di @lass#fica#ione to*al!?",
+        "q_id": 472
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T%!va il n!!%ro di gi%*atori per ogn* pae%*.",
+        "q_id": 473
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q$a!ti giocatori son* da o#ni pa#s*?",
+        "q_id": 474
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T@ova i* c#d*!e del #ae$e dov$ %a i# ma!gior numero di g$%cat%ri.",
+        "q_id": 475
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qua* è i* codice d%l %aese con la ma#gio$ !arte $#i gioc$tori?",
+        "q_id": 476
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tro%a i codic% d#i paesi che ha!!o p%ù d% %0 gi%catori.",
+        "q_id": 477
+    },
+    {
+        "db_id": "wta_1",
+        "question": "!@al# so@o i c@dic* !e$ paesi c@n *i@ di 50 giocatori?",
+        "q_id": 478
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T$ova @l num*ro to!al! di t@ur p$r og*i @ata di c@assifi*azio!e.",
+        "q_id": 479
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q@an%i !our to$$li #'erano per ogn# data di c$%*s#fica$$one?",
+        "q_id": 480
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tro!a i@ $@m%ro di parti!e ch% è **ven@to o!ni a#no.",
+        "q_id": 481
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qua@@e partit! v!@i$ano gi%cate o*ni a*no?",
+        "q_id": 482
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trova il nome e $l gr@!o @e@ 3 *!ncitori pi# giov%ni in tu%t$ !e pa$*ite.",
+        "q_id": 483
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@li s@no i n$mi e i !!%g*i de% tre @iù @i@*ani vi!citor% in $utte le partit#?",
+        "q_id": 484
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu%nti v$#*#tori !iversi hann* pa@@eci#ato entra$bi ai $$mpion!ti W%# % #ono stati manci%o?",
+        "q_id": 485
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T@ov$ il $ume!o d% $!nc!tori d%lla $ano sin#stra che #!@no part*cipato ai campi*nati #!*.",
+        "q_id": 486
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trova il nome, i# codi*e del pae!e e l@ d#t# *i na#c@*a %el $i#*it#re che #% i @unti più alt* in t%tte #e par*ite.",
+        "q_id": 487
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qua! è il *!m!, #l cod!c# di @am%agna # la dat@ di n*%*i#a del gio@atore co* i pu!ti %i cl#ssi#!cazione più vi%$i#o!i *n tu!!e le !artite?",
+        "q_id": 488
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tr*v* il numero *! gi*c*tori pe@ ogn% tipo di man#.",
+        "q_id": 489
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@nti g@ocatori ci s#n@ per #gni $ipo d* man$?",
+        "q_id": 490
+    },
+    {
+        "db_id": "battle_death",
+        "question": "!u!nte na$i %anno finit* !er essere \"cat!%r%te\"?",
+        "q_id": 491
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Ele##a il nome e %l t!n*e!laggio ordina%i da in @rd#ne alf!b%tico discend*nte $#% i %omi.",
+        "q_id": 492
+    },
+    {
+        "db_id": "battle_death",
+        "question": "E!#nca il @ome, !a data e il $isu*tato di og*i b%tt%#li#.",
+        "q_id": 493
+    },
+    {
+        "db_id": "battle_death",
+        "question": "*ual $ il bil$@c!o del!e vitt*m# massi#o e mi*imo *@usat@ @gn$ v$lta?",
+        "q_id": 494
+    },
+    {
+        "db_id": "battle_death",
+        "question": "@u!! è i% numero !edio di lesion% c%usa#@ o#ni vol!$?",
+        "q_id": 495
+    },
+    {
+        "db_id": "battle_death",
+        "question": "@ual* son* le sit@az*on$ d! @orte % lesio!i cau%at! da!la nav$ @on to!nellag*io \"t\"?",
+        "q_id": 496
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Q$a$i sono %l no%e e i !i@ult$@i d@lle ba%tag!ie quando il $o$#%dan*e bulg%ro n!n è \"boril\"",
+        "q_id": 497
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu!li so$o i divers@ I* e n%!i #elle battag*ie ch# hann! pe!so #u!ls$asi *$po @i t#po \"b!ig\"?",
+        "q_id": 498
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Q*ali #ono $li ID e i no$@ de$l* #attaglie #he hanno !or#!t$ a p*ù di 10 persone uc!is* in !!tale.",
+        "q_id": 499
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qual * l'I* e il #*me %*lla n*ve che $anno ca#*#t# la maggior par*% d@ll! lesio%i totali?",
+        "q_id": 500
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Quali #ono $ nom@ $i b!tt*g@ia %i*ti@ti c$e #ono tra il c!@#n%a%t* #ulgaro \"@alo#an\" % !% com%nd$nte latino \"Bal$w#n I\"?",
+        "q_id": 501
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu#nt% r*sultat* diver%i ci s@no per le ba*ta$l$e?",
+        "q_id": 502
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu$n*e bat!%!#ie non h$nno perso l$ nave con il ton*ellaggio \"*25\"?",
+        "q_id": 503
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Ele$ca !l *ome * la data della b$#!!g*ia ch@ h$ pe$%! !a nave c@i$m!#a \"Lettice\" e #a *av! c@ia@ata \"HM@ Atalanta\"",
+        "q_id": 504
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Mo#tra nomi, risul!a$i # com%$da$ti bu#gar* *elle battag*@e senz% navi p$r!# n*l \"canale di @ngl$#e\".",
+        "q_id": 505
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qual$ s#no @e note deg#@ eve!t! di mort$ che ha ## sot*o%tring@ \"est\"?",
+        "q_id": 506
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "$o$a s#no #!tti gli indi#i@zi t#% cui @a riga 1 e @a riga @?",
+        "q_id": 507
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q*al è #! pri#a e la secon@a riga p!@ tutti gli indir@zzi?",
+        "q_id": 508
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quant$ !o$si i% to%ale s%no *lencat%?",
+        "q_id": 509
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q!an!i corsi ci !@no?",
+        "q_id": 510
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Co*e v@ene d%scr*tt$ il $or*o di m@te!atica?",
+        "q_id": 511
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q@ali s!no #e desc!iz$%$i per tu!ti i %@r*i d$ matematica?",
+        "q_id": 512
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@l è *l %!di#e postale de@@'in$!rizzo #el Port Chel%ea d@#la *ittà?",
+        "q_id": 513
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qua$ è il c#d@*e posta$e p*r Port *!else%?",
+        "q_id": 514
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "!ua$e dip$rtim#nto @ffre il %aggio! numero %i gradi?#lenco N%me %*@ D*#artime#to e ID.",
+        "q_id": 515
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu#l è %l **me e l'ID del @iparti!ent! c#n !l mag$ior *ume@o d# grad$?",
+        "q_id": 516
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qua%*i $*pa@tim%nti offrono qualche l!u!ea?",
+        "q_id": 517
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quanti di@@rtimen#i @iv%r!i #%f!ono @radi?",
+        "q_id": 518
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "!uanti nom@ di lau!ea !iversi *o@o of$%r#i?",
+        "q_id": 519
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q*an@i gr*di diversi so*o #!ferti?",
+        "q_id": 520
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "%u%nti gradi o@f$@ il di#arti%e$t$ di *ngegn!ria?",
+        "q_id": 521
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "*uan@i gr#di ha il dip!rtimento d# *ng#*n$ri$?",
+        "q_id": 522
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual* so@$ i nomi e le descr!!ioni *i t$$te le s**ioni?",
+        "q_id": 523
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quali @*no i n!mi % le d@!*@izio#i p%r tutte *e s$zioni?",
+        "q_id": 524
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quali %ono $ n!mi e l'ID d@i c#r@i ch* hanno al $assimo 2 %%zi!ni?",
+        "q_id": 525
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu$li @%no i #om# % gl! ID di o@ni corso con me%o di 2 se@ion$?",
+        "q_id": 526
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "!@e$ca il !ezion$_n!me in #rdine lessicograf**o #nv@rti#o.",
+        "q_id": 527
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q$ali !@!! i no#i @**le se$ioni in *r*ine alfabetico in%erso?",
+        "q_id": 528
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "!ual è i# s!#estre in c$i la maggi!r parte deg*i st*denti si # regi$$ra!a?M*stra sia il *ome c!$ l'ID.",
+        "q_id": 529
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Per !gni #e#e*#re, q$a$ $ %l nome e l'@D di q#ello con il %aggio% numero di stude!ti re!ist!!ti?",
+        "q_id": 530
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qua@ è la descrizi$n# d%l d#par#ime$%$ @l cui nom! h* la so#tostri@g! il !o$p%t@r?",
+        "q_id": 531
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q@al # l$ desc!i$ione !el dipa#ti@$nto #e# %hi %l %ui !ome ha la p*rola comp@ter?",
+        "q_id": 532
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Chi sono #scr%tt# in *rog%am!i d@ 2 gradi in u! semest@e?Elenca i$ *o#*, !l #ec$!*o #ome e i* cog%!me e !'ID.",
+        "q_id": 533
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "*#al$ @o$% i primi, m@d$ e c!gno*i, ins#eme a@li ID, di t%t*i gli !tudenti ch% si sono @s%r!tt$ a programmi di 2 %radi !n u! seme@tre?",
+        "q_id": 534
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Chi ! isc@it@% a un *@ogram$$ d@ la!rea?Elen!* il nome, $# second$ no#e, i! %ognome.",
+        "q_id": 535
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q#ali son# i pr$*i, %edi @ c@gnomi p$r t@tti is@ritt$ a #n programma di lau!ea?",
+        "q_id": 536
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "T!o#$ il tipo %i p!ogramma i$ *ui è is*ritto @a mag*%or p!rte del @#%!ro di #tud%$ti?",
+        "q_id": 537
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual è i! n@!e $i sin*es# che ha il maggio* @#mero di st!d#nti #s*ri%t*?",
+        "q_id": 538
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Trov% il pr!$@a$ma in cui la maggi!r par@e $e$li s%udent# è *scrit@a. Elenca !ia l'ID c#e %l r!epi*og!.",
+        "q_id": 539
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual è l'ID d#l !rog*am@a e il r#e*i#ogo de#la laur%a c@e ha la !ag*io* parte d$gl$ s#u$ent# *scrit!i?",
+        "q_id": 540
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quale s%ud!nt% si $ !@crit%o p!r la maggior parte del@* v$lt# i* #uals#as* p$ogra$m!?Elenca l'ID, *% nome, il secondo no!e, %l $ognom@, il *u*ero d@ @s!rizioni e %D studente.",
+        "q_id": 541
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qua! % il primo, *edio e cogno#e, ins@e#e $ll'!D e !l !umero di i%c#iz$oni, p$r %o studen$e $h* %* è isc#!*to di più !* qualsi%si pr@gramma?",
+        "q_id": 542
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "$$ali **mest@i no# ha#!o $no !tudente i%$r%tto?$lenca il no#* del sem#stre.",
+        "q_id": 543
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu$l è il $o@# de$ $@m@stre s!nza s@u%enti isc!itti?",
+        "q_id": 544
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q$*li sono t@tti i %omi dei @$rsi de* corsi che %a@no mai isc*$tto gl@ studen!#?",
+        "q_id": 545
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "!u*!i sono i no*i di tut#i i corsi ch* !a#no a%c!ni stu%en$i is#ritti?",
+        "q_id": 546
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "@ual è i# n%me *el corso *on la maggio! $arte de%%@ i!c@izioni?",
+        "q_id": 547
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "#%al # il nom$ d@$ %orso c$n la maggio$ parte degl# stude%$i iscr%@t!?",
+        "q_id": 548
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "T$ova i@ cog$om* degli !t$%ent$ che attualm*n%e viv$no ne*lo stato della Caro!ina @!l N$rd ma %on @i $ono r!gistrati in nes#un pro!%amma di l*u$ea.",
+        "q_id": 549
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "*uali son$ il co!no@e degli s*ude#ti $he %i@$no nella !arolina del Nor# *a n!n s! %!*o registr$t$ in $r%!r@mmi di l%!rea?",
+        "q_id": 550
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "*ost$! la data e l'ID %ella tra#criz%%ne c$n al$eno 2 @!sul$ati d!l c$rso.",
+        "q_id": 551
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q!al è $@ %ata e l'ID della trasc!i$io*e co@ al*e#% 2 c*rsi ele*cati?",
+        "q_id": 552
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@l è i$ #umero d$ t$le%ono d#ll'uom! con *l !ome T@#mo$hy e il cog@o#e !a!d?",
+        "q_id": 553
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q#%# è il numero di cell$lare dell@ s*udente di nom% Ti#$ot*y *#r!?",
+        "q_id": 554
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Chi @ i* $rimo stu@e*te a $egi%t%a@si?Elenc% il n$%e, i@ s@condo #!m* e il c#gnome.",
+        "q_id": 555
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual è il prim!, il centr@ e il co#no#! del p%i@$ s@u@en@e a @%g#stra!si?",
+        "q_id": 556
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Chi ! %l pr@mo di*lomat$ de@l! scuola?Elenca il !#me, i@ *econdo nome e il co#@om%.",
+        "q_id": 557
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "%ual è #l pri!o, i@ medi* e il #o!nom! del primo d%$lomato de%la s*$@la?",
+        "q_id": 558
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Il %ual# indirizzo #ermanente è di@erso %a% suo indi%$$zo attual@?E*@nc@ il @uo no#*.",
+        "q_id": 559
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual è il prim* nome d@l$o s@udente il %ui i*@ir#zzo perman$*!e è d!v@rso da q!ello a!tua$#?",
+        "q_id": 560
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "$u*** $nd@r%z#o co@tien! $l maggior num!ro di student* attu$lme$t#?Elen%a l'ID i$dirizz% e %u%te l% righe.",
+        "q_id": 561
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual # l'ID, l! ri!a $ e l$ riga 2 dell'in%i#izzo con @l maggi!r $um$ro di studenti?",
+        "q_id": 562
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "In *edi#, $uando son$ *#a!e *t$m@ate le tr$s$rizioni?",
+        "q_id": 563
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual è la d%t! di tras#!izi%ne med*@?",
+        "q_id": 564
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quand# viene rila@ciata la $$@m$ tras*rizi%ne?%*e*c* la data # % dettagli.",
+        "q_id": 565
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q%al * la prima d$ta di una ve$sio!e tr@sc$$$%a e qu!*! $ettagli puoi dir*#?",
+        "q_id": 566
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q*a$te trascri!ioni v#ngono rilasc$a$e?",
+        "q_id": 567
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quan## tras$ri%ioni so!o e#e$cate?",
+        "q_id": 568
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q@al è l'ult@$a dat% !i r*lasci* del@# t!ascrizione?",
+        "q_id": 569
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q%an*# è s#at% ri*%s#iata #'ulti!a t!asc*izione?",
+        "q_id": 570
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "@uante !olte a@ @*ssimo può e*%ere un risultat@ d# $sc@$zio%e al @orso *$ dive%se trascr!zioni?Most!a anc%e l'!D !i iscr#!ion$ #l !orso.",
+        "q_id": 571
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qua# è %* nu$e%o mass@%o di volte in cui un co%%o !ie!$ vis%alizzato i! diverse tr!scr%***ni e !u%@ è l'ID d! is*rizione di %ue% corso?",
+        "q_id": 572
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Mos@ra la @ata d!lla tra#cr*zione %he m#s*r! @l minimo n!m*!o !i ri#%l$ati, $len@a anche l'ID.",
+        "q_id": 573
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "$ual # la %$t$ * l'ID del!a trascrizio$# con il mi%im$ *um!ro di %isult#%i?",
+        "q_id": 574
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "%ro$a i# se$estre in cui si $o!% is@!i!ti sia gli st@d#nti m%est*i c*e gli studenti !i laurea.",
+        "q_id": 575
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "*ua# è l'ID del $em*st$e che ha registr*!o @#a maestri c%$ st%@e@@i di *@urea?",
+        "q_id": 576
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qua$ti !ndirizzi diver$* v$vono gl@ stu!ent% attu%@*e@$e?",
+        "q_id": 577
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qua!i $ono i $i%e##$ in%iri%%i !he hanno studenti che v#!on! l#?",
+        "q_id": 578
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Ele%ca t!tti i dett*g$i degl* *tuden$i in @!dine *ess$cogr$fico i*verti%o.",
+        "q_id": 579
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quali a$$!i %e#tagli pu%i parl$rmi degli stud#%ti i% !rdine alf*b$%@c* in%$rs!?",
+        "q_id": 580
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Desc#i$i %a sez$one $.",
+        "q_id": 581
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q!al è la @e@c#iz#one per la se%i$ne c#ia#at* H?",
+        "q_id": 582
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "T@*va il nome d*gli st$#enti #he viv#!o #erm*nenteme#te *el pae!e $aiti o hanno %l num!ro di cell*#are 09!00!6$5!2.",
+        "q_id": 583
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quali so#o # p@imi !omi d%g#i stude%ti che vivono ad Hai%i per!!nen#e!ente % $an%o i% numer$ *i #e@lulare 097!@16*@*2?",
+        "q_id": 584
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Elenca il titolo di tu*#i $ ca#t%ni anim!ti #n o$dine #lfab%tic%.",
+        "q_id": 585
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua$i so$o i t%toli dei cart!#i ord@na!i %n o%di#e @lf$b%tico?",
+        "q_id": 586
+    },
+    {
+        "db_id": "tvshow",
+        "question": "$len%a tutti i cart!ni !nima*i dirett# !! \"!en Jo%es\".",
+        "q_id": 587
+    },
+    {
+        "db_id": "tvshow",
+        "question": "$ua@i $ono # nom! d! tut%i i @!r*oni diretti da Ben Jo*es?",
+        "q_id": 588
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua$ti ca!ton# #on$ st*ti !cri$ti da \"%oseph Kuhr\"?",
+        "q_id": 589
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è il !u@e!o di cartone !cr#tt@ da Jo!e!@ Kuhr?",
+        "q_id": 590
+    },
+    {
+        "db_id": "tvshow",
+        "question": "*lenca t!tti i tit*#i dei carton* $nim$ti e i loro r@g$!t# or%i$ati c#! la loro d%ta *erea",
+        "q_id": 591
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua@ è il no$e e i r$gisti %i tut%i i car$*ni che sono ord$$ati *er !a%a aer%a?",
+        "q_id": 592
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Elenca i% titolo d* t!#ti @ carto*i an!mat% dir!tti *a \"@*n Jo@es\" o \"Br@ndon V%e$ti\".",
+        "q_id": 593
+    },
+    {
+        "db_id": "tvshow",
+        "question": "!ual# so$o i titoli di tutt! * ca#toni !iretti #$ %en Jo%#s o Bra!do* V$e*t@?",
+        "q_id": 594
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual$ paese $# l! maggi*r *arte @ei cana!# !V?Elen#a *l paese e i$ num!ro d! canal@ TV $@$ ha.",
+        "q_id": 595
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua* è i$ !aese con $l magg$o% *umero @* canali $V e #u@nti h@nno?",
+        "q_id": 596
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Ele*c$ il numero di nomi e con$%nut# di ser@e d@versi nella ta!%l*a d*i c$@ali @$.",
+        "q_id": 597
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu$nte serie e conte@#ti di!ersi sono elenca*i n$lla #ab!@la d$! c%n!$i TV?",
+        "q_id": 598
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q*al ! *l cont%nuto de% c$#ale TV %on $l nome s*riale \"S%% R#dio\"?",
+        "q_id": 599
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu#! # il co!tenut@ #ella Se*ie Sky R@d%o?",
+        "q_id": 600
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è l'op#io%e pa@chetto del ca#a!$ @V con !o@e s#%iale \"@ky Radio\"?",
+        "q_id": 601
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual% so$o le o$@ioni di p@cchetto d@i canal! TV * cui n#mi delle s*$ie %on! *!y Ra%io?",
+        "q_id": 602
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu#nti c$nali T@ #he us%no l'in!les@ linguis!i@@?",
+        "q_id": 603
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu%#ti can*#i TV $sano la *i@g%a *nglese?",
+        "q_id": 604
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Elenca i$ linguagg#o uti#izzat% meno n#m*ro di c*@a%e TV.L$*g*# di el$*co ! numero d@ ca#al! TV.",
+        "q_id": 605
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua*i s%no l* lingu! !ti%iz$!te d@$ min%mo n@mer% di canali T! @ qu%n*@ canali lo $!ano?",
+        "q_id": 606
+    },
+    {
+        "db_id": "tvshow",
+        "question": "E!e$c@ ogni lingua e i* nu!e!o !i %anal$ @* usandola.",
+        "q_id": 607
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Pe% ogn* ling*a, ele!ca il nu%ero *i can@li $V che !% u*iliz%*$#.",
+        "q_id": 608
+    },
+    {
+        "db_id": "tvshow",
+        "question": "%#a# è il #an@l% T@ c$e #ost*@ il *arto@e animato \"The R@#* of t%e Blue Beetle!\"?!#en#a !l nome del#a serie de* canal# !#.",
+        "q_id": 609
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è il nome de@$a serie *el !ana!* TV !he mo!tra %l ca$t%%e a%i@at@ \"!he Ri%e of the Blu@ Beet!e\"?",
+        "q_id": 610
+    },
+    {
+        "db_id": "tvshow",
+        "question": "@lenca il $itolo di tutti i carton@ $*#@at* mo*tr%ti sul can@%e TV @on %l nome *e@l! s*rie \"S%y $#d*o\".",
+        "q_id": 611
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu*l è !* titol# di %$t@i i carto@%@ che si !r!van! sul canale TV con i% n#me della s@rie \"Sky %$##o\"?",
+        "q_id": 612
+    },
+    {
+        "db_id": "tvshow",
+        "question": "E$en$# !'*pisod#o d% tut#e le seri@ T# ordina$e p*r %al%tazione.",
+        "q_id": 613
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual$ s$no $u!ti g@* episodi ordinati da@l$ va$@@a@ioni?",
+        "q_id": 614
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Elenca le $rime $ @e%%e TV di valut#zione più alta.E#en%% l'ep$@odi@ $ell$ *e@ie #V e la #alutazion@.",
+        "q_id": 615
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu!li !!no i 3 e#%%odi più appr%zza$i nella @abell# dell# seri$ T! e quali e!%no quelle va%#$@zioni?",
+        "q_id": 616
+    },
+    {
+        "db_id": "tvshow",
+        "question": "!*al è la $uot* minim% e m!@sima $elle se$ie *V?",
+        "q_id": 617
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è #a quo@a massima e m*@$%a pe* la #erie TV?",
+        "q_id": 618
+    },
+    {
+        "db_id": "tvshow",
+        "question": "*u*l è la data !ere! @ell# %$%i# T@ $on !'epi$odio \"A Love %f A Lifetime\"?",
+        "q_id": 619
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu%ndo è sta#o t@$@messo l'episodi@ \"A %@ve of % Lifetime\"?",
+        "q_id": 620
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è i@ g*#do set!i%anale d* ser#e *V co% l'!pisodio \"A L#ve of A $i!$t$##\"?",
+        "q_id": 621
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è il ran@o settim*nal# p** $'e@@@$*io \"A L$ve @f A Lifetime\"?",
+        "q_id": 622
+    },
+    {
+        "db_id": "tvshow",
+        "question": "*ual è i$ canale TV della seri@ TV co@ l'episo!io \"A L!ve of ! L*@etime\"?Ele%ca il $o$e d*!l! serie @## ca$al# TV.",
+        "q_id": 623
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q!al $ @@ #o%e della %eri# che *a l'episodi$ \"A Lo@e of * L#fetime\"?",
+        "q_id": 624
+    },
+    {
+        "db_id": "tvshow",
+        "question": "El*n!a l'epi@odio di All TV Series mostra*% s@ TV C%#@ne# c@@ il nome d@@la seri* \"S!y Rad$o\".",
+        "q_id": 625
+    },
+    {
+        "db_id": "tvshow",
+        "question": "%u!l # l'episodi! per la serie T# c**ama#a \"Sky Radi*\"?",
+        "q_id": 626
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Tr!!a il nu!e@o di cartoni d%ret!i d@ cias#uno dei di@%ttor! #%enca$*.",
+        "q_id": 627
+    },
+    {
+        "db_id": "tvshow",
+        "question": "*uanti cartoni h$nno c$ea%o *gni r%*ista?",
+        "q_id": 628
+    },
+    {
+        "db_id": "tvshow",
+        "question": "$r!va il codice di produ@*one # i# c!nale del c*r%one an$mat* in o!da più re@%n#e.",
+        "q_id": 629
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è il cod%c! d$ p%oduz!o*e e i* canale d!@ c%rt$ne animat$ più recent*?",
+        "q_id": 630
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Trova la sc!!ta %*l %%%c$et!o e il nome d@#la s*r#e del cana$e T% con TV #$ alta %ef#nizion*.",
+        "q_id": 631
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Quali so@% @e opzio$i d*l pacche*to e i* nome d@lla ser#e p$r i# c#na$e TV c#e #u%p$rta T$ ad *lta de%ini#ion%?",
+        "q_id": 632
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu#li $ana#i %% dei pae*i stann$ g$o$ando un cart#ne a#imato s*ritto @* $@%d Case$?",
+        "q_id": 633
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Quali s#n$ ! paes! che han*o carto@$ a#@*at$ i* T! $he sono %t$t@ scr#tti da Todd Ca!ey?",
+        "q_id": 634
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Quali cana%i TV de% paesi non g#o*@n* alcun #a*tone anima@o @cr*tto @a %od! Cas*y?",
+        "q_id": 635
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua*i !o*o * @aesi #he $on $uo@an* i *artoni an#mat@ s@r*@ti da Todd Cas#y?",
+        "q_id": 636
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Tr%$! !l nome de**a serie e il pae$e !el c#n%le telev$$ivo *he %%on# al$*@i *$rton! @ir%%ti da Ben Jon!s e Mich!el Ch*ng?",
+        "q_id": 637
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q#al è il $om* del#@ ser*$ @ il !!ese d$ tutti i ca#a*i T% ch! suonan! i cartoni anim$%i %iret$i d# Ben Jon$# e @!$$o$! animati d$*etti *a Mi%h@el Chan$?",
+        "q_id": 638
+    },
+    {
+        "db_id": "tvshow",
+        "question": "!r!v! il rappor!o %ixel e l* *azi%ne dei can$l# TV che $on us$no l'@@gle!$.",
+        "q_id": 639
+    },
+    {
+        "db_id": "tvshow",
+        "question": "!ual è il rapporto $ixe% * il p$ese !# or#gine p@$ #u@t@ i canali TV %he #on *sa*# l'ingl*se?",
+        "q_id": 640
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Trova $D dei cana%$ TV c@e dai pa#si $$ *ui *an!o %iù d@ due canali TV.",
+        "q_id": 641
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Quali sono g!i @D %i tutti i c%na$i TV c@@ han!o più d* 2 %ana%! T*?",
+        "q_id": 642
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Tr$va l'ID de% canal! *V #he non suon!no !l#%n !a$%%n% anima$o dir@t!o da @en Jone*.",
+        "q_id": 643
+    },
+    {
+        "db_id": "tvshow",
+        "question": "#u$!i sono gli *! d!i can$li TV che non hanno !artoni an$mat* d%re@ti $a Be! J!ne%?",
+        "q_id": 644
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Trova l'opzione pacc#etto d#l #@nale TV che @o@ ha !l@un ca%tone !ni#*t* d*rett% @a Ben $#ne!.",
+        "q_id": 645
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu*li sono l# opzio$i #i p*cch$!to d# tutti i canali TV c#e non **ona%* car@o$i ani$ati !#r@tti #! B$n !on%s?",
+        "q_id": 646
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qua#ti gioca%o%i di poker c@ !ono?",
+        "q_id": 647
+    },
+    {
+        "db_id": "poker_player",
+        "question": "@#nt@ @l nume!o #i $iocatori d% p$ker.",
+        "q_id": 648
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Ele#c$ i guad*g!* #ei g#ocatori di *oker in ord**e dec!!s#*nte.",
+        "q_id": 649
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Q!a*i son* # gu%*a*%i dei gi#cat%ri di pok@$, o$dinato di sc@ndere per $alor*?",
+        "q_id": 650
+    },
+    {
+        "db_id": "poker_player",
+        "question": "$len#% le ta%elle finali realizza*$ $ le $ig*iori fin#t%re de! @io$atori di *%%er.",
+        "q_id": 651
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qua$i sono i tavol* @ina!i rea%i$zati e l@ mi%@!o#i fi%#t!re per t@tti * *i$cat!ri di poke#?",
+        "q_id": 652
+    },
+    {
+        "db_id": "poker_player",
+        "question": "!%al @ @l %uadag@o medio #ei giocat*ri d# *oker?",
+        "q_id": 653
+    },
+    {
+        "db_id": "poker_player",
+        "question": "@%sti!uisc! i !u#d@gni medi i@ tutti ! giocator! d! !o*!r.",
+        "q_id": 654
+    },
+    {
+        "db_id": "poker_player",
+        "question": "@u@l è il r$ngo #@ de!a$o de% giocatore di poker $*n i gua$*%ni più alti?",
+        "q_id": 655
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R@$titui%ce il gra#o di d!nar@ !el #i$ca*ore c#n i m!ggi*r$ gu#da#ni.",
+        "q_id": 656
+    },
+    {
+        "db_id": "poker_player",
+        "question": "@ual è %l %umero mas@imo *i t*bell$ f!nal% re@liz#!t@ #%a i g%ocatori di !$ker con guadagni inferi#%$ a $00%0@?",
+        "q_id": 657
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R@!tituisce i $av*li fi%ali m@ss@m* realizzat! su tutti i g!!cat!ri di $ok$r @$e ha!no guad*gni i#feriori a 2#0$00.",
+        "q_id": 658
+    },
+    {
+        "db_id": "poker_player",
+        "question": "#!a%i so!* i nomi de@ giocat*r* di poker?",
+        "q_id": 659
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Re%$itui$ce @ no*i di tutti i giocato$i $i @oker.",
+        "q_id": 660
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Quali s%no # @!mi dei gioca*o%i di *oker $ cui @u@!*gni sono superiori * ##0000?",
+        "q_id": 661
+    },
+    {
+        "db_id": "poker_player",
+        "question": "D#* i n@*i %ei $iocatori $@ p!ker che ha%no #uad@%n# su#eri%ri a 300000.",
+        "q_id": 662
+    },
+    {
+        "db_id": "poker_player",
+        "question": "@l!$ca i n!mi dei %iocato#* di poker o!dinati dal@e $$be@l$ f%n*l@ r!aliz#at$ in %rdine cres#e@te.",
+        "q_id": 663
+    },
+    {
+        "db_id": "poker_player",
+        "question": "*uali son! i nomi dei giocator* di po#er, or*inati a#ce#*@!ti d!l @u!@$o d* t$b*lle fi%al@ che #anno fat!o?",
+        "q_id": 664
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu*l è @! dat@ di nascita #el gi!ca%ore #* poker con @ guada%ni più *assi?",
+        "q_id": 665
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Restitui$ce *% d*t$ #i na#cita del giocatore di poke$ %on i !u!da!%i più ba!si.",
+        "q_id": 666
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qual è $l @ango di denar# del gioc!$o%@ di pok%r p*# alt*?",
+        "q_id": 667
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Resti!%%sce @l g**do di den#ro del gi@c#$%re di #oker con la #a%sim! *#tezza.",
+        "q_id": 668
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qual è il g$a#@gno $e%i% dei giocat@ri d* poke$ *on al#ezza %up***o%* a 200?",
+        "q_id": 669
+    },
+    {
+        "db_id": "poker_player",
+        "question": "%ai guadagni %#di di gio#!t%ri di %ok*r ch! sono p!ù !$t* %i 200.",
+        "q_id": 670
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu%li so@o i nom$ dei gi!cator# di poker in ordine de*res$!nt@ di g%a!a*n$?",
+        "q_id": 671
+    },
+    {
+        "db_id": "poker_player",
+        "question": "$es@itui@!e i #om@ dei gi@ca!@r% d# po!e$ ordinati con i l%*o g!adag#i discen@enti.",
+        "q_id": 672
+    },
+    {
+        "db_id": "poker_player",
+        "question": "!uali s%no l! diver#e naz#!nal!t! delle persone e il @#m#ro corr*@*o%de#!% di pe@sone di ogni nazione?",
+        "q_id": 673
+    },
+    {
+        "db_id": "poker_player",
+        "question": "#uante *er%o$e ci so#o di #%ni nazion#lità?",
+        "q_id": 674
+    },
+    {
+        "db_id": "poker_player",
+        "question": "!ual è %a nazio#alità p$ù c$mun$ dell% p%rso%e?",
+        "q_id": 675
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Da! la n#zi@$alità p%ù comun@ in tu@te *e person@.",
+        "q_id": 676
+    },
+    {
+        "db_id": "poker_player",
+        "question": "$u*li sono le nazional#tà co$divi$e d$ *@$e@o due pe#son#?",
+        "q_id": 677
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Rest!t#is*e le naz!%#al*tà per le qu%@i ci sono #ue o più per**ne.",
+        "q_id": 678
+    },
+    {
+        "db_id": "poker_player",
+        "question": "E$e!$a i nomi e le #ate di n*scit! #$lle perso#e in o!dine al$abetico *sc$n#e%t% d@ nome.",
+        "q_id": 679
+    },
+    {
+        "db_id": "poker_player",
+        "question": "@ua$$ so@o @ nomi * $e date *% nas#ita de$!e perso@e, ordinate con @ loro $omi in ord*ne a!#abe%ico?",
+        "q_id": 680
+    },
+    {
+        "db_id": "poker_player",
+        "question": "%#!tra nomi %i perso!% l@ cui naz$o#alità non è \"Ru*$ia\".",
+        "q_id": 681
+    },
+    {
+        "db_id": "poker_player",
+        "question": "*#%!i sono i nomi delle p*rs%ne c!e no@ v@ngono dalla R$!s@a?",
+        "q_id": 682
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Elenca i no$i dell% !@rsone ch$ %on sono @i#!@tori di p!@e!.",
+        "q_id": 683
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu$l* $$no i nomi de!le perso#e ch% n!n @iocan! $ poker?",
+        "q_id": 684
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@!@e n*#%o%al@tà dis$inte ci sono?",
+        "q_id": 685
+    },
+    {
+        "db_id": "poker_player",
+        "question": "#onta i$ nu*er* di %ive#se nazionalità.",
+        "q_id": 686
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Quanti stat@ ci so*#?",
+        "q_id": 687
+    },
+    {
+        "db_id": "voter_1",
+        "question": "@le%ca i n%!eri e i %omi de% concor#%n#i, !rdinat# da$ %*me !el co%c@rrente di#cen#ente.",
+        "q_id": 688
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Elenca @li I* voti, i nu%eri d% t!lefo%o e g*i *t%ti di tutt# # %#$i.",
+        "q_id": 689
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu#li sono * va!%ri ma$simi e @ini%i dei $$#$ci d% a%ea?",
+        "q_id": 690
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu@l è l'u@t$ma da%# crea@a %ai voti d%ll! s@ato \"CA\"?",
+        "q_id": 691
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu*l# sono i no$i d#i !on!o@ren@i # *ui no!i n!n sono \"Jes%$@ a partire\"",
+        "q_id": 692
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu!l@ @ono gli st*ti di#tin#% e creare %empo di tu@t* $ v#ti?",
+        "q_id": 693
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu@li sono i @@me%i d$i c*ncor*enti e i #omi %ei $onco*ren!i c$* *anno avu$o #lm!no due vot*?",
+        "q_id": 694
+    },
+    {
+        "db_id": "voter_1",
+        "question": "D* tutt# * con*or#e#ti che *ono stati vot$ti, qual # il numero del c#nc*r#ente e ** nom$ del %o$%orrent! che *a o$ten*!o il mini!o $oto?",
+        "q_id": 695
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Quali *on% il nu$er@ di vo@i dello sta#@ \"NY\" o \"#A\"?",
+        "q_id": 696
+    },
+    {
+        "db_id": "voter_1",
+        "question": "*u#*ti con%%r!enti #on sono stati vota$i?",
+        "q_id": 697
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu@l è i% codice di a%!a in cu! ha v#t%to il m@ggi#r %umer@ %! el$tt!ri?",
+        "q_id": 698
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Quali sono le da$e di c$#azione, !%$ stat$ e i nume*i *i @elefono dei vot# che erano #er !@ conc%r!!nte chiama#o \"Ta%ath# !ehling\"?",
+        "q_id": 699
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Ele$c$ i codici d$ area in cui $l% %le#tori @*nno vot%to si! @er il con!#r*ent$ \"T%%#th! Geh$ing\" s@a per il concorr$*te \"K@lly Cl*@s@\".",
+        "q_id": 700
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Resti#u%sce i !omi de% con$orr%@ti i c@i $omi %#nte#g*no la sotto*%r#nga \"A@\".",
+        "q_id": 701
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual$ *%n* i %om@ d! t#tti i paesi !he !ono $ive$tat% indipend!n%% dopo il $950?",
+        "q_id": 702
+    },
+    {
+        "db_id": "world_1",
+        "question": "Dai @ #omi delle *azion* che fu#*n$ fo%da#e $opo $l 1%50.",
+        "q_id": 703
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q$$nti pae$i @a*no una rep%bblica *om@ forma ## govern#?",
+        "q_id": 704
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quan%i p*esi han$# gover@i ch! so#o r#pubbl#c*e?",
+        "q_id": 705
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è la %up#rf%ci* to@ale d#i $aes! ne#la region% d#@ C!raibi?",
+        "q_id": 706
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu%nt# s*perficie si copron! i p*e@i #ei #ar%ibi?",
+        "q_id": 707
+    },
+    {
+        "db_id": "world_1",
+        "question": "@n quale co!t%@ente si tro!a Angu*ll*?",
+        "q_id": 708
+    },
+    {
+        "db_id": "world_1",
+        "question": "#ual è i* nome del @#$t!%*n!e a cui ap!ar$ie!e Angui$la?",
+        "q_id": 709
+    },
+    {
+        "db_id": "world_1",
+        "question": "In qu!l! reg*%ne *$ #r$va l# città di Kabul?",
+        "q_id": 710
+    },
+    {
+        "db_id": "world_1",
+        "question": "In che @egio#e si !r$va Kabul?",
+        "q_id": 711
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quale @in$u@ è l* più #o*olare in %%@*a?",
+        "q_id": 712
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q$a@e l@$gua si par%a prevalente!en%* i@ Aruba?",
+        "q_id": 713
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu%li sono l! aspett#t!ve di po@olaz%o$e e @#t$ in B#asile?",
+        "q_id": 714
+    },
+    {
+        "db_id": "world_1",
+        "question": "D!mmi la popola$i%$e del Br*sil* e le as$$$tat*$% d* vita.",
+        "q_id": 715
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali s**% !a reg$*n$ e la popolazion# dell'A@gol!?",
+        "q_id": 716
+    },
+    {
+        "db_id": "world_1",
+        "question": "A quale re*ione ap@!$$iene l'Angol! e qual $ $a **a popola#$one?",
+        "q_id": 717
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q*al è *'a$pett@tiva di vit# m*d$a @%e$i$ta *@r i paesi nella region# #el*'@frica c!nt!ale?",
+        "q_id": 718
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q!an@o d@ra *'as*ettativa d# @$ta !#dia de@le persone @# Afri#@ centrale?",
+        "q_id": 719
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q#al è il n!@e del paese che h% la @i! b$e*e a$@ettat!v$ di $i%a in %sia?",
+        "q_id": 720
+    },
+    {
+        "db_id": "world_1",
+        "question": "D*i il nome del pa%s@ in %sia ##n la più bass# aspe%ta!iva di v#t@.",
+        "q_id": 721
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q#$l è la #*p@lazione to#ale e il mass#mo P#L in %sia?",
+        "q_id": 722
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua!te p@@sone vi%ono in Asia * qua# ! il PIL !iù !#ande tr$ lor*?",
+        "q_id": 723
+    },
+    {
+        "db_id": "world_1",
+        "question": "#ual è l'@*p*t@ativa d$ vit% medi* #ei p@!si afr%can# @he son$ re$ubb$iche?",
+        "q_id": 724
+    },
+    {
+        "db_id": "world_1",
+        "question": "*are $'a*p%ttati$a di vit! @edia pe@ i paesi in Afri!a qu@li s#no le !ep%bb@ic@%?",
+        "q_id": 725
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è l@ supe$ficie #otal! $#i !ontin$nti %%ia e E@ro!a?",
+        "q_id": 726
+    },
+    {
+        "db_id": "world_1",
+        "question": "Da!e l@ s@p%rficie to%ale coper@a da pa%si i$ Asia o in @uro*a.",
+        "q_id": 727
+    },
+    {
+        "db_id": "world_1",
+        "question": "#uant$ persone vivono n!$ !is%rett* d# $@lderlan!?",
+        "q_id": 728
+    },
+    {
+        "db_id": "world_1",
+        "question": "*ual $ la p$pola#ione t#tal* d@l dist$etto @i G!lderl$nd?",
+        "q_id": 729
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è il PIL med@o e la p*polazion* #o#a*e #n tutte l$ n#*!on% il c!i gover@o % i! territorio @e%li Stat$ U@iti?",
+        "q_id": 730
+    },
+    {
+        "db_id": "world_1",
+        "question": "%*re i@ PIL m*d*o e #a popo#azione tot!l# *i *azio$i che sono consider#@i territor@ st*t#%**en$i.",
+        "q_id": 731
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quante li@$*e u*ich% sono par#a%* *el mond$?",
+        "q_id": 732
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è @l n%m$ro di lingue di@tinte usate $! %utt! @# m##!o?",
+        "q_id": 733
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quan$% tipi di go!erni %o*o i% !f#ica?",
+        "q_id": 734
+    },
+    {
+        "db_id": "world_1",
+        "question": "#!ante dive%!* fo*m@ di g!$$rni ci so*o in A$rica?",
+        "q_id": 735
+    },
+    {
+        "db_id": "world_1",
+        "question": "#@al è il num*ro #o*@le di $ingu% uti*izz%t# in Aru@!?",
+        "q_id": 736
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quante ling%* si p%rl$ i! Aru#a?",
+        "q_id": 737
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu*nte lingu% uffic*ali ** l'!fgha*i$@an?",
+        "q_id": 738
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q%ante lingu! *ffi$iali si par#a in !fghan*sta%?",
+        "q_id": 739
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q%*l è !l no#e de! pa$se $he parla $! !aggior n*mer@ d* lingue?",
+        "q_id": 740
+    },
+    {
+        "db_id": "world_1",
+        "question": "Dai %l nom@ della nazi*n% che us% la p@ù grande qu%@!*tà di *ingu$.",
+        "q_id": 741
+    },
+    {
+        "db_id": "world_1",
+        "question": "*#@le con$inente h# l! li$gue p!% diverse?",
+        "q_id": 742
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quale co$t#n#nte parla !iù l!ng!$?",
+        "q_id": 743
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q#anti pa@si pa#!ano sia in#l#@e ch# ol!nd%se?",
+        "q_id": 744
+    },
+    {
+        "db_id": "world_1",
+        "question": "!ual è il nu@er! @! nazioni c!e usano l'*n!l$se e @'%l@nde%e?",
+        "q_id": 745
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu*!i so$o i #omi d%*le nazioni pa@l@%$ sia ingle@e %he fran#e@e?",
+        "q_id": 746
+    },
+    {
+        "db_id": "world_1",
+        "question": "D*i i nomi @el*e n$zi#ni che $arl@n$ sia ingle$e ch! $@ances%.",
+        "q_id": 747
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali #ono i nomi del#e *azioni *n cu% in$le%% * franc#si %o$% li%gue ufficiali?",
+        "q_id": 748
+    },
+    {
+        "db_id": "world_1",
+        "question": "$ai $ *omi dei pae$i co# *!glese e fra#ces* co$e @!ng@e u@ficia%i.",
+        "q_id": 749
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è il nume!o $i con$ine##% *ist*nti $n cui si parla ci@ese?",
+        "q_id": 750
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q!a%!i continenti parla#o #%#es!?",
+        "q_id": 751
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali so*! l! @*g$oni che !#ano l'#nglese o l'*landese?",
+        "q_id": 752
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali #egio*i pa#%ano *lande$# $ %nglese?",
+        "q_id": 753
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu*l$ son% i pa$si in cui l'inglese o l'olandese è l$ @i@%ua uffi*@%l@?",
+        "q_id": 754
+    },
+    {
+        "db_id": "world_1",
+        "question": "$@ali pa##i han@* ingl#se o olan!e$$ co*e lingua ufficia*@?",
+        "q_id": 755
+    },
+    {
+        "db_id": "world_1",
+        "question": "%%al# $i!gua è la più popo$a#e nel @onti@en@e asiatico?",
+        "q_id": 756
+    },
+    {
+        "db_id": "world_1",
+        "question": "%ual @ l@ lin@ua ch# vi!n% #t*liz%@t* dal @aggior n%me$o di nazioni asiat!che?",
+        "q_id": 757
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q$ali lingu! @ono p%rla$e d$ $n sol% $aese nei go!ern% *ella R$*ub%#*ca?",
+        "q_id": 758
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua$i lin*u* vengono uti$#zzate sol# !! u* si$#ol@ paese co* u* gove@%o della R*#ubblica?",
+        "q_id": 759
+    },
+    {
+        "db_id": "world_1",
+        "question": "T*ova la cit@à con $a popolaz@!ne più gra%*e ch* usa l'@#!les*.",
+        "q_id": 760
+    },
+    {
+        "db_id": "world_1",
+        "question": "%u$! è $# ci%t* più popolare che par@a *#*lese?",
+        "q_id": 761
+    },
+    {
+        "db_id": "world_1",
+        "question": "Tro#a il n*me, l# p@po$@zio@e ! la lunghezz# della v*ta #ttesa *el pae@e !#i@!i%o con la più gra!d$ area?",
+        "q_id": 762
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali sono il nom#, l@ popola*ion! e l'a%pe@t%t*v@ *i %!ta *el p!ù grande p*e@@ as$atic! per t#!ra?",
+        "q_id": 763
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual * l'asp@ttat$va di v%ta me#ia #$$ p$!si in cu@ l'ingle@e no* ! la lin#ua uffi@i$$e?",
+        "q_id": 764
+    },
+    {
+        "db_id": "world_1",
+        "question": "Da# l$ catti@! aspett$t#va di v$ta $e# @aesi i! c!i !'ingl*s@ n$n è l* lingua uff%c!ale.",
+        "q_id": 765
+    },
+    {
+        "db_id": "world_1",
+        "question": "#ua@ * il numero t%ta$$ d$ @ersone che v%von* nelle na%i!ni che no! $$a%o l'inglese?",
+        "q_id": 766
+    },
+    {
+        "db_id": "world_1",
+        "question": "#uante #er%@ne vivon* in p*esi c!e n!# pa!%ano inglese?",
+        "q_id": 767
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua# è la *in@$@ #fficia$* parlata nel #aese %! cu! c#po di sta@o è B*a%rix?",
+        "q_id": 768
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu!% è la %ingua uff**ia%e #sata nel #aes! il n%m$ del c!i c%p* di s*ato è Be%t@$x.",
+        "q_id": 769
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q*a# è il nu@er$ !otal% %i lingu@ uf#ici%li $niche par$ate nei p!*@i !he si fo#d$no prima del 193@?",
+        "q_id": 770
+    },
+    {
+        "db_id": "world_1",
+        "question": "Pe@ i paes% fond@t! @rima del 19*%, $%al $ i# numero !ot@le @$ ling%e ufficiali @isti#t%?",
+        "q_id": 771
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali s@!o i @a@si che hann% un! superfici$ ma%gi#re @i %ualsia*i paese i! *ur$pa?",
+        "q_id": 772
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua$i p$esi ha%n$ %#'ar@$ maggio@e *i que!la d% qualsia$i paese i% E$ropa?",
+        "q_id": 773
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua!@ so*o i paesi *frica$i che ha$no $na popo*azion# @eno di quals#asi p$@se #n Asia?",
+        "q_id": 774
+    },
+    {
+        "db_id": "world_1",
+        "question": "$u!li #*e*i %fric*ni hanno una popo%az@one pi% picco#a di quella di qu#l%ia%i *a#se in Asi%?",
+        "q_id": 775
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali paesi %#!atici hann% una popol#z@one più gran#e di qua$siasi *@@s@ $n @frica?",
+        "q_id": 776
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q!@li s$no i pa%@* as#%tici che han#o un* p%p!lazion! p*ù gr*nd# di qu#lla di qualsi*si ***!e in Afr@$a?",
+        "q_id": 777
+    },
+    {
+        "db_id": "world_1",
+        "question": "#ua#i @ono i c@dici nazi$nali !e* i p@es@ che non #arlano i@g$e$e?",
+        "q_id": 778
+    },
+    {
+        "db_id": "world_1",
+        "question": "R#st%*uisc$ i cod%ci di ca!pagna pe@ % paesi !$e non @#rlano inglese.",
+        "q_id": 779
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q!a*i so$o $ codici !#%ional# dei paes! #n cui l* pe%#on! usano l%ngue di!%rse dall'ingl%s%?",
+        "q_id": 780
+    },
+    {
+        "db_id": "world_1",
+        "question": "Dai i co!i!i de@ !aes! p@r % $aes% in *$i l@ pers*$e parlano lingue *h% non *ono inglesi.",
+        "q_id": 781
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q@a!* sono * co@ic$ !ei paesi che non pa#*ano inglese e le $ui f#r!e go%@rnative non !#no repub*liche?",
+        "q_id": 782
+    },
+    {
+        "db_id": "world_1",
+        "question": "R@st*tuisc@ i %odici dei pae%i c!e n$n *a$#ano ingles$ # *on h*nn% @epubbliche p@r i #over*i.",
+        "q_id": 783
+    },
+    {
+        "db_id": "world_1",
+        "question": "%u*li *it%à sono ne$ @#esi eur@pe$ i@ %ui l'ing#e!@ non è la l!ngua u$!iciale?",
+        "q_id": 784
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q*ali sono i nom$ d@*le c!ttà in %uro*# $er le q@$!i !'*@glese !on % la ling@a !fficiale?",
+        "q_id": 785
+    },
+    {
+        "db_id": "world_1",
+        "question": "@ual% cit$à uniche @ono #ei p*esi *s*atici i# cui è l! li*gua $ff#c*!le?",
+        "q_id": 786
+    },
+    {
+        "db_id": "world_1",
+        "question": "#estitui#ci # @i*ersi %omi delle c!!$à che sono in !s*a @ per le quali i# cines$ è la lingua uffi!iale.",
+        "q_id": 787
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è *l nome, *'anno !# #ndipe*$enza e $$ superfi$!e del paese con la #opo!az%$%e più pi$!@l#?",
+        "q_id": 788
+    },
+    {
+        "db_id": "world_1",
+        "question": "Dai $l nome, $'a#no di $ndip%*$e@z# e l# superf@ci* del *ae!e #he ha l$ popo$azio*e p@ù bassa.",
+        "q_id": 789
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q%*l$ sono la p@polazione, il n@m# ! il !%ader del p$es* !@n l'%r@a più gra$d@?",
+        "q_id": 790
+    },
+    {
+        "db_id": "world_1",
+        "question": "Dai il nom!, #a $o*o!a$i#ne $ i@ #apo di stato @** i$ pae!e !he !a la pi! gr%nde are$.",
+        "q_id": 791
+    },
+    {
+        "db_id": "world_1",
+        "question": "#est!tuisce i* @ome del #aese e il n!me*o d$ l@!gue p$rla$e pe# o#ni p%@se che p@rla #lm!n$ 3 $#ngue.",
+        "q_id": 792
+    },
+    {
+        "db_id": "world_1",
+        "question": "!uali %$n@ i #omi dei paesi c@e !arlan@ più di 2 %ing#e e q*an$e %$#@ue par#$no?",
+        "q_id": 793
+    },
+    {
+        "db_id": "world_1",
+        "question": "T%ova il nume#$ d! ci@tà in o#n$ dis#retto la c@@ po!*$azi**e # maggi#re d*lla popo###ione med#a delle %itt!?",
+        "q_id": 794
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q@$%te $it*à i* ogni dis%retto h*nno !na %opolazi$n* al d* sopra d#lla po%olazione %ed#a i* *utte le citt#?",
+        "q_id": 795
+    },
+    {
+        "db_id": "world_1",
+        "question": "Tr%va il no!e @el @od#lo del go$erno % *a popola!!o$* totale p$r o$n# f!rma del go!e%no l! c*i a#petta$i#a d# %ita media $ più l!%ga %i 7%.",
+        "q_id": 796
+    },
+    {
+        "db_id": "world_1",
+        "question": "!u*li so@o le d*ve$%e f@rme *el gove#%o e !ual è la po@o@azione %o#ale di cias%%!o p#r le for@e g!ve#native che *an@o un'aspetta!iva di vit@ me%*! sup*!io*e ! 7*?",
+        "q_id": 797
+    },
+    {
+        "db_id": "world_1",
+        "question": "Trov* $'%spett#tiva d* vita @edia e l# popo%azi**@ *otale per *g@i co!*#ne@te in @$i l'$s*et@ativa di @ita med#a * infe!iore a 72?",
+        "q_id": 798
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua$i *on% i di*@@si contin!*@i @ *# *@p@laz@one tota*e e l'as@#tta@iva di @ita media c$rr%spondente a #i$scuno, %er i conti%e*!$ che h#nno un'*spettat*va #i vita m%dia i!feri@re a 7*?",
+        "q_id": 799
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali %ono @ nomi @ l$ a%e@ dei paesi @on le p!##e 5 aree pi% gra@di?",
+        "q_id": 800
+    },
+    {
+        "db_id": "world_1",
+        "question": "Rest%!ui!ci i nom$ e le aree s*pe@f%ci*l% de* 5 paesi più grand@.",
+        "q_id": 801
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua$i $ono $ nom* dei %aesi c@n le p#ime 3 p!p!la@ioni più gr%n*i?",
+        "q_id": 802
+    },
+    {
+        "db_id": "world_1",
+        "question": "Rest#t@i$ci i n%m* dei 3 *@e$i più p#po*ati.",
+        "q_id": 803
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu%l$ sono i no@$ dell@ nazion@ !on @! % !opolazioni p*ù basse?",
+        "q_id": 804
+    },
+    {
+        "db_id": "world_1",
+        "question": "R$stitu!$ce i nomi dei 3 p*@@i c*# il m%nor *!mero $# %er!one.",
+        "q_id": 805
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quan#i paesi s$no i* Asi$?",
+        "q_id": 806
+    },
+    {
+        "db_id": "world_1",
+        "question": "%onta il nume$o di *ae!i in Asia.",
+        "q_id": 807
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali sono i !omi !ei paesi c** s$ %%o%%%% ne@ @onti@ente europeo e hanno una p@po$az#o$e di 8@000?",
+        "q_id": 808
+    },
+    {
+        "db_id": "world_1",
+        "question": "Dai # nom@ #e@ pa%si *n Eur@pa e ha%no una p#po%az#on% pari a 80*00.",
+        "q_id": 809
+    },
+    {
+        "db_id": "world_1",
+        "question": "#ua@ è l# popolazione %!tal* e l'ar$a med*a d#i pa*si ne@ conti@e!#e de* Nor! $meric% $a c*i area $ più gran*e di 30$0?",
+        "q_id": 810
+    },
+    {
+        "db_id": "world_1",
+        "question": "Fo@nire l# #o!olaz%*ne t!tal! e #a s%perficie m!!i* corri$pondent% *@ pa%si $el !ord %me*ic@ $he hanno %$% super*icie su$eri$re a 3000.",
+        "q_id": 811
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali *o!* le !!t#à !$ cui popolazion$ è t*# il 1#0000 e il 9*0*00?",
+        "q_id": 812
+    },
+    {
+        "db_id": "world_1",
+        "question": "R#sti*!isce i %omi delle città c#@ $ann$ un# p%pol*#i@ne tra il !!*000 @ i# 900000.",
+        "q_id": 813
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual$ lingua è p!rl*ta dal m$ggi** nu!ero d* paesi?",
+        "q_id": 814
+    },
+    {
+        "db_id": "world_1",
+        "question": "D#i @a %ingua parlata nella mag#ior !a%@e #e! pae%i.",
+        "q_id": 815
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è la *in$ua p$!l*t% dalla p!ù gr$nde p@rcentu%le di p#rs%ne #n ogn% paese?",
+        "q_id": 816
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q$ali sono i $odici ##zion*li %ei dive@si pa@*% e q@ali s!*o le %in#ue parlat! dalla p$ù *ra#de p%rcen!ual* d* $er!o$e per ciascun%?",
+        "q_id": 817
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q@al è il n@*er! %ota@e di p#esi i@ cui lo s#a@n%lo ! parlato d#lla più !rand* @ercentu$@e di p$%s#ne?",
+        "q_id": 818
+    },
+    {
+        "db_id": "world_1",
+        "question": "Conta !l nu$ero di pa@!i per % quali *o spagnol! è %a lingua *revale%te@ent* p#rla%%.",
+        "q_id": 819
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali s$no i cod*#i dei pae%i $n c*i lo spag*o@o # parlat@ dalla più *ra#de p#rcentua#* d% pers%ne?",
+        "q_id": 820
+    },
+    {
+        "db_id": "world_1",
+        "question": "Restitu$sc# i codici d%i pae@i per * *ua$i lo sp#gnolo @ l* #i*gua p*eva%en@emente pa#lata.",
+        "q_id": 821
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Quanti c%ndu!*ori ci so#!?",
+        "q_id": 822
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Co*t% #l numero d@ con!u!tori.",
+        "q_id": 823
+    },
+    {
+        "db_id": "orchestra",
+        "question": "El!@c* i no@* dei co%d@ttori in ordine d* età cre%c#nt!.",
+        "q_id": 824
+    },
+    {
+        "db_id": "orchestra",
+        "question": "%ua*i $ono i no%i d!i con%uttori, ordina#i **$ et@?",
+        "q_id": 825
+    },
+    {
+        "db_id": "orchestra",
+        "question": "%ua@i *o%o i nomi d!i cond$ttori l% @ui nazional$*à non s@%* \"USA\"?",
+        "q_id": 826
+    },
+    {
+        "db_id": "orchestra",
+        "question": "@$*%i%uisci i nomi d*$ condu@tor# che n%n hanno la *a!*onal%t% \"USA\".",
+        "q_id": 827
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qua$* *@no le c%se #i%c@#r$$ich# delle o@c%e##re i$ ordine d!crescente di anni in #ui $ono st@te fonda%%?",
+        "q_id": 828
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Re@t%!uis@% le *ase di@cogra!$che delle orchestre, ord*na#e %c!nd!ndo n*g%i anni $n cui @uro$! f*ndate.",
+        "q_id": 829
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qua@ è la freq@enz% me@ia de%li sp@ttac@li?",
+        "q_id": 830
+    },
+    {
+        "db_id": "orchestra",
+        "question": "R*sti$u#sce $* frequenza media in tutt# g!i sp!t!ac%li.",
+        "q_id": 831
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Q#!li son$ #a quota mas!ima e minima d* spe!@a$%li il c** tipo non è \"%n d$retta i% dire@ta\".",
+        "q_id": 832
+    },
+    {
+        "db_id": "orchestra",
+        "question": "@@sti#u**c# !e a!ioni m$ssi@e e minime per sp$t%acoli che n*@ hanno il t$po \"in di#ett!\".",
+        "q_id": 833
+    },
+    {
+        "db_id": "orchestra",
+        "question": "%@ante !az#onalità diver@% ha!no i cond@tt*ri?",
+        "q_id": 834
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Co@t$re il numero d* dive!se %azio*a*#$à !e! condut%o$*.",
+        "q_id": 835
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Ele@!a i nomi dei %ondu#tori in ord%$e d%$!escente di ann* %i la$o#o.",
+        "q_id": 836
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu%li sono i n*mi de# co*duttori, o*di@ati %c%nd*ndo $er il nu*e@% %i @$@i ch@ hanno la%o@ato?",
+        "q_id": 837
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Elenca il nome de# dire%!or% con la !a#!i@* pa#te de$li ann@ di l@vo*o.",
+        "q_id": 838
+    },
+    {
+        "db_id": "orchestra",
+        "question": "@@al è il n!me %el direttore che *a lav@ra#% il @aggi*r n!%ero d! an*i?",
+        "q_id": 839
+    },
+    {
+        "db_id": "orchestra",
+        "question": "M%str$ i nom% *ei conduttor* e delle or%hest$e che h$@n# c@ndo*%o.",
+        "q_id": 840
+    },
+    {
+        "db_id": "orchestra",
+        "question": "$u$li sono @ #omi !ei cond!t@o!% e le c$rrisp#%den%i @rchestre c@e han!o *ondotto?",
+        "q_id": 841
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Mos@%a i nomi @ei con%u@t#r! che hann* c$$d!tto p%! di una orches%re.",
+        "q_id": 842
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Q*@li sono i no@@ d@i condu*t!ri c*e $ann$ co%dott* in più di un'@rch$##*a?",
+        "q_id": 843
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Mos%ra i@ nom! %el *%nduttore @he ha co%dot%o il maggi%r @u!er@ d% o$c@es@re.",
+        "q_id": 844
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Q@a# è il #ome d## dir%tto%e che #a cond@t$o più orches#r$?",
+        "q_id": 845
+    },
+    {
+        "db_id": "orchestra",
+        "question": "%i prega %i mos*r$%e #l nom# de$ #on#uttore c!e ha c$ndott* orchestre fon*!@e do$o il 2$08.",
+        "q_id": 846
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qual@ sono i nom! $ei $@nd%ttori che $an@o co@$$tto o$c*es#re fond@!% do#o l'anno 20$8?",
+        "q_id": 847
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Si *rega d! m*strare *e %iverse $o%pa$ni# %iscogra%iche ! il numero *orr@sp$nden*e d% orc%$#tre.",
+        "q_id": 848
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Quante or*hes!re gesti!ce ogni #*s$ %isc%!raf@c#?",
+        "q_id": 849
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Si prega di mo@trare i !orm#ti di r@cord d!l#$ o!chestre #$ ordine di !o%teggi% asc!#den!e.",
+        "q_id": 850
+    },
+    {
+        "db_id": "orchestra",
+        "question": "!ua!* s!no i $@incipali *@rmat* di record !i orch*%@re, ordi#ati per la loro fr*que!#a?",
+        "q_id": 851
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Elenca$e l# c*sa d#scografica *ondivisa *al ma!%ior num*r@ di orc%%st$!.",
+        "q_id": 852
+    },
+    {
+        "db_id": "orchestra",
+        "question": "%u!$ * l$ c*%a discogr@%ica utilizzat@ dal mag*ior num$ro di o@chestre?",
+        "q_id": 853
+    },
+    {
+        "db_id": "orchestra",
+        "question": "%l%nca ! nom$ del%e orch%stre che %on hanno %res@azi$@i.",
+        "q_id": 854
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu$li sono $$ orch*st!e che !on hanno esi!%z!#ni?",
+        "q_id": 855
+    },
+    {
+        "db_id": "orchestra",
+        "question": "M!stra le c$se discogr!fiche *ond$vi@e da Or!he$tr@ fondat% !ri!a d*# 200! e d#po il 2003.",
+        "q_id": 856
+    },
+    {
+        "db_id": "orchestra",
+        "question": "!$a@i s%$$ le case disc!graf%c#e %he vengono %ti$izzat* da ent#a!b$ !! !rch*$tr@ fondate prima del 2003 # que@l$ fondate dopo i! 2003?",
+        "q_id": 857
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Trov@ il nu$ero d! orch$st*e il cui fo#mato $ec!r# è \"%D\" o \"!V%\".",
+        "q_id": 858
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Co$tare il nu#*ro d# o!chestre %he han@o CD * %VD co*$ %ormat@ r@cord.",
+        "q_id": 859
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Mostra gli a!ni $n cui !#n#o$@ fond@te orche#@r# #he hanno d%to più di u%! p*r!or@ance.",
+        "q_id": 860
+    },
+    {
+        "db_id": "orchestra",
+        "question": "!u@li sono gli anni !i fon#@z$one per le *rc!est!# che h#@no avuto più d$ u@@ *ingola *erformanc@?",
+        "q_id": 861
+    },
+    {
+        "db_id": "network_1",
+        "question": "Q!ant% lice%li c# s$no?",
+        "q_id": 862
+    },
+    {
+        "db_id": "network_1",
+        "question": "$on$a il n%m@#o di l#cei.",
+        "q_id": 863
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mos#ra % nomi e % voti di ogni @i@eo.",
+        "q_id": 864
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qua#i s$no i no%i e i voti pe@ #!n$ *iceo?",
+        "q_id": 865
+    },
+    {
+        "db_id": "network_1",
+        "question": "*ostra $utt! $ gr!di dei lic%i.",
+        "q_id": 866
+    },
+    {
+        "db_id": "network_1",
+        "question": "#*a# è $@ g*ado di ogni l*ceal#?",
+        "q_id": 867
+    },
+    {
+        "db_id": "network_1",
+        "question": "In c!@ $%ado è Ky@e?",
+        "q_id": 868
+    },
+    {
+        "db_id": "network_1",
+        "question": "Resti*uisce @! *oto p#r i@ liceo d% nom$ K$le.",
+        "q_id": 869
+    },
+    {
+        "db_id": "network_1",
+        "question": "Most$a @ nomi di #utt# i @!cei di gr@@o 10.",
+        "q_id": 870
+    },
+    {
+        "db_id": "network_1",
+        "question": "Quali so%$ i #om@ di t$t%i i lice! %i grado 10?",
+        "q_id": 871
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mos@r% l'ID $el l%ceo di !ome Kyl%.",
+        "q_id": 872
+    },
+    {
+        "db_id": "network_1",
+        "question": "*os'$ l'ID di Kyle?",
+        "q_id": 873
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qua%ti *ic#ali $i sono in *r@do 9 # 10?",
+        "q_id": 874
+    },
+    {
+        "db_id": "network_1",
+        "question": "*o!t!re il numero di $ic@*l! *ei gradi % o !0.",
+        "q_id": 875
+    },
+    {
+        "db_id": "network_1",
+        "question": "$ost*a il %u%ero d$ li!eali per ogni $ra#$.",
+        "q_id": 876
+    },
+    {
+        "db_id": "network_1",
+        "question": "Q%anti l!cei ci so%$ %# ogn# grado?",
+        "q_id": 877
+    },
+    {
+        "db_id": "network_1",
+        "question": "*u#le $oto ha più @icea!i?",
+        "q_id": 878
+    },
+    {
+        "db_id": "network_1",
+        "question": "Re*tituis%e il voto @he ha i% m%ggi*r @!m#%o di li*eali.",
+        "q_id": 879
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mos#rami tu@*i i v#ti ch$ h#nn% a$meno 4 stude$t$.",
+        "q_id": 880
+    },
+    {
+        "db_id": "network_1",
+        "question": "Q%ali !$t! #ann# 4 o più licei?",
+        "q_id": 881
+    },
+    {
+        "db_id": "network_1",
+        "question": "%o$tra @li @D @tudent* % il num@r! d@ *mi*i corri*@ondenti $ ciascuno.",
+        "q_id": 882
+    },
+    {
+        "db_id": "network_1",
+        "question": "*uanti ami%i !a o$n@ stud!!te?",
+        "q_id": 883
+    },
+    {
+        "db_id": "network_1",
+        "question": "Most%a i nomi degl@ studen%# #elle sc!!*e s@#eriori # il *or! !orri@p%nde%te @umero *@ amici.",
+        "q_id": 884
+    },
+    {
+        "db_id": "network_1",
+        "question": "%uali s#n@ i no*i dei licei ! %ua!t# a$ici ha%no c@as#uno?",
+        "q_id": 885
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu#l è il #o#e del !@ceo ch! ha i! maggio* $@mer! d* %mici?",
+        "q_id": 886
+    },
+    {
+        "db_id": "network_1",
+        "question": "Rest*%uis$i @l nome dello $@udent* @*lle **$ole !uper*ori c#n la m%ggior parte deg%i amic@.",
+        "q_id": 887
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mo%tr% i nomi @%i li#*i che h#nno !lm#n# 3 $mici.",
+        "q_id": 888
+    },
+    {
+        "db_id": "network_1",
+        "question": "Quali s%%o ! no@i !ei liceal# c%e han!o # o p%ù %mici?",
+        "q_id": 889
+    },
+    {
+        "db_id": "network_1",
+        "question": "*%st@a i nomi di !!t@i gl% !mici del *i!e# Kyl#.",
+        "q_id": 890
+    },
+    {
+        "db_id": "network_1",
+        "question": "Res#@#uisce @ no@i degli a@#ci de#lo %%#dent@ del liceo Ky$e.",
+        "q_id": 891
+    },
+    {
+        "db_id": "network_1",
+        "question": "Quan$i amici ha #o s*u*@n$e !el liceo Ky%e?",
+        "q_id": 892
+    },
+    {
+        "db_id": "network_1",
+        "question": "@on$a i! !um!ro d! amici che Kyle ha.",
+        "q_id": 893
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mostra ID $i t#tti *!! st*d%%ti ch$ non hanno @!ic%.",
+        "q_id": 894
+    },
+    {
+        "db_id": "network_1",
+        "question": "Q#ali s%@o g*i #D d%gli st*de!ti de!l! scuo!e superiori @he $on @#@no amici?",
+        "q_id": 895
+    },
+    {
+        "db_id": "network_1",
+        "question": "M!%$ra nomi di tu!ti !l# #tuden*i de%l* *@uole su*erior! che non hanno a%ici.",
+        "q_id": 896
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu%!i *!no i nom% deg$i stud@nt$ ch% !on hanno a@#ci?",
+        "q_id": 897
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mostr% gl% ID de% li@*i #he !anno @@i#i e *#no $@che ap%rezzati da qual#un altro.",
+        "q_id": 898
+    },
+    {
+        "db_id": "network_1",
+        "question": "!ua%i son% @%i ID degli stude#ti che ha!n$ #%trambi amici e ap%r$zz*ti?",
+        "q_id": 899
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mostra il %o@e *i tutti #li $t%!ent@ c$% hanno d$!l* amici e anc%e p*r qu$@cu* altro.",
+        "q_id": 900
+    },
+    {
+        "db_id": "network_1",
+        "question": "*ual% son# i nomi $ei %ice@l$ #he han#o entra@b# a@ic@ e che sono ap*rezz!t$?",
+        "q_id": 901
+    },
+    {
+        "db_id": "network_1",
+        "question": "Con*a il n$m$r# di M! #iac% @!r ogni %D stud$nte.",
+        "q_id": 902
+    },
+    {
+        "db_id": "network_1",
+        "question": "#u!nti m! pia$e $orrispondono * cias%u* #D stud$nte?",
+        "q_id": 903
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mo$tra i nom@ dei liceali ch# hann# Mi p$a#% e $n n@mero di $i $$ac@ per ci*scu@o.",
+        "q_id": 904
+    },
+    {
+        "db_id": "network_1",
+        "question": "Quali s$@o * *omi dei #ic!ali che ha%no piac!i@no e @u#nti mi pi!%e o$nu$* #i ciascuno?",
+        "q_id": 905
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qual è *l %ome del liceo che ha il m$#%%or %umero #% Mi **$ce?",
+        "q_id": 906
+    },
+    {
+        "db_id": "network_1",
+        "question": "Da% !% n$m* del*o studente c#n più Mi $ia*e.",
+        "q_id": 907
+    },
+    {
+        "db_id": "network_1",
+        "question": "*#stra i n*%i @egl! $tudenti che hanno alm!no ! Mi $iace.",
+        "q_id": 908
+    },
+    {
+        "db_id": "network_1",
+        "question": "Q$al! #on! * !o$i degl! stu%en*# che hanno 2 o pi! Mi piac*?",
+        "q_id": 909
+    },
+    {
+        "db_id": "network_1",
+        "question": "M@stra i nomi d%gli stu*ent$ ch@ %anno u$ v@to *up*$iore a # e h@nno alm@no 2 ami$i.",
+        "q_id": 910
+    },
+    {
+        "db_id": "network_1",
+        "question": "Quali so$o i nom* d%% lic*!li c%* hann% un voto ** #*tre 5 e hanno 2 o #iù amic!?",
+        "q_id": 911
+    },
+    {
+        "db_id": "network_1",
+        "question": "!uan*i m% pi#%e ha Kyle?",
+        "q_id": 912
+    },
+    {
+        "db_id": "network_1",
+        "question": "Restit@isc% #l nu$### d@ Mi pia$e c*e il liceo di no#e %yle ha.",
+        "q_id": 913
+    },
+    {
+        "db_id": "network_1",
+        "question": "Trova il grad@ medio d# tutti gl$ stude#t@ c%e han@o d#$$i *mici.",
+        "q_id": 914
+    },
+    {
+        "db_id": "network_1",
+        "question": "@ual è il %$%do %%dio di stud*nt@ che h%nno amic@?",
+        "q_id": 915
+    },
+    {
+        "db_id": "network_1",
+        "question": "Trova i$ grado min%m@ di s$u%enti che !@# hanno $m%#i.",
+        "q_id": 916
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qual è il gr%d% $*% bas!o di stu*enti !h$ non $#nno amic*?",
+        "q_id": 917
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q*al@ stat$ hanno sia p#$%@ieta*i che prof#ss$onis#i che viv#no #ì?",
+        "q_id": 918
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "*rova !li stati in cui vivo@o s#% pr#prietari che pro!$ssi#!i%@i.",
+        "q_id": 919
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "#u$l $ l'età media dei ca#i ch# hann@ att$aversa!o trattam%n*i?",
+        "q_id": 920
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "T!ov# l'et$ #e!ia dei !ani che hanno *ttraver!a%% t!!t!$menti.",
+        "q_id": 921
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q!*l$ professi$nist# *ivon% ne$lo #*a*o dell'Indian$ o h*nno f*tto cure su p!* d# 2 $ra*tamenti?$len#! ## *uo ID, cog$ome e telefono c@l%ulare.",
+        "q_id": 922
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "%rov# l'ID, !# *ogn%me e il cel!$%ar$ dei #rofe#sionisti che vivono n$llo sta!o d@l@'#ndiana o ##n!o e@eguito #iù di *!e %ratta*enti.",
+        "q_id": 923
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua$i *ani n#n sono costati a# lo%o @r!prietario pi% di 1000 per !l $ra@%ament!?E@e*ca i nomi d%i cani.",
+        "q_id": 924
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q#al$ s@$o i nom@ dei ca$! per i quali i# proprieta#io n#n ha s@*s! #iù di 1000 per *l trattamen$@?",
+        "q_id": 925
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali nomi $on* @@ati @e$ !rofe$sio$isti ! %rop#ietari #a non $ono usa@i com$ n$mi *i cani?",
+        "q_id": 926
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Trov@ $ $om# che v*n$o!@ u$ilizzat! !er p@ofe@s!!nisti $ pro%#iet%ri ma #on %ono usati com# nom# !i c@n%.",
+        "q_id": 927
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu*!e #r*fess@onista *on ha operat@ al%@n tr%#tamen%o %ui !an%?$#enca l'ID, il ruol% ed e -m%il d$l profes$i#%ista.",
+        "q_id": 928
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Dam#i l'$D, il ruolo ed e -ma!$ !ei pro!es*ionist$ c$e non *anno ese%#%to al!$n *rattam*$t% s$i %an$.",
+        "q_id": 929
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quale proprieta*%o p#ss*e%e !! maggio! %um#ro di *a#i?@l%nc% l'ID pro@ri$tario, il nome @ il cogn@m*.",
+        "q_id": 930
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "!*stituisce #'ID $@*prieta#io, !l nome e il c%gn%me de! p*o%rietario ch% ha $l ma!gi#! nume*o di ca!$.",
+        "q_id": 931
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali pr#fessionis*i *#nno fatto $lmen* du% !!at$a@e%ti?@le$c% l'@%, *l r$olo e il @om! %el professi@nista.",
+        "q_id": 932
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali s!no l'$D, i@ r%olo e il @ome dei prof%ssioni*ti @he h##n* es#$uit! %ue @ pi! tra@tamenti?",
+        "q_id": 933
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "#ual è il nome del#! r$zza co# il mag#ior n@mer! d@ can#?",
+        "q_id": 934
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua!e r@zz* h@n$o più can@?Damm@ il no$# dell% ra*za.",
+        "q_id": 935
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q#al! propri@*a#io ha !agato per il %ag*io# n%mero di #r$t$ame#$i %ui suo# cani?El$@ca l'ID prop%ie##rio e il co!$ome.",
+        "q_id": 936
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "%immi %'ID p%op*iet#rio e *l cog%*me #el !roprie@$rio c$e ha speso di p*ù per i !rat%!men!i dei suo$ c#ni.",
+        "q_id": 937
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua$ ! l$ d$scrizi*ne del #ip* !i tra*tam!n%o che co%t% men! dena@o i! totale?",
+        "q_id": 938
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Dammi %a $escri$i#ne del ti$o !i trattam%nto #l c@i costo %$@ale ! il pi# bass$.",
+        "q_id": 939
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua@@ p*opriet*%io h# pagato la più grande quan!ità di %#na*o $n t@tale p@r $ *$#o @ani?M$stra *'I# p$op@@$*ario e #l c%dice p*stal#.",
+        "q_id": 940
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Trov! l'I# pr!pr%et!*i$ * $l co!ice posta!e %e* pro*rieta#io che hanno speso pi@ denaro in t#tale @er i s@o% c@n#.",
+        "q_id": 941
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q@a*% @r@%essionist% h$n%o f#tto almen* du# tipi di tr*!@amenti?E%en%a @'ID profession@le ! il cellu%ar#.",
+        "q_id": 942
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Trova l'ID e il te*efo*@ cellul@re dei p*of!#si$@$st! ch! gest!scon* $%e o $iù #i*i di t*attament@.",
+        "q_id": 943
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q%ali sono i@ no#e e *l c@gno*$ d@i prof#ssionisti #he hann% fatto cure c%% !os@% i**$r@ore #%la m!dia?",
+        "q_id": 944
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua@i profe*$ion@sti h#*no gestito un trattam$%to c!e costa %e#$ della med!#?D!mm* $ loro no%% e $$gn*m!.",
+        "q_id": 945
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Ele!$a l@ da%a di $gni trattament*, $nsi*me al %!me del pr**essio%i!ta c%e #o ha g$sti*o.",
+        "q_id": 946
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua%i son* la da#a # i% n$m# de@ profe*s#onista %p@rativ# di ogni ##atta*$nto?",
+        "q_id": 947
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "E%@nc*r% %@ co@!o *i ciasc@$ t%att#mento e l* cor%is%*ndente des$r@zio%! del *ipo di trat*a%ento.",
+        "q_id": 948
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali sono la $e!crizi#!e d$@ t#po di costo ! del trattam!nto %i ogni %$attame!to?",
+        "q_id": 949
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Elenca $l %o%* di ogni %ro#rieta*@o, il cogn!me e le d$men@io#$ *!l suo per il suo !a@e.",
+        "q_id": 950
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q%a#i sono il no@e, i% co*n@*e e le dimens$#ni del *o*o cane?",
+        "q_id": 951
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "E!%nca le coppi! del n!me @el propr*!tario e il *om* %%# cani.",
+        "q_id": 952
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "$%ali @ono i! @$me di ogni pro@riet$rio e il n$me d@i lor# ca$i?",
+        "q_id": 953
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "*le*ca i nom# @%i $a## de*la razza !iù ra%# e @e da@% di trat%amento.",
+        "q_id": 954
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q$$li *ani sono della razza p*ù rara?Mo#tr* # %o*% nomi e #! @ate del t*at%*mento.",
+        "q_id": 955
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "#ua@@ can# sono di pr$!r*$#à di qualcuno che vive in Vir!i@i%?E$e#@* *l n*me del proprietari% e *l n%me @el #a@e.",
+        "q_id": 956
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Tr*va i no#i de* %omi dei pro!r!*tar! c#e vivon! in Vi%$inia e ! nomi dei ca@i c%$ #ossi%*ono.",
+        "q_id": 957
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua*i *on$ la $ata in %rriv# e la data in pa$ten#a dei %a@i #$$ $anno subi#o un tratta!$nto?",
+        "q_id": 958
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Trova la *a## in ar%iv@ e la data di p#r@*nza d$i %ani ch% h#nno ri%evuto un t$$tt!#ento.",
+        "q_id": 959
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Elenc$ !l cogn@m@ d*l pr@p!ietario c@e possie$e il c!ne $iù giovane.",
+        "q_id": 960
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Chi po%si@de *l @*ne p#% @i@van#?Dam@i il s@o cognome.",
+        "q_id": 961
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Elenca %! * -*a@l d%i p%of@!sionis!i che v#!ono $el%o stato d#l!e Haw$$i o nello stato d$l Wisconsin.",
+        "q_id": 962
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "#uali son# $e e -m#il dei p#ofe!s#o!*sti che v@vo*o nel@* stat# d%lle Hawaii o !e%lo stato d#l W#s$ons!n?",
+        "q_id": 963
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "%!al$ s$n% la data i@ arrivo e la d$t@ in p$rten!a di !utti i c#ni?",
+        "q_id": 964
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Elenca la dat$ *i arr*vo e @a d#ta di pa$t$nza *e% $utt% i !ani.",
+        "q_id": 965
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua!ti ca*i han*o attr#versato t*att#m!%ti?",
+        "q_id": 966
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Conta il numero !i cani ch% h#n$o a@tr$v%rs@to un t$@#tam!*to.",
+        "q_id": 967
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu%@ti prof%ssi#ni@ti h!nn$ e%@guito un trat!ame#to p@r * cani?",
+        "q_id": 968
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "T!ova i% $um$r! di !r#fe*sionisti che @anno @a# tratt!to $ c%ni.",
+        "q_id": 969
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qual% #ro@essionis*i vivo*o %n u$$ !ittà @on#$ne#te !a sottostringa \"We*t\"?E*enca $l su* ruolo, st#$da, ci#%à # stato.",
+        "q_id": 970
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Tro@% i! #uo$o, %@%!da, !itt$ e s!ato dei p!of#ssioni@ti !he vivo$o in *na città ch@ contien@ la sottos@ringa \"W%@t\".",
+        "q_id": 971
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali pro%ri%t@ri $#v%$o ne!lo s#at@ il !ui nome conti$ne la sot!o##ring* \"$!*th\"?E@enca $l suo nome, co!@ome #d e -m$il.",
+        "q_id": 972
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Resti#uisc$ il n$me, %l co%no!% e l'e -%ail dei prop!i$ta@i #he v%vo#o *n u%o stato @l cui %ome contie## l# sott$#tri$ga \"North\".",
+        "q_id": 973
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu$nti @ani hanno un'età i%$#ri!re *ll% m%dia?",
+        "q_id": 974
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Con@a i# nu#$ro di can$ di età %nferior$ !ll@ m#$ia.",
+        "q_id": 975
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q!a@t@ #os@a il tr%ttame*to p!ù r#cen@e?",
+        "q_id": 976
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Mo$$ra$i il !o*to del $ra!tam$n#o !se!uito pi* rece%temente.",
+        "q_id": 977
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quan!* can@ non hanno at*ra#ers%*o alcu! %ra@tam!nto?",
+        "q_id": 978
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Di#mi il num*$o *# !#ni ch% #$n h@nno ricevut* alcun %ra@tamento.",
+        "q_id": 979
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "!u#nti pr@pr#@@ari temp*ran#amente $on hanno %*ni?",
+        "q_id": 980
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Tr!va !l nu#!ro @i propr%%tari c@e no! poss#edono cani i# q@esto #!me$to.",
+        "q_id": 981
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu*%t$ prof@ssi$nist% n$n hann* operato a%cu# #rattame$t# %ui @ani?",
+        "q_id": 982
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Tro@a il !umero di prof!ssio@%sti che n#% @anno tratta*o alcu@ !ani.",
+        "q_id": 983
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "$lenca il n%$e d#l c*n*, l'@tà e il ##!o dei ca*i che s$n* @t!t$ a#band$nati?$ sta per s$ e 0 sta per il no.",
+        "q_id": 984
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "#!al@ so%o il nome del cane, l'%t* e il pes$ *#$ cani ch% sono stati #bba!d!na#i?Si no%i !h@ 1 s#a per @ì # % sta per no n*lle tab$$le.",
+        "q_id": 985
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua! è l'età me@@% di #utti i ca@i?",
+        "q_id": 986
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "C%lc%l$ l'età med$a d@ tutti % $ani.",
+        "q_id": 987
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q!*# ! #'*tà del cane più anti@o?",
+        "q_id": 988
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "$immi l'@#à @el @*@e più antico.",
+        "q_id": 989
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quan%! costa og#i t%$o di a$%e*it%?%le$ca@e sia i@ tipo di #ddebito che l'im!or@o.",
+        "q_id": 990
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "E*enca ogni ti@o $i add#bito e i$ s*o import#.",
+        "q_id": 991
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu*n*o cost! i$ *ipo di add@bito $iù co%tos*?",
+        "q_id": 992
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q$al è !a qua*t$tà di !ddebi#o #el ti%o di a*#e!ito **$ cos*oso?",
+        "q_id": 993
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "!lenc! l'e -mail, il #e@ef!n# cellular! e il tele*$%o #i c@sa d@ t*tti * p##fessio@isti.",
+        "q_id": 994
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "@!al* s#@o l'e -@a*l, il telefono ce@lu@%re $ il te!$fon# a casa di ogni $rofes*i!nista?",
+        "q_id": 995
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua@i $**o tutte le !#ssibili combinazion# d% ti#o di raz@! e di!@ns!oni?",
+        "q_id": 996
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Tr$va l% dist!nte #*mbi#azi%n# di tipo d* raz%a e #ipo d# d%men%i!*% pe# i cani.",
+        "q_id": 997
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Ele*c% $l n!me !* t!t#i i prof#@s*onist* $*sieme !lla descri#ion* del tratt!m%nt% ch# hanno fat@o.",
+        "q_id": 998
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "%ua%i so@o il nom@ e l@ de$crizio%e d# $g*i !ro$e$si@n@s@a !el trat@a%en!o !he hanno es%guito?",
+        "q_id": 999
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu%!ti c#nt%nti !i sono?",
+        "q_id": 1000
+    },
+    {
+        "db_id": "singer",
+        "question": "Q#a% è il $onte#gio dei cantan*$?",
+        "q_id": 1001
+    },
+    {
+        "db_id": "singer",
+        "question": "Elen*@ i$ nome %*i cantanti ne!l'or*in* as*@nde*te $%l $atrimonio n$tto.",
+        "q_id": 1002
+    },
+    {
+        "db_id": "singer",
+        "question": "Q%a*$ sono i nomi d*i ca*t$nti o#d*nati dal patrimonio ne@to a%cenden#e?",
+        "q_id": 1003
+    },
+    {
+        "db_id": "singer",
+        "question": "%ual% @ono l'anno @i nasci!a ! @a #ittadinanza d%@ @an$a%!i?",
+        "q_id": 1004
+    },
+    {
+        "db_id": "singer",
+        "question": "Quali sono g$* a#ni #@ nas$ita e *a @i$t%dinan@@ dei c#nt!nti?",
+        "q_id": 1005
+    },
+    {
+        "db_id": "singer",
+        "question": "E!enca *! nome @i c*ntan@i la $ui c!t@adi#anz$ n$n è \"#r#ncia\".",
+        "q_id": 1006
+    },
+    {
+        "db_id": "singer",
+        "question": "Quali s!!* i nomi d!i can$!nti c#e *** sono cittadi#i franc#$i?",
+        "q_id": 1007
+    },
+    {
+        "db_id": "singer",
+        "question": "Mostra i# n!me di c$n!a%ti #l ​​c*# a$no di nascita è *948 o 19!9?",
+        "q_id": 1008
+    },
+    {
+        "db_id": "singer",
+        "question": "Quali son% i n$#i $e$ c#ntanti i cu! a#ni di %a#!@ta sono 19%8 ! 1949?",
+        "q_id": 1009
+    },
+    {
+        "db_id": "singer",
+        "question": "Qua# è il nome d!l ca#tan!e co$ il @*ù gra%de #a!%imo@@o netto?",
+        "q_id": 1010
+    },
+    {
+        "db_id": "singer",
+        "question": "Qual è il nome **l ca%tante c%e v#le $i p!#?",
+        "q_id": 1011
+    },
+    {
+        "db_id": "singer",
+        "question": "#*stra diverse ci%tad@*anza di ca!t#nt$ e il numero d! $antan@# di ogn$ c%#t#d*@anza.",
+        "q_id": 1012
+    },
+    {
+        "db_id": "singer",
+        "question": "*er og@i !ittad$$$%z*, @ua%#i can!anti @rove!gono da quel paese?",
+        "q_id": 1013
+    },
+    {
+        "db_id": "singer",
+        "question": "Per favor%, m*stra la citta!ina$@a pi$ %o#!ne d*i c*!tanti.",
+        "q_id": 1014
+    },
+    {
+        "db_id": "singer",
+        "question": "Qual è la citt$di#$@za d*l ca#tante più %omu#e?",
+        "q_id": 1015
+    },
+    {
+        "db_id": "singer",
+        "question": "$ostra di$erse cittadi%i e il p#@ri$onio n$t*$ mass@%o $$ cant*nti di og#i c#@t*dina#$a.",
+        "q_id": 1016
+    },
+    {
+        "db_id": "singer",
+        "question": "%er ogni c%*ta@inanza, *u#l è il patrim@n!o nett! m*$s@mo?",
+        "q_id": 1017
+    },
+    {
+        "db_id": "singer",
+        "question": "M!str@ ti@$li d* !anzoni e no#% di can#anti.",
+        "q_id": 1018
+    },
+    {
+        "db_id": "singer",
+        "question": "Qua*i $ono i titoli de*le c**zoni e i *omi **i @ant*nti?",
+        "q_id": 1019
+    },
+    {
+        "db_id": "singer",
+        "question": "#os!ra *omi %isti**i di c%ntant# che hann$ canzo%i con #endite p#% d@ 300*00.",
+        "q_id": 1020
+    },
+    {
+        "db_id": "singer",
+        "question": "Q*ali sono % *$ver!i no%i dei cantan@i che hanno vendite $$ù @i $0@0$0?",
+        "q_id": 1021
+    },
+    {
+        "db_id": "singer",
+        "question": "!ost$a i nom@ #ei $ant%nti ch! h$nno più di una c#nzone.",
+        "q_id": 1022
+    },
+    {
+        "db_id": "singer",
+        "question": "Quali @ono @ #$m% dei cant%n*$ che han!o pi! $i !na c$nzone?",
+        "q_id": 1023
+    },
+    {
+        "db_id": "singer",
+        "question": "Mo$tra @ no%! dei cantanti e !e ve!$it! t!tali dell@ loro canzoni.",
+        "q_id": 1024
+    },
+    {
+        "db_id": "singer",
+        "question": "Pe@ @l nom! di %*n* @@n!$n%e, @#al@ son* le vendite totali per !# loro canzoni?",
+        "q_id": 1025
+    },
+    {
+        "db_id": "singer",
+        "question": "E#enc$ il %om@ di cantant@ che non !#nn@ al*u$a canz$n$.",
+        "q_id": 1026
+    },
+    {
+        "db_id": "singer",
+        "question": "Q$!l è i@ no#e d# ogni $e*ca!o ch! non ha alcuna canzo%e?",
+        "q_id": 1027
+    },
+    {
+        "db_id": "singer",
+        "question": "M#st*! l@ c#t@a#in#nza con%#vi@a dai can#$*ti con l'ann@ di nascit$ p#ima del 1!4! e do@o il 1955.",
+        "q_id": 1028
+    },
+    {
+        "db_id": "singer",
+        "question": "Q$ali sono le ci$tad*n% !he $on$ con!i!ise dai $antanti con un an#! d$ na*c**a *rima de! 1#4* e d$po il 1%5!?",
+        "q_id": 1029
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "@uante fun*@on@li@* di%ponibili ci sono in ##*ale?",
+        "q_id": 1030
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "Qual è %l no#* d*l !ipo di fun#%on$!#t# di Feat%re Air%on?",
+        "q_id": 1031
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "Mostr@ le desc$!z*on$ %e% @@pi di p$opriet! de#le proprietà appa!t$#%nti a quel cod%ce.",
+        "q_id": 1032
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "Qual! so@o $ $omi delle propri%tà ch% *ono cas% # apparta*e*ti ##@ p$ù di 1 ca%era?",
+        "q_id": 1033
+    }
+]

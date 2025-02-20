@@ -1,0 +1,5172 @@
+[
+    {
+        "db_id": "concert_singer",
+        "question": "Q@a*@i $anta$!i ab!$a*o?",
+        "q_id": 0
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qua$ # %# $@me** tot#le @! @#nta!*i?",
+        "q_id": 1
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "#$me s*e#t@%ol@, pae!e, e!$ pe# t@*!i i c!#**nt@ or#i%ati per *tà @#@ p$* v*@$*i$ a$ !i! gi!!ane.",
+        "q_id": 2
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "##a$# sono # %#mi, ! p%e*i e le *$$ $e@ o!ni @@nt*!$e %$ !@!%@e di et# $#sc%%dent!?",
+        "q_id": 3
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Q$a@ è l'e$à med@a, m!@im# e *assima !% !@t!i @ c*!#**#@ %a*$a Fr@nci$?",
+        "q_id": 4
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "%%@l è l'età m%d@a, *i%i%* e @!s$im! p$% t#!@i # $a!%%nt! #r$@ce#i?",
+        "q_id": 5
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "%o#@#a ** !*m@ e l'a!%@ d@ %s!$t* #e!la canz*!e %#l can%$nte $!ù gio!*$e.",
+        "q_id": 6
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Q%al$ #ono * nom* % *!i #nn* ** u*c#@a p!@ tu#$! le c#n#*$* del $#!ta%*e pi! %i$v%ne?",
+        "q_id": 7
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Q#*li $on$ t#t$# pa@si di@%int! da #!i $r*!e$*$#o i @%$*a$%i !i *#à su!*%@%re ai #0 %#@i?",
+        "q_id": 8
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qua$i $ono i $iv!rs% *ae%$ !%! $antan@i #$ et$ @%p$ri@r$ ai 2@ #n$@?",
+        "q_id": 9
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "%o%tra !u!ti * #%e$# e il n@%er@ %* c$%%%$ti !n !#ni p*#s$.",
+        "q_id": 10
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qua!!# @#*tanti s$no !$ o!ni @%e!*?",
+        "q_id": 11
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "$%!nca tut*$ i $o$$ d*l@e !an$o#@ #* #$nta$t% #! !i *%pra d!l@'e!@ me%ia.",
+        "q_id": 12
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "!uali *on# t!*$$ $ n#m! d#l*% #$@zoni d#i *a@@a#%% @!ù v$c@#i @!$l% me%ia?",
+        "q_id": 13
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Mo!@$@ !o$**i$@$ e %@!@ per $ut!# !@i s%a%@ #on una $ap**it# !@# %000 # #000*.",
+        "q_id": 14
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Q!al@ *on$ l* @*siz*%%i e @ nomi ## *utte le $t#z#@%* *on %!@a!#!à tra *00% e $!%0@?",
+        "q_id": 15
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Q%a$ è l@ mas$ima c!#a$it# e @a $e#%a d# *ut*! $$i st#d#?",
+        "q_id": 16
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "$ua$% #!*o %e ca!acit! m#!## e m$@%@me p!% *%tti @li s$a!i?",
+        "q_id": 17
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Q$@$ è *l n#m@ $ *$ c!@*c#*à d%l!o %t*d!* #on %a %!% a%!a fre#u@nz* !e*ia?",
+        "q_id": 18
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "!*@l è il **%e $ *# cap#ci*@ del!$ st@di# *!! $# $#ù alt# f!equenz# me%$a?",
+        "q_id": 19
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@n%i *!%cer$i ci *@!o !@ll'%!n% %*#4 # %01%?",
+        "q_id": 20
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "@!$#t* c$ncer## %i !ono ve$!!!ca%! nel 20%! # nel @#15?",
+        "q_id": 21
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Mos*!# !# nom# !ello s%a!!# % i! n#m**o %# conc%$#i in ogn# st**%@.",
+        "q_id": 22
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "@$! ogn# sta@@o, @u*nt% $o@c!#*@ s%%@a!$ lì?",
+        "q_id": 23
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "@ost$a il *#me * la $a!acit# d$*@$ @t$$i! con $a #*!#@o% pa$t% #@i $$n%*%$i ne*!'anno 2#14 o d!*o.",
+        "q_id": 24
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "$@al è i! nom* * #* @#p*cit$ %ell# !*!di% c*# #l m$*!@o! @!m#!o %i co***r$% dopo il 20!%?",
+        "q_id": 25
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "In ch# !@n@ h% %$ $agg$or p@#te $%% !o%ce*@@?",
+        "q_id": 26
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu$l $ l'$@!@ che $a av!t! @l m*@$%o# n@mero d* co$@e*ti?",
+        "q_id": 27
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Mo%%ra ! @om# del$% st!!i% sen#! %l$*n #@n!er@o.",
+        "q_id": 28
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "*u@!i $on% i %o#% degli @ta$* @!nz* c@nc$%ti?",
+        "q_id": 29
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "%os#r% paesi d$ c@i %#!ven!o!o ** %antan## $! e#@ su%$@i!r# a@ !! an!i ! u% ca%$a#!e i@%$r!or! a *0.",
+        "q_id": 30
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "#!!*ra #o$i p!* #utt$ g## !t%di a! %!$$zio## degl@ @ta%i c*e #@nno u* %onc*!*o n!l@'#@no %014.",
+        "q_id": 31
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qual# !o** # !$@i %i tu*ti @$i !t#@* !he n#$ h@n!$ avu!o un c$@*$rto #el $*!4?",
+        "q_id": 32
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "$%s*ra il n@m@ e $l !ema *e* $u%$! $ c#n*%rti # *! n@m*ro di @%nt$%@i in ##n@ c$n!@rt$.",
+        "q_id": 33
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "%*a#! %#%@ * n*%i, @ tem* e @$ @umero d# #ant*nt% *#@ *g$i c%!$e$to?",
+        "q_id": 34
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "#$@@!a % nomi dei ca!t$*t* ! i% nu!*r* d% $o$c!r#i p*r o!n$ cant@!@e.",
+        "q_id": 35
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Q@a%i s$no # no*i #ei c*!tan$! % #l n@%!#o di **$**$#@ p$* og%i p*r%$@a?",
+        "q_id": 36
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "E@en@! *ut$i i nomi de@ #an$ant* !n #o%#!rt! *e$@'a$$o 2#!@.",
+        "q_id": 37
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "*u$%i s$n$ $ n%$% %!@ c%nt%$!# $#e si sono es!!it$ @* u@ conc$#to n$l $@14?",
+        "q_id": 38
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qua! è !@ @%m$ e l@ n!#!one #el @!nt%n!e %he ha*@o u%@ c$#@#@@ c*e $a \"%h@\" n#l suo $#%e?",
+        "q_id": 39
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "$ual è $l *#$e e !l *a$$! *i $rigin# @i @gn! *#%#!$t# @he ha !*a %a@!o*% @o$ !@ pa%#la \"%e#\" ne! suo ti#!lo?",
+        "q_id": 40
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "@%!!a $# no!# e l! *o$*z*o$e #e@@i %#$!i *h# son$ a#v@nu%i a@c%ni $%**%rt% $@gl$ anni *el @@1! e *el 2#%*.",
+        "q_id": 41
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "$$a#i son# i *!mi * l$ posi*io!i *e#l@ %!@%i c@e *an#o !v*to concert# #$* !# @o*o v*#**@#a@@ si% #e% #%14 !$# n*l 2015?",
+        "q_id": 42
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "!r$va *l !*!!!% d! @!n$e$ti *he è @vvenuto #ello *tad!* *o$ @% $$ss@$@ #a#a!!@!.",
+        "q_id": 43
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "%ua*i $ono !l n@#e#! d* $onc!!ti av#**u@i n@l#@ @t%di$ @o! ## $iù @$a%d@ @a#@$*tà?",
+        "q_id": 44
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T#o$# *$ %*mer# di a%i%*%! $*!estici i$ c!* **so è p$ù @e#ante @* 10.",
+        "q_id": 45
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu#$ti a%$!$%# dom#st*ci hann% @# p!so !a@g!#r# di @#?",
+        "q_id": 46
+    },
+    {
+        "db_id": "pets_1",
+        "question": "#$*$a il pe@* %e% ca*e p@$ giovan$.",
+        "q_id": 47
+    },
+    {
+        "db_id": "pets_1",
+        "question": "*ua#!o #e*% i# $#n* più !io#*ne?",
+        "q_id": 48
+    },
+    {
+        "db_id": "pets_1",
+        "question": "*ro@@ i# @e#@ m@%s$$$ #!@ !*n@ t%!! $* !@i!!le dome*#ico.Elenca il pes! #!#*im# * il t!p% !i **!m@le d!$e@tico.",
+        "q_id": 49
+    },
+    {
+        "db_id": "pets_1",
+        "question": "E%enc% i% pe*% *a%#@*o e il ti$o @%r o$*! *%p$ #i *nimale dom!stic@.",
+        "q_id": 50
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Tr$v@ !! @!mer$ d! @n@!a%* d#!e!ti*i #i %rop#@@*à d$ #%ude%t% @i @tà s**#%$o!e #@ !0 !#ni.",
+        "q_id": 51
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Q$$*ti %**m*l! *o@esti!i $o#o !* $r%$!*@!% di s!#denti che h**@o !n'*%à s#%er!ore ! 2#?",
+        "q_id": 52
+    },
+    {
+        "db_id": "pets_1",
+        "question": "%!ov# i@ @*$#r* !i a#imal@ do!@!$ici #%e #@n$ al#ev@ti #* !$u!@n!e#*% ($on *ess$ F).",
+        "q_id": 53
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Q#a#ti a@!mali #om%!$i%% s%n@ !l%%vat! !! $**de!!esse?",
+        "q_id": 54
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T!%v% %l nume@@ $% t**i @@s#i*!$ di $!*!al# do!e@tici.",
+        "q_id": 55
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Q#a#$@ di!er!i %ipi *i a@*m##i *$m#sti%$ ci @$n!?",
+        "q_id": 56
+    },
+    {
+        "db_id": "pets_1",
+        "question": "%ro@a @l no$e deg#* %%u!%nt! !he $%%n$ $% anima%e dome#$i*$ p$r gatti % c**$.",
+        "q_id": 57
+    },
+    {
+        "db_id": "pets_1",
+        "question": "%u!li %o!o # pri!i nomi !i ogni s@#!%nte c@! ha u% #%#t@ o un $*$e **#@ ani%a$@ *%mest*$o?",
+        "q_id": 58
+    },
+    {
+        "db_id": "pets_1",
+        "question": "%r!v% i% n*m* @# !!u$e#@i $@e h%n*! a#$mal# %*m%%tici s%a di !att@ ch@ !i ca$$.",
+        "q_id": 59
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Q!al* $*no ! *om@ de*li stude#t% %h# !ann! @%* ga$@* *h@ #ani %@me !n*m!!@ d@*e@%*%i?",
+        "q_id": 60
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T#!@a il ma$gior@ e *'%t# %!*@i s#u*e$t! %he *o! *%@n@ $n an!$a$e do%!%t*c*.",
+        "q_id": 61
+    },
+    {
+        "db_id": "pets_1",
+        "question": "#!*$e %a%gior% @ %*ni $!%de%te #he !$n possi%d# u# #att@ %o@% #n$$*l! %ome%$ic@, e an@he *u@n*! #nn% !$nno?",
+        "q_id": 62
+    },
+    {
+        "db_id": "pets_1",
+        "question": "@r*v* l'I$ #!g!$ stu$$$ti ch* n%@ !ann@ u* *n%m*$e %om@s#ic*.",
+        "q_id": 63
+    },
+    {
+        "db_id": "pets_1",
+        "question": "$%al* s@*! *@i ID d*g*i stu*e%t$ c$e non p$s*i$!%*o i @@!t# #!%@ a$i@al* @o%es!ici?",
+        "q_id": 64
+    },
+    {
+        "db_id": "pets_1",
+        "question": "##ova i# n$$# $ !'età %!%l* *tudenti #$e $#nn$ un *a!e m# *#@ $an!o u! ga*to !o#e %n%mal@ d!mes#*co.",
+        "q_id": 65
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu!l è @* $!!! d* @gni stu$ent* ch* h$ !% %ane ma $on h! @@ g**#@?",
+        "q_id": 66
+    },
+    {
+        "db_id": "pets_1",
+        "question": "%r$*! i* t%#o e %# p*@* dell'an$#a!e *iù @iov##e.",
+        "q_id": 67
+    },
+    {
+        "db_id": "pets_1",
+        "question": "@@% tip# #! #nimale domest@c# è #'*n*ma#$ p%$ !io@*#* e $u!@to pe*!?",
+        "q_id": 68
+    },
+    {
+        "db_id": "pets_1",
+        "question": "*$ova %'@@ e #% pes@ d% @!tt@ g!i ani$*li %*m*stici $a $!@ *tà è %iù v!#ch*a $* 1.",
+        "q_id": 69
+    },
+    {
+        "db_id": "pets_1",
+        "question": "@#a* ! l'I@ $ i! pe!$ %i o%!* a@i**le d!me$tic% c%% ## #iù #% #?",
+        "q_id": 70
+    },
+    {
+        "db_id": "pets_1",
+        "question": "@*ova l'@%à m#di! ! %#ss$m! *er %gni @i#$ !i *!imale d!*$sti%%.",
+        "q_id": 71
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@l * l'#t@ !e!@a @ *assi!# pe* #gni %#*@ !i a@%ma@e @$#$s!#c#?",
+        "q_id": 72
+    },
+    {
+        "db_id": "pets_1",
+        "question": "*%!#! *@ peso m*@%o p@r c!as$@$ !@po d* an!mal* %omest@!o.",
+        "q_id": 73
+    },
+    {
+        "db_id": "pets_1",
+        "question": "%ua# % il pe!o m!dio p$* ogn# *#$! di %#$mal% #o*e!##c@?",
+        "q_id": 74
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T@*@% il !%!e e %'**à @#*l@ st$d@nti c*! #**@o u% an##@le *ome!tico.",
+        "q_id": 75
+    },
+    {
+        "db_id": "pets_1",
+        "question": "%ua$$ so*o i !@ve##! no%% ! *ecol! $$g#i !@u%$n!i $he *%%no a!im$#i do#*s@ic@?",
+        "q_id": 76
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova l'@D de%!'#$i*!#@ di $r#@ri@t# ** St@!ent $! c*! !*@%ome è \"*mi#h\".",
+        "q_id": 77
+    },
+    {
+        "db_id": "pets_1",
+        "question": "@ual ! $'ID d!l@'#ni#%!e *! pr#**!@tà $e!l% s$%!en*e $! cui cog@o%e è \"%m#t!\"?",
+        "q_id": 78
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T%o#a @* !@!ero di !%i*a!i domes$%$i !er o@## !tu$!*@@ c@@ ha !n doc@@%%$o $i @%e$t!#à con !!ima$i #o%%$$!%! e #!udente.",
+        "q_id": 79
+    },
+    {
+        "db_id": "pets_1",
+        "question": "@er @li s!uden#i #he $a%#@ #!$#%*i *om@#ti!@, q**$t! an$#a#@ d*#e$tici !a og*i studen!@?!!en@a i l##$ @# in**$# d$ no!i.",
+        "q_id": 80
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T#ova il no@e e i@ $#!e*e de%l$ s@u@ente c!e #!n%% *iù %i un #n%m%@e d$m$!t#%o.",
+        "q_id": 81
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Q$#$ è il n%me e *$ g$nere d$ t*#*i @l@ @*u@en@i c!@ h!$%! $%ù !i un $ni*%l* d*m%stico?",
+        "q_id": 82
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T##va i@ #%gno#% ##!l% s$u*e%@@ %he *@ un g!@t@ %he ** 3 an!i.",
+        "q_id": 83
+    },
+    {
+        "db_id": "pets_1",
+        "question": "*%#$ è il @o%n#@e d%!lo s!ud*n@! *he @a ** g$tt! che ## 3 $@*i?",
+        "q_id": 84
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T%#v$ #'età m!!*a degl! %t$@*!t@ @he !o# *#nn* $lc@n !nima*e *$me@@i%o.",
+        "q_id": 85
+    },
+    {
+        "db_id": "pets_1",
+        "question": "$u#l ! $'$!$ m%di% p@@ t##*# g$# stud$nti c#e n*n %os@i@%@n% *n@ma#@ domes!i%i?",
+        "q_id": 86
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q#%n*! c!$ti@en%@ *! so$o?",
+        "q_id": 87
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q!a% è il n%m$*# @# *@ntin@n$%?",
+        "q_id": 88
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu$!t* pa%%i !$ #g*$ c##t%ne#te?$@e*$# #'%* c*n**n%nte, i* n#!@ %e@ co**in%nt# e i@ num#@o $i %*es#.",
+        "q_id": 89
+    },
+    {
+        "db_id": "car_1",
+        "question": "Per %g$i %%!%i@e%!$, el##$a il s!o @D, i# no*e @ qua#@% %aes@ @a?",
+        "q_id": 90
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q@an@i #@@#i !*$$ elencati?",
+        "q_id": 91
+    },
+    {
+        "db_id": "car_1",
+        "question": "*uanti pa$!@ !si*t$$!?",
+        "q_id": 92
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua*$i mode!@i pr!d#c! og!* *@!#%t*o$# *%tomo!$lis@i@o?$%*@$o %#me %om!%et@, *D % %um$ro.",
+        "q_id": 93
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q@%$ è *l no%@ co%ple$! %i o$ni #r$!#tt*## di a$@o, in%#!m* @l %u@ ID ! $ *%*nti $$*e!!i pr$d@*e?",
+        "q_id": 94
+    },
+    {
+        "db_id": "car_1",
+        "question": "%%a%@ %#$ell! de#$'aut$ h* l% p#te$*a !!ni$a?",
+        "q_id": 95
+    },
+    {
+        "db_id": "car_1",
+        "question": "$u#l è *l modell# dell'a@t$ %!n l# più $#@co#@ @!an**t# $i !ot$!$@?",
+        "q_id": 96
+    },
+    {
+        "db_id": "car_1",
+        "question": "T!o%% il @o@*#l$ d$ll'#@to il cui %eso è $! *$ s*#!* $el p@s! me@io.",
+        "q_id": 97
+    },
+    {
+        "db_id": "car_1",
+        "question": "$*al * $% m!d%ll@ $$# l'!u$o $on u@ p%so inf*r@or% !$#a me@*a?",
+        "q_id": 98
+    },
+    {
+        "db_id": "car_1",
+        "question": "$!o*a !l !#@e *$i #!%du!t%ri %$e @an*o **$*%t$o %lcune a!t# nel%'anno @9*0?",
+        "q_id": 99
+    },
+    {
+        "db_id": "car_1",
+        "question": "#ual * %# n%me d$* d%ve%#% #rod#@*o%@ d@ a#%$m#b$@% %he ha!#! !ro%##to u*'@u*o nel 1#70?",
+        "q_id": 100
+    },
+    {
+        "db_id": "car_1",
+        "question": "%$!!* i# t#$*o d@ $*r$a * @ro!u%ione #!l%e #uto prodo@t! nel #rim@ $@no?",
+        "q_id": 101
+    },
+    {
+        "db_id": "car_1",
+        "question": "*ua* ! %l #*%@@!$ore d@ C!rr pr*do%#o #!* pri!o an$o $ in !he !@n% # @*a$$?",
+        "q_id": 102
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@#i *%del!i d$ $*t% *%s%!n@e %*#o @rodo!ti $$p$ $l 1@8!?",
+        "q_id": 103
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q@a@@ sono ! *ive**i $*$$lli %@% @% %arte p!odo*$$ %o@@ %# @980?",
+        "q_id": 104
+    },
+    {
+        "db_id": "car_1",
+        "question": "@ua$t@ p%odut@$r! @i a*t%#o!il@ ci s#n@ *n og%* @ontin!nte?%l#!c! $l nom$ de% @*@@%$e#t# $ il c$nte!g%#.",
+        "q_id": 105
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q$@* $ i% n@m! *i ogn* contin*n*e e @uan$i %!o$#*tor% @* automo!#li c@ so*$ $% *g%!#%?",
+        "q_id": 106
+    },
+    {
+        "db_id": "car_1",
+        "question": "#*#$e d@i paesi @a l* m%*%%#r p*@te d!i $$#@u#!or# d# au$o#@!il#?!le$@a #l %#me $el p%##e.",
+        "q_id": 107
+    },
+    {
+        "db_id": "car_1",
+        "question": "$ua% è i$ no#e !el p!ese #$n la %#g%io$ %ar** de# pr##u!tor$ !i %$$#mo#$l!?",
+        "q_id": 108
+    },
+    {
+        "db_id": "car_1",
+        "question": "!ua$!i #ode#*i di a#t@ so*o p#o@!t!i ## %g!* prod#t@!re?*l@nc! solo #l c$%#eg!@! e i@ #!*% #om!l!@o @$% *r@d%@t#!e.",
+        "q_id": 109
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q@al * #% n$m#!@ *i !%d@lli di aut% $#$ sono prodo%%i ** $gni #r!dutt%!% e q@al ! %'@! e !l !o@# !omp@et! @i *%ni p!o%#tt!re?",
+        "q_id": 110
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q$al è !'*c!eler*z%!ne d%@l'auto Maki@% A$C H%$@e# !*!r@%#!$! (S@)?",
+        "q_id": 111
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q@#n$o a#!e@era #'@ut* #!@ $ende A@! Hor@$t !p*r@A@o!t (SW)?",
+        "q_id": 112
+    },
+    {
+        "db_id": "car_1",
+        "question": "%u#nt* pr%$ut#o%# $$ au$#mo!!%i ci sono i@ #r*n#i*?",
+        "q_id": 113
+    },
+    {
+        "db_id": "car_1",
+        "question": "**$l ! !l %%m*#o di p%!$uttori %i cu#e @# @r@*$!a?",
+        "q_id": 114
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quanti mod!lli d! @*to $#n% %@*!ot!i n@g** @%*#i U@i#i?",
+        "q_id": 115
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q$** * #l c!@$%@@io d$i m$d$lli $i *u## p@*#*t%i n%!li !t@ti U$$t*?",
+        "q_id": 116
+    },
+    {
+        "db_id": "car_1",
+        "question": "$u*@ $ %# $igli! med!@ !** $a%lon@ (m%g) @e*le %uto *#n 4 ci*i#dr$?",
+        "q_id": 117
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q%al è l# m@g*!@ @#d@e p$$ g$l*!%! @i $%@te @e *a**$ co# 4 $%li##ri?",
+        "q_id": 118
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q#!l @ %l %eso %iù picc%!@ d!l%'!u*$ %r%@@tt* c$n % c!li#dr@ #el **74?",
+        "q_id": 119
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q@a@ è *! %es! m%$!mo $#*!'aut@ con 8 $i!ind!! %r@dot%! n@$ 19*4?",
+        "q_id": 120
+    },
+    {
+        "db_id": "car_1",
+        "question": "Co$* s*$# *u$t@ % pro$uttor* # # #$@elli?",
+        "q_id": 121
+    },
+    {
+        "db_id": "car_1",
+        "question": "*o#* so@o i #ro%u$%#%! e ! m*de#$!?",
+        "q_id": 122
+    },
+    {
+        "db_id": "car_1",
+        "question": "Cos! *an@o i $a%@i !%* %%*no almen% #! !%o%utt#@# di a*%o?%om$ %lenc! e @@.",
+        "q_id": 123
+    },
+    {
+        "db_id": "car_1",
+        "question": "$!#@i s@#% # no%% $ gli %# di tutt% * $%e#i @on al@%n$ #n *r!@u#**$e %u!o@obilistic@?",
+        "q_id": 124
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu*# è i! @u@e!@ !#lle !ut# c%n @ot$n$a p$ù d# *%0?",
+        "q_id": 125
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q#a@ è i@ nu$#r* %* %!to !!* un@ ##*en@a s!**r$#re @ 150?",
+        "q_id": 126
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q@a@ è i* pe!o m$d@# %@l%# a@*% %gni *n##?",
+        "q_id": 127
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è i* #es# @%!io @ $'an@o $$r o$n$ %@n$?",
+        "q_id": 128
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua#i pae!i %! !u*opa %a*$* al$e@# 3 ca@$ a$$$m!bi$%st@!!e?",
+        "q_id": 129
+    },
+    {
+        "db_id": "car_1",
+        "question": "*u!l* %o#% i nom$ $* tut#i % #!esi %uro#e$ c%n a!!#n* 3 p%#du$tor%?",
+        "q_id": 130
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q!$l è l$ p!$@n*! #as*ima $ l$ m%rca !$i $od#l%# d% au#o co* * @@l@n#r*?",
+        "q_id": 131
+    },
+    {
+        "db_id": "car_1",
+        "question": "#!!$ è la !i@ $ra$%e qu%!*it% !% p#tenz$ p%% i mod%lli c$n 3 cili$@ri e $@e c@$* *?",
+        "q_id": 132
+    },
+    {
+        "db_id": "car_1",
+        "question": "@*a$e m**e%lo c!@%e@%* d* *!spar*i@*@ pi@ @enzina?@$l@ % @i@e, av@r@ !@ %igl#a ma*%ime p@$ ga$l!*e.",
+        "q_id": 133
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu** % %l mo$e*lo di au$o c*@ $l %** @i% a$%@?",
+        "q_id": 134
+    },
+    {
+        "db_id": "car_1",
+        "question": "@u@l * $* potenz$ $$di$ $e#le *u!# !#$@a $el *980?",
+        "q_id": 135
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu*$ è l* p%#*nz# m@#*a pe# !utt# l@ @ut# p*od@t@e @ri$$ d** $980?",
+        "q_id": 136
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua# è l'*di*%* #edio d!l!e a@!# #*# mo%#l%% V**vo?",
+        "q_id": 137
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua$ è l'ED%@@l #@@%! per t*#ti # *o*vos?",
+        "q_id": 138
+    },
+    {
+        "db_id": "car_1",
+        "question": "!%!l ! l'@cc@l!%azione @as*i$a !e# il d#$!r$# n**e$o #i $%lin#ri?",
+        "q_id": 139
+    },
+    {
+        "db_id": "car_1",
+        "question": "$*a@ è l'%c!e%$r#zio$e m$s@$$a #e# tu#!i % #%ver#i %ili*@ri?",
+        "q_id": 140
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual@ m!$*l%* ha %% più !er@i$!e (ma$e) %e#*e au#%?",
+        "q_id": 141
+    },
+    {
+        "db_id": "car_1",
+        "question": "$$ale @od%l%! h% !e *!rsi*#$ *i* div%!se?",
+        "q_id": 142
+    },
+    {
+        "db_id": "car_1",
+        "question": "@%a!#e a$t# h%#no p%ù d$ 4 @*%in@#%?",
+        "q_id": 143
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q@al % i$ $*$ero @i %u@% c$n p*% di 4 $@l$%d*!?",
+        "q_id": 144
+    },
+    {
+        "db_id": "car_1",
+        "question": "$$a#*% @u@o so!o sta!e $rodo#t$ *el %9!$?",
+        "q_id": 145
+    },
+    {
+        "db_id": "car_1",
+        "question": "N!! 1#%0, quant* au@o @!no %t%t$ r!al!z@!!#?",
+        "q_id": 146
+    },
+    {
+        "db_id": "car_1",
+        "question": "$uanti @ode%@i d* a%to s%!o @!$!i *ro#%tt@ dal p%!%*tto%e !!! n%%% %om!$e*$ Ameri$an %ot@! !om!@n*?",
+        "q_id": 147
+    },
+    {
+        "db_id": "car_1",
+        "question": "#!al @ *! %u@e!* di mod%#%$ $% #*to*%%%li c!ea$% !%%#$ !o*p!gn%a #u#$m*b@li#t*ca ameri*an$?",
+        "q_id": 148
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q!a%* p@o$uttor# ha$*@ p$o$*tta*o *iù %% 3 $o*e#li %i $!%#?%%enca !@ #o@e c@mp#%#o $ $'#D.",
+        "q_id": 149
+    },
+    {
+        "db_id": "car_1",
+        "question": "!@*li #*no i n#m* # g!@ ID di tut%@ $ p#%dutto$@ co$ pi$ d# # %o*e@*i?",
+        "q_id": 150
+    },
+    {
+        "db_id": "car_1",
+        "question": "!ual@ *o@%l%i !$st@n%i$i s*%o prodo*t$ !al %r@du%!!r! c#n *l nom% **##$e*o #i moto*i gener@$* % #es!n# $!% d$ @5##?",
+        "q_id": 151
+    },
+    {
+        "db_id": "car_1",
+        "question": "!*a@* %%$o * d$v$$si *$#e!li cr#a!i d*i mo!ori @eneral# de! *ake$ C*$ # pe#$#$%o p%$ !@ 35*0?",
+        "q_id": 152
+    },
+    {
+        "db_id": "car_1",
+        "question": "#% q$@#i an%i ve*i%%$o p@@dot$% *$ $$$o !@% #e!a!#*% *#n men$ d! 3000 e non #i! $* 40#0?",
+        "q_id": 153
+    },
+    {
+        "db_id": "car_1",
+        "question": "@@$@i so#o !l* an$% dive#!i in #ui @'e%a$$ @u%$ $$o$#%!e @he pes$**$o me*o *i $0$0 e a!$*e aut* c*# p%*a*ano più !i #@#$?",
+        "q_id": 154
+    },
+    {
+        "db_id": "car_1",
+        "question": "!u!! è la #ote*z@ d$*$'$$$o c*# l'ac*e#!!!z!%ne p@ù gran%e?",
+        "q_id": 155
+    },
+    {
+        "db_id": "car_1",
+        "question": "%$al è la **t#*za d!!l'@*t$ !o% #$ $i@ g%%!!e a!cele%azio%$?",
+        "q_id": 156
+    },
+    {
+        "db_id": "car_1",
+        "question": "*er i$ model*o V!lv*, q%#n#! !!!in$%i %# %'a@*o $o* i* m$!o acce!*rat$?",
+        "q_id": 157
+    },
+    {
+        "db_id": "car_1",
+        "question": "#!r #n m#$ell! $#$%@, qua*t# c*li$!ri @a l@ *ers%%!@ con m%no %ccele!a#o?",
+        "q_id": 158
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q*$@te a$to h*%%o un %#ce!e%%to p@@ gr%n@e *el!'au!o *o! ** @*%#$@% p#@ #ra*de?",
+        "q_id": 159
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q$*l ! il n#@%#! $# $uto c!! %n a!#ele$$to ma##ior@ #i @%el$o $on #*ù !*$e$z#?",
+        "q_id": 160
+    },
+    {
+        "db_id": "car_1",
+        "question": "!@@%$i $a!%! #anno più di 2 @r$d#*t%*@ d* !uto?",
+        "q_id": 161
+    },
+    {
+        "db_id": "car_1",
+        "question": "!*a# è *l %!m!!$ di pa$s# c$* ##ù *@ 2 prod%!#$ri ## @uto%ob%l#?",
+        "q_id": 162
+    },
+    {
+        "db_id": "car_1",
+        "question": "!u#$t@ $uto h*n%o ol%re # *i#$!dr*?",
+        "q_id": 163
+    },
+    {
+        "db_id": "car_1",
+        "question": "#!$l è i$ num$%o $i @@t! c%n $@*r$ * %ilind!i?",
+        "q_id": 164
+    },
+    {
+        "db_id": "car_1",
+        "question": "Pe% %* !uto #*! 4 #%li$d!@, q*ale mo!el*o ha #a %ot%n#@ $#$ *r#%d#?",
+        "q_id": 165
+    },
+    {
+        "db_id": "car_1",
+        "question": "!er tu%te @% a*to a 4 *@li!dr*, %!al% mode@l! @a p*ù #a#*%li?",
+        "q_id": 166
+    },
+    {
+        "db_id": "car_1",
+        "question": "Tra !! *$$o !on %o@%n%% più *he p$! $#s$a, quali n$* h#nn# p@ù di $ !@li*dr!?El%nca la @a#c$i%% pe* #!la#e % fa$ %l #o*!.",
+        "q_id": 167
+    },
+    {
+        "db_id": "car_1",
+        "question": "Tr* $! a%t* c*$ no# %*nno @! @*t#*za mi$%%*, $*!@i @*n@ i *o%%me%ti di $en#$m!n!% # n!#$ d! $*tti quelli %%* %eno $i * !ili%d!@?",
+        "q_id": 168
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@# è !$ *!gl%@ mass!me per @al@$#! !e*l'$uto co$ 8 ci!i%#*% o !ro@**%e p$im# $@l #%!0?",
+        "q_id": 169
+    },
+    {
+        "db_id": "car_1",
+        "question": "*!a% è !# !!s!im! mp$ d$%@# aut$ c$n $ c$$i*dr% @ c$% !o!* s#a%i %ro%o#ti pr*ma del 198@?",
+        "q_id": 170
+    },
+    {
+        "db_id": "car_1",
+        "question": "#*a*% m$d$ll@ so## più le!g@$! #i 350@ *% no@ costru#t# *a@$* \"#%$@ #o%!r @ompa@y\"?",
+        "q_id": 171
+    },
+    {
+        "db_id": "car_1",
+        "question": "$*a$i s!%o i @ive$$# %o*e!li p%@ $eggeri *i @5$0 ma n%@ !%!o !ta#i *o$tr@i*@ d#l!a For@ M!t$* C@m!an#?",
+        "q_id": 172
+    },
+    {
+        "db_id": "car_1",
+        "question": "@u%#i %on! %! @o*e *ei !a%s! in *ui @on #s@s*# $n s%l! pro*@tt%r$ @$ au*o?",
+        "q_id": 173
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua#i *$@o # nom@ *e$ pa#s% !enz! %$o@u@!or! @i a##*!obi!i?",
+        "q_id": 174
+    },
+    {
+        "db_id": "car_1",
+        "question": "**a%$ *!n$ i *ro#u%tor* $$ a!*o *!$ p!@d@%on@ a#@@$o * #*de@@i @ più $i * prod$#t@r% d* aut@?Ele!#a !'I@ @ il #%!at*re.",
+        "q_id": 175
+    },
+    {
+        "db_id": "car_1",
+        "question": "%u*li $o!o gl# *$ e @ !@@du!tori @% t@tt# i %*odutt%ri $* au!o@obi#% #!e pr##uc#no %l@%@o # mo@e*@i * !rodu%!n! %%% !@ ! au$#?",
+        "q_id": 176
+    },
+    {
+        "db_id": "car_1",
+        "question": "!$a!@ s*@o #'@@ e @ #*mi %ei @aesi !#% #$$$$ p$ù $i 3 pr*du@tori !i @$t@mo%il@ o *r!#$con# %l *o*el$o \"%@a@\"?",
+        "q_id": 177
+    },
+    {
+        "db_id": "car_1",
+        "question": "@uali so@o gli ID e % %omi @i $u@*$ i !ae#% che %!@!! p!ù *# 3 *r*du!%o*! %$ aut% o #ro@#%@no ** !o#%l%o F###?",
+        "q_id": 178
+    },
+    {
+        "db_id": "flight_2",
+        "question": "% q*@l@ p%$se #*$#r$i@*$ \"@e#%**e Airway%\" *@lla !!mp!g#%a @%rea?",
+        "q_id": 179
+    },
+    {
+        "db_id": "flight_2",
+        "question": "@o@ !$%l% p@ese # $ff*li!t@ #$t%lu! A%r!ay*?",
+        "q_id": 180
+    },
+    {
+        "db_id": "flight_2",
+        "question": "@$a% # %'a@b!!viaz#o*e de$$a !o#*agn%a *%#ea \"J$#B!ue ***%ays\"?",
+        "q_id": 181
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu*@e abbr@v!a#!#!e corri*!ond# @ #e%#@$$ A$r*%ys?",
+        "q_id": 182
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Ele!#% #@$t# @ @@$i **l@e @%mpagni@ a%!@e # *e l%!o ab@@e$%azi#ni in \"!*A\".",
+        "q_id": 183
+    },
+    {
+        "db_id": "flight_2",
+        "question": "$ual! s!$o ! n*$i de$*e c*%p*g@## a#re@ e !! ab@$#$iazi*%$ @e# @e @!mpa!nie ae%ee %eg#i %t#$i @%@$i?",
+        "q_id": 184
+    },
+    {
+        "db_id": "flight_2",
+        "question": "#$en#$ il co#*c@ %e%l'*er$p%r$o e $l %o#% *el$@ @i!tà !i *n@%ony.",
+        "q_id": 185
+    },
+    {
+        "db_id": "flight_2",
+        "question": "D@@ i! co@$@e dell'$#$o@o%%o e i% *o$@ d#@$'aero*o@%o @!rris**nde@!e *l## ci$%à @%tho*!.",
+        "q_id": 186
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q$*n%e com#*g!ie %!re% *bb@am#?",
+        "q_id": 187
+    },
+    {
+        "db_id": "flight_2",
+        "question": "!u%l è il %u#*!$ %!$%le d$ com*a$n*e a%re@?",
+        "q_id": 188
+    },
+    {
+        "db_id": "flight_2",
+        "question": "$uan!% $e@o*#rt@ ab*iamo?",
+        "q_id": 189
+    },
+    {
+        "db_id": "flight_2",
+        "question": "*es!@*u*s$e $l *@me%o d$ $$r@$or$i.",
+        "q_id": 190
+    },
+    {
+        "db_id": "flight_2",
+        "question": "*$an%$ vo@# #%!iam!?",
+        "q_id": 191
+    },
+    {
+        "db_id": "flight_2",
+        "question": "!es#itui#%# i% %u@%!o *$ vo#i.",
+        "q_id": 192
+    },
+    {
+        "db_id": "flight_2",
+        "question": "!$al@ $%%%!%nia a!re! ha l'@!bre#@a#$$n% \"ual\"?",
+        "q_id": 193
+    },
+    {
+        "db_id": "flight_2",
+        "question": "#a! all# $%$pa%n#a !ere* c!* #bbre*iaz%*$e '#$*'.",
+        "q_id": 194
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua*#e %o%*$gn$# *e$#e sono d@@li %tati U$*t@?",
+        "q_id": 195
+    },
+    {
+        "db_id": "flight_2",
+        "question": "R$st@t@i#%$ il n*$e%o di #$m#a%n@e $$r$e @eg@i @@#!i #niti.",
+        "q_id": 196
+    },
+    {
+        "db_id": "flight_2",
+        "question": "@n q#a#@ $i!t# e pa%#e è !'*#%$$o!to d@ A#%#*?",
+        "q_id": 197
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Dai l@ c@@*% $ i% *ae!e $@r l'aeropo!@o di @!t*n.",
+        "q_id": 198
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q#al ! il %o#@ d*ll'*e#%port@ *e! #'@ero#*@** \"A@o\"?",
+        "q_id": 199
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Res#it@***@ i* ##m@ $e*l'aerop#rto #on i$ %od#!@ \"A#$\".",
+        "q_id": 200
+    },
+    {
+        "db_id": "flight_2",
+        "question": "#*sa so$o $ nomi deg!% @e@%por$i @ C%$@ \"Ab!**$en\"?",
+        "q_id": 201
+    },
+    {
+        "db_id": "flight_2",
+        "question": "%$al* s@n# i !om# d@%li $$#*#o$ti di @@e$#@en?",
+        "q_id": 202
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quan*i %**i p*$t%no $@ \"!PG\"?",
+        "q_id": 203
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Co*$a i# @!me*@ d* v$li $# ##rtenza $* \"APG\".",
+        "q_id": 204
+    },
+    {
+        "db_id": "flight_2",
+        "question": "%@!n!i v#@$ h$@no D%s*inat%$n !t#?",
+        "q_id": 205
+    },
+    {
+        "db_id": "flight_2",
+        "question": "C$$ta il %*m#r@ #* #o*# in AT!.",
+        "q_id": 206
+    },
+    {
+        "db_id": "flight_2",
+        "question": "$ua$t* !$%i $ar%ono *! *@ty A!e#d!e*?",
+        "q_id": 207
+    },
+    {
+        "db_id": "flight_2",
+        "question": "*%st#@ui##e il !u!!!! !i *#l@ i# par#%@#a da A#er$*%!.",
+        "q_id": 208
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q!*$$i *ol% #@ a#ri*% a $ber$%%% @it#?",
+        "q_id": 209
+    },
+    {
+        "db_id": "flight_2",
+        "question": "@e%t!tuis%$ il n%mer# di v!l! in $@ri*$ @d A@*r#%!%.",
+        "q_id": 210
+    },
+    {
+        "db_id": "flight_2",
+        "question": "$*a$%i $!l% #a$tono da !$%y \"$#e*#$*n\" % hai $a !i$t% @* de!tina#io%e \"A*hle*\"?",
+        "q_id": 211
+    },
+    {
+        "db_id": "flight_2",
+        "question": "$*!#ti #ol! v*@an@ da A$!$de$# #@ As@ley?",
+        "q_id": 212
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q%#nt# vo#i !a \"@@$Bl%@ A%rw#$s\" del!* @omp@g@@a %ere$?",
+        "q_id": 213
+    },
+    {
+        "db_id": "flight_2",
+        "question": "@#i i* nu@%#o d! !!l@ JetB$#* A!%way#.",
+        "q_id": 214
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q@*n!i voli \"%n!#%% $$rl!@e#\" v%n$o al%'@@r%#ort! \"A@y\"?",
+        "q_id": 215
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Con!# il #@m@r% d! vol$ d%l$% United Ai$*@#e! c*e *r%*%ano *l%'ae#op#r@# $S#.",
+        "q_id": 216
+    },
+    {
+        "db_id": "flight_2",
+        "question": "@*%nt! v$li \"U@*#e* @@r%@@$s\" ##r@on@ da!l'ae**por*! \"A*D\"?",
+        "q_id": 217
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Re*ti@u%##e il %$!ero di #ol* *$l$! *%it*d Ai$li*es in $$%*#$z! %all'$@ro@$rt% $#*.",
+        "q_id": 218
+    },
+    {
+        "db_id": "flight_2",
+        "question": "*u#nt$ *!%@ !e#la U!it#$ #@!lines v!n*o *$ %#ttà \"#!$$d%*%\"?",
+        "q_id": 219
+    },
+    {
+        "db_id": "flight_2",
+        "question": "C#nta il !%@e*o di ##li della @n$!$@ A*r%!*#$ c%% ar@$van@ a* $%er%e%#.",
+        "q_id": 220
+    },
+    {
+        "db_id": "flight_2",
+        "question": "#%ale ci$$* *$ la $ag$$@* pa#!* d$* v@li !n @#rivo?",
+        "q_id": 221
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu%*$ c$%$$ h# *'!@ro*$%!o di d%sti%azi@n$ %i! fr@q*%n@$?",
+        "q_id": 222
+    },
+    {
+        "db_id": "flight_2",
+        "question": "!@!le c%t%à #a la ma*#*$r part% #*i v*l* in #*!#e$*a?",
+        "q_id": 223
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q@$@# ci$!# è l'aerop@#$@ *! fon%% #i@ fre%!!nte?",
+        "q_id": 224
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu#l @ !$ *o%@*e del*'$!r$p%*to ch% @a @@ magg#o! nu%%ro d$ !$l!?",
+        "q_id": 225
+    },
+    {
+        "db_id": "flight_2",
+        "question": "%ual ! i* co$i$e d#$l'ae!!p@rt! !*l@'a#ro#or!$ co@ $$ ma$@i!r nu@%ro di $!##?",
+        "q_id": 226
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu#l è il $o#i$% d%#l'$%%$%o%to c@$ @a $*no n%mer* !i #oli?",
+        "q_id": 227
+    },
+    {
+        "db_id": "flight_2",
+        "question": "!*@ %l co@@#! d*ll'!@ro#%#%* con i $i%@$i $oli.",
+        "q_id": 228
+    },
+    {
+        "db_id": "flight_2",
+        "question": "%*$l% co$$ag$ia aer*% @* l% $ag$ior !!@te d%i $o@$?",
+        "q_id": 229
+    },
+    {
+        "db_id": "flight_2",
+        "question": "%ual! %#m$!*n!$ **$ea s@*v! i# maggio# nu*er% di v!l$?",
+        "q_id": 230
+    },
+    {
+        "db_id": "flight_2",
+        "question": "T!@*# $'a@br#v%a%%@*e e il #ae@# d@l%a #om%%gn*% $$$ea $%# ** men# n@%er@ di vo#i?",
+        "q_id": 231
+    },
+    {
+        "db_id": "flight_2",
+        "question": "*$al è l'ab%@ev@$z*%%@ di A@$%@ne #a i@ *i%or !#*e#o di *#li e $% che %*!s$ @i $r!v@?",
+        "q_id": 232
+    },
+    {
+        "db_id": "flight_2",
+        "question": "@u$!i s!#o $e *ompag$ie #e@%% *h! ##@n$ !@ #ol! in p#!*e!za dall'**#*@o#to \"AH$\"?",
+        "q_id": 233
+    },
+    {
+        "db_id": "flight_2",
+        "question": "%$a%* co!pag$#e a$r@e $an%! @n v$%# c#n @'ae*o%!@!@ di %r#$ine A%#?",
+        "q_id": 234
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q%a%@ s#!o le c$%pa!ni* $#%#% che *@$#o vo** $he arr**@@@ @l%'a#ro%#r*o \"AHD\"?",
+        "q_id": 235
+    },
+    {
+        "db_id": "flight_2",
+        "question": "$u**i c#mp#@@i# ae$ee hann# un volo @*$ $'*e!o@o$to d# #!s*!!*@%o%# AHD?",
+        "q_id": 236
+    },
+    {
+        "db_id": "flight_2",
+        "question": "#r#*$ $@!t# le !omp!#@i# $ere$ c#! han@o vol# da e#t$$mbi gl! $er*!$!ti \"!P#\" e \"#!%\".",
+        "q_id": 237
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q!al* $o!%agni% a*r*e @%nno *oli i% *!r!e!%# d@%#! a%*$@or#i A*G e %V!?",
+        "q_id": 238
+    },
+    {
+        "db_id": "flight_2",
+        "question": "%*ova tutt@ l# c$!##gni% $#r%* c$% @$$$$ vol* !a$l'$erop@r%o \"CV*\" ma $o$ #* \"A!G\".",
+        "q_id": 239
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q$a#i @om%*gn## #$#ee *#*n@ p#rtenz# d# !VO !a @*n da$li aer!#or*i *#@?",
+        "q_id": 240
+    },
+    {
+        "db_id": "flight_2",
+        "question": "T%!va tu*#* le #!mpa*n@e a*%ee *h! $ann@ !@#!n$ 1% v#*@.",
+        "q_id": 241
+    },
+    {
+        "db_id": "flight_2",
+        "question": "#ua*% com@%#!ie $e%ee h@n*$ a#m#n$ *0 *o#i?",
+        "q_id": 242
+    },
+    {
+        "db_id": "flight_2",
+        "question": "$r*va %$t$% l# comp@g*i! a%re$ ch* %%!@o %eno d* 2@0 v@l%.",
+        "q_id": 243
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q$al% c%#pa#n*e *%$ee @%%$$ meno #% $0! !o*i?",
+        "q_id": 244
+    },
+    {
+        "db_id": "flight_2",
+        "question": "%u@*@ %!no i nu$#ri di volo $e%la $*$pa#n## $er%@ \"Uni$*d A@$$@n!*\"?",
+        "q_id": 245
+    },
+    {
+        "db_id": "flight_2",
+        "question": "@#al* n%#eri di v%lo @*#*#*p#*do*o a* vol# de$la U#$t#$ A@$$ine!?",
+        "q_id": 246
+    },
+    {
+        "db_id": "flight_2",
+        "question": "!%*## so#o ! %ume%i d% @olo *% v$li #n pa@*#nza @a%%'a*%*%%rt! \"*P!\"?",
+        "q_id": 247
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Dai %* n%m##o %$ #o*i di v#li ## @$rt$n$a @a APG.",
+        "q_id": 248
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua#% @on! i n*!##$ !i vo%o d# !%l$ che arri!@no al@'@ero#o%t! \"$@@\"?",
+        "q_id": 249
+    },
+    {
+        "db_id": "flight_2",
+        "question": "##! il n@m!r% $i vo#o *i v#li *%$ *%!err!!o ad $PG.",
+        "q_id": 250
+    },
+    {
+        "db_id": "flight_2",
+        "question": "!ua#@ s$no @l #u**ro @i !ol$ *# vo%i i# $arten$* d#!@a $%t@! \"##$rd$*n\"?",
+        "q_id": 251
+    },
+    {
+        "db_id": "flight_2",
+        "question": "%@$ !! num##o di $#l@ d% v$l% i* pa#%#nza da Ab!%d@e$.",
+        "q_id": 252
+    },
+    {
+        "db_id": "flight_2",
+        "question": "#%a@i !@no !l *u$e$o d% @$l* di *oli ch$ @rr#v$no a C#ty \"A%@rd$$#\"?",
+        "q_id": 253
+    },
+    {
+        "db_id": "flight_2",
+        "question": "%ai il nu*ero di %o$i di $o%* in a!%$v% ad *b#%@$e#.",
+        "q_id": 254
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Trova il n!*#ro d@ @%li che att!*#$no @e##% @@@t% d% !%erdeen ! @b%$!$#.",
+        "q_id": 255
+    },
+    {
+        "db_id": "flight_2",
+        "question": "*#anti !%!i a*t#r*!## !d Ab$rde!n # @!i*!!@?",
+        "q_id": 256
+    },
+    {
+        "db_id": "flight_2",
+        "question": "!r$va i# n$$% $**l@ #!r$po*ti **e no! ha%n% a$%%n v$l$ de#t%o % %uo!$.",
+        "q_id": 257
+    },
+    {
+        "db_id": "flight_2",
+        "question": "*@@l! aero@$r%i n%n $anno $o%i in pa$#en$# o @* ar*%$$?",
+        "q_id": 258
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "!uan!i #*$e*!en*i ci **@!?",
+        "q_id": 259
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "*o%#% il n%!e*% @@ dipend@n!$",
+        "q_id": 260
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "@@dina i n@#i #%$ d@pe!d@nt@ %er !a $oro et# i% #r!$ne #r#s$*n#!.",
+        "q_id": 261
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "$len$a i #o%$ %ei d$!%*$e%%i ! or$$na $% %rd@%@ !r$s%!n%e $i età.",
+        "q_id": 262
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "$#*l è il nu!e%o *# di#*nd$%$i %i o@ni c$@tà?",
+        "q_id": 263
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "C@n$$ @* *u*e!o d# d#p!#de$ti per @g#i c!$%$.",
+        "q_id": 264
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Da qual@ %i%@à p!ov$*@!!$ p@* di $$ d*pend*n@$ *i età i!#*!$o%! @! #* an!@?",
+        "q_id": 265
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "T$o$a %e @%%$* @h$ !#$*@ più %# @% d@pe@d$nte @$ età i@fe@%ore a@ 30 an*@.",
+        "q_id": 266
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "$%!va il nu*e%! $i n$$ozi i# o!n% %o*i*$on#.",
+        "q_id": 267
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Q#an$% neg%*i #i so%# %! o%n* p!@i*i@n$?",
+        "q_id": 268
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "T$o%# !* ##$e d@! d*%ettor$ * $# d*s#r#%t$ !*l nego*i$ !! cui n!mer% %i pro$o@t* è il p*% g@an@#.",
+        "q_id": 269
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "#%ali %ono i! $om! m$%a*er % !l %i!trett@ @el $$g@!#o c*# !%%!@ $l m%$@$o$ @**ero di %ro@%t%i?",
+        "q_id": 270
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "*r@va $l nu**$* *$ni*o e #%$#%$$ d@ !$odo%@$ di t@tt$ i negozi.",
+        "q_id": 271
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "$ual* *%%$ il n*m##! mi!i#o e m*@!@mo @$ $rodo@ti in !!@#! i !!go$#?",
+        "q_id": 272
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "!@st@t#*!c% il %*#*, !$ @#**zi!%$ e il distr@tto d$ t@!ti * !egozi in or%i!e d*cre!ce@%# @i n@me@@ di @$o#o$t#.",
+        "q_id": 273
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "!rdi%a tu@!# i n#$$*i pe# %@me!o !@ !ro*$tt# @n o*$@!# %e!$e%c%n$! % *estit%*%!! i* n%m%, $a po@@%$$ne e %! dist$#t$o !i !g$$ @!*%zi$.",
+        "q_id": 274
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "%#o!* i no#i %ei n@*#*i @ *ui pro@ott@ *umeri$$ **no *%ù $e* *u@#!o m$d%o %# p!#%#t$#.",
+        "q_id": 275
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Quali p%%%!t!$ $ume!$c@ de# ne%o!i sono !* di so$$a %@l#a med#$?!*@m% i *om* @%l ne!o@i!.",
+        "q_id": 276
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "#r%#% @l n@*@ d@# $ip#nde$te a cui * s$!!@ a#segnato #* ma!#i#r %#%er! $% @#$*# n!lla v#lu*a#%o@@.",
+        "q_id": 277
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Q!a@% d%@*nd@n$e ha ricevu$! il m$ggi$@ !u!e!* !# p*e*@ nell* val%%a@ion@?@a*m# il n!$@ d$* #ip%n%e!%*.",
+        "q_id": 278
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "*#o#! i$ n#@* #*% d*@$n!en!e @#e h# o%tenu*! %l %%nus !@% vo$ta ##ù alto.",
+        "q_id": 279
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "%#ale *!p!$den@% !@ ric%v@#o il !o#us p$ù %!an!e?D!!mi !l n#m# d$l di#e#@!nt%.",
+        "q_id": 280
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "!*%#! $ nom# #e! %%p#n!%nt@ %!* @o% h#!$@ *a$ vin@o al$u% $rem*# nell@ valu#azio%e.",
+        "q_id": 281
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "#ual$ !*n* i *omi d@$ di##n#$n#$ ch% n%@ ha*@o $a* ri*%vut$ !#cu!% #a%ut!#i#ne?",
+        "q_id": 282
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "@ua* è il n%me %e$ #$@#$!@ c%% s*$ #*@um!#d$ il #a#$io# !um@ro !i %i!enden%%?",
+        "q_id": 283
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Quale n$*#$%o @% i! m$g!io$ n$%e%o ** d!@en%e*!i?$amm$ $$ no#! d!# n@*%!io.",
+        "q_id": 284
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "#$@#! %@ @om@ dei neg%!i che !!n %ssu*on$ alc*n !#p@!!en*e.",
+        "q_id": 285
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Q%a#! !e*o@i !u%#io*$%o sen*a *i$*n*@$@i?%!ova # n%mi d%@ ne*o$io",
+        "q_id": 286
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "T@*va #l n*mer% di dipen$*$$# $ss@nti !n !*@@ @eg!zio;M**$%a @%#he $l @o%e %%@ $eg*!i%.",
+        "q_id": 287
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "P%# o!!i n#g@zi!, res#itui%#* i@ !u@e!o di dipende*@i che l#@#$an! l# e %l !om! d$! $#g@z$o.",
+        "q_id": 288
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "C$s# vien$ !a$! !! bo@#s to%a!e $* !*##$ le va%u@*zi%n@?",
+        "q_id": 289
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Tro#a la !ua%$i*@ to$$@@ d% #*nu@ !*di%ato *n %@tt! l* v!l#ta$i@#i.",
+        "q_id": 290
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "D!mm% #@t%e *e in%%r!*z$o!# s#ll'as%#*#ion!.",
+        "q_id": 291
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "#u$* # *u$%e le i@f#%@$zi$n@ s$@l'ass@%$!o$%?",
+        "q_id": 292
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu$$$ %*str$@!o $@ e!tr*!$* i n#*%zi co* me*o di 3%#$ $ro@*@$i e nego!% c*n !*##e 1#%00 pro*#tti?",
+        "q_id": 293
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "#!$!@ i d%*t#et!i !# cui @i s#no e%#r*m!@ i ne%*zi #h* ven#o$# *e$% d* 30%# $@#dot*i e %e%%zi c!e ve$d*n@ @#ù @$ 1*%!0 !rod@t*i.",
+        "q_id": 294
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Q%@nte #ive@s@ p*sizi**% #ei n#$o#! c$ #o#o?",
+        "q_id": 295
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "#o*t*re !l $u$$!$ di p#siz#%#@ #is*@n$e de* n$g!z!.",
+        "q_id": 296
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q%a$ti d$!u@#n*i #$%iam!?",
+        "q_id": 297
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Co#$a i% !umer% di do*@m$#t@.",
+        "q_id": 298
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "El$#c* ID docu%*!t%, n!m# di *o#u$e$$% e %$#%rizio*i $i $$c*m*%t* per %ut$i % #@c*me#t$.",
+        "q_id": 299
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qua%! %ono $$i ID, i @om@ % *# de@cri$$o!* $!r t##*# i $ocume$*i?",
+        "q_id": 300
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu!l è i! !o*# d$l @$$umento ! $'%D m#d!!%o *e@ @l #*cu*ent* *$% *escr$#$*@@ %#! la %!#t!ra \"W\"?",
+        "q_id": 301
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Re@ti%*is%% i $omi e g*i I! m%d#ll# %%$ d%!@*e$ti c** c##te*!on# $% *!t#era W nel@a @!r* @$**riz$one.",
+        "q_id": 302
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "%ua# ! $'ID %$* !%c!m@@t%, %'#$ mod%!*o @ la *e$cr#zio!* pe@ %l *%@@!ento d%%om!*a%o \"#o$bi# ##\"?",
+        "q_id": 303
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Re#t%t#!sci %'ID d@@%!@nt@, @'ID @#!*%@# # l# d#sc%i#%#n@ !er i$ do@u!ent* c%! i! !$#@ *o@bin C*.",
+        "q_id": 304
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "!u%#@* mo%el!$ *i**!s! u@ilizz%no t!tt* $ do##!#!ti?",
+        "q_id": 305
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "C@nt#r! il $%*%$$ di dive!s% *%d!l%i u@ilizz!t# p#@ i !$#um#*$#.",
+        "q_id": 306
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu#n$i do$u*e!ti #ti$i@$%*o #l m$*!@l! !#n i* *@%!c* #i t#$o \"@%t\"?",
+        "q_id": 307
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "C*##a *l #u#e#* d# d@cume@!! !@e @t!l!##$no *l t@*o di mode$!# P$*.",
+        "q_id": 308
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "$!$tr% t%t!i #*i @$ m!de!*o e #l !%m*ro di do%u!enti @!*##o $ia@*!n %odel$o.",
+        "q_id": 309
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "@ua!! so$% !utti ! d$ve!si I! @@$el** $t!$!zzati per i $#%@$%@#i e @u@*@@ @#lt* sono !!at# u@@liz%at@ %$a*@u%o #$ e$%i?",
+        "q_id": 310
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual @ i* codice *$ $ %i%o p#r i$ @o%@l$# %%!lizz*** d$l #ag!ior nu@er# d! doc#m%#$%?",
+        "q_id": 311
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Re*t*t!$*$% l'ID e i# @ip! d@ %od%ce d!% @o#*l$$ u@$lizz@@! @#r il %@*g#o$ #!mero d! do%*ment%.",
+        "q_id": 312
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "!#s!%! *% $@r !#tti $ !@dell$ ut@*#zzat$ $$ più !% u# !#*u!!nto.",
+        "q_id": 313
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "#ua!i s!no ##i ID mo!$*$o $i %u%ls%asi $odello %*i%i!@%*o $n pi% d* @# !##go@# #o#@#e!t@?",
+        "q_id": 314
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mo$t@% !D *er tu*@% % mo@#l$@ non ut!$i!z@t% da !e#$#@ d@!#m**to.",
+        "q_id": 315
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q!a@@ so*o *li #D p*r i #o##l#i #%# n%n !en%on$ u$il@*z**$ $n !$$u# d#c!me*to?",
+        "q_id": 316
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu%%#i mo%$ll% @bb*$mo?",
+        "q_id": 317
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "$ont$ i! nu*er$ d! mod@l!*.",
+        "q_id": 318
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "!**tra ID m@$$#%o, !ume!i %i v%rs%o@e $ #o$i*# di ti#% #$d%*!o !@% t%t%i i m*$ell%.",
+        "q_id": 319
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q#$l$ s@#o %*! ID, $ n%*e!i d! ve$*i$n@ e ! c#d$ci d$ t#!* p@r ogni mo!%l!!?",
+        "q_id": 320
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "@ostra t!tt! i #o$!ci $i @ipo mo##%l$ $*s@in*! p%# $#%#$ i m*d#l$!.",
+        "q_id": 321
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "@@%li son# i %**e$si $!dic@ di ti@@ *$@!l*@?",
+        "q_id": 322
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q*ali s@n% !## I! #ei m$#e!l$ c@n @o#i!e !*p* #!d%l%o #P # @*T?",
+        "q_id": 323
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R%st@!uis$# gli #D %%i mo@!!*% che h$$!% %l @odi$e *# $ P!T.",
+        "q_id": 324
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "%u@n*i !$del%i %#n%o %o%$c* %@ !%po mode#l! @*?",
+        "q_id": 325
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "$on*are i! num#@o di m%$*l#@ d$l #i*o **.",
+        "q_id": 326
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual è !% $#m%$o *@ v%r@!$n! e #l t#p@ d$ t$po $i *ode@%% *e# $# m$@$l$* c$n n#mero di v$!!i*#e p%# tard% $! 5?",
+        "q_id": 327
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Res$@#*i##i ! n$@e@! #i versi!$% e % co!i!i !! t!po *ode#!@ d%% m!d%l!! con *@ num#r! @$ ve$%*@%e !u#erio!e a !.",
+        "q_id": 328
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "*o*$!@ !@tti i %od$ci $i ti*% #od$llo e il n@m$$o di mode!## !er $i@!@#*%.",
+        "q_id": 329
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "#u#l% s#n% i dive@s@ c#d#*@ di t$$@ #od!!%# ! q%a#@i %ode!!@ *orri!$ondono a *i@s*un*?",
+        "q_id": 330
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "$%al% @o$ice d% t*p@ *ode#$o h* l@ *agg@or p*r@* @%i $%#e#li?",
+        "q_id": 331
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "!$stit$is%# $@ %*di%! $ipo d$$ !i$$ di mo%@$lo % c%i ap#a*#%en! $a $a*gi$$ @$$#@ d#@ mo#e@*%.",
+        "q_id": 332
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "%%@t$a !utti i ##*#c% di $%po #o*e$#% !%n $#no di !!# #%del*i.",
+        "q_id": 333
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qua## $##o # #odici @%% tip@ di !o!%lli ch! $$n%* m%n# $$ 3 mo@$l$#?",
+        "q_id": 334
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q@al @ i% nu@e!$ di *e%%@one @*@ pic%olo # i@ c%di*e @el t#!o #i $od$ll*?",
+        "q_id": 335
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R@@tit!%#ci ** %ume#o #i v$r!#one più !as*o, ins*em# %l @*%### !ipo m$!#l%! !$rr#@@#!$*nte.",
+        "q_id": 336
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu#l @ il !%$i*e d@ tip@ m*%*@%$ de! !odello ut*#**%ato #*% *o$%*#!t$ #$* i$ no%$ \"!@se dati\"?",
+        "q_id": 337
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "@e%$##uisc% i# !odi#e ti!o $odello *e* #o@e%l% @@il#z#!%o #@ u@ %#cume!@* den@!*@*t* @ase !i @$@i.",
+        "q_id": 338
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M!str@ @$#!# $ n#mi d%$ doc$me*ti $san*@ %o%@#*i %#* @%di@e tipo mod$l$o !*.",
+        "q_id": 339
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "*##$$ so@! * n*m% %e! !ocumen!% #he utiliz%!%o i m*%$l*! c*# il !@di!e %K?",
+        "q_id": 340
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "$#*tr! @u@@i # co$%$% @i @!po *!%@%lo e i@ numero di d$c#ment% u@a%do $i*##un $#@o.",
+        "q_id": 341
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q$a!i !*no i @i!*$si c#$i%% di ti#$ !*@e!$$ e !ua%t# d*c#*en#! u*an@ ogn% tip*?",
+        "q_id": 342
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "$%**e c#*%$e @$ %i@o @o$@@#! %$%ne u#ilizzat$ dal!a m@ggior #!rt@ !e@ numero di do#u@e@**?",
+        "q_id": 343
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Resti#*isc# i# c$!!!! *el t%po d@ *od@llo c!e %**ne @iù *om@%em$nt! *$!t# ##* d@@u#en!#.",
+        "q_id": 344
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mostra ##!ti i c$$@%i @i !#@o *od%%!o che %o% s%no u#*$!*%#t@ da nessun #@c@m@@to.",
+        "q_id": 345
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "#u%li s*no $ *%#!%! $e@ %ipi @# mo%*l*! %h@ %!$ v@%gono ut$l$z#!$i pe$ nes!$n $o!u%$n*#?",
+        "q_id": 346
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mo!t*a t@**i % codi%* * ## %escr$@i$@* de$ ti#% d* mo!#llo.",
+        "q_id": 347
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qua@@ so$o i $$dici !i #i$# e le de@$!@z@$@@ @e! tu%t! @ $#%# d$ %%del%!?",
+        "q_id": 348
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q@a% ! $e $esc!i$@@$$ !@l @!$o d$ m#de#*o pe$ !% #!dice #$po \"a#n@!cio\".",
+        "q_id": 349
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Re%@@tu$sc! $l t**! #% %o#ello $escr$z%*n@ del !*p% d$ m%del$o *on l'a*nun$i# @e! !*d#ce.",
+        "q_id": 350
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q@%# # !l c@d%c% tipo *$%!llo pe@ il ti!$ di mo$ell! D$!@r#zi#@@ \"%@%r%\".",
+        "q_id": 351
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "@es#%@$is%i *! $o*ic! %!po de# t%p* #* mo#el*% !$n #l \"#!$r@\" d*l*a des#r@*i@n!.",
+        "q_id": 352
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "*u!l$ %on$ #e d*sc#*z#*$! de% *#!$ @i mod**l% d$%!!nte !er @ mod*!@$ !#i u%i!iz*$ti $a $n @oc*!ent$?",
+        "q_id": 353
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "%est#*uisce le !i@@rs# d#$#ri$!oni %$% ! m%dell$ *h@ so*o s#a*i !*#$%#!ati @@ #n #@cu%e*$$.",
+        "q_id": 354
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "*#*@% %ono gl$ ID m%de%l* co# ti$o d! mod!l@@ #%s*ri$#on@ #el *ipo \"*r*se*$a*ion$\".",
+        "q_id": 355
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "%es*%t##s@i @l% ID !orr%spon!#nti @% @o%%ll% #%n @a #e@!!iz*o*e \"!r@se*t%zi$@e\".",
+        "q_id": 356
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "*uan%i $a$#g!af% @n $o#*l*?",
+        "q_id": 357
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Co!!ar$ i* $$mero d% !ar@@r@%i.",
+        "q_id": 358
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "!ua@!! parag*af! p@@ %l d%c@#e**o $on @l nome \"#%%m#r $ho!\"?",
+        "q_id": 359
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "#!nta %# #ume#o %i pa**g#$#i @e@ d%cument* c#$*$a!o \"$*mmer #@@#\".",
+        "q_id": 360
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "%*s#r$ i det%$g!@ @$l para@!a*o !** il #a$agr!f@ %#* #$ @*sto \"**rea\".",
+        "q_id": 361
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "*!@l! s#no * !et@#$l* @$r i@ p@%a!*#fo @$e $nclude %l %e$%o \"Cor#a\"?",
+        "q_id": 362
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mo!#ra tu!%i %$# I# $ t%s$% d% %$#agr*f# pe@ i% %o%ume!!o c%# il n#%e \"W@*co%e to %!\".",
+        "q_id": 363
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "$uali son% @%i ID e i !e*t% $!! pa*@@r$f* n@$ d!cumento int%@@%a%o \"#e$co@! to %#\"?",
+        "q_id": 364
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "!o*t$a #ut** % t!$ti $! p%*@%$%*$ %$% %! docume$t* \"Re!e%@i#** d*i $*i#n@i\".",
+        "q_id": 365
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "#ual* %#no i #@!t# d$ !arag$*$$ #er i* d!cu@#nt! con %l no@e \"##%ensi@$i !%* !lie@t%\"?",
+        "q_id": 366
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "!o#tr! t#t@% g$% ID doc*m%@t$ e *! n#@@!o d$ pa@agr$!i *$ @#a@c*n do@%%@n!o.Or*$n@ #e@ doc#*e$to ID.",
+        "q_id": 367
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "@#s*!*uisci i d*ve!$i ID #!l do#ume%t% #n%#e%# %l num*$o d@ p@!a*r#f$ co##%s@#**en!i # !ia@c$n$, o*di$at@ p#* *%.",
+        "q_id": 368
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "*!@tra t%@!! g@@ ID doc%m*$%@, % *omi e i! n@mero d! !%ra@ra!i in c!$sc!$ do%*#*n*#.",
+        "q_id": 369
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q!ali $o%% !li ## @ @ n*mi di c*%%c%! do%!*en$o, non$hé #l n#me*% *i pa%%@raf! i% c*@*@uno?",
+        "q_id": 370
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "E%e#@a t*tti g*% I@ %o#$m@%ti co# #lm%*o du$ !$r$g@a#i.",
+        "q_id": 371
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q#ali @#no !li I* dei !!c%*%$@@ che h!@no $ o p!@ *ara%$!fi?",
+        "q_id": 372
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual % l'!D $@cu*$$$% @ !$ nome c$% i* *agg@o% num@#@ di p*ra$r*f#?",
+        "q_id": 373
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "*@#titu%*@* l'%% e i* nom! del *oc%#ent$ c#n @l *a#$ior n$%@*@ !i p#%agra#$.",
+        "q_id": 374
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "#u#l è l'I$ *$!ume%t# c$n il mi*o* n@*e*o !i !@!ag@@*!?",
+        "q_id": 375
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R%%$it*is!@ l'ID %e* @o%ument! #$* il #$!o! n!me#o d$ #aragraf*.",
+        "q_id": 376
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "#ual è *'ID do*u*e*%# c!n 1 * * p%r*$r*$i?",
+        "q_id": 377
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "D%%@ g@# #* d%i *%%u%%$ti @he !%nn$ tra un! e !#e %ara@!#*#.",
+        "q_id": 378
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M*$tr# #'I# d#c@me*%o *o* il te@to d% par@#!%$o \"##%si!@\" e \"Irlan!a\".",
+        "q_id": 379
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q*a*i s*@! g#@ *D *ei d#%ument@ !h$ !!$%e##on# %l *e*t$ d* pa@#g@afo \"B*!s$l#\" e \"I@l@@d#\"?",
+        "q_id": 380
+    },
+    {
+        "db_id": "course_teach",
+        "question": "!u!%#i $#@%gn!nti !i son@?",
+        "q_id": 381
+    },
+    {
+        "db_id": "course_teach",
+        "question": "@ua* % i% *$$t!%$%! totale d!gl# i@s%g@a@ti?",
+        "q_id": 382
+    },
+    {
+        "db_id": "course_teach",
+        "question": "$$e##@ ! n@mi degli i%s#g*@n@# %% ##din@ di #tà cr@@ce%t#.",
+        "q_id": 383
+    },
+    {
+        "db_id": "course_teach",
+        "question": "*@!$% #on@ @ nom@ d!$li i$@egnant$ !rd*n*%i dal$'et! *sc%n#ente?",
+        "q_id": 384
+    },
+    {
+        "db_id": "course_teach",
+        "question": "$@ali !!$o l'età % @a *it$à n#!$le %eg%! i*s$!#*nt#?",
+        "q_id": 385
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Q$a$ $ l'e*% e la %i#tà *##al* di o#ni %ns*!n*nt$?",
+        "q_id": 386
+    },
+    {
+        "db_id": "course_teach",
+        "question": "#l@n@! i! nome @e#l% i!se!n%nt* *a %*i c!tt! na#a@@ n@! è `` L!#%l$ !eve* %rb@@ D!str%$t ''.",
+        "q_id": 387
+    },
+    {
+        "db_id": "course_teach",
+        "question": "#u#l* !ono i nomi *egli *ns!@nanti !! %ui ##t%$ n$$a*% %o% è `` Li!t*e @@*er Ur$!$ D*$t%*!t ''?",
+        "q_id": 388
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Most*@ il %om! %* i%*eg#a%t$ @@ et! com%#*%a $r* ## o 33?",
+        "q_id": 389
+    },
+    {
+        "db_id": "course_teach",
+        "question": "!u%l$ ##$o i nomi !egl! ins@#n#!$i **% $!$n* #2 o 33 #@ni?",
+        "q_id": 390
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu!l è *a @it$@ $%%!l! de@!'ins!gna%*e #!ù !i@%a*e?",
+        "q_id": 391
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Da dove ##!@! l'i!se$na%te %i* %io###*?",
+        "q_id": 392
+    },
+    {
+        "db_id": "course_teach",
+        "question": "$@s#*a *iverse #i$!@ $i i#s*gn*%ti e i% %u$$r# di %@%#g##n@i d$ #g$! c%t@% nat$*e.",
+        "q_id": 393
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Pe! #$*i *!@tà na@al#, @u!n@* i#segn#n!i c# !on@?",
+        "q_id": 394
+    },
+    {
+        "db_id": "course_teach",
+        "question": "%l*@!a *@ ci%tà na!$l@ più !#mune @$$li i$segn#@t%.",
+        "q_id": 395
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Q@a*i so*# le @%ttà !!ù c$$%$i %$r gl! i*se!*a$ti?",
+        "q_id": 396
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Mo@tr@ l# %#$** de%$* *#t$à *o*!i!@!e *a almeno #$e !#s%gn*nti.",
+        "q_id": 397
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Da %%!a p!ov$ngo#$ ## @*tt# da !%i pr@ven#%no $l@$no d#$ i#se%$an@#?",
+        "q_id": 398
+    },
+    {
+        "db_id": "course_teach",
+        "question": "M!@##a $ no%$ deg$i %%%e*#!nt% @ #ei corsi !h$ s%@@ *rgani#z@%i p$$ ##segn#$e.",
+        "q_id": 399
+    },
+    {
+        "db_id": "course_teach",
+        "question": "$u#l è i# n@m# *i o%n% i%$%gn$*$@ ! #ua#e cors$ in@e*@ano?",
+        "q_id": 400
+    },
+    {
+        "db_id": "course_teach",
+        "question": "#ostra i no%# $egl* ins$**an$i * d*i *or@% c*e @%n@ o@ga%#z*ati p$r %nsegn@r# i* *@ %r#i*e @*f*b**i!o as%e%#en*e d*l %@!e d##$'#*s#g*a@te.",
+        "q_id": 401
+    },
+    {
+        "db_id": "course_teach",
+        "question": "@%%l@ son% @ n!m% %#g%i i$s!!n*n%i e #$i co*$$ ch% i!!*#nano #!l*'@rdi*e a$f#$$t!$o ascen$#*@$ c$* *l n*@e !ell'i@s*@nan#@?",
+        "q_id": 402
+    },
+    {
+        "db_id": "course_teach",
+        "question": "M%@tr# @% %ome d##!'ins!*!***# per *! c%rso #% m@@e@at!ca.",
+        "q_id": 403
+    },
+    {
+        "db_id": "course_teach",
+        "question": "!uali s!n! % !*m! $*$*e ##*$one @@e #n*e%@%%@ @or@i di !a$e*ati#a?",
+        "q_id": 404
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Mo$!!@ ! n%#! d@gl! in%$gnan#i @ i$ n!#er@ di c@@!# @@e @!s*$nan#.",
+        "q_id": 405
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qua$! s#no $ #o@% deg@i $nsegn@*t% e **a$#i #o$*@ !n!%@nan*?",
+        "q_id": 406
+    },
+    {
+        "db_id": "course_teach",
+        "question": "*%#%ra %*@i #i in!@gna@$i @!# i$segn#$! $l%$no *ue $o*si.",
+        "q_id": 407
+    },
+    {
+        "db_id": "course_teach",
+        "question": "$u@!i son# i nom@ $#g$! #nse*$%n%* #h@ i%se!n@!o ##meno d#* !$r#i?",
+        "q_id": 408
+    },
+    {
+        "db_id": "course_teach",
+        "question": "#l@*c# * #o$$ #@g$# $#%eg$$%@@ c!@ no% $ono sta*i !rgani*zat@ per !n@!#na$e @ors%.",
+        "q_id": 409
+    },
+    {
+        "db_id": "course_teach",
+        "question": "*ual! #ono @ no%i @@gli in##%na*t* i c$i *#*@i *on %##o !t*%% $*%anizza#*?",
+        "q_id": 410
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Q!anti v@s%*%t%ri di %t* $#@%r$o#% %i 3! %!$i c! s##o?",
+        "q_id": 411
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "@ro*a ! !!@i dei %is#@atori !* c$i $i#!ll$ #% @sc%%z%on* * $#per*@#$ a 4 ! o$d%n* i risu%t*@i d%l %*@ell% $a !$to a %a$!*.",
+        "q_id": 412
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "!ual è l'e#à *#di@ d%# $i!ita$#$$ il c!* #iv##$# $i is$r%zio@e %o@ è %##@r@or! * 4?",
+        "q_id": 413
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Tr#v* *l %om! @ !l l*ve!$o $% a!%*!##en#o d$i v!$i#%@$!* *l cui !i#e*lo @# is*riz@*@e è s!$*riore a ! e ord@%a @e# %a #o$% e*à @a #e$$%$o * gi#*ani.",
+        "q_id": 414
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Tr#va l'ID e #l **m$ d!l mu*eo che ha i@ %ag!$o! **$%ro %i %%%b!! @el!! #%af#?",
+        "q_id": 415
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "@$o$a i* nu$e$# m!d*o *@ @@*son#@! c## l@%*#a *%r i !usei aperti pr@ma #el 2**#.",
+        "q_id": 416
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qua%i sono $'a%%% *i ap$rt#ra ! il n!$#$# !%l pe%sona%* *!l @u%!@ de$ Mu!eo d! *#az!?",
+        "q_id": 417
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "#rov% i %o$# @e! m$se@ %$$ h%*!! **! p$rso@@l! #%sp$$!o al %*!ero *inim* d% tu%ti i muse! a$@$t$ %op$ i! 201#.",
+        "q_id": 418
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "@%ov* l'ID, il $@%# % l'e*! p#* i vis#%%t*ri @%# @a@no #is!ta$o al%uni @!*%# !i% *i @na $#lt#.",
+        "q_id": 419
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Q*a!% #ono l'%%, i$ @*$e ! #! liv*!lo %i is@rizi#ne #@! !$s@t@t#!i %h% h**no s$e$% %# #$ù g#!$d@ qu$!ti%à di #e%*r$ in $*t#l# @n t$tti * *!!l$$*@i $er *$ m%s!o?",
+        "q_id": 420
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "%*a$* @@no l'ID e !l *@m* d!% %u!e# vi@%ta%@ @a ma%g#@@ part$ !el*e @$lt!?",
+        "q_id": 421
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Q*#l è %* n*me *el @%%eo che n%n av!@a anc@$a @%!@t@to*$?",
+        "q_id": 422
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "%!!v% i! no*! e l'e%@ $!$ #%si$!!o#! #h# *a@*! !#qui$ta** !l magg*$r num@r* di bigli#@ti c@n*!%%o#@%#a!@nte.",
+        "q_id": 423
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Q!a#i *$n$ il n!*er% #ed*@ ! #!%%*$o #! big@i!t%i #@q@i$tati in t%%%e $e #$s%@e?",
+        "q_id": 424
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Q$al * la s*%*a tot@*e d!l bi%lie%$o d!* %i$i*a%$ri !$ c@% l##$l#$ $i #sc##z!$!% è 1?",
+        "q_id": 425
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "$$a! è %% no!$ %@$ v$s*t$$%!! c!@ #a vi*it#to sia u* %us!! @per#o @ri#a d*l *009 e un $use% $!ert# @@p! il %0$1?",
+        "q_id": 426
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "!ro$! i! nu!!ro d# vi##t!t$r! ch# $!! ha!$o v%@i%*t# al*un *us@$ %@e%$o $#$$ @l !0!$.",
+        "q_id": 427
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Q%$n*i m#@e@ sono s@ati #*#rt@ #o@% %$ 20!3 o *!!m* *%l 20%8?",
+        "q_id": 428
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T#ova !* @um$%$ to@a!e #i @io$*t#r#.",
+        "q_id": 429
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q!an*i #$*ca#*@i ci s*n#?",
+        "q_id": 430
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tr@$# !$ n$me#o totale d! $$$ri$p#nden@%.",
+        "q_id": 431
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Co$ta !@ $%m@ro d% p##ti*e.",
+        "q_id": 432
+    },
+    {
+        "db_id": "wta_1",
+        "question": "*#%#ca @l @ome e l$ *$%a $i na@c#ta %i t%t@* % ##oc%t!$% %e@ p*@s$ #@n %@*% USA.",
+        "q_id": 433
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q$$!i son@ i no*% e @e @@$! !$ nascit! %e% *$oca!@*# d!!l! S!ati !n%t$?",
+        "q_id": 434
+    },
+    {
+        "db_id": "wta_1",
+        "question": "%#!*a l'e@@ $ed%a !e! *%%de*t@ $ dei vincito#i #! tut#* le @%#@!te.",
+        "q_id": 435
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@li *on! l'@@% me@i$ de$ p*r@*%$# @ @ei !i#c%to*! *t*%*ve*@# l! !art#t*?",
+        "q_id": 436
+    },
+    {
+        "db_id": "wta_1",
+        "question": "##o@a @l @r$d! m!dio di @!n*ito*@ in $#*@% le !%%tit$.",
+        "q_id": 437
+    },
+    {
+        "db_id": "wta_1",
+        "question": "!u** * !l gra!o $@dio pe* % v*n@#tor* i% @ut*e *e #a@t$!e?",
+        "q_id": 438
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tr@v# $l @!$ $#to %@ado *i $er*$*!i in tu!t% #* $arti%e.",
+        "q_id": 439
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q@a% @ il %ig%#o* gr%## di $er*@!ti #* *u@te l* @a@#it*?",
+        "q_id": 440
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T*#%a *l @@%e!# d$ $o@*ci $%zion#l@ #i*t@n@i d@ t*t$i @ g$o%*tor#.",
+        "q_id": 441
+    },
+    {
+        "db_id": "wta_1",
+        "question": "@# qu!nti pa*%i @ist@%t$ pr*$@ng#no $ *%#c#$#r!?",
+        "q_id": 442
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T%%!a il nu*e#* @i !i!$%nti ##m@ di pe*!e$*i.",
+        "q_id": 443
+    },
+    {
+        "db_id": "wta_1",
+        "question": "!ua$#i no@i $i p%rde$#i #i#!rs@ #i so!o?",
+        "q_id": 444
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T*!va ## n$@e del **%*e! che %a *#! di 1@ #arti%e.",
+        "q_id": 445
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@l@ so!o i n@m! !#i $!r!#% c!! h$n$# più d% 1$ #!rtit!?",
+        "q_id": 446
+    },
+    {
+        "db_id": "wta_1",
+        "question": "!$e@ca i n#mi d$ tut!@ i v%#ci!@r! che %#@!@ g#*$%$* sia n$l @0$$ c$e n$l ##$6.",
+        "q_id": 447
+    },
+    {
+        "db_id": "wta_1",
+        "question": "%uali son* # n*@* de! gi%ca*$r% %!e han#o v%n%o s## ne! %@1$ !%# $el *#1#?",
+        "q_id": 448
+    },
+    {
+        "db_id": "wta_1",
+        "question": "$%##c! $l !u#e$o !i #u@*e ** pa%%it# ch* h*!no #io!a#% n$gli an!@ 2!%3 o *$*6.",
+        "q_id": 449
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q*!n#% partit$ son# *ta!* g@oc$!# ne% #%!% o ne* 2%*6?",
+        "q_id": 450
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu!li !on! i* $o!i@e d@ @#mp@@#@ e $l $*me !%% !@o#at@*i c*@ h!#*$ vint# s@* $%@ campion%t$ !TA @e* #!rneo #%e %us$r*$$a*% $$e@?",
+        "q_id": 451
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quali !o%o i #o!@ * i cod#%$ @i c@@@ag!a *er i %%%@##o$% c@e $anno %%!t* $%* * c%$pi*n@*# WTA *%@ %@@ Austr!$ian O%e!?",
+        "q_id": 452
+    },
+    {
+        "db_id": "wta_1",
+        "question": "*r$!@ il #o@e $ il cod#!e #i c$$#*#n# del gi$#@@o#$ @i* !nzi$n#.",
+        "q_id": 453
+    },
+    {
+        "db_id": "wta_1",
+        "question": "%u$$ è @l #@m@ # !l c@dice #i camp*g#a #e! g##cator@ #*$ #n$ia!o?",
+        "q_id": 454
+    },
+    {
+        "db_id": "wta_1",
+        "question": "*%en*a i* !$#e e i@ co*#om* !i ##*t% ! @i#*ator! n!l*'%rd!#e %i na@c#t%.",
+        "q_id": 455
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quali *on! i !!#$ %*mple$* di @#tt% @ *io*a%or#, $@$@n*@i @*! !ata d@ na$*i%a?",
+        "q_id": 456
+    },
+    {
+        "db_id": "wta_1",
+        "question": "El!nca i@ %$me ! $l !ogno*% $! *!$%@ i #@o!#!o*i @he s#n! r!$$sti / L nell@ @a$% %i !@@c#@$.",
+        "q_id": 457
+    },
+    {
+        "db_id": "wta_1",
+        "question": "*u#$% s!n! $ n#$i !$*p#$!# di tu#ti * gi!@atori ! %@@istr!, in @@d%!e !i n@s@it*?",
+        "q_id": 458
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trova !l $o$$ * il co*i$% #% cam#a$@a **l ##$!$@o%% c@e $! fa#t# il m%g$ior n@!e!o di t!u%.",
+        "q_id": 459
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu$$ $ i# %#m$ e il co*@ce *i c!m*#gna $$! g%$##t*%e *on !l ma@gi%* %@*e#! d# t@u@?",
+        "q_id": 460
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T!%va l'#nno c*e h# #$ ma#g!#r n*%$r$ $i #@rt!%!.",
+        "q_id": 461
+    },
+    {
+        "db_id": "wta_1",
+        "question": "!* %*!%e a#n! !$ *v@t% *l %$g!ior n!$er@ di p*r!i!#?",
+        "q_id": 462
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T$%va #$ n#m% % ! $$@t$ %@ ra$go $%* vi#%it$#e !he h# vi*to i@ @!ggio# $*mer# di v#lte.",
+        "q_id": 463
+    },
+    {
+        "db_id": "wta_1",
+        "question": "%ua* è *l %om% %e@ v$##!%*r* *he h% $#$t% %l ma#gior *%me#@ !# p$rt@!@ % q@!%ti p!nti ** r$@g% h$ *$e$to gi*c%to%e?",
+        "q_id": 464
+    },
+    {
+        "db_id": "wta_1",
+        "question": "@ro!a !@ nom% #*% @i#cito!e *h$ ha % p#@@i p$% al#@ e h! p!r#eci!%#o @% torn$# a*ert@ @$s*!a!#an@.",
+        "q_id": 465
+    },
+    {
+        "db_id": "wta_1",
+        "question": "@ua* è i! *#*@ d*l *inci!o*% c%n @ pun*i pi@ di #*!go @he !a@*# p*rteci*ato a% !@!@@o $#*tr!!$a* @pe#?",
+        "q_id": 466
+    },
+    {
+        "db_id": "wta_1",
+        "question": "@*%*$ i *o$i $e* p#%%!n@# e d#l vi@cit%re c$! $ann# giocat@ @ell* @*r@it@ !on u! ma$gio@ !um%ro $! %i@*ti.",
+        "q_id": 467
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu#%i $o@! * n!%i de$ vinc*to$e e del !e*$#nte ch* han@# %io$a## *e$!a p@*ti#a **ù lu%$$?",
+        "q_id": 468
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T*ova *a @lass@$ica $*di# @*# *gni gi*c@t%r@ e %* @$$o n$*e.",
+        "q_id": 469
+    },
+    {
+        "db_id": "wta_1",
+        "question": "@u##$ s!%o i prim! n%*i @i t#*t! i #$ocato#% $ le lo@o c#assi@ic*% me%i@?",
+        "q_id": 470
+    },
+    {
+        "db_id": "wta_1",
+        "question": "%rov% ! #u!ti @$ $@as%ific$zion@ t@#al% p*r %gni $io@**ore # il #@r* n#$$.",
+        "q_id": 471
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q#ali *o$% % %@im* #omi @i *!$t! % @ioc#%or# @ * l@ro p*$ti *i c@a@sific#z#one $!%#%e?",
+        "q_id": 472
+    },
+    {
+        "db_id": "wta_1",
+        "question": "$$ov@ il num*$o @* gi#c!tori %er #gn@ @$!@#.",
+        "q_id": 473
+    },
+    {
+        "db_id": "wta_1",
+        "question": "!uanti !io*at%%i so#o @* o*$! #%#s!?",
+        "q_id": 474
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tro#! *$ !o!@c# %el %aese do!% h# i% %ag%!o* @%m@@# *$ gio!*$ori.",
+        "q_id": 475
+    },
+    {
+        "db_id": "wta_1",
+        "question": "!$al $ $# cod%!$ !## p#es@ $$n la #a*g%#r $#rt$ dei gio!*#o#@?",
+        "q_id": 476
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T#@%a ! co$@ci $%i p*$si c%e !%!no più d$ 5! !i#cat%r%.",
+        "q_id": 477
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qua*$ %o## i $od!#i d$i $*e$i con !%ù d# #0 g#%c#!o$i?",
+        "q_id": 478
+    },
+    {
+        "db_id": "wta_1",
+        "question": "$ro%a i$ $%m#ro %ot*!e %i !%*r pe* ogn* d*$a !% c$%ss#fi!%z%o%@.",
+        "q_id": 479
+    },
+    {
+        "db_id": "wta_1",
+        "question": "$##nti to@@ t%ta## c'e!a## #e@ ogni *#ta %! cl%s!!fi#a%i*ne?",
+        "q_id": 480
+    },
+    {
+        "db_id": "wta_1",
+        "question": "$@$!a !l *##$r% @% !$#t%%e $h$ è avve*u!o !g*i anno.",
+        "q_id": 481
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q@$@te @%!ti@$ *$nivano ##o$a#! og@! anno?",
+        "q_id": 482
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T!!!a !l *#%$ * il gr@#o *#$ ! vi$cit$%i p@ù %io%#$i i! *@t%e @e pa!ti*e.",
+        "q_id": 483
+    },
+    {
+        "db_id": "wta_1",
+        "question": "!!ali s%#o i $!mi % $ ran#$% #e! t!! pi* !%ova#$ !incitor$ $! tutt$ l* #ar$ite?",
+        "q_id": 484
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q#a!#i @#nc!#o@i !i#e%!# !a*n* ##r%e@ip%#o e%t!a!b% ai *!$pi#na!@ W@# e !!no !tati ma!%##o?",
+        "q_id": 485
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tr*va $$ n@$*ro di !$n*%%!r@ d!@la @%$# #i%i!@!a @he ha*no p@rte@i!@to !% campionat% WT@.",
+        "q_id": 486
+    },
+    {
+        "db_id": "wta_1",
+        "question": "!%*$! il *!m$, !$ cod$ce de% p*ese e l% #*$! d$ %*scita @#! #i@ci#ore **@ *a i pun#i *i* alt$ $n %%@te l! !#%#$*%.",
+        "q_id": 487
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q#*! è $# %*%*, *@ codi!e d% c@mp!gn% e la d!ta d* n@%%i## !$l *i!ca!o*e c#* i $u*ti d@ c!a*$#f!!az$on@ p!@ vin!$t@r% in t*@t* !! p@r!%te?",
+        "q_id": 488
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T$ov@ il #@*er# $@ #io!a*$r@ **r o$*# $ip* di m#no.",
+        "q_id": 489
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu*nt@ gi#%at@r! $# %ono p*$ og%# t##@ di @@*o?",
+        "q_id": 490
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu!##! !avi *$nno $#ni@o p!r e*@%r* \"c%t!ur*te\"?",
+        "q_id": 491
+    },
+    {
+        "db_id": "battle_death",
+        "question": "!$*$*! %l #!me e il t@n*el$a!gio !rd!$ati d! in $r!$%% *lf!be%!co d@@#%@!e%%e p#r i $!m#.",
+        "q_id": 492
+    },
+    {
+        "db_id": "battle_death",
+        "question": "@%en#a il n#$*, la d%$a e il @i!$l%#*o d# %g#i b!t*%!$!a.",
+        "q_id": 493
+    },
+    {
+        "db_id": "battle_death",
+        "question": "#@%l è i! bi$*n%io @!l$# vi!t!m# #assi#o $ mi$i%o *a*s%%o o!@i $ol*!?",
+        "q_id": 494
+    },
+    {
+        "db_id": "battle_death",
+        "question": "$*$l è $l nu$#ro %ed$$ $i !es!!n% @@usa$e og!% @ol%a?",
+        "q_id": 495
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Q%ali so@o !e si%ua!!!ni $* $o!!! $ $esi$n% @%usa!e *a*l* @a$% c%n #o$#@l$@gg$o \"#\"?",
+        "q_id": 496
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu!li $o#o il %ome e i !!#@lt#ti !!l#* @at#%@%%e q*@!#o i# #@m@!da!t$ %$!g!!o non * \"bor%l\"",
+        "q_id": 497
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Q*a$i @on$ * *@!e$si ID e *%%i *%#%$ b#!taglie che hann@ per%o *ua$si#s* t!po @i %@*! \"!*%g\"?",
+        "q_id": 498
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Q!#l@ so!o %*i ID # i n%%i d@#le #!@t#g!!% @h* hann* %ort#t% a #iù #$ 1% *er#o$* $@c%%e $$ $ot$l!.",
+        "q_id": 499
+    },
+    {
+        "db_id": "battle_death",
+        "question": "*ua* @ l'*D e i* $om@ d%l$a %av% $he h*n%% #a##at* l* m$g!!or pa%t# #*l#e @#s$on# tot@@i?",
+        "q_id": 500
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qua#i s@n# i *om! %@ *%!%a!#ia d*stinti $h@ s#$o t*@ #l c%*an#*#t! @$$g$ro \"*alo%a$\" e @# co!and*nte #%*in% \"B#l*w$n !\"?",
+        "q_id": 501
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu#nt% r##u!ta!i @*ve%$% %i !$n% p%% %@ bat*agl$#?",
+        "q_id": 502
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Q%#%@@ *%@ta!!$e @o% #!nno p$rs@ l% ##v% @on il t!nn*lla@gio \"@!5\"?",
+        "q_id": 503
+    },
+    {
+        "db_id": "battle_death",
+        "question": "%$e%*@ il @o!e e l@ dat% %e$%! ba%tagl!a ch$ %a %erso !a n#ve c%iam#@@ \"@@tti@@\" @ l% @a*e $#*a#a#a \"$*S At@*anta\"",
+        "q_id": 504
+    },
+    {
+        "db_id": "battle_death",
+        "question": "M#s@r* @o%!, !*$ulta$$ e !%*a!da@@# bu!ga!* !e*l! *at%$$l#@ %*$#a %av# p!r*% @el \"can%#e di ingl#se\".",
+        "q_id": 505
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu!l@ #*%% #! not@ @#gl# @v$*t! $# $o%#! che !a l% so%$ost$i$#a \"es!\"?",
+        "q_id": 506
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "%@*a #$!o t@$t@ gl@ #!di$@zz* @ra %ui %% r$#a 1 e la $ig$ *?",
+        "q_id": 507
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qua# è !a pri%a e l$ s#c@n@$ !@#a pe@ @!$%* g$* in!$%@z@i?",
+        "q_id": 508
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q@#nti corsi in *@t$l$ son! *%e%#a@#?",
+        "q_id": 509
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q$$n*i co#!i $i s@*%?",
+        "q_id": 510
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "C$#% %i*n$ de!crit%% #! !*rso *! *a@em$tic!?",
+        "q_id": 511
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "@!ali #*!% l@ de%%r*zi!#$ $e% t*tti i c$r@i di *$t!m*$@@a?",
+        "q_id": 512
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "*u$! è il !od$$e *!s#a*e @#l%'$#d%@iz@# %%l P##t *h@l*ea della c*t*#?",
+        "q_id": 513
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "##*l è @$ c*dic# po$t!#% per Por# Ch$l%!$?",
+        "q_id": 514
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "*$%l# !i@@@tim@#@* o@fre i% ##@g@or nu##r# di $!%!i?El#n@% N*me d@! Dip%@tim$nto e @D.",
+        "q_id": 515
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu$l # $@ n%m$ e @'#* %e@ dip!r$i!ent$ c%n il #*%gio% n#@e@o di $!$d#?",
+        "q_id": 516
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu%nti #ipar$i%##t@ $ff!*n$ $*a#*h# l#u%*a?",
+        "q_id": 517
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "$$a*$$ !ip!%!!#ent# d@$#!$$ *ffrono gr@di?",
+        "q_id": 518
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "*%%@t% nom% #i laur#! $ive@si so$o %@$er%*?",
+        "q_id": 519
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "!ua#t* g*adi @#$#r!i s$@% of%e#*i?",
+        "q_id": 520
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q%ant* g!@!i $%f@# i* di$@rtim##%o %# ingeg*%%i@?",
+        "q_id": 521
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu*nti ##a%i h@ %% di*@#!i@#nt! di in%e*n#ri%?",
+        "q_id": 522
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu#!# s##o i n@mi * le d!@!r#z@oni @! tu@te le !$z#o@i?",
+        "q_id": 523
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q!!%i !#n* @ *o!% e @e descri$*o$i p$@ t$tte %e *%$%oni?",
+        "q_id": 524
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q@*$i son@ % n*## $ $'%! de* !or#i %h@ *a!no a@ @ass$%o # s$%ion@?",
+        "q_id": 525
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q*al# sono * %!mi # %#! #D %* og$* corso c@n m%@! d# 2 sezi#!*?",
+        "q_id": 526
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "E!#nc% il %e@*o%%_$a*@ #n $!dine le$$i#o*r@f*#o in#e*@i#*.",
+        "q_id": 527
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "*u#l% #%!o % *om! del%e s%*i#$i i% *rdi$e alf%**t%co inv*!%o?",
+        "q_id": 528
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual % @l se%e*t%e i@ !u# *a #@gg$$r part@ !@g$% s$ude!t* s! $ @#$%@@#@t#?M$*tra #ia i@ n$m# c*# l'@#.",
+        "q_id": 529
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Per o*ni s$m$s#!!, #ua@ è il !om# * %'@D ## #u#ll! %#% il #*gg!o# nu!e## d% @@$#en@* @e$*strati?",
+        "q_id": 530
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "**al $ %a des%!izi*n! d$! @%par$$m!@t@ il *ui !o#! @a @a %$$%o#tr%nga @! computer?",
+        "q_id": 531
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "*u$$ @ %a descri%*one d$% #!pa$t$@e%t@ p*% $h@ i* *!i !ome #a la $@$*%# computer?",
+        "q_id": 532
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "C*# $o%$ i%*ri$!# in p#!!#a#mi di 2 g*@di in un #e!est!@?#l*$@a @l %o#e, !l se$*ndo ##!e e i! %o@n%!$ e #'I@.",
+        "q_id": 533
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q@*@@ $!#o * p#**i, m%d# e $#%no*%, #*s%em* %gl! !D, d* *!t!i %li !@#@@n#i @h# %i !$$# iscritt* a progra@mi di 2 gr@di !$ *n sem@#t$$?",
+        "q_id": 534
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "C@% $ !s%ri*to a un p*o!!*@m@ d$ l!$@#!?El#n%a i! n!*%, i* !e#on%o n*m%, il *o%nome.",
+        "q_id": 535
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "#ua$# s%n@ # p!%$!, m$d# $ $ogn@m! pe* tu%#i i!cri@t# a *n prog!a$!% di $!ur*a?",
+        "q_id": 536
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "T#%va %* !ip# di %%o@r#mm% i* @$$ # #%c*!*$o l* ma#g#@r $arte del @u@e$$ d@ st@de%ti?",
+        "q_id": 537
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual è %# n**! #! si%t#%* $he ## %@ *@$!@or numer# !i st*d%!@i %!critti?",
+        "q_id": 538
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Tr%v* il pr%%ra$$@ *n cui #@ m!g!i$r $*@te %egli !tu*#nt$ è i*c#!%%%. El*nc$ s$@ $'%D c#e !l r*@pi!$!@.",
+        "q_id": 539
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "*u#@ è #'ID !e@ %#!g#am$$ $ $l !i#@ilog* $#!la l!ur** *h! ha la m%!gior @*r$e de$li st@$e$$i %scr$tti?",
+        "q_id": 540
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu$#e s%*!en@@ !* è i%c@@@t* #e* l$ mag@*@r @!r*e $$ll* @#l!e *n qu#@*#a!% p$ogra!%a?Elenca $'ID, %@ *o!%, %* %e*$n@$ no%e, i# @!!#ome, !l $@@@r$ di %scriz%*ni e #$ #t@$ente.",
+        "q_id": 541
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "@@#l è i% primo, m$*i% % c$%n#$$, *n#i@me al!'!% e a! numer* di @!c*$!i!n#, p*r lo s%@den## che %% è @%!ritt$ di @i! in #%al@i@!i pro##a!%a?",
+        "q_id": 542
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu!%i se$%s$r$ $on h*@$@ uno st$!!@te @!c$itto?*l#@*a @l nom$ #%l s%#*s@%!.",
+        "q_id": 543
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "!u!l # il n#m$ d%# s#m!$t!e s@nz! @%%$ent$ is*ri*ti?",
+        "q_id": 544
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "%$al! %#no tutt! % n%#! d%i #%#si !ei c$rs* ##! han!@ mai is%r**to g!% st!de#t@?",
+        "q_id": 545
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q@*l! s!@o i !o$! !$ t#!t! i !o%*i #h! *#n#$ a@$un! st#!e@ti i*c@it*i?",
+        "q_id": 546
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual # i! $o@e de% !%%so !%n l% m*g@#o! p$!te d$l@e **cri*io%%?",
+        "q_id": 547
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q#a! ! i% nom% !el *ors% *o% la $agg#o! p%r*e !@%%i st$@$@t@ i$cr@$*#?",
+        "q_id": 548
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "#rova il c**nom$ $e$l! s!u*en%# che #$!u!lm%*te viv*$o ne#%o s#a!* #!%!! Ca#o#in% d*% $*!d m@ n#% s# !%no #egi#*@@t# @n n%@$u* #rogra#%a d* l!ur$@.",
+        "q_id": 549
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "$u%%i s#@@ il cog*!%! $e**i !tu%e#ti ch* #@@ono n@l%@ $@!#@ina *!! $#rd #a n!n si **%# r#gi#trat# i$ *ro**a%@% di la#!#a?",
+        "q_id": 550
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "*%$@@a la dat* $ @'#D dell% tr%scriz*@n@ %o@ al@##* 2 ri%##%#*! *e$ c*rs@.",
+        "q_id": 551
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "$%#l è la @#*! $ l'I* dell% *@a@$r*%$on@ *o* $l$@@o # %or@i ele!c!ti?",
+        "q_id": 552
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q#$# è il n#me@o !i @#@e**!o #@%#'%o#o %o! il #om$ Ti!##%hy @ il @o*no$% $a%d?",
+        "q_id": 553
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual è il n*me$@ %$ c!l%u@ar* $$l%# @!ud$$%e !% *@%e %*m$*th% @ard?",
+        "q_id": 554
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "@hi * $l !r$m# st@de!@e a r#gistr#**!?*l%@#a il nom%, #* **co!@o nome e @# %ogn*@#.",
+        "q_id": 555
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu%% è i# p#@mo, il c!nt#o e $@ #og##*e del prim* s#$%%nt! @ *#g$st*ars$?",
+        "q_id": 556
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "C@i @ il p@imo d!p*o#a$* $*$@a *cuol#?Elen@a ** @o*%, ** %!#!nd# !#me e %% %*g#o$$.",
+        "q_id": 557
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qua! % il !#i#o, %# #%d*o e i* c%g#om@ $*@ %r$m* dip$oma!o $e!l$ *c!ol#?",
+        "q_id": 558
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Il %ua%! !ndiriz!o %er#%@en#$ è $iv@rso $*@ su! *nd%r!z!o a%$##l#?$*$$** i% *uo nome.",
+        "q_id": 559
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "!ua@ è i@ primo !o@e d@$$o $tu!**@! il c%% i*diri@z# p@rm$*e#te # !@$!#*# da $u$l*@ a*$ual$?",
+        "q_id": 560
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q$a@e $n$#!%!zo $on$ie!* %% m*@g!or n$%er@ #i #$ud*$ti *ttualm$!#@?@!en$a l'ID i$@@#iz@! % !#t%! le r!ghe.",
+        "q_id": 561
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "!!!$ @ @'@*, $a !$!a # ! la riga 2 @!l#'ind*%i%zo co# il @ag%%or !um!#! !$ **%$@n*i?",
+        "q_id": 562
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "!% me#ia, %u%ndo !ono %$a%# s$$m!!%e *e %@ascr$*io*i?",
+        "q_id": 563
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "$!a! è l% %%t$ d@ !#a%cr#%ione @edia?",
+        "q_id": 564
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q!a**o v$@#e #!%asci*ta la p$*m# *ras#r!zio$%?*l$nc! l% @a@@ e i @%t#*!#!.",
+        "q_id": 565
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q!#l è !a !%im$ d*t% d$ u%a @%r$i#ne *@*%#ri%%a e $*al* %@tt#@li puo! d#rm#?",
+        "q_id": 566
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "$*a@t% t!as*ri@i$$* v@%go*o r@@a#@i#te?",
+        "q_id": 567
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q!!@t* !r$sc#i!@!*i %ono e$e@!a#e?",
+        "q_id": 568
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q$$% è l'%l#ima @*!# di r#%as#@o de%la !rasc**z%$ne?",
+        "q_id": 569
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu*ndo è s$%*@ $ilasc$a$a %'%lt*ma !r#scr%@i!**?",
+        "q_id": 570
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "*@#nte v@lt* $l m!s#i#o !$ò es!*re un r@!ul@#to !i !sc@$zio!e *$ !@r*o *n @*v#r@e @%*%cr$*#oni?M!%@%! %n*h# l'I# *i !s@$i%i#%e #l #o*so.",
+        "q_id": 571
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "!ual è $l #umero m#$@imo @@ vo#t@ %@ @u% %n #$rso #ien# !i@ua#i@z#*o i% #i@e$!# $%$!!r@%ion# # %ua$ è l'I* %i !scrizi*#% di !!e% !o%*!?",
+        "q_id": 572
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "!!!t$* $a da!$ !ell# *ra#c%iz%$*e *he !*#$%* il #i$im* %%$!*o di ris$lta@i, el#n$* $!$h# l'ID.",
+        "q_id": 573
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q!## % l% $$t% e $'!D de$la trasc*iz*o$% *o# i# mi!%!! nu*e*o @@ r%s!@tati?",
+        "q_id": 574
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Trov@ #l s!m%*t*$ in c!i si $o*o !s!%itti !%a **# s$u$e#t* $aestr* #!! !l# s!u!e@$i %@ *a!**@.",
+        "q_id": 575
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "#ua* è l'#% de% $e**s$$! $h@ h# #@gi$!$*to %i# m#e!tri #he student# d@ %#u%ea?",
+        "q_id": 576
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q$an%# @*@iri#zi di!%%si vivon* @*# $t@%!n!i %#tua$me%!e?",
+        "q_id": 577
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@#* s$*@ i @iv*r@i in*#$!z%i c%# hann! !$ude!ti %%e v%v%no @ì?",
+        "q_id": 578
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Elenc% t$!$i i de@t*g*i *!gli stud$n$# %# ord%@e *e$@!$%g$a!!$o i*v##*%to.",
+        "q_id": 579
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qua%% a*t## dettag%# $%*# @a@l#$mi $e@l* stud$nt@ in o*@$n% alf@be%i*@ @n%e%!!?",
+        "q_id": 580
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "D#@c%iv$ $a se$@on! @.",
+        "q_id": 581
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q#al % l* des*rizi@!$ p*r #a *e*i#%$ c@%a%at* $?",
+        "q_id": 582
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "T@ova i% @ome *%!*i st!$!@t# che v#vo!o p@@m*ne*$!me!*e ##* p$*se #%*ti o h!nn$ %* nu!ero di %#llu$*#e 097*@#6@%**.",
+        "q_id": 583
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q$a$i !$no i p#*mi !*m$ $e*li *#u$enti *h% %i$@no ad H#!ti !e%man**!e*ent* o $a@n! !l n!!@ro *! c*#$%@#re *9$00166$82?",
+        "q_id": 584
+    },
+    {
+        "db_id": "tvshow",
+        "question": "El!nca !l ti@!lo @! !u!$i @ ca#%o$$ anim%ti @n or!!$$ #$fa!$$*%o.",
+        "q_id": 585
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual% s#*o i t@t@l* de% $%r#o@i $%***a$! !* #*@ine alfa!e$ic$?",
+        "q_id": 586
+    },
+    {
+        "db_id": "tvshow",
+        "question": "$l!%c# tutt* % c$rt!%i an*@@#i dire$t@ d% \"Ben Jo@e*\".",
+        "q_id": 587
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua%i *@n$ i n*m! #$ %ut%i i #a%to%% d*!!%t* !a B$n %@n#s?",
+        "q_id": 588
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@@%i %ar%@!$ *o$# st*@i %c!i@ti da \"Jos#%h !u*r\"?",
+        "q_id": 589
+    },
+    {
+        "db_id": "tvshow",
+        "question": "@!$l è !l %u!!r* di !!r%!ne $c#i$t@ $! *osep% *uhr?",
+        "q_id": 590
+    },
+    {
+        "db_id": "tvshow",
+        "question": "*!*n*! t$tt$ i *i!o#% d@i c###%n* a%i$at* e i l%r$ r%gis%i !!dina#% con @a l$%# da%a a@#%a",
+        "q_id": 591
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu*l # #$ no*e e $ re$%st! $i t*#ti i ca%ton@ $@# !*@o or*i%!*% **r d*$* *erea?",
+        "q_id": 592
+    },
+    {
+        "db_id": "tvshow",
+        "question": "E!e#@@ @@ *!*o%# #i #ut*! i @ar@!$# a@ima#@ %%#ett$ d# \"#en Jon#%\" % \"*rando@ Viet*@\".",
+        "q_id": 593
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q$!l# #o## $ ti!**i @i !utti i c!r%o#i %ir@*ti !# Be! J!#!$ $ B@@n#on Vie$t#?",
+        "q_id": 594
+    },
+    {
+        "db_id": "tvshow",
+        "question": "#**l* pa$*e h! la #%g%i%r @arte d*$ #a#*!i @V?$%enca i@ #$ese $ i! %um$r* d$ $anali !# #@e h$.",
+        "q_id": 595
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua@ # il p!$%e co$ ## *agg$$r nu*e*o #i @%n*li TV $ q$a@ti h@@n*?",
+        "q_id": 596
+    },
+    {
+        "db_id": "tvshow",
+        "question": "*%#nca *l n#m!ro *@ n*mi e c#%#e@u#% $i $er!$ !i!er@i n$l#a ta@e%l! $ei !#$a*i #!.",
+        "q_id": 597
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua!te $er@* $ %o@#e!ut@ div!%si $o@o #l*nca$! n@!la t%*e%l! !e* ##na*i @#?",
+        "q_id": 598
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q!*@ * i$ @o%t*%u#o d@l c*#@#e $V co$ %l n@m* *er%al* \"S%y Rad*%\"?",
+        "q_id": 599
+    },
+    {
+        "db_id": "tvshow",
+        "question": "@u%# è i% %*nte!u#o *e!la Se*#@ !k# #*%io?",
+        "q_id": 600
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q%al è l'op%#$$e pac$!e#to de@ @a#**! T! !on n@m* !*ria!e \"%k* *%%io\"?",
+        "q_id": 601
+    },
+    {
+        "db_id": "tvshow",
+        "question": "#@a@* son$ le opzi$@! d# pa$*!et!o de$ @a!a*i !* i cui no#i #e$l! %er*$ *on* S*y #a@i%?",
+        "q_id": 602
+    },
+    {
+        "db_id": "tvshow",
+        "question": "#u#nt* !*n#*% T! *he **an% %'i%glese $ingu$sti%o?",
+        "q_id": 603
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@@ti cana$@ *V us%n@ l# #i@gua i#g%$!e?",
+        "q_id": 604
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Ele*@a $l $i!g!#g$!* u$il%*zato ##n# *@*er* %i *#na@@ *#.!ing#! di el%n$o e $#mero di @an$$% T!.",
+        "q_id": 605
+    },
+    {
+        "db_id": "tvshow",
+        "question": "!u@l% $@no l$ li@*ue %til%#%at$ d$l m#$i#o nu!ero %i !%*a*! *V e q$$@%i #!n$*i lo #san#?",
+        "q_id": 606
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Ele!ca %*n@ l*n$u* e il n*mer* d$ ca$a$i *@ *s$n%@l@.",
+        "q_id": 607
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Pe% o#!% li!@%%, #l$@@@ @% nu%er% di can!l@ !V #he l# u!i*izza@o.",
+        "q_id": 608
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q*al $ !% @an%*$ T% %he %@stra ** $a#%!!e a!im@t% \"$h% !!s# of $he #@!! Bee%%e!\"?E$!nca @l *ome del#@ s*%%e *e! c@nale TV.",
+        "q_id": 609
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q#al # il !om@ d*lla %!%i% $$l c!!!l$ #V !h$ *@st@* i$ %arton# a@i@ato \"T*e R%s! o@ %he #@ue #@et!$\"?",
+        "q_id": 610
+    },
+    {
+        "db_id": "tvshow",
+        "question": "#len*$ !l tito!* di tutti # !*$to@@ @@*#%ti #ost@*t* *ul c$$ale T! #@n !* #om% *e%la se@*@ \"Sky #a!i#\".",
+        "q_id": 611
+    },
+    {
+        "db_id": "tvshow",
+        "question": "!%%l è il !!t%lo d! %u!ti i $#r%@$*% che s@ t%@v@no #*l @a$!le TV %on %l $!%# #$l%a *e!ie \"S@$ Radi$\"?",
+        "q_id": 612
+    },
+    {
+        "db_id": "tvshow",
+        "question": "E$%$ca l'epi%@d*o di tu!$e l$ @e*i@ TV @rd!%%## $%* valut@##o$!.",
+        "q_id": 613
+    },
+    {
+        "db_id": "tvshow",
+        "question": "*ua!# s#!% ##t$* g*i *p#!*#! or#$*ati dal%e val@!@$ioni?",
+        "q_id": 614
+    },
+    {
+        "db_id": "tvshow",
+        "question": "%*#nc# @e pr*me ! serie #V *% #$!u*!@io#e $i$ %@!a.@l!nca *'@#@!@d%$ de@la @e!i$ TV e $% va%u#@#i!#e.",
+        "q_id": 615
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q*$@i s#no @ @ %!is@*! %@! a$$r@zz*ti @$$la tabe%%% d!!l@ s%r!e T! e @%@$i e%an# q@e%l! v@@u*a$!*ni?",
+        "q_id": 616
+    },
+    {
+        "db_id": "tvshow",
+        "question": "!ua* * la #@o#% m@n*@a e ma*!i%# %*lle @$r#e @*?",
+        "q_id": 617
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q$al @ l! $$o%@ $#*sima % #inim! %e@ la s$*$% *V?",
+        "q_id": 618
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu#% è la d#t# #e!$a *@l%a seri$ #@ @$@ #'e$%!%di# \"A *ov* %$ % *!#e%ime\"?",
+        "q_id": 619
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Quando * s!@%@ %r$s*@$s$ !'ep@s@@i% \"A *#ve o$ @ Life%i*#\"?",
+        "q_id": 620
+    },
+    {
+        "db_id": "tvshow",
+        "question": "#%al è i$ gra!o settim!n@le $i s*$ie $* $o* @'e!!@%%*% \"! @o$e %f @ L@f!%i%e\"?",
+        "q_id": 621
+    },
+    {
+        "db_id": "tvshow",
+        "question": "%u$l è il *a@@* %ettima%%le @@r l'e@i$o$@o \"@ #o%e #! $ L*$e*i@@\"?",
+        "q_id": 622
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual ! !l @a@!%# TV d!l$a !e*$$ *@ !$@ l'@#$s@d!! \"% Lo%# $f A *if%@i!e\"?Ele**a $@ no*e della @@r!% *el @**a*e TV.",
+        "q_id": 623
+    },
+    {
+        "db_id": "tvshow",
+        "question": "!@#@ % i$ nom# *#ll$ ser$e c$e !* l'!p@s@d#! \"@ Love o# A #!fet*me\"?",
+        "q_id": 624
+    },
+    {
+        "db_id": "tvshow",
+        "question": "E@*nca *'!*isodio d@ @!l !! S*%i@! mo$%!*to s@ TV C!ann@# con #! nom# d!ll@ #$*%* \"$k* R!!**\".",
+        "q_id": 625
+    },
+    {
+        "db_id": "tvshow",
+        "question": "!@!l è @'%pi@$di@ p#@ !% @er#e TV ch%am!ta \"%@$ #ad#$\"?",
+        "q_id": 626
+    },
+    {
+        "db_id": "tvshow",
+        "question": "T!!@! il nu@e@o $i cartoni di%!*t! *$ *$asc!!o !e# #@!@!t#r% @le**$t!.",
+        "q_id": 627
+    },
+    {
+        "db_id": "tvshow",
+        "question": "*@an@! !#r@o$i ha*%@ @r#ato @$@i regist!?",
+        "q_id": 628
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Tr#v* *l c$d%!@ di prod@zion# * i% *an#@@ del c%#to*e !$$%a%% %@ onda %@* $ec#$t%.",
+        "q_id": 629
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è #! $@*#ce #* !rod!zio#@ @ #* $anal@ del #ar$o@e *ni*a** *i% !e$%nte?",
+        "q_id": 630
+    },
+    {
+        "db_id": "tvshow",
+        "question": "$rov$ #% @c$lt# del p!*che*t% e #@ n!me d@%l$ #$r## d@# c$n*l% TV #@n ** *d a%ta *@$%n!zi*n#.",
+        "q_id": 631
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu$li s$!o l$ $#$io$i *#$ pa$$h#tto e il no$! #*@#% s%*** @#! i! @%%%le #V ch% s!p!orta TV *d %$@a de*@niz!on!?",
+        "q_id": 632
+    },
+    {
+        "db_id": "tvshow",
+        "question": "@u%#! ca$a$# %V !%@ pae%% %tan*% giocan%$ un c%rto$# @n#m@%@ sc@$@t* da T!@d !$se!?",
+        "q_id": 633
+    },
+    {
+        "db_id": "tvshow",
+        "question": "$ual! s@n# @ pae#i $%e @an!% ca@%$ni a***a#@ i# %V ##e !o!! s!at* %c@itti da *o*@ $#sey?",
+        "q_id": 634
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q!!l! c%nal* T$ dei pae*i $o@ #i*cano #%cu% ca#*on% *@i!*@o $@$*@to %* Tod$ @ase@?",
+        "q_id": 635
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Quali $o@o i $aes$ #!e #o% $uonano i c*!%%!* ani#%*@ %$%%t$* d# !o!d %as$y?",
+        "q_id": 636
+    },
+    {
+        "db_id": "tvshow",
+        "question": "*rov# i% no%e **@#a s%*#e e i@ @ae*@ %e@ !a$a!# *%levisivo *he su%n* *lc!n! !@rt!n% %##*tti d# ##@ *$nes e @$ch*@% Ch#ng?",
+        "q_id": 637
+    },
+    {
+        "db_id": "tvshow",
+        "question": "$ua# è %% $ome del#$ serie e $* p$ese ** %u#t@ i @*na#! !* %he s!o$an% i @%*to%$ #ni!at! @i$e@ti %@ B$n !$nes e c%$t*%i an!m#!i *#!et$! #@ !!#hael Ch#ng?",
+        "q_id": 638
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Tr%!a i* ra*port# !i$e$ % $a n*!ion! !ei can@*% !V #$% $$n @@a** l'%@*l*s*.",
+        "q_id": 639
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu%l ! #% $*ppor*o p*xel e i$ %@*s@ !* orig$n@ p%# @@#!i @ @@n!%i TV che *%! $san! @'in#%ese?",
+        "q_id": 640
+    },
+    {
+        "db_id": "tvshow",
+        "question": "T%@%% %# @ei can@l@ TV #h@ %a@ pae*i $n #ui *a!!# %iù di du* c%$!l! !V.",
+        "q_id": 641
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q$a*! $ono g@# *D di *utti i c$n$li TV c!* h!%no pi@ *! * $@n@$* %@?",
+        "q_id": 642
+    },
+    {
+        "db_id": "tvshow",
+        "question": "T%%@! @'$D de! #an$li *V %h! no$ @uo%$!o al#un ca!*o$@ *nima*o di*@t@# *a B$@ $$#es.",
+        "q_id": 643
+    },
+    {
+        "db_id": "tvshow",
+        "question": "$#a*i @on% gl% ID #$i ca$#li TV !!% !$n !*n@o #arton$ a#ima!@ #ir#@t@ $% Ben #!ne%?",
+        "q_id": 644
+    },
+    {
+        "db_id": "tvshow",
+        "question": "T$*va l'$!zion* $#c$h@%to @e@ %*n!le TV c$e n$* *a al$#n car!@n@ an!%**% *@%et*o d@ %e% Jo%e*.",
+        "q_id": 645
+    },
+    {
+        "db_id": "tvshow",
+        "question": "$uali @o$@ %$ opzioni @% pa@#%et#o !@ *u!t% % c#nali %V $h@ no$ $%%@a$% $*rt*n$ ani*#@i di!!tt! d# Ben %$nes?",
+        "q_id": 646
+    },
+    {
+        "db_id": "poker_player",
+        "question": "#*@*!i gi!$#to*i d# po*e$ %% **no?",
+        "q_id": 647
+    },
+    {
+        "db_id": "poker_player",
+        "question": "C*$t$ i# @u#e$# $@ @io$ato#i di %o*e@.",
+        "q_id": 648
+    },
+    {
+        "db_id": "poker_player",
+        "question": "%len$* i gua*%g*i d!i @i@$at%ri di p*#@r !n or%in$ %%#@@@c*nt#.",
+        "q_id": 649
+    },
+    {
+        "db_id": "poker_player",
+        "question": "@ua!i ##@# i g@*%a#ni d## @iocatori *% po$e%, *rdina@o d$ sce#d!$$ p%! !a%#re?",
+        "q_id": 650
+    },
+    {
+        "db_id": "poker_player",
+        "question": "E#@nc* le *%b!#l! $in!l@ re@li#%ate e !@ m#%$#ori #i%iture *$i @ioc$t!ri #i @$*@*.",
+        "q_id": 651
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qua%i @o*! i %!v!li @ina%i re@*i%#!ti ! *% m%#%$$r% f@n%*$re per $u$$i * gio*a%o$i d% !ok!r?",
+        "q_id": 652
+    },
+    {
+        "db_id": "poker_player",
+        "question": "%ua! * i# g*a*@!n$ me*i* d!# gio!a#@%i $% poker?",
+        "q_id": 653
+    },
+    {
+        "db_id": "poker_player",
+        "question": "$es%%$%*sce i @u!%a@ni m#di $% tut#i i !i#*!t#r* di @#ke#.",
+        "q_id": 654
+    },
+    {
+        "db_id": "poker_player",
+        "question": "@ual è $@ @@n%% @i !$@$$# !%l gi!c**%re d@ pok$! c%# i %ua$%!#i %iù alt#?",
+        "q_id": 655
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R@#t#tuis@e !* g#ado di %e%*ro $e@ $i*!!@o%@ c%n ! !$g%iori $%ada*@*.",
+        "q_id": 656
+    },
+    {
+        "db_id": "poker_player",
+        "question": "#u%l è #l nu#e#! ma$si!! di t$b!lle #i%al* @@alizz@#e tr! ! %io@*t@r$ d% po!e% co$ guad!g*i *#*#%$or@ a %00%%@?",
+        "q_id": 657
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Restitui*ce i #$@!l* fin@@% #%s@*mi #$al#zzat$ s! !ut!$ i #ioc*tori @i #$k@r $!e %!nno %%a#a!%i in#er$%r@ # 20@00!.",
+        "q_id": 658
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu%@i sono i nom@ d!% $!!*@tori @$ p@$*r?",
+        "q_id": 659
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R#*t*t$i%*e * @o@i di tut%* i !!!c*t%*! %i p%@er.",
+        "q_id": 660
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Quali @o*% % #om$ #@# gio#@t!r@ d@ !%ke* # !$@ g#a@#gn$ son! su!e#i%%i ! !000$@?",
+        "q_id": 661
+    },
+    {
+        "db_id": "poker_player",
+        "question": "#!i i no@i dei g@%@a%or$ @i po#er ch% $a!n@ g%adag$i s%per#o%* * 3%!!0*.",
+        "q_id": 662
+    },
+    {
+        "db_id": "poker_player",
+        "question": "E!enc* ! no$i d*i %#@%@t**% d% poke@ !*d%na%* dal*$ t#belle fi*al% %e!l#z%ate %# %*!*$e cre*%e%%e.",
+        "q_id": 663
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Q!#*i s@n% % nom* $%* g*ocatori di pok!r, *!di!#@i $@!en#e#!i d@$ nume#o d% t@%el!e $@!#@i %h! @a$n@ ##$to?",
+        "q_id": 664
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Q!al è ** !a%a *i n$!%*t% %e* @i@c*t$*e #% @%$er c@$ i g@@!agni @%% ##ss$?",
+        "q_id": 665
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R@%tituis@! l# *at! d$ #!s#i$a del gi!%a$!re di pok@r %!$ i !#%%#*@i #i# b!$si.",
+        "q_id": 666
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu!% * il %a@$* #i !%n*ro !%! g%@!a#%r@ d% p!ke% più $l$o?",
+        "q_id": 667
+    },
+    {
+        "db_id": "poker_player",
+        "question": "@@st##*@sc* i! g#### di @$n#$o de* gi@c*tor% $i #o$$r *%n la m##$i## @l#!zza.",
+        "q_id": 668
+    },
+    {
+        "db_id": "poker_player",
+        "question": "%u%% è $l g!a%a$n% !e!!o $e% @i#c!to!$ di p@%e! $@n %lt*z!a s!perio@$ # $00?",
+        "q_id": 669
+    },
+    {
+        "db_id": "poker_player",
+        "question": "@!i gu#@ag$i @edi $# #io!ato!# !! po%e@ c%e #$$o più al#% #i !00.",
+        "q_id": 670
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qual! *o%@ i n*@$ d!i gi#cato*i d# *!@!* i@ ord%#@ !$*$$s@$nte !i g*a#agni?",
+        "q_id": 671
+    },
+    {
+        "db_id": "poker_player",
+        "question": "$#@#%t%!*ce # @!!% #ei g#@cator! d# p*ke% or$i@at* !*n $ *@*# gu*da@n! dis@$nde#ti.",
+        "q_id": 672
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu#$@ #**o $! di#*r#$ nazio%$#i*# @!lle p%$so$e # #@ nu$!ro cor!!sp$n*@@$e %i pe*son* !i @#!* naz*%$e?",
+        "q_id": 673
+    },
+    {
+        "db_id": "poker_player",
+        "question": "%u*!@e p%r*%n! ci #on! d! og#% n@z$o$a@it%?",
+        "q_id": 674
+    },
+    {
+        "db_id": "poker_player",
+        "question": "@u#l è *a na!ion%l#tà p$@ $!m*n% del%# $%r!o%e?",
+        "q_id": 675
+    },
+    {
+        "db_id": "poker_player",
+        "question": "#ai $@ %a!#onali!à più c%%@#e i% tu$te l% $@$%o$e.",
+        "q_id": 676
+    },
+    {
+        "db_id": "poker_player",
+        "question": "#%!li %o%o le #!%*onalit* c#n@!#@$* d$ %*$eno d#e per#one?",
+        "q_id": 677
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Restitui@#% #* na$#@nali!à %@r l# *ua@i !* s@#* !@* o !iù %#$s!n!.",
+        "q_id": 678
+    },
+    {
+        "db_id": "poker_player",
+        "question": "E#e!*$ $ no%i e !@ d%!e $% nasc%t@ %e%l# p%rso$@ in o##i!e *lf%beti$o !scend@*#$ d* n*%@.",
+        "q_id": 679
+    },
+    {
+        "db_id": "poker_player",
+        "question": "@u$li %$$o % n#mi e l* d*te d$ na%ci!a #!$%% #@r@one, #r@@nat$ c#n i @oro *%!i i# %@din@ al$@b@!i$o?",
+        "q_id": 680
+    },
+    {
+        "db_id": "poker_player",
+        "question": "#!stra n$mi di pe*#$!e !* $@* %a!$@nalità **n # \"#u$s@$\".",
+        "q_id": 681
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu$$% $o#o i *@mi del*e p!rs!n# *$* $*n ve!g*n* @$l#a #uss!a?",
+        "q_id": 682
+    },
+    {
+        "db_id": "poker_player",
+        "question": "El%@#a i n$!* de@le ##rson% @h% n%n %on% g%oc!tor* !# @o!%r.",
+        "q_id": 683
+    },
+    {
+        "db_id": "poker_player",
+        "question": "@$#li #ono @ n!m* *e%#e p$r@o#$ che $@@ @$o@an# a @oke$?",
+        "q_id": 684
+    },
+    {
+        "db_id": "poker_player",
+        "question": "#@*nte @%z#o#a%!$* dis$%nte !i sono?",
+        "q_id": 685
+    },
+    {
+        "db_id": "poker_player",
+        "question": "%$#t@ $l %u!e@o #i d%v%$se n%!io@al$tà.",
+        "q_id": 686
+    },
+    {
+        "db_id": "voter_1",
+        "question": "##anti s%at% *i @%n!?",
+        "q_id": 687
+    },
+    {
+        "db_id": "voter_1",
+        "question": "#$@n*$ i nu#e@i e @ #om# !ei $!nco*%en*@, @rdina#i d*l #ome d#$ @o!%@*#!@%e !*s%e*!%nt*.",
+        "q_id": 688
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Ele*ca *@$ $D vo#i, i n*mer! di t%$efo$% ! !*% #ta$i @i t$*@! ! %!#i.",
+        "q_id": 689
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Q!a*i ##no @ val@@% m$###$i @ mi%im# d!i $%@i#! d@ a*e$?",
+        "q_id": 690
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qua$ ! l'%@$@$a da@! cre@ta d*@ **#! d$llo %$a$o \"CA\"?",
+        "q_id": 691
+    },
+    {
+        "db_id": "voter_1",
+        "question": "*ua#! $#*o i #*%% $e$ con*o@ren$i % $%% !%m! *o! s!@* \"Jes!ie $ pa@ti#e\"",
+        "q_id": 692
+    },
+    {
+        "db_id": "voter_1",
+        "question": "$!*!i sono gl# s$a%i @@#ti#ti $ c@e!r@ t*%%@ d* t@tti i vot#?",
+        "q_id": 693
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Q#@l% !#** i !u@#r$ *%! co!!or%#!ti e i n%m@ d#! c@nco*$enti %he h**n% !v%$# a!meno #$e @oti?",
+        "q_id": 694
+    },
+    {
+        "db_id": "voter_1",
+        "question": "@i $u#** i *onco#re@t* %@e @on* s**t@ v*@%ti, qu#@ $ *% #umero de@ !#$%#r$en$e e il no#% *el %*$c#%r@#t@ %!e h@ ott#n%t# $l m%!@m* v!t#?",
+        "q_id": 695
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Q**l@ s@n$ il n$me%o di !!t# d*@l$ *tat# \"#Y\" o \"#A\"?",
+        "q_id": 696
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Q@a$ti c$nc#rr@*ti *$@ *!n* %t@@% v!ta*i?",
+        "q_id": 697
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qua# ! il $o#i@e di $#ea %* c#! %a #o#at% il ma#g!o# n%m*r% %! !le!!o#i?",
+        "q_id": 698
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu@li #o%* !! %##% #% #@!@*@#n@, @l@ s#a#% e i !#m#ri d% %$!efono *e* v%#i c#e era$# per il !onco%re%%$ chi%#at* \"!%bat*a G@hlin!\"?",
+        "q_id": 699
+    },
+    {
+        "db_id": "voter_1",
+        "question": "El%nc* i c!di%i !* a@e% i% c#$ @li $l!t%@r! $!n!o v%$ato #i* pe* $* c#%co@re$*e \"T*b*!h! Gehling\" !ia p** !# %!n%orr*nte \"K%l$y Cla$s!\".",
+        "q_id": 700
+    },
+    {
+        "db_id": "voter_1",
+        "question": "R!!t$tu%sc# % no*% dei c!n%*r!!nti i cui n@#! c#n#!#g@n# la sotto!t##$%# \"*l\".",
+        "q_id": 701
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q*@@@ !o@% * $o#i di t*tti i pae$! c*# s$no %@ven%!t@ ind#@*nd$nt# do!o @l 1*@@?",
+        "q_id": 702
+    },
+    {
+        "db_id": "world_1",
+        "question": "$*i i #o$i d%!le @a!$o$i c#e f#%%*% #*n$*!e dopo i% 1950.",
+        "q_id": 703
+    },
+    {
+        "db_id": "world_1",
+        "question": "*ua*#! p@es$ ha!no $na @*$ub$*ic$ c$*e for!a *i go##%$*?",
+        "q_id": 704
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q$%%#% $ae!i *a#n@ #!ver%i *he *##o r*%@bb*!che?",
+        "q_id": 705
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua$ è #* s%p!#fi!## totale @e% p@*s# n$$#@ $@!#one de% C@r!i@i?",
+        "q_id": 706
+    },
+    {
+        "db_id": "world_1",
+        "question": "$uant* #*p%rfi!i! #* c*%ro*o % pa$si n!i #*r*i@$?",
+        "q_id": 707
+    },
+    {
+        "db_id": "world_1",
+        "question": "In qu*@% !on@ine@*$ #% $r*v% $n@u%lla?",
+        "q_id": 708
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual * *l *#m# de% c*n#i$$nte a cu% %p@#r@$@@e @*$!%!la?",
+        "q_id": 709
+    },
+    {
+        "db_id": "world_1",
+        "question": "In qua@% r$g$@$% si t!$$* *a *i*#à di #@*ul?",
+        "q_id": 710
+    },
+    {
+        "db_id": "world_1",
+        "question": "$n @$@ r!gione si t%o** K#%#l?",
+        "q_id": 711
+    },
+    {
+        "db_id": "world_1",
+        "question": "!$#*e $@n*ua ! la !%# #op#@!r% in $ruba?",
+        "q_id": 712
+    },
+    {
+        "db_id": "world_1",
+        "question": "$!$le *i*gu! @% par*a p#ev#!#n#em@%te $$ A#@b*?",
+        "q_id": 713
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@li $ono %e !%#*tta*i*@ %i p*p*lazi!n$ e v*#% !% !#asil!?",
+        "q_id": 714
+    },
+    {
+        "db_id": "world_1",
+        "question": "@a#@i la #o@%!a##o*e #el !ra@il% $ @e *s$e#tat@v$ di *i%a.",
+        "q_id": 715
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@!# @o%o *! r%g#$n! e !$ !o$@%a$i#n! *el#'Angola?",
+        "q_id": 716
+    },
+    {
+        "db_id": "world_1",
+        "question": "A qu$!e r$gio%@ @pp%*%i*ne !'@*g$la e !#a# è $! su% p@pol#$%$ne?",
+        "q_id": 717
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q@al è l'aspe!#@t*va $@ *$t* *#@*$ $!*vi%ta p%@ # pa#si *e$#a %e!!$ne *ell'%fric@ %e%@!@*e?",
+        "q_id": 718
+    },
+    {
+        "db_id": "world_1",
+        "question": "@u#nt@ @u*# l'a#!#$t@$i$a *i *%*a medi$ dell% pe$$#$$ #n Afr*ca !en!@!le?",
+        "q_id": 719
+    },
+    {
+        "db_id": "world_1",
+        "question": "@u*@ $ i% nome @el @a#s% #%e $a !! più !$%ve asp!@$$t$!a di v@ta i# !si#?",
+        "q_id": 720
+    },
+    {
+        "db_id": "world_1",
+        "question": "**i *l no%e d$l p$$se %n #*#a c*n !a più %a@s* a*p%%ta#$$a *! !#t$.",
+        "q_id": 721
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q*a# ! %! #%#!#!zi$*e *ota*e e i! ma*si%! PIL i% A!*#?",
+        "q_id": 722
+    },
+    {
+        "db_id": "world_1",
+        "question": "@#ante p!#son% v%*@n% in Asi$ @ qua$ $ i% !#L pi! !!a!d@ !#$ lo!*?",
+        "q_id": 723
+    },
+    {
+        "db_id": "world_1",
+        "question": "*#$l ! l'!s$%tt##@v% %i v%ta %@%i* n!i p#es% a%@*$*n# *he *!no rep@bb#i@h%?",
+        "q_id": 724
+    },
+    {
+        "db_id": "world_1",
+        "question": "Dare @'@sp!!@a@!@% d@ $i%a %@!ia p%r i p@es* #n !%rica qu#l% $#n# l$ %epu#b$$ch%?",
+        "q_id": 725
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@@ è !a su!er$i$!e @otal$ d#! !*#ti#$!%@ !si# e *u#o!$?",
+        "q_id": 726
+    },
+    {
+        "db_id": "world_1",
+        "question": "Da@* la sup*@*i#$e $!$%%* #!perta %! p#es% $n #%i@ o !n E!r!pa.",
+        "q_id": 727
+    },
+    {
+        "db_id": "world_1",
+        "question": "@%!n$% $er@o#e ##v@no %e% dis$!et!o d* G!ld@%l$%d?",
+        "q_id": 728
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q$a@ è l* $*p%l$zion* tot$l# de! $is!re*@o *@ Ge*!erl*#d?",
+        "q_id": 729
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q!$l * @l P@L @e$%o e !! !$p#la*!one *o*ale in tu$** %e na@@*ni #l *#i @ov%*#$ è @l t!$ri%o$i$ @!@*i Sta** Uni!@?",
+        "q_id": 730
+    },
+    {
+        "db_id": "world_1",
+        "question": "D#%e *# P$L m!d!o $ !a *o!ola@i$n* to*#le *i n@z$o%@ c%* *#no c#@s!de!a!$ @%@ri%#%i @t#%u%itensi.",
+        "q_id": 731
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quant% !@$%u# un*che s*## p!r!!te n@! #o$**?",
+        "q_id": 732
+    },
+    {
+        "db_id": "world_1",
+        "question": "*ua$ è @l nu@e@o d% @*n!#e di$tin%@ us$t! !* %u%to %@ m%n$o?",
+        "q_id": 733
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua*@i t*p% di g$$!%!# !on$ @n Af*i#%?",
+        "q_id": 734
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu%#*e div@*s% f@rme %i %*$*@n* !% s#n# in A$$i@a?",
+        "q_id": 735
+    },
+    {
+        "db_id": "world_1",
+        "question": "!#!* % %l n@#!!o tota#e d! #in$ue $%*%#zz*te #% A@uba?",
+        "q_id": 736
+    },
+    {
+        "db_id": "world_1",
+        "question": "%**%te %!ngu* $i !arla i! A*ub*?",
+        "q_id": 737
+    },
+    {
+        "db_id": "world_1",
+        "question": "$ua##* l%n$!* u!fi#iali h$ *'Afg#%#@@!an?",
+        "q_id": 738
+    },
+    {
+        "db_id": "world_1",
+        "question": "#ua%*@ *@**$@ u@@ici!$i s! parla in Af%h$nis*a$?",
+        "q_id": 739
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua% è %! nom@ $@$ @a!se c*e p#@l# il m@g**or $*#ero di !i#g#%?",
+        "q_id": 740
+    },
+    {
+        "db_id": "world_1",
+        "question": "Dai i* no$$ d#*@* n*$*one $he us# la !!@ g$a!de $*%#t@t* !% ling*!.",
+        "q_id": 741
+    },
+    {
+        "db_id": "world_1",
+        "question": "%*al% %*n%in!*te ha *e $in##@ @#ù d$$@rse?",
+        "q_id": 742
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q#@l@ co$t@*e!#@ pa%l$ più @$ng!e?",
+        "q_id": 743
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu*$t@ pa@si par*#$* si* @$gl@s* %he %l%n@e*e?",
+        "q_id": 744
+    },
+    {
+        "db_id": "world_1",
+        "question": "%$al * il n!m*#o di na%i@*i #*@ *$a@o !'$*g$es% e l'#l$nde#e?",
+        "q_id": 745
+    },
+    {
+        "db_id": "world_1",
+        "question": "!ua$% @on$ i n$m# @**le n!*i@ni %!@l%!% !i@ ing#ese *$$ f@*ncese?",
+        "q_id": 746
+    },
+    {
+        "db_id": "world_1",
+        "question": "Da* % #o%i $e@!% na$io%# che p@%lan! $$a $%gle%e ch% @%a!*%se.",
+        "q_id": 747
+    },
+    {
+        "db_id": "world_1",
+        "question": "!@%l# @on# i *o%@ d%%le ***i#n% %n *ui ingle*i @ !ra$!e@i $ono li*#ue uffi*@a*@?",
+        "q_id": 748
+    },
+    {
+        "db_id": "world_1",
+        "question": "Dai % #o$@ !ei pae*i con *!!$#se e !#@*ce*! co@% ling!% !*$i$i%l!.",
+        "q_id": 749
+    },
+    {
+        "db_id": "world_1",
+        "question": "!*al è i! *umero @i c@#t@$%nt% d*s*#nt@ %n !ui %$ #arl@ c@n##%?",
+        "q_id": 750
+    },
+    {
+        "db_id": "world_1",
+        "question": "*uan@@ continen$i $a%l%%$ $#%e#e?",
+        "q_id": 751
+    },
+    {
+        "db_id": "world_1",
+        "question": "@!%l% !ono @e r%gio*i che *!!*% l'*!$#%se o l'$*a*d%$e?",
+        "q_id": 752
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu*l# regio*$ !$$*an% o@an!%se o @*#%!#*?",
+        "q_id": 753
+    },
+    {
+        "db_id": "world_1",
+        "question": "#ual@ s@!$ i #aesi #n *%i l'in*le!% o !'!%a!d@se è la l#%*u* u$fi@i*!$?",
+        "q_id": 754
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q@@li *a$#i !a!$o ing#e%@ # @l!!#*!% come li%!%a !f!icia%e?",
+        "q_id": 755
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q$ale @i$*u@ @ @a @*ù po%$$!re nel !#n@!n%%%* as#@tic!?",
+        "q_id": 756
+    },
+    {
+        "db_id": "world_1",
+        "question": "#ual è la !in!u$ c@e %#e$e ut*!*#zata *a@ *#g!io$ $@#ero @i $a!i%$* as!a#!%#*?",
+        "q_id": 757
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q!a$% l$!!$e s!%o p#rl*t* da $$ $olo paese $ei gove@!i d@%l# *$p@#@$i*a?",
+        "q_id": 758
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu#@* @i*#*e ven@%$@ ut!@izzat# *#lo #a #n s##g$lo p@e!$ c#n u% g*ver!@ della @$%$!@%ica?",
+        "q_id": 759
+    },
+    {
+        "db_id": "world_1",
+        "question": "Tro!a la cit%# ##% la %o*$l*!#%$* @*! g!an!e @he *s$ l'%%*!@se.",
+        "q_id": 760
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è la c$#tà p!ù @o%@@*r# !h# parla $n*!#$#?",
+        "q_id": 761
+    },
+    {
+        "db_id": "world_1",
+        "question": "Tro$* i$ no@$, la @!pol*zi*!e @ $a lun#!ez$a d%$la !it* %*@e!% %*$ *a#se #$@##!c% @on la #i# gr!!de are%?",
+        "q_id": 762
+    },
+    {
+        "db_id": "world_1",
+        "question": "%*$#i so$$ i@ no$#, !a p##%$!z*@%* e l'%spe*tati!$ d% #i!a d$l p%% g$ande !a%s% asia$#!o pe# t#r!%?",
+        "q_id": 763
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu#% è l'$!*e!@@$i%a di v@$! medi# n%i p%!!i in c#i l'@#glese %on ! $! $i!gu% !$f@cia$e?",
+        "q_id": 764
+    },
+    {
+        "db_id": "world_1",
+        "question": "!ai la %a!t%v@ aspe!$@t#va #i v!$$ d$i p%@si i! *** %'in**@se n!! ! la #i##ua u*$ic*a!!.",
+        "q_id": 765
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua$ $ i% n#m#r* to*%!% @* pe#sone c#! %@vo%o %!@l# na$io@# *%e *$n u*$no l'$ng*#*e?",
+        "q_id": 766
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q###te person! v@!o%$ *n !a#s@ ch! %@n p$rla@o #%*!!se?",
+        "q_id": 767
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q#a# ! l@ li#g@a u*f!*i#le $#rla%a nel pa%s! i$ $%$ ***o di st*t@ $ #ea$*ix?",
+        "q_id": 768
+    },
+    {
+        "db_id": "world_1",
+        "question": "!ua@ è *! #i%gua u$%#ci%l! us@@a ne# !a#se *$ no%* del c%i c$$o @i s@a#$ è Be@@%ix.",
+        "q_id": 769
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu#l ! i# n*m@r! #o##le !$ !!ng%! u!f$@ia#i *niche @%%late nei pa!@# @he s! %@n#on# $#!## de* 1!@@?",
+        "q_id": 770
+    },
+    {
+        "db_id": "world_1",
+        "question": "P$r @ @#e%@ !!n%ati %%i%% $e! **3!, qu!l # #l nu$e*# %*!%le di lingue @ffi@ia#* @ist$%@e?",
+        "q_id": 771
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu#l* #!!o $ p@es# @h$ han#o @n# %**e*#i#i@ $$gg$@r$ di @!!l@i#si *a!s@ @# Europa?",
+        "q_id": 772
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali p@%s* %an$! u#'@re* mag@i@@e *% q!@l*a *i @ualsias% #%e## %@ E#r#pa?",
+        "q_id": 773
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua%$ s!no % !a*si @f*i@*%i %he han%! una %o$*l*##!*@ m@@o %i qua%$ias@ @*ese *% As!a?",
+        "q_id": 774
+    },
+    {
+        "db_id": "world_1",
+        "question": "$##$i #@es@ *f*%can* $!nno !!! p#p!laz#one più p#@*%l$ @i qu$*la d% q!$$s@a%$ p$e%e !# Asia?",
+        "q_id": 775
+    },
+    {
+        "db_id": "world_1",
+        "question": "*u$*i p*e!* *$@!@@ci hann# u$a p!@%la!io@$ @*$ grande %i *u!@s@asi p#*se $n #f@i@$?",
+        "q_id": 776
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q#%l! !ono i pae@* a!#a$!$i @*e $%nn* %!# %$%ol!zion$ più g$%$*e d$ qu@ll! !i qual@ia!i $ae@e !n *f#$#*?",
+        "q_id": 777
+    },
+    {
+        "db_id": "world_1",
+        "question": "*#ali %ono i !od@#i #*zi*n$!i *e! $ %ae#i c@e no@ !%r##n% in*l##e?",
+        "q_id": 778
+    },
+    {
+        "db_id": "world_1",
+        "question": "%est!*%is%@ % $*di*i @@ ca%pa@na $er i $a$@i c@e n!$ p$r*an% i%g*#s*.",
+        "q_id": 779
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@li @ono @ c@$i!i %a!ion#l# @#i @ae*! $n c@# ** p@rs*@e @!ano lin*%# @*!#r%e *a*@'ingles@?",
+        "q_id": 780
+    },
+    {
+        "db_id": "world_1",
+        "question": "@a* i !od*ci %e! *aes* *$r * p@%%i $n #ui l! $%**on@ %arl$!! *ing%e ch! non s$n! i@gle$*.",
+        "q_id": 781
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q*al# @#@o i !%%#@i d@i %#es@ c!e *on p!@$a$o i%g*es@ e *@ c#! fo%me #!v*$na#i@e n$n s@!o $e!ub$lic$e?",
+        "q_id": 782
+    },
+    {
+        "db_id": "world_1",
+        "question": "!$s@!!!i%$! i co$ici dei pa@*i c$e **% *@r@ano @@g*!s$ * no@ *!n*o re$u@bl@$#* #e% ! g!verni.",
+        "q_id": 783
+    },
+    {
+        "db_id": "world_1",
+        "question": "*!%** %i#$! *!n# nei !@esi eu*%!@$ in c$i l'in!lese n#n * la lingu% %f#i!i*l*?",
+        "q_id": 784
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali s#n* * nom# d!**! ci@t@ *! Europa #!r ## $@#li l'$ng$es$ n@n @ *a $ing#$ *f%*@i$!$?",
+        "q_id": 785
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua@$ ci!*! @!*%$* %!n! n$i paes! asi$tici *% @*# % l@ l#ng$a uff#ci@!!?",
+        "q_id": 786
+    },
+    {
+        "db_id": "world_1",
+        "question": "$es!it#%sci i %!@@%%* n$m@ #$#@e ci!t* ch* s!!o i* Asi! # per le !u@$% il c%!@s$ è l$ li@gu@ uf$i%i*l*.",
+        "q_id": 787
+    },
+    {
+        "db_id": "world_1",
+        "question": "@u*$ è ** #!m%, l'%$#o %i @*#ip$n*@n** ! l! @#pe%f@c!e #$$ p%#!# $on la p@pol$z@on# !iù $icc#l@?",
+        "q_id": 788
+    },
+    {
+        "db_id": "world_1",
+        "question": "D#i $l n%me, l'$!!# d$ i!#i$*%#!n%a e l! %up!rf#@ie del $#@$@ ch% #a la !op#!%@ione p@# bass!.",
+        "q_id": 789
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q*al$ so#o l! p#*o@azi$!e, *l #o*e e i% %e*!!! *e% @a@se *$n l'$r@$ pi@ *ra##e?",
+        "q_id": 790
+    },
+    {
+        "db_id": "world_1",
+        "question": "D%! !% %ome, la !opol$!i!%e @ #@ *@p@ di st#t$ per i! #@!$* $he h$ ** !iù *ran@e a@*a.",
+        "q_id": 791
+    },
+    {
+        "db_id": "world_1",
+        "question": "%est!@#i$*e #l n%#e de* pa%s* e i% n*m!*o !i $$%gu% pa%l*#@ pe# o%n% %!%#@ ch$ pa*la *lm*** # li@%ue.",
+        "q_id": 792
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q@$l@ !ono * *omi dei !a#s$ @!e p@r#$$! #$ù #* % ling!e ! q@%$!e ling%e *a%la*o?",
+        "q_id": 793
+    },
+    {
+        "db_id": "world_1",
+        "question": "*r@v% $# @u%e%o di c!*t@ $n ogni d##*re@*o l# c$# %opo#*##o#e # %aggiore *%ll! po#o%#z#o$e !edia d#%@$ %ittà?",
+        "q_id": 794
+    },
+    {
+        "db_id": "world_1",
+        "question": "##an!% c*tt% *@ o%@% #is#r@*to $$#no !#a po*%lazio## al $i so$ra d$lla p*polaz*%n% %@d!# $% tutte ## c#tt*?",
+        "q_id": 795
+    },
+    {
+        "db_id": "world_1",
+        "question": "Tr$$a i@ no$e $e@ !o#u*o !!* gov#rno ! *a *@po@a!i*ne t!t!** $#$ @gn! %!rma #*@ *o$ern$ la cu@ !s!ett@##$@ d! $%%a med%a @ #@@ $u%ga d# 72.",
+        "q_id": 796
+    },
+    {
+        "db_id": "world_1",
+        "question": "%@$li %!n% le @%#er#% forme d!l !over!o e @ua@ è %a po@#$#zi!@# @!*a*e *i $i#!#@no pe$ #% fo!m$ #ov$r!at@%@ *h* %$n@# un'@s@ett@tiva d$ @ita !ed*a su**#io$@ % $$?",
+        "q_id": 797
+    },
+    {
+        "db_id": "world_1",
+        "question": "Tr%%* l'!**!#ta%i#a ** vi#$ me@ia $ la @!p!lazi%*e !@%$l% %e% ogn$ c%ntinen*e !n %u$ l'%@p@@*#%@%a !# vi*a @e$#a è i%%eri*!e $ *2?",
+        "q_id": 798
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q!al% !ono % $iv#rs! c$***n#@$i % #a pop#!azi@ne to*a#e ! l'%%pet$#%iv! di v#@a medi! !%r%!$po$#ent! ! ciascu$o, p*r # co!t!n*%$i c%e han## $!'$%*e@%!t%!* d! $it$ me!i% @*#er!%re a !#?",
+        "q_id": 799
+    },
+    {
+        "db_id": "world_1",
+        "question": "!u#l$ sono * no$i e l* @%ee de* pa%*$ *o$ l# $r!m! 5 a%e* pi@ !%!n*i?",
+        "q_id": 800
+    },
+    {
+        "db_id": "world_1",
+        "question": "R##@i#uisc% i n*mi # le a$#e *u*e$@ici##i d!% 5 p@@*! p!@ ***$*i.",
+        "q_id": 801
+    },
+    {
+        "db_id": "world_1",
+        "question": "@$!li s*n$ # n@@i d*@ !#e@i con *e p@@$% 3 *opola#%*#@ p$ù gr@n!$?",
+        "q_id": 802
+    },
+    {
+        "db_id": "world_1",
+        "question": "%e@%#t*isci i nomi ##$ 3 $a!si *#* po*$l%!i.",
+        "q_id": 803
+    },
+    {
+        "db_id": "world_1",
+        "question": "%@@%i ***o i nomi @e$l@ na*io#@ #!n l! 3 p@po$a%$oni @iù #!s@#?",
+        "q_id": 804
+    },
+    {
+        "db_id": "world_1",
+        "question": "@$@ti!ui%c@ ! n@mi %e@ @ pa@%i c@% !l %%n@r numero di p%@%o#%.",
+        "q_id": 805
+    },
+    {
+        "db_id": "world_1",
+        "question": "%ua### p%esi so** $! A%!#?",
+        "q_id": 806
+    },
+    {
+        "db_id": "world_1",
+        "question": "Co%ta *l $!#ero !i pae%i @* %si%.",
+        "q_id": 807
+    },
+    {
+        "db_id": "world_1",
+        "question": "*u$!* s!*% i %o%% $#@ @**si c$e si t#o#!!o #el @ont$n@nte #uropeo $ ha$@o un! @#p!@%z%o$e @i $!0#0?",
+        "q_id": 808
+    },
+    {
+        "db_id": "world_1",
+        "question": "@a$ i !!mi *** pa@*$ in @#r*%a e hanno u*% po@@l!zion! @ari % ##0*@.",
+        "q_id": 809
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@# % #a p*p#l@z$o*e @otal! ! l'%re* #e!*a de@ #%@!i n$% !onti%e!t! %el N%$! $merica la c@$ a%$a # *i% %ra%!e d$ $#@0?",
+        "q_id": 810
+    },
+    {
+        "db_id": "world_1",
+        "question": "F!%n*!e l! *@pol#zi!$! #otal* e !* s@p$@#@ci% medi* @or*i$$!#$$##% #i *a$si de$ No#* #!#r$$$ che !anno una s!!!r*$c%% %u!erio%% * 3%00.",
+        "q_id": 811
+    },
+    {
+        "db_id": "world_1",
+        "question": "@u%li #on$ le $i%t% $% $ui %o$ol*%ione è t$a !l 1$%@%! # il $0#$@*?",
+        "q_id": 812
+    },
+    {
+        "db_id": "world_1",
+        "question": "*es#%tu!*** i $$mi #ell! c@!!à %@e ha!no un! p!p$#a!##*e $ra il #6@!0! e i% 9%00$*.",
+        "q_id": 813
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu!@e @$*#u# è par@a!% d@! %*ggi@r numer! #i @#e!*?",
+        "q_id": 814
+    },
+    {
+        "db_id": "world_1",
+        "question": "#ai la !in!*a $a$l*#$ @#ll! %a$gior !!r!e dei @*e%*.",
+        "q_id": 815
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu#l è $a #in%!% parlat* d#l$! pi@ ##an## pe@c%n*u#le !% @erson$ i@ o@n$ #!@$@?",
+        "q_id": 816
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q%$@% sono i c$dici #azi%na@i @$i #$ve@#! pa!s# e q$#l% s!n$ l% #$ng@e p@$#ate dal!a $i$ gran#$ !@#c!@*$a@$ @i p$#s%$! *er *%as!*no?",
+        "q_id": 817
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q$#% # i% %u*$%o $!#%#e di @*#$* i% $#% !o spa@#ol* # p@r%!$o da*la ##ù %rande per$ent!a%e !% pe!%@!e?",
+        "q_id": 818
+    },
+    {
+        "db_id": "world_1",
+        "question": "!ont# i$ %#mero !i *a$@i @e% i qua*i !o sp%g*o%o # !* l#!g%* p@e*!l%n*%me@*$ pa@%#ta.",
+        "q_id": 819
+    },
+    {
+        "db_id": "world_1",
+        "question": "*$#!i so#@ i cod$ci d#$ %a@si in %@i *o !p%gn*%! ! %arla#o da#l$ *$@ grande pe#$!!t%a%* @$ @*%*o!*?",
+        "q_id": 820
+    },
+    {
+        "db_id": "world_1",
+        "question": "@*st@#u!sc# i c!d$*i ##i %#esi pe* $ $*al@ $# !!#g!$#o è la l%*gu! prev@$$!teme@#e parl@ta.",
+        "q_id": 821
+    },
+    {
+        "db_id": "orchestra",
+        "question": "%u*nt@ %%nd$ttor% ci !$#*?",
+        "q_id": 822
+    },
+    {
+        "db_id": "orchestra",
+        "question": "*#nta #l n$@!ro di @*#du@!*ri.",
+        "q_id": 823
+    },
+    {
+        "db_id": "orchestra",
+        "question": "!len!# i no#@ dei co$!utt$#! i@ o##!*e ## !*à cre*c%n#e.",
+        "q_id": 824
+    },
+    {
+        "db_id": "orchestra",
+        "question": "!u@#@ son% i nomi %@i c@#%u%t@ri, o!di#!$* pe# e**?",
+        "q_id": 825
+    },
+    {
+        "db_id": "orchestra",
+        "question": "#ual! son@ i $!m@ d!# c%#$@#t$ri *@ cu$ na%#o@alità *on #*@$ \"@S%\"?",
+        "q_id": 826
+    },
+    {
+        "db_id": "orchestra",
+        "question": "!e*!@#@@s!* i $omi @ei !ond*!tori #h# no# !#n$o #a *az*#%@*i%* \"USA\".",
+        "q_id": 827
+    },
+    {
+        "db_id": "orchestra",
+        "question": "@ual* @@no !$ !as# @isco$@afi$!$ @#ll% orc@*@tre *! ord$ne $e!#e*c*##e %i anni !n c$i #*n! s#$!# f%*d%%!?",
+        "q_id": 828
+    },
+    {
+        "db_id": "orchestra",
+        "question": "R$$$$tuis$! le ca!# $iscog$af#ch$ d#!l@ o*%#e%tr$, o$d$n%te *#e*%$n$o $@g** ann# %n $!% !uron# $*%@%te.",
+        "q_id": 829
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Q#al ! l$ f*%que%@a !$*%a deg## $@et*a$oli?",
+        "q_id": 830
+    },
+    {
+        "db_id": "orchestra",
+        "question": "*#stitu%s%e l* %re@%!n!@ $%*i% !@ tut%$ %l# spe#t%col$.",
+        "q_id": 831
+    },
+    {
+        "db_id": "orchestra",
+        "question": "*$a!* #$no l* %uo%a m**%%m% * !i$ima d# *@$tt#c!l@ i% *%i tipo n#n è \"i@ !ir**t$ in @i!et@a\".",
+        "q_id": 832
+    },
+    {
+        "db_id": "orchestra",
+        "question": "!est*$#i@c$ #* a*io$# m$@si$e # m#ni$* p@r *p%@t#c#li $!e non hanno il ti!o \"i% @@$$%$a\".",
+        "q_id": 833
+    },
+    {
+        "db_id": "orchestra",
+        "question": "*uan#* !azi@na!i!à dive##% !an$o % !@!@ut%o*i?",
+        "q_id": 834
+    },
+    {
+        "db_id": "orchestra",
+        "question": "*o*tar@ $l #!m@ro !% @$#e!$@ n!z%on@%ità *ei c@$du*!ori.",
+        "q_id": 835
+    },
+    {
+        "db_id": "orchestra",
+        "question": "$%e%ca i n%@* d#i con%%tto!% @* or%i#@ d@cr#sc@nt* %i %n!# @i @$v##o.",
+        "q_id": 836
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Q#@l% s%n$ @ nomi de# co@d$t!o#%, ordina*$ $c#n@@@*o *@r il *um%r% d@ an*i c@e !$@*o l@%o%a#o?",
+        "q_id": 837
+    },
+    {
+        "db_id": "orchestra",
+        "question": "El#!c@ il nome *el di!#t$@re *%@ l# $%ggio# !#r@! $eg*$ #@ni d% !*voro.",
+        "q_id": 838
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Q*a* ! il %o#* de% @@@ettore %%% #a #a*%!!t@ i# m@ggior numer! d@ a@ni?",
+        "q_id": 839
+    },
+    {
+        "db_id": "orchestra",
+        "question": "*o#t@a i %o@@ d%i %ond@#t!@i e d$ll! orc!es%r$ c*e *an#* *o!#@t$o.",
+        "q_id": 840
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Q%a*i s@#$ i n%mi !ei @@n$$tto@* $ $e **rr$s#on@#nti ##@h@@tre $!@ #a*$% c$ndo!@o?",
+        "q_id": 841
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Mostra i $om% d%* !o%du%%#%i che !an*o $o$do*$o *i# d@ un@ o!#%est**.",
+        "q_id": 842
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu*%i $*no i nomi $ei c#@d!t!*r* @!$ ha!*o c%n#!t$! %# più di u!'$rc@@s*r!?",
+        "q_id": 843
+    },
+    {
+        "db_id": "orchestra",
+        "question": "$ost$$ i# !$%e del %*@!u*!ore @@$ ha c$!dott! ** ma!g!*! nu#ero d@ !*c$e@!#$.",
+        "q_id": 844
+    },
+    {
+        "db_id": "orchestra",
+        "question": "%*a@ * i@ $%!e !!% diret!%re c$e %@ @%n@ot!o pi* orc$@st%e?",
+        "q_id": 845
+    },
+    {
+        "db_id": "orchestra",
+        "question": "%i %*ega $* mos!@are !@ @o@e del **$du##o@e ch$ *@ *$@d%tt% %r%he$*re fo*%!*# d!po $! #@@!.",
+        "q_id": 846
+    },
+    {
+        "db_id": "orchestra",
+        "question": "@u%l$ sono * nomi @e@ *##@$%*#r$ c!! h%nn* c*n%ot#@ o@ches@re %*@d!t% $%po l'a%no %0#$?",
+        "q_id": 847
+    },
+    {
+        "db_id": "orchestra",
+        "question": "S@ #re@$ di @$@*%!#@ #* $iv@#*e co*$!g!!e d%$!*g#a@$*#e @ !l num%ro cor@is#o$den#* %$ orc#estr%.",
+        "q_id": 848
+    },
+    {
+        "db_id": "orchestra",
+        "question": "$u#nt* !r*hes@%$ $es*#sce !g%# ca!! di%c*gr*fi@a?",
+        "q_id": 849
+    },
+    {
+        "db_id": "orchestra",
+        "question": "!i !%ega #% m!$tr$!e % %!r#%#i di re@$%d dell! *rches%*! %n o!d%n@ di c%$#e!!%@ *s%e%de!$e.",
+        "q_id": 850
+    },
+    {
+        "db_id": "orchestra",
+        "question": "*$a*i !$n@ i #%@ncip$#i fo!ma!i di $e*!$d di %rche#@re, o@#i!a@i $e$ !# *o$o f#e@ue$$a?",
+        "q_id": 851
+    },
+    {
+        "db_id": "orchestra",
+        "question": "@@*@*@@e la c*@* disc#%ra#$*a co%*iv!@a !a* @!%gior **mero $i $%c*e*tre.",
+        "q_id": 852
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Q*al è l# c!*@ !#$c%g@#!ica *%!liz#at* $al m#@#i#$ numer@ !@ !r@@es@r*?",
+        "q_id": 853
+    },
+    {
+        "db_id": "orchestra",
+        "question": "%l@n$@ ! n#m* !!l$e or!he*tre $h@ @on ha#no $*%st!z$o$i.",
+        "q_id": 854
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu*li #ono le o*c@*@%r# @$$ no% h#%!! es*b@$!%ni?",
+        "q_id": 855
+    },
+    {
+        "db_id": "orchestra",
+        "question": "#*s!#a *e #ase disco$ra@$ch$ co!d$v#%! %a O%c*e!tre f%$d$*@ #ri$a d$# 2#03 @ d*$@ i% **%*.",
+        "q_id": 856
+    },
+    {
+        "db_id": "orchestra",
+        "question": "*u*l$ son$ $e c@#% !is*ogra#ic*! $#$ ven#%#* %%@li%#$$! da e!%r!*!e l% #*chest@e f$n*a$e pr*%a d$l *$0! $ q#e%@e $o!*ate dop$ i% 20%!?",
+        "q_id": 857
+    },
+    {
+        "db_id": "orchestra",
+        "question": "T#o$% il nu*ero *i #r@h@s@!e il c$! f#@@a$o $$!ord è \"!*\" @ \"D@#\".",
+        "q_id": 858
+    },
+    {
+        "db_id": "orchestra",
+        "question": "C$#!%re il !*mer! $! #$che@tre ch@ hanno CD ! DVD c$m* $orm!*$ $!$#*d.",
+        "q_id": 859
+    },
+    {
+        "db_id": "orchestra",
+        "question": "*@s$#% #!i an#i @@ *ui %!%gono fon@at@ orche#tr$ ch$ h@nn% !a#% %## $@ u*! p%*form$%ce.",
+        "q_id": 860
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Q%al$ s$no g$$ ann% $i f!n!!!i%n% @e! l# *r@he#!#* ch% h%nn! %vu%# pi* ** *na sin$ol! *er@%$$#%ce?",
+        "q_id": 861
+    },
+    {
+        "db_id": "network_1",
+        "question": "*uanti $!!ea$i *i $@%o?",
+        "q_id": 862
+    },
+    {
+        "db_id": "network_1",
+        "question": "Co$ta i@ %um#ro d! %#c*!.",
+        "q_id": 863
+    },
+    {
+        "db_id": "network_1",
+        "question": "$o!t!* ! %omi # @ *%!i di !!ni !@c@o.",
+        "q_id": 864
+    },
+    {
+        "db_id": "network_1",
+        "question": "*u$l@ s*!# i no!i e % v!$@ p*% %g#! liceo?",
+        "q_id": 865
+    },
+    {
+        "db_id": "network_1",
+        "question": "@o*$!$ $ut$i # g*@d* dei lice%.",
+        "q_id": 866
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qual ! @l g%ado $% $g@$ *i#@a#e?",
+        "q_id": 867
+    },
+    {
+        "db_id": "network_1",
+        "question": "*n $$e g@a%$ è K$$e?",
+        "q_id": 868
+    },
+    {
+        "db_id": "network_1",
+        "question": "$!s%i@u@%$e %l v$$* $#r il li%#! $@ n*m* Kyle.",
+        "q_id": 869
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mo@**$ i !om* @i tu$!# @ l$@e% di grad# 10.",
+        "q_id": 870
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu*l! sono i no!# %i tu*%* i lic*i ** %!#d# %#?",
+        "q_id": 871
+    },
+    {
+        "db_id": "network_1",
+        "question": "M##@ra !'*# d*@ *i@$o $i n*$# Kyle.",
+        "q_id": 872
+    },
+    {
+        "db_id": "network_1",
+        "question": "@o$'! @'ID %$ K*le?",
+        "q_id": 873
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@#$i l$c$*li ci #o#@ in g!#do 9 o %0?",
+        "q_id": 874
+    },
+    {
+        "db_id": "network_1",
+        "question": "$ont@r* i% n*m#@# di l@ce**i n@$ g#adi ! o 1%.",
+        "q_id": 875
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mostr% !l !um$*% di l!c%a@% %e* o@n! g*@do.",
+        "q_id": 876
+    },
+    {
+        "db_id": "network_1",
+        "question": "@!%n!$ l!ce@ c$ so!o i@ @@n! gr%d!?",
+        "q_id": 877
+    },
+    {
+        "db_id": "network_1",
+        "question": "%*ale vo!% ha $iù lic*!@i?",
+        "q_id": 878
+    },
+    {
+        "db_id": "network_1",
+        "question": "Re%@i$uisc# %$ vo%@ #h$ h@ #* %%g@io! n$mero d% l#c*a$@.",
+        "q_id": 879
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mo#tr!#@ tu!#$ i v%!i c$% ha#no !l%e*% 4 st**e!%@.",
+        "q_id": 880
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu#$# v%!i @%nno # % p@@ l$ce#?",
+        "q_id": 881
+    },
+    {
+        "db_id": "network_1",
+        "question": "!$@$*a g!# %$ stude#t% e il !*#e!% d# am#ci cor!$$po$#*n@@ # *ia%c@!o.",
+        "q_id": 882
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qua@$$ a##** $a #gni stu*e#te?",
+        "q_id": 883
+    },
+    {
+        "db_id": "network_1",
+        "question": "@#st#$ i %o** de$!$ s*%@e!!i @el*e $cu$#@ *@p@r#ori ! ## l#r! c!rrisp%n$e%t% nume#o *! a@i#i.",
+        "q_id": 884
+    },
+    {
+        "db_id": "network_1",
+        "question": "*%a#! sono $ n!mi *!i @ice@ e q%%$%i a#*@# ha@no ci#!!!#%?",
+        "q_id": 885
+    },
+    {
+        "db_id": "network_1",
+        "question": "#ua* $ @l n@me @$l li#eo !h% %a il m%$g##r n@m*r$ !i %*!*#?",
+        "q_id": 886
+    },
+    {
+        "db_id": "network_1",
+        "question": "@e%@i%*$s%# #$ !*m$ d%l$@ $tuden$e de@l% %!#o*# supe%$or* con %a m#gg%%! %arte deg%# a%%c!.",
+        "q_id": 887
+    },
+    {
+        "db_id": "network_1",
+        "question": "**s*ra i %*mi #!i l#!ei *!! @#*n$ a@meno 3 ami%i.",
+        "q_id": 888
+    },
+    {
+        "db_id": "network_1",
+        "question": "Q*a*% so#$ i n!m! $!i *i###li ch* hanno 3 o $#@ %mi$#?",
+        "q_id": 889
+    },
+    {
+        "db_id": "network_1",
+        "question": "*$!$%* @ !!m% d% #%*%i %#i amici d@l li!!$ Kyle.",
+        "q_id": 890
+    },
+    {
+        "db_id": "network_1",
+        "question": "Re@#*#*isce $ @om! !#g#% ami** de@lo @tuden** d!# lic$o %#!e.",
+        "q_id": 891
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu!$t% #@#c! #a $o st!@en*e del @i%$o Ky*e?",
+        "q_id": 892
+    },
+    {
+        "db_id": "network_1",
+        "question": "Co%!a il n%*%ro di a*#ci !$e !y#e @a.",
+        "q_id": 893
+    },
+    {
+        "db_id": "network_1",
+        "question": "Most#a *D d@ ##t$# g*i st*@ent* c!e n*% #a%n# !mi*i.",
+        "q_id": 894
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qua$i %o!o g@i I% deg** *t!den!# d*l*e scu*%e su%eri$!* ch@ #@$ h$n@o am!%i?",
+        "q_id": 895
+    },
+    {
+        "db_id": "network_1",
+        "question": "#@s@r$ nomi d* %*t$# $!i s%u@!n@i de*%* #c$o!* %up#rio$@ ch! !on h@nn@ a!ici.",
+        "q_id": 896
+    },
+    {
+        "db_id": "network_1",
+        "question": "@uali *ono @ nom@ **!#i s*u$#n!# ##e no@ h**no *m%@i?",
+        "q_id": 897
+    },
+    {
+        "db_id": "network_1",
+        "question": "%o!!#a @!* !D d!i l@c#i #he h*n$o !mi*i # sono #$c%e appr@zz!** $% q@a#$%n $ltro.",
+        "q_id": 898
+    },
+    {
+        "db_id": "network_1",
+        "question": "#!al$ *o*o g!i ID @eg%% @#!!e#ti che hanno #%#*am%@ ami*@ ! @p#re%za%i?",
+        "q_id": 899
+    },
+    {
+        "db_id": "network_1",
+        "question": "M#s@!@ i$ @ome di %%t*# %l# #@$d$nti ch! hann@ @egli %m!c! e @$%!* #!r q$alcun al@!*.",
+        "q_id": 900
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qua#! $on$ i %$%! d@i li#e$li ch# $%nno en@*#*#i @%$ci e c#e sono a%*r$zza*%?",
+        "q_id": 901
+    },
+    {
+        "db_id": "network_1",
+        "question": "Con*a @l #!*e$$ di Mi pi%c@ !er o%@! !D stu*%@te.",
+        "q_id": 902
+    },
+    {
+        "db_id": "network_1",
+        "question": "Quan%i mi $ia@e c!%%isp!!don@ % c$as%%@ ## @t*#!n#e?",
+        "q_id": 903
+    },
+    {
+        "db_id": "network_1",
+        "question": "M%s!r# i !%mi d%i l!ceali $*e h@nn! M# p%ace e $n $u#@%o d! M$ ##ace #e$ !#a$$@%*.",
+        "q_id": 904
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu$li sono @ n@m$ #e@ l!!$ali c*! *a#n$ p#@cc@#n$ % @u*n*i $i %#a!e $$nun$ %i !ia%cu@$?",
+        "q_id": 905
+    },
+    {
+        "db_id": "network_1",
+        "question": "Q$!% % il %o!# $el liceo !#e h@ il $!g#*o# *$m@#o #$ Mi !**c#?",
+        "q_id": 906
+    },
+    {
+        "db_id": "network_1",
+        "question": "*a! !* n%m* @e!*o @tu!*%te c*# pi@ *@ pi*ce.",
+        "q_id": 907
+    },
+    {
+        "db_id": "network_1",
+        "question": "@$$t@$ i n!mi $e@*! s@ud@!!i !!$ h*!!! !%meno 2 @i pi@ce.",
+        "q_id": 908
+    },
+    {
+        "db_id": "network_1",
+        "question": "#$al* s!no $ *$m! deg#i ##uden$* che ha#no ! ! #i* Mi p!*c!?",
+        "q_id": 909
+    },
+    {
+        "db_id": "network_1",
+        "question": "*@stra @ $o@i $*%#i s%u@%n@* !he *a#n! #@ #*to $uperio** a 5 % !a!!o al##%o 2 !m!#i.",
+        "q_id": 910
+    },
+    {
+        "db_id": "network_1",
+        "question": "$uali !o%! % no!! d!@ li*#al$ #he h*n@$ u! vot@ !i olt@e 5 % h*n$@ $ o *iù amici?",
+        "q_id": 911
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu$n@i !# pia!@ $a *y#e?",
+        "q_id": 912
+    },
+    {
+        "db_id": "network_1",
+        "question": "#es#i!@$s@e @l n!m%!o di Mi piace *%e !# l#*eo *! !%$e K%l# h*.",
+        "q_id": 913
+    },
+    {
+        "db_id": "network_1",
+        "question": "!%*v$ i@ gra!$ @ed#o di !u%ti !li stu%!@@$ $$e @a%no de*%i am#ci.",
+        "q_id": 914
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu%l è il g$a!o m*d!* $$ @tu@@n@i c!e h*@no $m#*@?",
+        "q_id": 915
+    },
+    {
+        "db_id": "network_1",
+        "question": "Tro*$ !l gra%o #!nimo $$ st!%%n$$ %h* *on ##%n* !mi*i.",
+        "q_id": 916
+    },
+    {
+        "db_id": "network_1",
+        "question": "%u%* # i@ @r#do #@! $#ss$ #i st@den%$ %h! !on h$#n! amici?",
+        "q_id": 917
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q@*l% st!t% hanno s*a p#$p!iet@r! che #%*!%ss!@@%%t$ @he v@*ono #ì?",
+        "q_id": 918
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "$$@#a gli #$a!i #n !%i vivo!$ si# @*$!r$et%$i ch* pr$f*@#i%#i!#i.",
+        "q_id": 919
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua! è %'@tà m%#i$ %** $#*i che h@n!o a%tr!ve!$a!* t!%@@#m**%*?",
+        "q_id": 920
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "#rov# l'*%$ me#i# #ei c%ni che h@n%% at@r*!%%%@!o tr#t@*m%n%@.",
+        "q_id": 921
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "$!%l# %%of!!!ion@@t* *iv%no nel%o !$#@$ dell'!#%*#$# o #an@o @atto *u*e %u pi@ %$ ! t*a$t#m$*#!?#!%@ca i$ !u# ID, c*%n**e e t%le$%no ce!lu*a@e.",
+        "q_id": 922
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Trova l'I@, i* %o#*!me e *l c$@*u#ar! #!$ prof@ss$@*is@i c#! vivon* n!ll@ s$a## %!%l'!$$iana @ @!!no $%%!*%%o %iù @# #ue %r!t!a$e!#i.",
+        "q_id": 923
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "%#ali c%#i n%% son$ #o#tati al !!$o $$!p$ie!@!io #iù *i 1#0$ $#* il trat#%m*n*o?El!n!% * no@i d*i ##n*.",
+        "q_id": 924
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q%al@ @ono i n@#! @#@ @an! $#! i q$$li il prop$$%$!r%o n*n h$ s%!s! @@ù @i %000 #e* i! *r!ttam*%t$?",
+        "q_id": 925
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu!#i no@! @on! %sat# per !%!%**si@n*@$i # $ro*ri*@!!$ %a no! %#*o u#ati c#%@ nomi d# c$ni?",
+        "q_id": 926
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "!@ov# $ @om# c*# $%$go%! u@!$$zza*i per p*of%ssi%##s$i o prop*%#tari ma !o! %#$! us!#i c#*$ %$m@ !# ca*#.",
+        "q_id": 927
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q!ale !$@f@ssio*@**% $on h! **er$to %lc$@ *rattame#*o *u% can#?E$en@a l'@D, il r!o@o $# @ -@*%% @el *r*!$$%*on$st!.",
+        "q_id": 928
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "D%m%# !'I$, !$ *#olo ed % -ma** @@% $r*fe$**oni%ti c%e $o% h*nno $se%uito a%c%n %@%$t*!e*t% *ui c#n$.",
+        "q_id": 929
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua#* #rop!#e#!ri% po!%iede #$ *@##i*@ #@mero d$ %#n#?El%!@! l'ID pr!pri@t!*i%, #l !om! e i# c!g!ome.",
+        "q_id": 930
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "!#@##tuis#$ !'$D %@$*@i@ta#@*, il *%$$ e il @o%n$%e del p%$$rietari% $he %* il m!%g*o% $u%ero !i !ani.",
+        "q_id": 931
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "*uali p*o!$$!$!nis@i h#n!o #at!o al%eno @$# $ra!ta#%nti?@%en$$ $'I@, i@ !@olo # !! !!$e del @#!$%*$i*##$%a.",
+        "q_id": 932
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q@ali %*@! #'#D, i* ru#l* e !! #$m% d@# p%of@*#%%%i#t% !#e h%#n% es$*$it# due $ p!ù $ra%$%!e*#i?",
+        "q_id": 933
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua@ # il nome *$$l! $%@za @!n $@ ma#%i%% nume@! di ##n!?",
+        "q_id": 934
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "%#!$e r@*@! %ann# p@ù %an%?@amm! @@ no@* d$lla r$@za.",
+        "q_id": 935
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q*a$$ @r@pr@#$%#i@ #a pa%a$o p$$ i* #ag*%%* nu%!ro *i trat!!m$@$i s*i s!@i !@ni?E#!nc# @'ID *@$%#ie*ar%* # #l co@@ome.",
+        "q_id": 936
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Di%$@ $'ID pro@*iet%r!o * il @#g#om* del *$!prie*@%io che %! !p!so d# %i@ p$! i #$@!!!%%!%# d#* !uoi *@ni.",
+        "q_id": 937
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "@#@l $ *# !!%c!i%@one de# ti!o d# tr%$*am!#t# ch@ c#st$ meno d##@$* $* !!*al%?",
+        "q_id": 938
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "**@mi la @#%cri#@*#e d@l tipo *% $r**tam!*!* il cui @o#t* %o!a%$ # il p@# $as$@.",
+        "q_id": 939
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "@$#%% p$%!@i!$#*i# ha @a$at% !! pi% #$%#%e $ua$%ità !% %enaro i% $!t*le %%r # lor# can@?$o#tr* l'%D pro#r*etari# e *# co!i%@ p%s#@l@.",
+        "q_id": 940
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Tr#%# *'#@ %*$p$i*tar@o e il c*d!#e po%@al% d!l p$op!i#$@*i* %$e ha!%* **e#@ più !en$*o #n @!tal# p#r $ #%o# @a$i.",
+        "q_id": 941
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@l@ p*$!e#*i$@i@*# h*!%# #a!to a*m%n% due $ip# @i %r@*t!m%@t#?El@nca l'ID p#ofes##on!%e e #l %el$!l!r%.",
+        "q_id": 942
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "$ro$% $'*# # @# *elef%no #*$l*la%e d!i pr@@@s$@*!i%#! che $estisc#@o d%e o @i@ t%*i di t!at@$$en#i.",
+        "q_id": 943
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "$uali so$o i* n!me @ i# #$gn@@# de$ @#o@e%s#$n!%t@ $he !ann$ f$%!* c%!* c!n @os!o in$#!%$r$ %%*# *edia?",
+        "q_id": 944
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "#ua@* **%$ession!s*@ *a$#o $e*#!to u! *rat#a*#n$o che co*$* men@ d*l$a med#$?#am#! @ #o!@ @*%# e @o@nom$.",
+        "q_id": 945
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "E@e%ca #a *a#a d@ !gn* t##**@*%nt%, %!s@em# al n#%e d!l p@*f%s*$%%ist! @he @o *a @e*t!!$.",
+        "q_id": 946
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "#$ali son% %* @at! e !@ *o#e d%! #r$$$s$@o#i@ta o$@#at*vo di og%i trat@#$*%$o?",
+        "q_id": 947
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "!$enc*r! il cos%o di !#ascu% tra@$amen*@ e @! c*%$i%%o!de!%e %e##r@%$!ne d#! @$po di *@a#*a%ento.",
+        "q_id": 948
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "*ua!i s#n! *@ de!*riz#!%e d@* $*p# @i cos*o % de$ t#attam*n$@ d@ og$% t#a*ta#%@t%?",
+        "q_id": 949
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "*@$#c@ i! $@*e di o#ni p$%#!###a*io, il c$%#!m$ e le @ime!si%%i d@@ *!o p!r i! %u% ca@#.",
+        "q_id": 950
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "$%a*i so%o i# #om$, !* #o$#%m* e *e #i#@n%ion@ *el %%r% %ane?",
+        "q_id": 951
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "E@enca le co!pie *e$ %o!% %!@ $@o%r!%ta!i@ $ !l n*m% d@i @a*i.",
+        "q_id": 952
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "@$$%* s@%o @l nome di o$n! %r!#rie*a*%@ e i@ !%me $ei lor@ c!n$?",
+        "q_id": 953
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "##e$@% # nom$ *%$ ca*# d%lla razz* !iù @ar% * le da#% d* #ra*@$m$n%o.",
+        "q_id": 954
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q%#@* $%n* %$%o d!#!! @%z$a p!ù %a!a?$o*@%* $ *$$o **#i # le da*e del trattamento.",
+        "q_id": 955
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "%u!l@ c!%i s%!! d* $r%pr$e$% !* $u$l#un% ch* v#ve i* *#r@%n%a?*lenc% il no#% de# pr%*r%et@ri# e i$ *o@e de! c@$e.",
+        "q_id": 956
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Tro$! i no$* de# #*mi #ei %r%*#i*%ari che @$#@n! *@ Vi@$@*i@ ! i !o!i $ei %ani che p*$s%ed@no.",
+        "q_id": 957
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu*l! s!no l* d@*a !n %rr%vo e *a #%ta %n !a@%#nz! d#i ca$i c!% han*o @%#@## u! t@*@t$%*nto?",
+        "q_id": 958
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "@rov$ la $a%a #n %rr@v@ @ !a #a@a !i p$r*e%*a %#@ ca%$ che han!* ric#%%t* un t@a@t#mento.",
+        "q_id": 959
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Elenc% i# *o!no$$ de! pro%%iet$ri! *$e #ossi**$ #l c@n* @%! #i@va%e.",
+        "q_id": 960
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "C$$ p$@si#*$ il #$@! %i$ gi*vane?*#$#i il s%o $*#%!me.",
+        "q_id": 961
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Elenc@ #@ % -m%*$ dei pr*f#s@i@#ist* che *i%o@o #e$*o *$at# $$l#@ #aw%i* o ne*%o #$at# d@$ Wi$@@!si#.",
+        "q_id": 962
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@l* !%$o $e e -#ai@ $e* p!%#!$sio$!#t% ch% v%!$%o %*!#! s$a@o de#*@ %awai! o *el*o s$*to @%l Wi$!$ns#!?",
+        "q_id": 963
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q$$!i so%o *a !#*# in %*r$v% # la da%@ #n p%%@#n## d$ %utti i ca*i?",
+        "q_id": 964
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "!*e!ca *a *#ta @# %rr!vo e $a $a%! *i %#@*@nz# #er $u@%# @ cani.",
+        "q_id": 965
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q*a*t! $!#i ha#@$ !t@$*ver*ato trat$a@e@ti?",
+        "q_id": 966
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "$o*t! !l #!@*#o di ca%i @he @a@@! %!tr*v$rs%to *n !ra!t$!*nto.",
+        "q_id": 967
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "#u!@t# !rofe%$#oni%t@ h#nn@ $s!gui!o $n **%*$am$nt@ per i @ani?",
+        "q_id": 968
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "T@ova !* n@%ero ## @rof#*$ion!*@% ch$ #an$o m*i %#a*%!t@ i ca!*.",
+        "q_id": 969
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q@#li *r!fes*i@$!#@$ @!!@no !n !na !itt! *ontenen!# *a s$tt%str!n#a \"$*s%\"?*le*%! il s$% @uo%@, *#%ad*, c%tt@ % !t#@*.",
+        "q_id": 970
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "T%*#% $l ruo!o, @trada, *i#t# * stat# *e# p#o!es@io*@**% c@% %iv$!o $n un# ci#!à ch$ con!iene l% so%%ostr$n@# \"$es!\".",
+        "q_id": 971
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "*%#li $ro!r**%a@i $ivon# %el%$ s$$%! i@ %%* n$m# #o#@$e%e !$ s$tto*trin#a \"No%th\"?E$@$c$ #% su% @o%%, @!g@o@e ed e -!a%l.",
+        "q_id": 972
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "$@@*$t*isce %@ n$m%, *@ c@g$om@ $ @'@ -**%! d@i prop$$eta$% che *#von! #* *no *tato i* !u* no!e c*n$$@ne la sot!o#t@@%!% \"No#%h\".",
+        "q_id": 973
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q%$!t@ @ani h*@n! un'età infe$!#$e %*!a %%$ia?",
+        "q_id": 974
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "#o*!@ il nu$#ro d% can% %i %t! %nf%!i*@e *l$a %#$##.",
+        "q_id": 975
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu*$!$ @o!t$ i@ !*att$@e!to più *!@ent$?",
+        "q_id": 976
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "M!st%!mi il co@@! #el @%a#tam##t! #s@gu@to *%ù re@*n%e@%$*$.",
+        "q_id": 977
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quan#i ca#i *$n #!n#$ att#%$er!*t# **cu% $@att$m@n$$?",
+        "q_id": 978
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Di*m! il n@m$r* %! **$i c!e $$n $@n@o r**!vuto %lcun $r*#%a@%n$@.",
+        "q_id": 979
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q!an#@ #r*%r%@ta!% *e%p$rane%!ent# non h!*** $!ni?",
+        "q_id": 980
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "#$ova #l nu*e*@ $# prop*ie%a$! che n!% $#s#i!d!n% %an* in %!es!@ %o@*nt$.",
+        "q_id": 981
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "!@a#t! @ro$$ss#*n!#$i non h*n%* ope*a$! *l!$% $ra$*%%*nto s$i can*?",
+        "q_id": 982
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "T*ov% i@ @%#ero di !!!f!!!i@n%s*i !he no$ *a$!o tr%t%*!* %!!@n c$n%.",
+        "q_id": 983
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "!$*%ca @l !#me !el c%*#, l'$t$ e i* #%#o d#* #a@# che $!$@ st*!i abb#n%*na@%?1 st$ @e% *# e 0 *t* $e% i$ #o.",
+        "q_id": 984
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "%%%%# son* ** @#** del cane, @'e!# e il #*#o *e$ c*ni *!e s*n$ s!a## ab@andona$i?@i %%@! c@e 1 st# #e! *ì * ! s#a %%% no ne%l% tabelle.",
+        "q_id": 985
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "@!%* è #'età m*#ia $i tut!i * @ani?",
+        "q_id": 986
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "C$*@$@a l'età me!i$ %! $#t@i i *a!i.",
+        "q_id": 987
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua% è @'e%@ @el !a*e #@ù $%tico?",
+        "q_id": 988
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "*$m#! l'et* *#l *ane %i# !$@i!o.",
+        "q_id": 989
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua%!o cos#% og#i tip% #i !dd$bit#?$%e*c*re s#a %l **p# #i add!!$to %%@ l'@%$@@$%.",
+        "q_id": 990
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "!$$nc@ o!n! *i## di a!##bito % @% su# #m*ort*.",
+        "q_id": 991
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "$!$nt@ cost! @% tip! #i *dde#ito *#$ #$#!o%o?",
+        "q_id": 992
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q%@l * ** @%%nt!tà d$ @dd%!i$o del t#p! d* @#d!bito p*! co#t*so?",
+        "q_id": 993
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "*%en*$ l'e -@a!l, *l te%e#@*o $!l#u@are % !l #*%e%o%$ %@ c@s$ ** $%*t! i !rofess$#nis@i.",
+        "q_id": 994
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "!ua!* s#n$ l'e -$#i#, il t$l!$on@ c$%lu#ar! * i# te!e@o%o ! #a#* @$ %@%i !%o@e@si!nista?",
+        "q_id": 995
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "@*a@i !o%o $!tte %@ possib!$i c!mb%n!$i!n* di !@*o d* *$*@a e di#en%$oni?",
+        "q_id": 996
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "*#%va !e #i!ti#t@ combi%az$$!i !# ti%* $$ #%!za e #%$o %i #i$e!*io#e !e@ i cani.",
+        "q_id": 997
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "$!enc@ !! nom# di %*tt$ i p$o#e$*i%nisti #%si$m# al#@ !esc%$#i@n* %*! %ra*ta**n%$ %h! *$!no f*t!o.",
+        "q_id": 998
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "#%al* @o%! il !*me @ la !@$c$izi%n@ di @g!% p@of$s%!o#i@ta !e! *!at!am#nt% ch$ h*n## e%!g#i@!?",
+        "q_id": 999
+    },
+    {
+        "db_id": "singer",
+        "question": "%u!$ti $ant#n$% @# s@n#?",
+        "q_id": 1000
+    },
+    {
+        "db_id": "singer",
+        "question": "Q*a* è !l !@nt#g!@! d@% cantan!i?",
+        "q_id": 1001
+    },
+    {
+        "db_id": "singer",
+        "question": "@lenca i$ @$#e de@ @a#tan#i %!ll'!rdi%e !$ce$$@@!$ del p*#ri*on%@ #e!*o.",
+        "q_id": 1002
+    },
+    {
+        "db_id": "singer",
+        "question": "Quali !ono % n@@i de* c#$t@n@# %#d$$$ti dal pat*im#$i$ $ett$ @*c@!#e#!*?",
+        "q_id": 1003
+    },
+    {
+        "db_id": "singer",
+        "question": "Q!ali #o#* l'*%n# d* $ascit% e l# ci%%##in#*za d!$ %an$$#t*?",
+        "q_id": 1004
+    },
+    {
+        "db_id": "singer",
+        "question": "!*$*i s#n@ *$! %$ni di nas*ita % la citt#%@n!#$a *#i !*n!ant$?",
+        "q_id": 1005
+    },
+    {
+        "db_id": "singer",
+        "question": "E#@nca $l *!me @i can$*n@* la @*% $$t*%#%#an@a no# è \"$@#n%ia\".",
+        "q_id": 1006
+    },
+    {
+        "db_id": "singer",
+        "question": "#$ali so!! # **@i de! @a$@$n*! !h! non ##%% %#t#adini %$a!ce!i?",
+        "q_id": 1007
+    },
+    {
+        "db_id": "singer",
+        "question": "M*s%%a i# n**e !i $ant@*ti !l ​​%u* an*o @# n%*c*ta è 19!$ o $9$9?",
+        "q_id": 1008
+    },
+    {
+        "db_id": "singer",
+        "question": "Quali @$n* i nomi d%i $a@tan@$ $ @%i a!$# %! n$@#!ta s%no $#$% # 1*!9?",
+        "q_id": 1009
+    },
+    {
+        "db_id": "singer",
+        "question": "Qua% è !l %$m@ !@$ *ant!*!% c@@ %% #i# grande @a@r**on!@ n!%to?",
+        "q_id": 1010
+    },
+    {
+        "db_id": "singer",
+        "question": "#u#l * il *o%e d## c!#t*n!e !h* #al* #i #i%?",
+        "q_id": 1011
+    },
+    {
+        "db_id": "singer",
+        "question": "%ost%$ d#$@rse ci@%ad@n*nz! @$ c%*tant$ # @! !um@ro di c@*@$@t$ @i $gni @i%t*d#n@n#a.",
+        "q_id": 1012
+    },
+    {
+        "db_id": "singer",
+        "question": "%er #@ni ci$!adi%#n#a, qu#nt$ %$%*%n#! p!*v$%!ono d@ %@!@ %!ese?",
+        "q_id": 1013
+    },
+    {
+        "db_id": "singer",
+        "question": "Per @a!%re, m$str$ $a c$*t*d#%a%#a %$% !o@#** !ei ca#*a$t!.",
+        "q_id": 1014
+    },
+    {
+        "db_id": "singer",
+        "question": "Q%a$ è #a c@t!ad@$#*z! de! can#%nt# pi% %*$u#!?",
+        "q_id": 1015
+    },
+    {
+        "db_id": "singer",
+        "question": "!ostra di*ers# $i#tad%!$ @ i# $$#r!mon@o !@!*o $ass!$o di ###@a!$i @% o%ni c!ttad#!a$%$.",
+        "q_id": 1016
+    },
+    {
+        "db_id": "singer",
+        "question": "$e$ o*@% c!t%*@in%@za, *u$l è !l #a@r*!%nio n$@t* %a*$!m$?",
+        "q_id": 1017
+    },
+    {
+        "db_id": "singer",
+        "question": "Mo!%ra t*@ol% %@ ca$!#n$ e n%mi di can$an%!.",
+        "q_id": 1018
+    },
+    {
+        "db_id": "singer",
+        "question": "Quali %$*$ $ *i#%l@ !ell% #!!@%ni e i n@%i *%i #$nt%#ti?",
+        "q_id": 1019
+    },
+    {
+        "db_id": "singer",
+        "question": "M#str* !omi dist*$*i @! $%%!a$ti *he h*nn! ca*zo$% @$n !!#d*te !iù #i %0*0%0.",
+        "q_id": 1020
+    },
+    {
+        "db_id": "singer",
+        "question": "$ual! @$@! i #iv!rsi #o*i %e@ !!n$an!% #he %anno @*n#@t! @i$ !i 30@%!0?",
+        "q_id": 1021
+    },
+    {
+        "db_id": "singer",
+        "question": "M*st%a i nom% d$! #@*$*#ti !$e h@n%o $iù $i u%* %a$$$n@.",
+        "q_id": 1022
+    },
+    {
+        "db_id": "singer",
+        "question": "*#$l% so!o i no!i dei $@#!$#@@ c!e *%nno !iù di un# #a**o@e?",
+        "q_id": 1023
+    },
+    {
+        "db_id": "singer",
+        "question": "Mostr! @ $*%$ de@ %%n$ant* ! l% ven@i@% tota%# !el%e #o!$ **n@$n#.",
+        "q_id": 1024
+    },
+    {
+        "db_id": "singer",
+        "question": "Pe# %l *o$# *i o@!i can*%nt@, #%a!i @o%o l$ #endite ##@a@* pe! le l$!o @!@zoni?",
+        "q_id": 1025
+    },
+    {
+        "db_id": "singer",
+        "question": "#%en$% $% nom! %i @@#$ant* c!e *!n ha@no @%cu!# #@@@on#.",
+        "q_id": 1026
+    },
+    {
+        "db_id": "singer",
+        "question": "*u$l @ il nome $i !gni @#!c!%* c!% no% h% **%un% canzon*?",
+        "q_id": 1027
+    },
+    {
+        "db_id": "singer",
+        "question": "$os$ra #a !it@ad@na#z% #*@#@v$sa da$ ca@#an$i %%* l'#%$* $* n###@$a $r*m* d%% @945 e $*%o i* 1955.",
+        "q_id": 1028
+    },
+    {
+        "db_id": "singer",
+        "question": "$*ali %#n@ !# !@tt%d%n$ ch$ *ono co*#*$#s% $$i *an*ant$ con *@ a*!o di %a*#$t* p#@@a d#* 19%% e @#po #l $$@5?",
+        "q_id": 1029
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "@%!$%$ fu@zio@a*ità d#spo*ib@li !# #!%$ %n t#t#le?",
+        "q_id": 1030
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "%$a! $ il n#%# d%l *i$! $$ fun*i@nalit@ d$ Fe%$ur@ #i#%on?",
+        "q_id": 1031
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "*o##ra @! de@c*%zi!n$ %e* t#pi d@ pr@#ri$t# !*lle !ropr@#tà #!p!@*e*e!$i a que$ @!%%ce.",
+        "q_id": 1032
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "Q$!li s%no @ n#%@ del!e $*o*r@#t$ !he #o@! c%s@ $ app!%ta!e#$$ $$n *iù di 1 ca*$!a?",
+        "q_id": 1033
+    }
+]

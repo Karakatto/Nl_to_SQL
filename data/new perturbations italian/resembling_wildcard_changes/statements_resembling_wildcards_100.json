@@ -1,0 +1,5172 @@
+[
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@n7! c@n7@n7! @bb!@m0?",
+        "q_id": 0
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1 è !1 num&r0 707@1& d! c@n7@n7!?",
+        "q_id": 1
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "N0m& $p&77@c010, p@&$&, &7à p&r 7u77! ! c@n7@n7! 0rd!n@7! p&r &7à d@1 p!ù v&cch!0 @1 p!ù g!0v@n&.",
+        "q_id": 2
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1! $0n0 ! n0m!, ! p@&$! & 1& &7à p&r 0gn! c@n7@n7& !n 0rd!n& d! &7à d!$c&nd&n7&?",
+        "q_id": 3
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1 è 1'&7à m&d!@, m!n!m@ & m@$$!m@ d! 7u77! ! c@n7@n7! d@11@ Fr@nc!@?",
+        "q_id": 4
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1 è 1'&7à m&d!@, m!n!m@ & m@$$!m@ p&r 7u77! ! c@n7@n7! fr@nc&$!?",
+        "q_id": 5
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "M0$7r@ !1 n0m& & 1'@nn0 d! u$c!7@ d&11@ c@nz0n& d&1 c@n7@n7& p!ù g!0v@n&.",
+        "q_id": 6
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1! $0n0 ! n0m! & g1! @nn! d! u$c!7@ p&r 7u77& 1& c@nz0n! d&1 c@n7@n7& p!ù g!0v@n&?",
+        "q_id": 7
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1! $0n0 7u77! p@&$! d!$7!n7! d@ cu! pr0v&ng0n0 ! c@n7@n7! d! &7à $up&r!0r& @! 20 @nn!?",
+        "q_id": 8
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1! $0n0 ! d!v&r$! p@&$! c0n c@n7@n7! d! &7à $up&r!0r& @! 20 @nn!?",
+        "q_id": 9
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "M0$7r@ 7u77! ! p@&$! & !1 num&r0 d! c@n7@n7! !n 0gn! p@&$&.",
+        "q_id": 10
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@n7! c@n7@n7! $0n0 d@ 0gn! p@&$&?",
+        "q_id": 11
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "&1&nc@ 7u77! ! n0m! d&11& c@nz0n! d! c@n7@n7! @1 d! $0pr@ d&11'&7à m&d!@.",
+        "q_id": 12
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1! $0n0 7u77! ! n0m! d&11& c@nz0n! d&! c@n7@n7! p!ù v&cch! d&11@ m&d!@?",
+        "q_id": 13
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "M0$7r@ p0$!z!0n& & n0m& p&r 7u77! g1! $7@d! c0n un@ c@p@c!7à 7r@ 5000 & 10000.",
+        "q_id": 14
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1! $0n0 1& p0$!z!0n! & ! n0m! d! 7u77& 1& $7@z!0n! c0n c@p@c!7à 7r@ 5000 & 10000?",
+        "q_id": 15
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1 è 1@ m@$$!m@ c@p@c!7à & 1@ m&d!@ d! 7u77! g1! $7@d!?",
+        "q_id": 16
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1! $0n0 1& c@p@c!7à m&d!& & m@$$!m& p&r 7u77! g1! $7@d!?",
+        "q_id": 17
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1 è !1 n0m& & 1@ c@p@c!7à d&110 $7@d!0 c0n 1@ p!ù @17@ fr&qu&nz@ m&d!@?",
+        "q_id": 18
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1 è !1 n0m& & 1@ c@p@c!7à d&110 $7@d!0 c0n 1@ p!ù @17@ fr&qu&nz@ m&d!@?",
+        "q_id": 19
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@n7! c0nc&r7! c! $0n0 n&11'@nn0 2014 0 2015?",
+        "q_id": 20
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@n7! c0nc&r7! $! $0n0 v&r!f!c@7! n&1 2014 0 n&1 2015?",
+        "q_id": 21
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "M0$7r@ !1 n0m& d&110 $7@d!0 & !1 num&r0 d! c0nc&r7! !n 0gn! $7@d!0.",
+        "q_id": 22
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "P&r 0gn! $7@d!0, qu@n7! c0nc&r7! $u0n@n0 1ì?",
+        "q_id": 23
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "M0$7r@ !1 n0m& & 1@ c@p@c!7à d&110 $7@d!0 c0n 1@ m@gg!0r p@r7& d&! c0nc&r7! n&11'@nn0 2014 0 d0p0.",
+        "q_id": 24
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1 è !1 n0m& & 1@ c@p@c!7à d&110 $7@d!0 c0n !1 m@gg!0r num&r0 d! c0nc&r7! d0p0 !1 2013?",
+        "q_id": 25
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "!n ch& @nn0 h@ 1@ m@gg!0r p@r7& d&! c0nc&r7!?",
+        "q_id": 26
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1 è 1'@nn0 ch& h@ @vu70 !1 m@gg!0r num&r0 d! c0nc&r7!?",
+        "q_id": 27
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "M0$7r@ ! n0m! d&110 $7@d!0 $&nz@ @1cun c0nc&r70.",
+        "q_id": 28
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1! $0n0 ! n0m! d&g1! $7@d! $&nz@ c0nc&r7!?",
+        "q_id": 29
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "M0$7r@ p@&$! d@ cu! pr0v&ng0n0 un c@n7@n7& d! &7à $up&r!0r& @! 40 @nn! & un c@n7@n7& !nf&r!0r& @ 30.",
+        "q_id": 30
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "M0$7r@ n0m! p&r 7u77! g1! $7@d! @d &cc&z!0n& d&g1! $7@d! ch& h@nn0 un c0nc&r70 n&11'@nn0 2014.",
+        "q_id": 31
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1! $0n0 ! n0m! d! 7u77! g1! $7@d! ch& n0n h@nn0 @vu70 un c0nc&r70 n&1 2014?",
+        "q_id": 32
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "M0$7r@ !1 n0m& & !1 7&m@ p&r 7u77! ! c0nc&r7! & !1 num&r0 d! c@n7@n7! !n 0gn! c0nc&r70.",
+        "q_id": 33
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1! $0n0 ! n0m!, ! 7&m! & !1 num&r0 d! c@n7@n7! p&r 0gn! c0nc&r70?",
+        "q_id": 34
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "&1&nc@ ! n0m! d&! c@n7@n7! & !1 num&r0 d! c0nc&r7! p&r 0gn! c@n7@n7&.",
+        "q_id": 35
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1! $0n0 ! n0m! d&! c@n7@n7! & !1 num&r0 d! c0nc&r7! p&r 0gn! p&r$0n@?",
+        "q_id": 36
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "&1&nc@ 7u77! ! n0m! d&! c@n7@n7! !n c0nc&r7! n&11'@nn0 2014.",
+        "q_id": 37
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1! $0n0 ! n0m! d&! c@n7@n7! ch& $! $0n0 &$!b!7! !n un c0nc&r70 n&1 2014?",
+        "q_id": 38
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1 è !1 n0m& & 1@ n@z!0n& d&1 c@n7@n7& ch& h@nn0 un@ c@nz0n& ch& h@ \"&h!\" n&1 $u0 n0m&?",
+        "q_id": 39
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1 è !1 n0m& & !1 p@&$& d! 0r!g!n& d! 0gn! c@n7@n7& ch& h@ un@ c@nz0n& c0n 1@ p@r01@ \"h&y\" n&1 $u0 7!7010?",
+        "q_id": 40
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "7r0v@ !1 n0m& & 1@ p0$!z!0n& d&g1! $7@d! ch& $0n0 @vv&nu7! @1cun! c0nc&r7! n&g1! @nn! d&1 2014 & d&1 2015.",
+        "q_id": 41
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1! $0n0 ! n0m! & 1& p0$!z!0n! d&g1! $7@d! ch& h@nn0 @vu70 c0nc&r7! ch& $! $0n0 v&r!f!c@7! $!@ n&1 2014 ch& n&1 2015?",
+        "q_id": 42
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "7r0v@ !1 num&r0 d! c0nc&r7! ch& è @vv&nu70 n&110 $7@d!0 c0n 1@ m@$$!m@ c@p@c!7à.",
+        "q_id": 43
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu@1! $0n0 !1 num&r0 d! c0nc&r7! @vv&nu7! n&110 $7@d!0 c0n 1@ p!ù gr@nd& c@p@c!7à?",
+        "q_id": 44
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ !1 num&r0 d! @n!m@1! d0m&$7!c! !1 cu! p&$0 è p!ù p&$@n7& d! 10.",
+        "q_id": 45
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@n7! @n!m@1! d0m&$7!c! h@nn0 un p&$0 m@gg!0r& d! 10?",
+        "q_id": 46
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ !1 p&$0 d&1 c@n& p!ù g!0v@n&.",
+        "q_id": 47
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@n70 p&$@ !1 c@n& p!ù g!0v@n&?",
+        "q_id": 48
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ !1 p&$0 m@$$!m0 p&r 0gn! 7!p0 d! @n!m@1& d0m&$7!c0.&1&nc@ !1 p&$0 m@$$!m0 & !1 7!p0 d! @n!m@1& d0m&$7!c0.",
+        "q_id": 49
+    },
+    {
+        "db_id": "pets_1",
+        "question": "&1&nc@ !1 p&$0 m@$$!m0 & !1 7!p0 p&r 0gn! 7!p0 d! @n!m@1& d0m&$7!c0.",
+        "q_id": 50
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ !1 num&r0 d! @n!m@1! d0m&$7!c! d! pr0pr!&7à d! $7ud&n7! d! &7à $up&r!0r& @! 20 @nn!.",
+        "q_id": 51
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@n7! @n!m@1! d0m&$7!c! $0n0 d! pr0pr!&7à d! $7ud&n7! ch& h@nn0 un'&7à $up&r!0r& @ 20?",
+        "q_id": 52
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ !1 num&r0 d! @n!m@1! d0m&$7!c! ch& $0n0 @11&v@7! d@ $7ud&n7&$$& (c0n $&$$0 F).",
+        "q_id": 53
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@n7! @n!m@1! d0m&$7!c! $0n0 @11&v@7! d@ $7ud&n7&$$&?",
+        "q_id": 54
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ !1 num&r0 d! 7!p! d!$7!n7! d! @n!m@1! d0m&$7!c!.",
+        "q_id": 55
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@n7! d!v&r$! 7!p! d! @n!m@1! d0m&$7!c! c! $0n0?",
+        "q_id": 56
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ !1 n0m& d&g1! $7ud&n7! ch& h@nn0 un @n!m@1& d0m&$7!c0 p&r g@77! 0 c@n!.",
+        "q_id": 57
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@1! $0n0 ! pr!m! n0m! d! 0gn! $7ud&n7& ch& h@ un g@770 0 un c@n& c0m& @n!m@1& d0m&$7!c0?",
+        "q_id": 58
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ !1 n0m& d! $7ud&n7! ch& h@nn0 @n!m@1! d0m&$7!c! $!@ d! g@77! ch& d! c@n&.",
+        "q_id": 59
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@1! $0n0 ! n0m! d&g1! $7ud&n7! ch& h@nn0 $!@ g@77! ch& c@n! c0m& @n!m@1! d0m&$7!c!?",
+        "q_id": 60
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ !1 m@gg!0r& & 1'&7à d&g1! $7ud&n7! ch& n0n h@nn0 un @n!m@1& d0m&$7!c0.",
+        "q_id": 61
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@1& m@gg!0r& è 0gn! $7ud&n7& ch& n0n p0$$!&d& un g@770 c0m& @n!m@1& d0m&$7!c0, & @nch& qu@n7! @nn! h@nn0?",
+        "q_id": 62
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ 1'!D d&g1! $7ud&n7! ch& n0n h@nn0 un @n!m@1& d0m&$7!c0.",
+        "q_id": 63
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@1! $0n0 g1! !D d&g1! $7ud&n7! ch& n0n p0$$!&d0n0 ! g@77! c0m& @n!m@1! d0m&$7!c!?",
+        "q_id": 64
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ !1 n0m& & 1'&7à d&g1! $7ud&n7! ch& h@nn0 un c@n& m@ n0n h@nn0 un g@770 c0m& @n!m@1& d0m&$7!c0.",
+        "q_id": 65
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@1 è !1 n0m& d! 0gn! $7ud&n7& ch& h@ un c@n& m@ n0n h@ un g@770?",
+        "q_id": 66
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ !1 7!p0 & !1 p&$0 d&11'@n!m@1& p!ù g!0v@n&.",
+        "q_id": 67
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Ch& 7!p0 d! @n!m@1& d0m&$7!c0 è 1'@n!m@1& p!ù g!0v@n& & qu@n70 p&$@?",
+        "q_id": 68
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ 1'!D & !1 p&$0 d! 7u77! g1! @n!m@1! d0m&$7!c! 1@ cu! &7à è p!ù v&cch!@ d! 1.",
+        "q_id": 69
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@1 è 1'!D & !1 p&$0 d! 0gn! @n!m@1& d0m&$7!c0 ch& h@ p!ù d! 1?",
+        "q_id": 70
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ 1'&7à m&d!@ & m@$$!m@ p&r 0gn! 7!p0 d! @n!m@1& d0m&$7!c0.",
+        "q_id": 71
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@1 è 1'&7à m&d!@ & m@$$!m@ p&r 0gn! 7!p0 d! @n!m@1& d0m&$7!c0?",
+        "q_id": 72
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ !1 p&$0 m&d!0 p&r c!@$cun 7!p0 d! @n!m@1& d0m&$7!c0.",
+        "q_id": 73
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@1 è !1 p&$0 m&d!0 p&r 0gn! 7!p0 d! @n!m@1& d0m&$7!c0?",
+        "q_id": 74
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ !1 n0m& & 1'&7à d&g1! $7ud&n7! ch& h@nn0 un @n!m@1& d0m&$7!c0.",
+        "q_id": 75
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@1! $0n0 ! d!v&r$! n0m! & $&c01! d&g1! $7ud&n7! ch& h@nn0 @n!m@1! d0m&$7!c!?",
+        "q_id": 76
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ 1'!D d&11'@n!m@1& d! pr0pr!&7à d! $7ud&n7 !1 cu! c0gn0m& è \"$m!7h\".",
+        "q_id": 77
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@1 è 1'!D d&11'@n!m@1& d! pr0pr!&7à d&110 $7ud&n7& !1 cu! c0gn0m& è \"$m!7h\"?",
+        "q_id": 78
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ !1 num&r0 d! @n!m@1! d0m&$7!c! p&r 0gn! $7ud&n7& ch& h@ un d0cum&n70 d! !d&n7!7à c0n @n!m@1! d0m&$7!c! & $7ud&n7&.",
+        "q_id": 79
+    },
+    {
+        "db_id": "pets_1",
+        "question": "P&r g1! $7ud&n7! ch& h@nn0 @n!m@1! d0m&$7!c!, qu@n7! @n!m@1! d0m&$7!c! h@ 0gn! $7ud&n7&?&1&nc@ ! 10r0 !D !nv&c& d! n0m!.",
+        "q_id": 80
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ !1 n0m& & !1 g&n&r& d&110 $7ud&n7& ch& h@nn0 p!ù d! un @n!m@1& d0m&$7!c0.",
+        "q_id": 81
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@1 è !1 n0m& & !1 g&n&r& d! 7u77! g1! $7ud&n7! ch& h@nn0 p!ù d! un @n!m@1& d0m&$7!c0?",
+        "q_id": 82
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ !1 c0gn0m& d&110 $7ud&n7& ch& h@ un g@770 ch& h@ 3 @nn!.",
+        "q_id": 83
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@1 è !1 c0gn0m& d&110 $7ud&n7& ch& h@ un g@770 ch& h@ 3 @nn!?",
+        "q_id": 84
+    },
+    {
+        "db_id": "pets_1",
+        "question": "7r0v@ 1'&7à m&d!@ d&g1! $7ud&n7! ch& n0n h@nn0 @1cun @n!m@1& d0m&$7!c0.",
+        "q_id": 85
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu@1 è 1'&7à m&d!@ p&r 7u77! g1! $7ud&n7! ch& n0n p0$$!&d0n0 @n!m@1! d0m&$7!c!?",
+        "q_id": 86
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@n7! c0n7!n&n7! c! $0n0?",
+        "q_id": 87
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 num&r0 d! c0n7!n&n7!?",
+        "q_id": 88
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@n7! p@&$! h@ 0gn! c0n7!n&n7&?&1&nc@ 1'!D c0n7!n&n7&, !1 n0m& d&1 c0n7!n&n7& & !1 num&r0 d! p@&$!.",
+        "q_id": 89
+    },
+    {
+        "db_id": "car_1",
+        "question": "P&r 0gn! c0n7!n&n7&, &1&nc@ !1 $u0 !D, !1 n0m& & qu@n7! p@&$! h@?",
+        "q_id": 90
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@n7! p@&$! $0n0 &1&nc@7!?",
+        "q_id": 91
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@n7! p@&$! &$!$70n0?",
+        "q_id": 92
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@n7! m0d&11! pr0duc& 0gn! pr0du770r& @u70m0b!1!$7!c0?&1&nc0 N0m& c0mp1&70, !D & num&r0.",
+        "q_id": 93
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 n0m& c0mp1&70 d! 0gn! pr0du770r& d! @u70, !n$!&m& @1 $u0 !D & @ qu@n7! m0d&11! pr0duc&?",
+        "q_id": 94
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1& m0d&110 d&11'@u70 h@ 1@ p07&nz@ m!n!m@?",
+        "q_id": 95
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 m0d&110 d&11'@u70 c0n 1@ p!ù p!cc01@ qu@n7!7à d! p07&nz@?",
+        "q_id": 96
+    },
+    {
+        "db_id": "car_1",
+        "question": "7r0v@ !1 m0d&110 d&11'@u70 !1 cu! p&$0 è @1 d! $0770 d&1 p&$0 m&d!0.",
+        "q_id": 97
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 m0d&110 p&r 1'@u70 c0n un p&$0 !nf&r!0r& @11@ m&d!@?",
+        "q_id": 98
+    },
+    {
+        "db_id": "car_1",
+        "question": "7r0v@ !1 n0m& d&! pr0du770r! ch& h@nn0 pr0d0770 @1cun& @u70 n&11'@nn0 1970?",
+        "q_id": 99
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 n0m& d&! d!v&r$! pr0du770r! d! @u70m0b!1! ch& h@nn0 pr0d0770 un'@u70 n&1 1970?",
+        "q_id": 100
+    },
+    {
+        "db_id": "car_1",
+        "question": "7r0v@ !1 7&mp0 d! m@rc@ & pr0duz!0n& d&11& @u70 pr0d077& n&1 pr!m0 @nn0?",
+        "q_id": 101
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 pr0du770r& d! C@rr pr0d0770 n&1 pr!m0 @nn0 & !n ch& @nn0 è $7@70?",
+        "q_id": 102
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! m0d&11! d! @u70 d!$7!n7& $0n0 pr0d077! d0p0 !1 1980?",
+        "q_id": 103
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! $0n0 ! d!v&r$! m0d&11! p&r 1& c@r7& pr0d077& d0p0 !1 1980?",
+        "q_id": 104
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@n7! pr0du770r! d! @u70m0b!1! c! $0n0 !n 0gn! c0n7!n&n7&?&1&nc@ !1 n0m& d&1 c0n7!n&n7& & !1 c0n7&gg!0.",
+        "q_id": 105
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 n0m& d! 0gn! c0n7!n&n7& & qu@n7! pr0du770r! d! @u70m0b!1! c! $0n0 !n 0gnun0?",
+        "q_id": 106
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1& d&! p@&$! h@ 1@ m@gg!0r p@r7& d&! pr0du770r! d! @u70m0b!1!?&1&nc@ !1 n0m& d&1 p@&$&.",
+        "q_id": 107
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 n0m& d&1 p@&$& c0n 1@ m@gg!0r p@r7& d&! pr0du770r! d! @u70m0b!1!?",
+        "q_id": 108
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@n7! m0d&11! d! @u70 $0n0 pr0d077! d@ 0gn! pr0du770r&?&1&nc@ $010 !1 c0n7&gg!0 & !1 n0m& c0mp1&70 d&1 pr0du770r&.",
+        "q_id": 109
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 num&r0 d! m0d&11! d! @u70 ch& $0n0 pr0d077! d@ 0gn! pr0du770r& & qu@1 è 1'!D & !1 n0m& c0mp1&70 d! 0gn! pr0du770r&?",
+        "q_id": 110
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è 1'@cc&1&r@z!0n& d&11'@u70 M@k!ng @MC H0rn&7 $p0r7@b0u7 ($W)?",
+        "q_id": 111
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@n70 @cc&1&r@ 1'@u70 ch& r&nd& @MC H0rn&7 $p0r7@b0u7 ($W)?",
+        "q_id": 112
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@n7! pr0du770r! d! @u70m0b!1! c! $0n0 !n Fr@nc!@?",
+        "q_id": 113
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 num&r0 d! pr0du770r! d! cur& !n Fr@nc!@?",
+        "q_id": 114
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@n7! m0d&11! d! @u70 $0n0 pr0d077! n&g1! $7@7! Un!7!?",
+        "q_id": 115
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 c0n7&gg!0 d&! m0d&11! d! @u70 pr0d077! n&g1! $7@7! Un!7!?",
+        "q_id": 116
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è 1& m!g1!@ m&d!& p&r g@110n& (mpg) d&11& @u70 c0n 4 c!1!ndr!?",
+        "q_id": 117
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è 1& m!g1!@ m&d!& p&r g@110n& d! 7u77& 1& c@r7& c0n 4 c!1!ndr!?",
+        "q_id": 118
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 p&$0 p!ù p!cc010 d&11'@u70 pr0d077@ c0n 8 c!1!ndr! n&1 1974?",
+        "q_id": 119
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 p&$0 m!n!m0 d&11'@u70 c0n 8 c!1!ndr! pr0d077! n&1 1974?",
+        "q_id": 120
+    },
+    {
+        "db_id": "car_1",
+        "question": "C0$@ $0n0 7u77! ! pr0du770r! & ! m0d&11!?",
+        "q_id": 121
+    },
+    {
+        "db_id": "car_1",
+        "question": "C0$@ $0n0 ! pr0du770r! & ! m0d&11!?",
+        "q_id": 122
+    },
+    {
+        "db_id": "car_1",
+        "question": "C0$@ h@nn0 ! p@&$! ch& h@nn0 @1m&n0 un pr0du770r& d! @u70?N0m& &1&nc0 & !D.",
+        "q_id": 123
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! $0n0 ! n0m! & g1! !D d! 7u77! ! p@&$! c0n @1m&n0 un pr0du770r& @u70m0b!1!$7!c0?",
+        "q_id": 124
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 num&r0 d&11& @u70 c0n p07&nz@ p!ù d! 150?",
+        "q_id": 125
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 num&r0 d! @u70 c0n un@ p07&nz@ $up&r!0r& @ 150?",
+        "q_id": 126
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 p&$0 m&d!0 d&11& @u70 0gn! @nn0?",
+        "q_id": 127
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 p&$0 m&d!0 & 1'@nn0 p&r 0gn! @nn0?",
+        "q_id": 128
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! p@&$! !n &ur0p@ h@nn0 @1m&n0 3 c@$& @u70m0b!1!$7!ch&?",
+        "q_id": 129
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! $0n0 ! n0m! d! 7u77! ! p@&$! &ur0p&! c0n @1m&n0 3 pr0du770r!?",
+        "q_id": 130
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è 1@ p07&nz@ m@$$!m@ & 1@ m@rc@ d&! m0d&11! d! @u70 c0n 3 c!1!ndr!?",
+        "q_id": 131
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è 1@ p!ù gr@nd& qu@n7!7à d! p07&nz@ p&r ! m0d&11! c0n 3 c!1!ndr! & ch& c0$@ è?",
+        "q_id": 132
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1& m0d&110 c0n$&n7& d! r!$p@rm!@r& p!ù b&nz!n@?V@1& @ d!r&, @v&r& 1& m!g1!@ m@$$!m& p&r g@110n&.",
+        "q_id": 133
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 m0d&110 d! @u70 c0n !1 MPG p!ù @170?",
+        "q_id": 134
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è 1@ p07&nz@ m&d!@ d&11& @u70 pr!m@ d&1 1980?",
+        "q_id": 135
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è 1@ p07&nz@ m&d!@ p&r 7u77& 1& @u70 pr0d077& pr!m@ d&1 1980?",
+        "q_id": 136
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è 1'&d!$p1 m&d!0 d&11& @u70 d&1 m0d&110 V01v0?",
+        "q_id": 137
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è 1'&D!$p1 m&d!0 p&r 7u77! ! V01v0$?",
+        "q_id": 138
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è 1'@cc&1&r@z!0n& m@$$!m@ p&r !1 d!v&r$0 num&r0 d! c!1!ndr!?",
+        "q_id": 139
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è 1'@cc&1&r@z!0n& m@$$!m@ p&r 7u77! ! d!v&r$! c!1!ndr!?",
+        "q_id": 140
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1& m0d&110 h@ 1@ p!ù v&r$!0n& (m@k&) d&11& @u70?",
+        "q_id": 141
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1& m0d&110 h@ 1& v&r$!0n! p!ù d!v&r$&?",
+        "q_id": 142
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@n7& @u70 h@nn0 p!ù d! 4 c!1!ndr!?",
+        "q_id": 143
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 num&r0 d! @u70 c0n p!ù d! 4 c!1!ndr!?",
+        "q_id": 144
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@n7& @u70 $0n0 $7@7& pr0d077& n&1 1980?",
+        "q_id": 145
+    },
+    {
+        "db_id": "car_1",
+        "question": "N&1 1980, qu@n7& @u70 $0n0 $7@7& r&@1!zz@7&?",
+        "q_id": 146
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@n7! m0d&11! d! @u70 $0n0 $7@7! pr0d077! d@1 pr0du770r& c0n n0m& c0mp1&70 @m&r!c@n M070r C0mp@ny?",
+        "q_id": 147
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 num&r0 d! m0d&11! d! @u70m0b!1! cr&@7! d@11@ c0mp@gn!@ @u70m0b!1!$7!c@ @m&r!c@n@?",
+        "q_id": 148
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! pr0du770r! h@nn0 pr0g&77@70 p!ù d! 3 m0d&11! d! @u70?&1&nc@ !1 n0m& c0mp1&70 & 1'!D.",
+        "q_id": 149
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! $0n0 ! n0m! & g1! !D d! 7u77! ! pr0du770r! c0n p!ù d! 3 m0d&11!?",
+        "q_id": 150
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! m0d&11! d!$7!n7!v! $0n0 pr0d077! d@1 pr0du770r& c0n !1 n0m& c0mp1&70 d! m070r! g&n&r@1! 0 p&$@n0 p!ù d! 3500?",
+        "q_id": 151
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! $0n0 ! d!v&r$! m0d&11! cr&@7! d@! m070r! g&n&r@1! d&1 M@k&r C@r 0 p&$@v@n0 p!ù d! 3500?",
+        "q_id": 152
+    },
+    {
+        "db_id": "car_1",
+        "question": "!n qu@1! @nn! v&n!v@n0 pr0d077& 1& @u70 ch& p&$@v@n0 n0n m&n0 d! 3000 & n0n p!ù d! 4000?",
+        "q_id": 153
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! $0n0 g1! @nn! d!v&r$! !n cu! c'&r@n0 @u70 pr0d077& ch& p&$@v@n0 m&n0 d! 4000 & @nch& @u70 ch& p&$@v@n0 p!ù d! 3000?",
+        "q_id": 154
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è 1@ p07&nz@ d&11'@u70 c0n 1'@cc&1&r@z!0n& p!ù gr@nd&?",
+        "q_id": 155
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è 1@ p07&nz@ d&11'@u70 c0n !1 p!ù gr@nd& @cc&1&r@z!0n&?",
+        "q_id": 156
+    },
+    {
+        "db_id": "car_1",
+        "question": "P&r !1 m0d&110 V01v0, qu@n7! c!1!ndr! h@ 1'@u70 c0n !1 m&n0 @cc&1&r@70?",
+        "q_id": 157
+    },
+    {
+        "db_id": "car_1",
+        "question": "P&r un m0d&110 V01v0, qu@n7! c!1!ndr! h@ 1@ v&r$!0n& c0n m&n0 @cc&1&r@70?",
+        "q_id": 158
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@n7& @u70 h@nn0 un @cc&1&r@70 p!ù gr@nd& d&11'@u70 c0n 1@ p07&nz@ p!ù gr@nd&?",
+        "q_id": 159
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 num&r0 d! @u70 c0n un @cc&1&r@70 m@gg!0r& d! qu&110 c0n p!ù p07&nz@?",
+        "q_id": 160
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@n7! p@&$! h@nn0 p!ù d! 2 pr0du770r! d! @u70?",
+        "q_id": 161
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 num&r0 d! p@&$! c0n p!ù d! 2 pr0du770r! d! @u70m0b!1!?",
+        "q_id": 162
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@n7& @u70 h@nn0 017r& 6 c!1!ndr!?",
+        "q_id": 163
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 num&r0 d! @u70 c0n 017r& 6 c!1!ndr!?",
+        "q_id": 164
+    },
+    {
+        "db_id": "car_1",
+        "question": "P&r 1& @u70 c0n 4 c!1!ndr!, qu@1& m0d&110 h@ 1@ p07&nz@ p!ù gr@nd&?",
+        "q_id": 165
+    },
+    {
+        "db_id": "car_1",
+        "question": "P&r 7u77& 1& @u70 @ 4 c!1!ndr!, qu@1& m0d&110 h@ p!ù c@v@11!?",
+        "q_id": 166
+    },
+    {
+        "db_id": "car_1",
+        "question": "7r@ 1& @u70 c0n p07&nz@ p!ù ch& p!ù b@$$@, qu@1! n0n h@nn0 p!ù d! 3 c!1!ndr!?&1&nc@ 1@ m@cch!n@ p&r c@1@r& & f@! !1 n0m&.",
+        "q_id": 167
+    },
+    {
+        "db_id": "car_1",
+        "question": "7r@ 1& @u70 ch& n0n h@nn0 1@ p07&nz@ m!n!m@, qu@1! $0n0 ! d0cum&n7! d! r&nd!m&n70 & n0m! d! 7u77! qu&11! c0n m&n0 d! 4 c!1!ndr!?",
+        "q_id": 168
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è 1& m!g1!@ m@$$!m& p&r g@110n& d&11'@u70 c0n 8 c!1!ndr! 0 pr0d077& pr!m@ d&1 1980?",
+        "q_id": 169
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1 è !1 m@$$!m0 mpg d&11& @u70 c0n 8 c!1!ndr! 0 ch& $0n0 $7@7! pr0d077! pr!m@ d&1 1980?",
+        "q_id": 170
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! m0d&11! $0n0 p!ù 1&gg&r! d! 3500 m@ n0n c0$7ru!7! d@11@ \"F0rd M070r C0mp@ny\"?",
+        "q_id": 171
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! $0n0 ! d!v&r$! m0d&11! p!ù 1&gg&r! d! 3500 m@ n0n $0n0 $7@7! c0$7ru!7! d@11@ F0rd M070r C0mp@ny?",
+        "q_id": 172
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! $0n0 !1 n0m& d&! p@&$! !n cu! n0n &$!$7& un $010 pr0du770r& d! @u70?",
+        "q_id": 173
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! $0n0 ! n0m! d&! p@&$! $&nz@ pr0du770r! d! @u70m0b!1!?",
+        "q_id": 174
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! $0n0 ! pr0du770r! d! @u70 ch& pr0duc0n0 @1m&n0 2 m0d&11! & p!ù d! 3 pr0du770r! d! @u70?&1&nc@ 1'!D & !1 cr&@70r&.",
+        "q_id": 175
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! $0n0 g1! !D & ! pr0du770r! d! 7u77! ! pr0du770r! d! @u70m0b!1! ch& pr0duc0n0 @1m&n0 2 m0d&11! & pr0duc0n0 p!ù d! 3 @u70?",
+        "q_id": 176
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! $0n0 1'!D & ! n0m! d&! p@&$! ch& h@nn0 p!ù d! 3 pr0du770r! d! @u70m0b!1! 0 pr0duc0n0 !1 m0d&110 \"F!@7\"?",
+        "q_id": 177
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu@1! $0n0 g1! !D & ! n0m! d! 7u77! ! p@&$! ch& h@nn0 p!ù d! 3 pr0du770r! d! @u70 0 pr0duc0n0 un m0d&110 F!@7?",
+        "q_id": 178
+    },
+    {
+        "db_id": "flight_2",
+        "question": "@ qu@1& p@&$& @pp@r7!&n& \"J&7B1u& @!rw@y$\" d&11@ c0mp@gn!@ @&r&@?",
+        "q_id": 179
+    },
+    {
+        "db_id": "flight_2",
+        "question": "C0n qu@1& p@&$& è @ff!1!@70 J&7B1u& @!rw@y$?",
+        "q_id": 180
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1 è 1'@bbr&v!@z!0n& d&11@ c0mp@gn!@ @&r&@ \"J&7B1u& @!rw@y$\"?",
+        "q_id": 181
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1& @bbr&v!@z!0n& c0rr!$p0nd& @ J&7B1u& @!rw@y$?",
+        "q_id": 182
+    },
+    {
+        "db_id": "flight_2",
+        "question": "&1&nc@ 7u77! ! n0m! d&11& c0mp@gn!& @&r&& & 1& 10r0 @bbr&v!@z!0n! !n \"U$@\".",
+        "q_id": 183
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! $0n0 ! n0m! d&11& c0mp@gn!& @&r&& & 1& @bbr&v!@z!0n! p&r 1& c0mp@gn!& @&r&& n&g1! $7@7! Un!7!?",
+        "q_id": 184
+    },
+    {
+        "db_id": "flight_2",
+        "question": "&1&nc@ !1 c0d!c& d&11'@&r0p0r70 & !1 n0m& n&11@ c!77à d! @n7h0ny.",
+        "q_id": 185
+    },
+    {
+        "db_id": "flight_2",
+        "question": "D@! !1 c0d!c& d&11'@&r0p0r70 & !1 n0m& d&11'@&r0p0r70 c0rr!$p0nd&n7& @11@ c!77à @n7h0ny.",
+        "q_id": 186
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@n7& c0mp@gn!& @&r&& @bb!@m0?",
+        "q_id": 187
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1 è !1 num&r0 707@1& d! c0mp@gn!& @&r&&?",
+        "q_id": 188
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@n7! @&r0p0r7! @bb!@m0?",
+        "q_id": 189
+    },
+    {
+        "db_id": "flight_2",
+        "question": "R&$7!7u!$c& !1 num&r0 d! @&r0p0r7!.",
+        "q_id": 190
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@n7! v01! @bb!@m0?",
+        "q_id": 191
+    },
+    {
+        "db_id": "flight_2",
+        "question": "R&$7!7u!$c& !1 num&r0 d! v01!.",
+        "q_id": 192
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1& c0mp@gn!@ @&r&@ h@ 1'@bbr&v!@z!0n& \"u@1\"?",
+        "q_id": 193
+    },
+    {
+        "db_id": "flight_2",
+        "question": "D@! @11@ c0mp@gn!@ @&r&@ c0n @bbr&v!@z!0n& 'u@1'.",
+        "q_id": 194
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@n7& c0mp@gn!& @&r&& $0n0 d@g1! $7@7! Un!7!?",
+        "q_id": 195
+    },
+    {
+        "db_id": "flight_2",
+        "question": "R&$7!7u!$c& !1 num&r0 d! c0mp@gn!& @&r&& n&g1! $7@7! Un!7!.",
+        "q_id": 196
+    },
+    {
+        "db_id": "flight_2",
+        "question": "!n qu@1& c!77à & p@&$& è 1'@&r0p0r70 d! @170n?",
+        "q_id": 197
+    },
+    {
+        "db_id": "flight_2",
+        "question": "D@! 1@ c!77à & !1 p@&$& p&r 1'@&r0p0r70 d! @170n.",
+        "q_id": 198
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1 è !1 n0m& d&11'@&r0p0r70 p&r 1'@&r0p0r70 \"@k0\"?",
+        "q_id": 199
+    },
+    {
+        "db_id": "flight_2",
+        "question": "R&$7!7u!$c& !1 n0m& d&11'@&r0p0r70 c0n !1 c0d!c& \"@k0\".",
+        "q_id": 200
+    },
+    {
+        "db_id": "flight_2",
+        "question": "C0$@ $0n0 ! n0m! d&g1! @&r0p0r7! @ C!7y \"@b&rd&&n\"?",
+        "q_id": 201
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! $0n0 ! n0m! d&g1! @&r0p0r7! d! @b&rd&&n?",
+        "q_id": 202
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@n7! v01! p@r70n0 d@ \"@PG\"?",
+        "q_id": 203
+    },
+    {
+        "db_id": "flight_2",
+        "question": "C0n7@ !1 num&r0 d! v01! !n p@r7&nz@ d@ \"@PG\".",
+        "q_id": 204
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@n7! v01! h@nn0 D&$7!n@7!0n @70?",
+        "q_id": 205
+    },
+    {
+        "db_id": "flight_2",
+        "question": "C0n7@ !1 num&r0 d! v01! !n @70.",
+        "q_id": 206
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@n7! v01! p@r70n0 d@ C!7y @b&rd&&n?",
+        "q_id": 207
+    },
+    {
+        "db_id": "flight_2",
+        "question": "R&$7!7u!$c& !1 num&r0 d! v01! !n p@r7&nz@ d@ @b&rd&&n.",
+        "q_id": 208
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@n7! v01! !n @rr!v0 @ @b&rd&&n C!7y?",
+        "q_id": 209
+    },
+    {
+        "db_id": "flight_2",
+        "question": "R&$7!7u!$c& !1 num&r0 d! v01! !n @rr!v0 @d @b&rd&&n.",
+        "q_id": 210
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@n7! v01! p@r70n0 d@ C!7y \"@b&rd&&n\" & h@! 1@ c!77à d! d&$7!n@z!0n& \"@$h1&y\"?",
+        "q_id": 211
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@n7! v01! v01@n0 d@ @b&rd&&n @d @$h1&y?",
+        "q_id": 212
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@n7! v01! h@ \"J&7B1u& @!rw@y$\" d&11@ c0mp@gn!@ @&r&@?",
+        "q_id": 213
+    },
+    {
+        "db_id": "flight_2",
+        "question": "D@! !1 num&r0 d! v01! J&7B1u& @!rw@y$.",
+        "q_id": 214
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@n7! v01! \"Un!7&d @!r1!n&$\" v@nn0 @11'@&r0p0r70 \"@$y\"?",
+        "q_id": 215
+    },
+    {
+        "db_id": "flight_2",
+        "question": "C0n7@ !1 num&r0 d! v01! d&11@ Un!7&d @!r1!n&$ ch& @rr!v@n0 @11'@&r0p0r70 @$Y.",
+        "q_id": 216
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@n7! v01! \"Un!7&d @!r1!n&$\" p@r70n0 d@11'@&r0p0r70 \"@HD\"?",
+        "q_id": 217
+    },
+    {
+        "db_id": "flight_2",
+        "question": "R&$7!7u!$c& !1 num&r0 d! v01! d&11@ Un!7&d @!r1!n&$ !n p@r7&nz@ d@11'@&r0p0r70 @HD.",
+        "q_id": 218
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@n7! v01! d&11@ Un!7&d @!r1!n&$ v@nn0 !n c!77à \"@b&rd&&n\"?",
+        "q_id": 219
+    },
+    {
+        "db_id": "flight_2",
+        "question": "C0n7@ !1 num&r0 d! v01! d&11@ Un!7&d @!r1!n&$ ch& @rr!v@n0 @d @b&rd&&n.",
+        "q_id": 220
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1& c!77à h@ 1@ m@gg!0r p@r7& d&! v01! !n @rr!v0?",
+        "q_id": 221
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1& c!77à h@ 1'@&r0p0r70 d! d&$7!n@z!0n& p!ù fr&qu&n7&?",
+        "q_id": 222
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1& c!77à h@ 1@ m@gg!0r p@r7& d&! v01! !n p@r7&nz@?",
+        "q_id": 223
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1& c!77à è 1'@&r0p0r70 d! f0n7& p!ù fr&qu&n7&?",
+        "q_id": 224
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1 è !1 c0d!c& d&11'@&r0p0r70 ch& h@ !1 m@gg!0r num&r0 d! v01!?",
+        "q_id": 225
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1 è !1 c0d!c& d&11'@&r0p0r70 d&11'@&r0p0r70 c0n !1 m@gg!0r num&r0 d! v01!?",
+        "q_id": 226
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1 è !1 c0d!c& d&11'@&r0p0r70 ch& h@ m&n0 num&r0 d! v01!?",
+        "q_id": 227
+    },
+    {
+        "db_id": "flight_2",
+        "question": "D@! !1 c0d!c& d&11'@&r0p0r70 c0n ! m!n!m! v01!.",
+        "q_id": 228
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1& c0mp@gn!@ @&r&@ h@ 1@ m@gg!0r p@r7& d&! v01!?",
+        "q_id": 229
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1& c0mp@gn!@ @&r&@ $&rv& !1 m@gg!0r num&r0 d! v01!?",
+        "q_id": 230
+    },
+    {
+        "db_id": "flight_2",
+        "question": "7r0v@ 1'@bbr&v!@z!0n& & !1 p@&$& d&11@ c0mp@gn!@ @&r&@ ch& h@ m&n0 num&r0 d! v01!?",
+        "q_id": 231
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1 è 1'@bbr&v!@z!0n& d! @!r!1n& h@ !1 m!n0r num&r0 d! v01! & !n ch& p@&$& $! 7r0v@?",
+        "q_id": 232
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! $0n0 1& c0mp@gn!& @&r&& ch& h@nn0 un v010 !n p@r7&nz@ d@11'@&r0p0r70 \"@HD\"?",
+        "q_id": 233
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! c0mp@gn!& @&r&& h@nn0 un v010 c0n 1'@&r0p0r70 d! 0r!g!n& @HD?",
+        "q_id": 234
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! $0n0 1& c0mp@gn!& @&r&& ch& h@nn0 v01! ch& @rr!v@n0 @11'@&r0p0r70 \"@HD\"?",
+        "q_id": 235
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! c0mp@gn!& @&r&& h@nn0 un v010 c0n 1'@&r0p0r70 d! d&$7!n@z!0n& @HD?",
+        "q_id": 236
+    },
+    {
+        "db_id": "flight_2",
+        "question": "7r0v@ 7u77& 1& c0mp@gn!& @&r&& ch& h@nn0 v01! d@ &n7r@mb! g1! @&r0p0r7! \"@PG\" & \"CV0\".",
+        "q_id": 237
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! c0mp@gn!& @&r&& h@nn0 v01! !n p@r7&nz@ d@g1! @&r0p0r7! @PG & CV0?",
+        "q_id": 238
+    },
+    {
+        "db_id": "flight_2",
+        "question": "7r0v@ 7u77& 1& c0mp@gn!& @&r&& ch& h@nn0 v01! d@11'@&r0p0r70 \"CV0\" m@ n0n d@ \"@PG\".",
+        "q_id": 239
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! c0mp@gn!& @&r&& h@nn0 p@r7&nz& d@ CV0 m@ n0n d@g1! @&r0p0r7! @PG?",
+        "q_id": 240
+    },
+    {
+        "db_id": "flight_2",
+        "question": "7r0v@ 7u77& 1& c0mp@gn!& @&r&& ch& h@nn0 @1m&n0 10 v01!.",
+        "q_id": 241
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! c0mp@gn!& @&r&& h@nn0 @1m&n0 10 v01!?",
+        "q_id": 242
+    },
+    {
+        "db_id": "flight_2",
+        "question": "7r0v@ 7u77& 1& c0mp@gn!& @&r&& ch& h@nn0 m&n0 d! 200 v01!.",
+        "q_id": 243
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! c0mp@gn!& @&r&& h@nn0 m&n0 d! 200 v01!?",
+        "q_id": 244
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! $0n0 ! num&r! d! v010 d&11@ c0mp@gn!@ @&r&@ \"Un!7&d @!r1!n&$\"?",
+        "q_id": 245
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! num&r! d! v010 c0rr!$p0nd0n0 @! v01! d&11@ Un!7&d @!r1!n&$?",
+        "q_id": 246
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! $0n0 ! num&r! d! v010 d! v01! !n p@r7&nz@ d@11'@&r0p0r70 \"@PG\"?",
+        "q_id": 247
+    },
+    {
+        "db_id": "flight_2",
+        "question": "D@! !1 num&r0 d! v01! d! v01! !n p@r7&nz@ d@ @PG.",
+        "q_id": 248
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! $0n0 ! num&r! d! v010 d! v01! ch& @rr!v@n0 @11'@&r0p0r70 \"@PG\"?",
+        "q_id": 249
+    },
+    {
+        "db_id": "flight_2",
+        "question": "D@! !1 num&r0 d! v010 d! v01! ch& @77&rr@n0 @d @PG.",
+        "q_id": 250
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! $0n0 !1 num&r0 d! v01! d! v01! !n p@r7&nz@ d@11@ c!77à \"@b&rd&&n\"?",
+        "q_id": 251
+    },
+    {
+        "db_id": "flight_2",
+        "question": "D@! !1 num&r0 d! v01! d! v01! !n p@r7&nz@ d@ @b&rd&&n.",
+        "q_id": 252
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! $0n0 !1 num&r0 d! v01! d! v01! ch& @rr!v@n0 @ C!7y \"@b&rd&&n\"?",
+        "q_id": 253
+    },
+    {
+        "db_id": "flight_2",
+        "question": "D@! !1 num&r0 d! v01! d! v01! !n @rr!v0 @d @b&rd&&n.",
+        "q_id": 254
+    },
+    {
+        "db_id": "flight_2",
+        "question": "7r0v@ !1 num&r0 d! v01! ch& @77&rr@n0 n&11@ c!77à d! @b&rd&&n 0 @b!1&n&.",
+        "q_id": 255
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@n7! v01! @77&rr@n0 @d @b&rd&&n 0 @b!1&n&?",
+        "q_id": 256
+    },
+    {
+        "db_id": "flight_2",
+        "question": "7r0v@ !1 n0m& d&g1! @&r0p0r7! ch& n0n h@nn0 @1cun v010 d&n7r0 & fu0r!.",
+        "q_id": 257
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu@1! @&r0p0r7! n0n h@nn0 v01! !n p@r7&nz@ 0 !n @rr!v0?",
+        "q_id": 258
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu@n7! d!p&nd&n7! c! $0n0?",
+        "q_id": 259
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "C0n7@ !1 num&r0 d! d!p&nd&n7!",
+        "q_id": 260
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "0rd!n@ ! n0m! d&! d!p&nd&n7! p&r 1@ 10r0 &7à !n 0rd!n& cr&$c&n7&.",
+        "q_id": 261
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "&1&nc@ ! n0m! d&! d!p&nd&n7! & 0rd!n@ !n 0rd!n& cr&$c&n7& d! &7à.",
+        "q_id": 262
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu@1 è !1 num&r0 d! d!p&nd&n7! d! 0gn! c!77à?",
+        "q_id": 263
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "C0n7@ !1 num&r0 d! d!p&nd&n7! p&r 0gn! c!77à.",
+        "q_id": 264
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "D@ qu@1! c!77à pr0v&ng0n0 p!ù d! un d!p&nd&n7& d! &7à !nf&r!0r& @! 30 @nn!?",
+        "q_id": 265
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "7r0v@ 1& c!77à ch& h@nn0 p!ù d! un d!p&nd&n7& d! &7à !nf&r!0r& @! 30 @nn!.",
+        "q_id": 266
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "7r0v@ !1 num&r0 d! n&g0z! !n 0gn! p0$!z!0n&.",
+        "q_id": 267
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu@n7! n&g0z! c! $0n0 !n 0gn! p0$!z!0n&?",
+        "q_id": 268
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "7r0v@ !1 n0m& d&1 d!r&770r& & !1 d!$7r&770 d&1 n&g0z!0 !1 cu! num&r0 d! pr0d077! è !1 p!ù gr@nd&.",
+        "q_id": 269
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu@1! $0n0 !1 n0m& m@n@g&r & !1 d!$7r&770 d&1 n&g0z!0 ch& v&nd& !1 m@gg!0r num&r0 d! pr0d077!?",
+        "q_id": 270
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "7r0v@ !1 num&r0 m!n!m0 & m@$$!m0 d! pr0d077! d! 7u77! ! n&g0z!.",
+        "q_id": 271
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu@1! $0n0 !1 num&r0 m!n!m0 & m@$$!m0 d! pr0d077! !n 7u77! ! n&g0z!?",
+        "q_id": 272
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "R&$7!7u!$c& !1 n0m&, 1@ p0$!z!0n& & !1 d!$7r&770 d! 7u77! ! n&g0z! !n 0rd!n& d&cr&$c&n7& d! num&r0 d! pr0d077!.",
+        "q_id": 273
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "0rd!n@ 7u77! ! n&g0z! p&r num&r0 d! pr0d077! !n 0rd!n& d&cr&$c&n7& & r&$7!7u!$c! !1 n0m&, 1@ p0$!z!0n& & !1 d!$7r&770 d! 0gn! n&g0z!0.",
+        "q_id": 274
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "7r0v@ ! n0m! d&! n&g0z! ! cu! pr0d077! num&r!c! $0n0 p!ù d&1 num&r0 m&d!0 d! pr0d077!.",
+        "q_id": 275
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu@1! pr0d077! num&r!c! d&! n&g0z! $0n0 @1 d! $0pr@ d&11@ m&d!@?D@mm! ! n0m! d&1 n&g0z!0.",
+        "q_id": 276
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "7r0v@ !1 n0m& d&1 d!p&nd&n7& @ cu! è $7@70 @$$&gn@70 !1 m@gg!0r num&r0 d! v017& n&11@ v@1u7@z!0n&.",
+        "q_id": 277
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu@1& d!p&nd&n7& h@ r!c&vu70 !1 m@gg!0r num&r0 d! pr&m! n&11& v@1u7@z!0n!?D@mm! !1 n0m& d&1 d!p&nd&n7&.",
+        "q_id": 278
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "7r0v@ !1 n0m& d&1 d!p&nd&n7& ch& h@ 077&nu70 !1 b0nu$ un@ v017@ p!ù @170.",
+        "q_id": 279
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu@1& d!p&nd&n7& h@ r!c&vu70 !1 b0nu$ p!ù gr@nd&?D@mm! !1 n0m& d&1 d!p&nd&n7&.",
+        "q_id": 280
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "7r0v@ ! n0m! d&! d!p&nd&n7! ch& n0n h@nn0 m@! v!n70 @1cun pr&m!0 n&11@ v@1u7@z!0n&.",
+        "q_id": 281
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu@1! $0n0 ! n0m! d&! d!p&nd&n7! ch& n0n h@nn0 m@! r!c&vu70 @1cun@ v@1u7@z!0n&?",
+        "q_id": 282
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu@1 è !1 n0m& d&1 n&g0z!0 ch& $7@ @$$um&nd0 !1 m@gg!0r num&r0 d! d!p&nd&n7!?",
+        "q_id": 283
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu@1& n&g0z!0 h@ !1 m@gg!0r num&r0 d! d!p&nd&n7!?D@mm! !1 n0m& d&1 n&g0z!0.",
+        "q_id": 284
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "7r0v@ !1 n0m& d&! n&g0z! ch& n0n @$$um0n0 @1cun d!p&nd&n7&.",
+        "q_id": 285
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu@1! n&g0z! funz!0n@n0 $&nz@ d!p&nd&n7!?7r0v@ ! n0m! d&1 n&g0z!0",
+        "q_id": 286
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "7r0v@ !1 num&r0 d! d!p&nd&n7! @$$un7! !n 0gn! n&g0z!0;M0$7r@ @nch& !1 n0m& d&1 n&g0z!0.",
+        "q_id": 287
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "P&r 0gn! n&g0z!0, r&$7!7u!$c& !1 num&r0 d! d!p&nd&n7! ch& 1@v0r@n0 1ì & !1 n0m& d&1 n&g0z!0.",
+        "q_id": 288
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "C0$@ v!&n& d@70 !1 b0nu$ 707@1& !n 7u77& 1& v@1u7@z!0n!?",
+        "q_id": 289
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "7r0v@ 1@ qu@n7!7à 707@1& d! b0nu$ !nd!c@70 !n 7u77& 1& v@1u7@z!0n!.",
+        "q_id": 290
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "D@mm! 7u77& 1& !nf0rm@z!0n! $u11'@$$unz!0n&.",
+        "q_id": 291
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu@1 è 7u77& 1& !nf0rm@z!0n! $u11'@$$unz!0n&?",
+        "q_id": 292
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu@1& d!$7r&770 h@ &n7r@mb! ! n&g0z! c0n m&n0 d! 3000 pr0d077! & n&g0z! c0n 017r& 10000 pr0d077!?",
+        "q_id": 293
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "7r0v@ ! d!$7r&77! !n cu! c! $0n0 &n7r@mb! ! n&g0z! ch& v&nd0n0 m&n0 d! 3000 pr0d077! & n&g0z! ch& v&nd0n0 p!ù d! 10000 pr0d077!.",
+        "q_id": 294
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qu@n7& d!v&r$& p0$!z!0n! d&! n&g0z! c! $0n0?",
+        "q_id": 295
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "C0n7@r& !1 num&r0 d! p0$!z!0n! d!$7!n7& d&! n&g0z!.",
+        "q_id": 296
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@n7! d0cum&n7! @bb!@m0?",
+        "q_id": 297
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "C0n7@ !1 num&r0 d! d0cum&n7!.",
+        "q_id": 298
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "&1&nc@ !D d0cum&n7!, n0m! d! d0cum&n7! & d&$cr!z!0n! d! d0cum&n7! p&r 7u77! ! d0cum&n7!.",
+        "q_id": 299
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 g1! !D, ! n0m! & 1& d&$cr!z!0n! p&r 7u77! ! d0cum&n7!?",
+        "q_id": 300
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1 è !1 n0m& d&1 d0cum&n70 & 1'!D m0d&110 p&r !1 d0cum&n70 c0n d&$cr!z!0n& c0n 1@ 1&77&r@ \"W\"?",
+        "q_id": 301
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R&$7!7u!$c! ! n0m! & g1! !D m0d&110 p&r d0cum&n7! ch& c0n7&ng0n0 1@ 1&77&r@ W n&11@ 10r0 d&$cr!z!0n&.",
+        "q_id": 302
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1 è 1'!D d&1 d0cum&n70, 1'!D m0d&110 & 1@ d&$cr!z!0n& p&r !1 d0cum&n70 d&n0m!n@70 \"R0bb!n CV\"?",
+        "q_id": 303
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R&$7!7u!$c! 1'!D d0cum&n70, 1'!D m0d&110 & 1@ d&$cr!z!0n& p&r !1 d0cum&n70 c0n !1 n0m& R0bb!n CV.",
+        "q_id": 304
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@n7! m0d&11! d!v&r$! u7!1!zz@n0 7u77! ! d0cum&n7!?",
+        "q_id": 305
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "C0n7@r& !1 num&r0 d! d!v&r$! m0d&11! u7!1!zz@7! p&r ! d0cum&n7!.",
+        "q_id": 306
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@n7! d0cum&n7! u7!1!zz@n0 !1 m0d&110 c0n !1 c0d!c& d! 7!p0 \"pp7\"?",
+        "q_id": 307
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "C0n7@ !1 num&r0 d! d0cum&n7! ch& u7!1!zz@n0 !1 7!p0 d! m0d&110 PP7.",
+        "q_id": 308
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ 7u77! g1! !D m0d&110 & !1 num&r0 d! d0cum&n7! u$@nd0 c!@$cun m0d&110.",
+        "q_id": 309
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 7u77! ! d!v&r$! !D m0d&11! u7!1!zz@7! p&r ! d0cum&n7! & qu@n7& v017& $0n0 $7@7! u7!1!zz@7! c!@$cun0 d! &$$!?",
+        "q_id": 310
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1 è !1 c0d!c& !D & 7!p0 p&r !1 m0d&110 u7!1!zz@70 d@1 m@gg!0r num&r0 d! d0cum&n7!?",
+        "q_id": 311
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R&$7!7u!$c! 1'!D & !1 7!p0 d! c0d!c& d&1 m0d&110 u7!1!zz@70 p&r !1 m@gg!0r num&r0 d! d0cum&n7!.",
+        "q_id": 312
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ !D p&r 7u77! ! m0d&11! u7!1!zz@7! d@ p!ù d! un d0cum&n70.",
+        "q_id": 313
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 g1! !D m0d&110 d! qu@1$!@$! m0d&110 u7!1!zz@70 !n p!ù d! un $!ng010 d0cum&n70?",
+        "q_id": 314
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ !D p&r 7u77! ! m0d&11! n0n u7!1!zz@7! d@ n&$$un d0cum&n70.",
+        "q_id": 315
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 g1! !D p&r ! m0d&11! ch& n0n v&ng0n0 u7!1!zz@7! !n @1cun d0cum&n70?",
+        "q_id": 316
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@n7! m0d&11! @bb!@m0?",
+        "q_id": 317
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "C0n7@ !1 num&r0 d! m0d&11!.",
+        "q_id": 318
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ !D m0d&110, num&r! d! v&r$!0n& & c0d!c! d! 7!p0 m0d&110 p&r 7u77! ! m0d&11!.",
+        "q_id": 319
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 g1! !D, ! num&r! d! v&r$!0n& & ! c0d!c! d! 7!p0 p&r 0gn! m0d&110?",
+        "q_id": 320
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ 7u77! ! c0d!c! d! 7!p0 m0d&110 d!$7!n7! p&r 7u77! ! m0d&11!.",
+        "q_id": 321
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 ! d!v&r$! c0d!c! d! 7!p0 m0d&110?",
+        "q_id": 322
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 g1! !D d&! m0d&11! c0n c0d!c& 7!p0 m0d&110 PP 0 PP7?",
+        "q_id": 323
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R&$7!7u!$c! g1! !D d&! m0d&11! ch& h@nn0 !1 c0d!c& PP 0 PP7.",
+        "q_id": 324
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@n7! m0d&11! h@nn0 c0d!c& d! 7!p0 m0d&110 CV?",
+        "q_id": 325
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "C0n7@r& !1 num&r0 d! m0d&11! d&1 7!p0 CV.",
+        "q_id": 326
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1 è !1 num&r0 d! v&r$!0n& & !1 7!p0 d! 7!p0 d! m0d&110 p&r !1 m0d&110 c0n num&r0 d! v&r$!0n& p!ù 7@rd! d! 5?",
+        "q_id": 327
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R&$7!7u!$c! ! num&r! d! v&r$!0n& & ! c0d!c! d! 7!p0 m0d&110 d&! m0d&11! c0n un num&r0 d! v&r$!0n& $up&r!0r& @ 5.",
+        "q_id": 328
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ 7u77! ! c0d!c! d! 7!p0 m0d&110 & !1 num&r0 d! m0d&11! p&r c!@$cun0.",
+        "q_id": 329
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 ! d!v&r$! c0d!c! d! 7!p0 m0d&110 & qu@n7! m0d&11! c0rr!$p0nd0n0 @ c!@$cun0?",
+        "q_id": 330
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1& c0d!c& d! 7!p0 m0d&110 h@ 1@ m@gg!0r p@r7& d&! m0d&11!?",
+        "q_id": 331
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R&$7!7u!$c! !1 c0d!c& 7!p0 d&1 7!p0 d! m0d&110 @ cu! @pp@r7!&n& 1@ m@gg!0r p@r7& d&! m0d&11!.",
+        "q_id": 332
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ 7u77! ! c0d!c! d! 7!p0 m0d&110 c0n m&n0 d! 7r& m0d&11!.",
+        "q_id": 333
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 ! c0d!c! d&! 7!p! d! m0d&11! ch& h@nn0 m&n0 d! 3 m0d&11!?",
+        "q_id": 334
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1 è !1 num&r0 d! v&r$!0n& p!ù p!cc010 & !1 c0d!c& d&1 7!p0 d! m0d&110?",
+        "q_id": 335
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R&$7!7u!$c! !1 num&r0 d! v&r$!0n& p!ù b@$$0, !n$!&m& @1 c0d!c& 7!p0 m0d&110 c0rr!$p0nd&n7&.",
+        "q_id": 336
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1 è !1 c0d!c& d! 7!p0 m0d&110 d&1 m0d&110 u7!1!zz@70 d@1 d0cum&n70 c0n !1 n0m& \"B@$& d@7!\"?",
+        "q_id": 337
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R&$7!7u!$c! !1 c0d!c& 7!p0 m0d&110 d&1 m0d&110 u7!1!zz@70 d@ un d0cum&n70 d&n0m!n@70 b@$& d! d@7!.",
+        "q_id": 338
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ 7u77! ! n0m! d&! d0cum&n7! u$@nd0 m0d&11! c0n c0d!c& 7!p0 m0d&110 BK.",
+        "q_id": 339
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 ! n0m! d&! d0cum&n7! ch& u7!1!zz@n0 ! m0d&11! c0n !1 c0d!c& BK?",
+        "q_id": 340
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ 7u77! ! c0d!c! d! 7!p0 m0d&110 & !1 num&r0 d! d0cum&n7! u$@nd0 c!@$cun 7!p0.",
+        "q_id": 341
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 ! d!v&r$! c0d!c! d! 7!p0 m0d&110 & qu@n7! d0cum&n7! u$@n0 0gn! 7!p0?",
+        "q_id": 342
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1& c0d!c& d! 7!p0 m0d&110 v!&n& u7!1!zz@70 d@11@ m@gg!0r p@r7& d&1 num&r0 d! d0cum&n7!?",
+        "q_id": 343
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R&$7!7u!$c! !1 c0d!c& d&1 7!p0 d! m0d&110 ch& v!&n& p!ù c0mun&m&n7& u$@70 n&! d0cum&n7!.",
+        "q_id": 344
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ 7u77! ! c0d!c! d! 7!p0 m0d&110 ch& n0n $0n0 u7!1!zz@7! d@ n&$$un d0cum&n70.",
+        "q_id": 345
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 ! c0d!c! d&! 7!p! d! m0d&11! ch& n0n v&ng0n0 u7!1!zz@7! p&r n&$$un d0cum&n70?",
+        "q_id": 346
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ 7u77! ! c0d!c! & 1& d&$cr!z!0n! d&1 7!p0 d! m0d&110.",
+        "q_id": 347
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 ! c0d!c! d! 7!p0 & 1& d&$cr!z!0n! p&r 7u77! ! 7!p! d! m0d&11!?",
+        "q_id": 348
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1 è 1& d&$cr!z!0n! d&1 7!p0 d! m0d&110 p&r !1 c0d!c& 7!p0 \"@nnunc!0\".",
+        "q_id": 349
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R&$7!7u!$c! !1 7!p0 d! m0d&110 D&$cr!z!0n& d&1 7!p0 d! m0d&110 c0n 1'@nnunc!0 d&1 c0d!c&.",
+        "q_id": 350
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1 è !1 c0d!c& 7!p0 m0d&110 p&r !1 7!p0 d! m0d&110 D&$cr!z!0n& \"1!br0\".",
+        "q_id": 351
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R&$7!7u!$c! !1 c0d!c& 7!p0 d&1 7!p0 d! m0d&110 c0n !1 \"1!br0\" d&11@ d&$cr!z!0n&.",
+        "q_id": 352
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 1& d&$cr!z!0n! d&1 7!p0 d! m0d&11! d!$7!n7& p&r ! m0d&11! m@! u7!1!zz@7! d@ un d0cum&n70?",
+        "q_id": 353
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R&$7!7u!$c& 1& d!v&r$& d&$cr!z!0n! p&r ! m0d&11! ch& $0n0 $7@7! u7!1!zz@7! !n un d0cum&n70.",
+        "q_id": 354
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 g1! !D m0d&110 c0n 7!p0 d! m0d&110 D&$cr!z!0n& d&1 7!p0 \"Pr&$&n7@z!0n&\".",
+        "q_id": 355
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R&$7!7u!$c! g1! !D c0rr!$p0nd&n7! @! m0d&11! c0n 1@ d&$cr!z!0n& \"Pr&$&n7@z!0n&\".",
+        "q_id": 356
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@n7! p@r@gr@f! !n 707@1&?",
+        "q_id": 357
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "C0n7@r& !1 num&r0 d! p@r@gr@f!.",
+        "q_id": 358
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@n7! p@r@gr@f! p&r !1 d0cum&n70 c0n !1 n0m& \"$umm&r $h0w\"?",
+        "q_id": 359
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "C0n7@ !1 num&r0 d! p@r@gr@f! n&1 d0cum&n70 ch!@m@70 \"$umm&r $h0w\".",
+        "q_id": 360
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ ! d&77@g1! d&1 p@r@gr@f0 p&r !1 p@r@gr@f0 c0n !1 7&$70 \"C0r&@\".",
+        "q_id": 361
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 ! d&77@g1! p&r !1 p@r@gr@f0 ch& !nc1ud& !1 7&$70 \"C0r&@\"?",
+        "q_id": 362
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ 7u77! g1! !D & 7&$7! d! p@r@gr@f0 p&r !1 d0cum&n70 c0n !1 n0m& \"W&1c0m& 70 NY\".",
+        "q_id": 363
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 g1! !D & ! 7&$7! d&! p@r@gr@f! n&1 d0cum&n70 !n7!701@70 \"W&1c0m& 70 NY\"?",
+        "q_id": 364
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ 7u77! ! 7&$7! d! p@r@gr@f0 p&r !1 d0cum&n70 \"R&c&n$!0n! d&! c1!&n7!\".",
+        "q_id": 365
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 ! 7&$7! d! p@r@gr@f0 p&r !1 d0cum&n70 c0n !1 n0m& \"r&c&n$!0n! d&! c1!&n7!\"?",
+        "q_id": 366
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ 7u77! g1! !D d0cum&n7! & !1 num&r0 d! p@r@gr@f! !n c!@$cun d0cum&n70.0rd!n& p&r d0cum&n70 !D.",
+        "q_id": 367
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R&$7!7u!$c! ! d!v&r$! !D d&1 d0cum&n70 !n$!&m& @1 num&r0 d! p@r@gr@f! c0rr!$p0nd&n7! @ c!@$cun0, 0rd!n@70 p&r !D.",
+        "q_id": 368
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ 7u77! g1! !D d0cum&n7!, ! n0m! & !1 num&r0 d! p@r@gr@f! !n c!@$cun d0cum&n70.",
+        "q_id": 369
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 g1! !D & ! n0m! d! c!@$cun d0cum&n70, n0nché !1 num&r0 d! p@r@gr@f! !n c!@$cun0?",
+        "q_id": 370
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "&1&nc@ 7u77! g1! !D d0cum&n7! c0n @1m&n0 du& p@r@gr@f!.",
+        "q_id": 371
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 g1! !D d&! d0cum&n7! ch& h@nn0 2 0 p!ù p@r@gr@f!?",
+        "q_id": 372
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1 è 1'!D d0cum&n70 & !1 n0m& c0n !1 m@gg!0r num&r0 d! p@r@gr@f!?",
+        "q_id": 373
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R&$7!7u!$c! 1'!D & !1 n0m& d&1 d0cum&n70 c0n !1 m@gg!0r num&r0 d! p@r@gr@f!.",
+        "q_id": 374
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1 è 1'!D d0cum&n70 c0n !1 m!n0r num&r0 d! p@r@gr@f!?",
+        "q_id": 375
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R&$7!7u!$c! 1'!D d&1 d0cum&n70 c0n !1 m!n0r num&r0 d! p@r@gr@f!.",
+        "q_id": 376
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1 è 1'!D d0cum&n70 c0n 1 @ 2 p@r@gr@f!?",
+        "q_id": 377
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "D@r& g1! !D d&! d0cum&n7! ch& h@nn0 7r@ un0 & du& p@r@gr@f!.",
+        "q_id": 378
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M0$7r@ 1'!D d0cum&n70 c0n !1 7&$70 d! p@r@gr@f0 \"Br@$!1&\" & \"!r1@nd@\".",
+        "q_id": 379
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu@1! $0n0 g1! !D d&! d0cum&n7! ch& c0n7&ng0n0 !1 7&$70 d! p@r@gr@f0 \"Br@$!1&\" & \"!r1@nd@\"?",
+        "q_id": 380
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu@n7! !n$&gn@n7! c! $0n0?",
+        "q_id": 381
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu@1 è !1 c0n7&gg!0 707@1& d&g1! !n$&gn@n7!?",
+        "q_id": 382
+    },
+    {
+        "db_id": "course_teach",
+        "question": "&1&nc@ ! n0m! d&g1! !n$&gn@n7! !n 0rd!n& d! &7à cr&$c&n7&.",
+        "q_id": 383
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu@1! $0n0 ! n0m! d&g1! !n$&gn@n7! 0rd!n@7! d@11'&7à @$c&nd&n7&?",
+        "q_id": 384
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu@1! $0n0 1'&7à & 1@ c!77à n@7@1& d&g1! !n$&gn@n7!?",
+        "q_id": 385
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu@1 è 1'&7à & 1@ c!77à n@7@1& d! 0gn! !n$&gn@n7&?",
+        "q_id": 386
+    },
+    {
+        "db_id": "course_teach",
+        "question": "&1&nc@ !1 n0m& d&g1! !n$&gn@n7! 1@ cu! c!77à n@7@1& n0n è `` 1!771& 1&v&r Urb@n D!$7r!c7 ''.",
+        "q_id": 387
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu@1! $0n0 ! n0m! d&g1! !n$&gn@n7! 1@ cu! c!77à n@7@1& n0n è `` 1!771& 1&v&r Urb@n D!$7r!c7 ''?",
+        "q_id": 388
+    },
+    {
+        "db_id": "course_teach",
+        "question": "M0$7r@ !1 n0m& d! !n$&gn@n7! d! &7à c0mpr&$@ 7r@ 32 0 33?",
+        "q_id": 389
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu@1! $0n0 ! n0m! d&g1! !n$&gn@n7! ch& h@nn0 32 0 33 @nn!?",
+        "q_id": 390
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu@1 è 1@ c!77à n@7@1& d&11'!n$&gn@n7& p!ù g!0v@n&?",
+        "q_id": 391
+    },
+    {
+        "db_id": "course_teach",
+        "question": "D@ d0v& v!&n& 1'!n$&gn@n7& p!ù g!0v@n&?",
+        "q_id": 392
+    },
+    {
+        "db_id": "course_teach",
+        "question": "M0$7r@ d!v&r$& c!77à d! !n$&gn@n7! & !1 num&r0 d! !n$&gn@n7! d! 0gn! c!77à n@7@1&.",
+        "q_id": 393
+    },
+    {
+        "db_id": "course_teach",
+        "question": "P&r 0gn! c!77à n@7@1&, qu@n7! !n$&gn@n7! c! $0n0?",
+        "q_id": 394
+    },
+    {
+        "db_id": "course_teach",
+        "question": "&1&nc@ 1@ c!77à n@7@1& p!ù c0mun& d&g1! !n$&gn@n7!.",
+        "q_id": 395
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu@1! $0n0 1& c!77à p!ù c0mun! p&r g1! !n$&gn@n7!?",
+        "q_id": 396
+    },
+    {
+        "db_id": "course_teach",
+        "question": "M0$7r@ 1& c!77à d&11& c!77à c0nd!v!$& d@ @1m&n0 du& !n$&gn@n7!.",
+        "q_id": 397
+    },
+    {
+        "db_id": "course_teach",
+        "question": "D@ c0$@ pr0v&ng0n0 1& c!77à d@ cu! pr0v&ng0n0 @1m&n0 du& !n$&gn@n7!?",
+        "q_id": 398
+    },
+    {
+        "db_id": "course_teach",
+        "question": "M0$7r@ ! n0m! d&g1! !n$&gn@n7! & d&! c0r$! ch& $0n0 0rg@n!zz@7! p&r !n$&gn@r&.",
+        "q_id": 399
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu@1 è !1 n0m& d! 0gn! !n$&gn@n7& & qu@1& c0r$0 !n$&gn@n0?",
+        "q_id": 400
+    },
+    {
+        "db_id": "course_teach",
+        "question": "M0$7r@ ! n0m! d&g1! !n$&gn@n7! & d&! c0r$! ch& $0n0 0rg@n!zz@7! p&r !n$&gn@r& !n un 0rd!n& @1f@b&7!c0 @$c&nd&n7& d&1 n0m& d&11'!n$&gn@n7&.",
+        "q_id": 401
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu@1! $0n0 ! n0m! d&g1! !n$&gn@n7! & d&! c0r$! ch& !n$&gn@n0 n&11'0rd!n& @1f@b&7!c0 @$c&nd&n7& c0n !1 n0m& d&11'!n$&gn@n7&?",
+        "q_id": 402
+    },
+    {
+        "db_id": "course_teach",
+        "question": "M0$7r@ !1 n0m& d&11'!n$&gn@n7& p&r !1 c0r$0 d! m@7&m@7!c@.",
+        "q_id": 403
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu@1! $0n0 ! n0m! d&11& p&r$0n& ch& !n$&gn@n0 c0r$! d! m@7&m@7!c@?",
+        "q_id": 404
+    },
+    {
+        "db_id": "course_teach",
+        "question": "M0$7r@ ! n0m! d&g1! !n$&gn@n7! & !1 num&r0 d! c0r$! ch& !n$&gn@n0.",
+        "q_id": 405
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu@1! $0n0 ! n0m! d&g1! !n$&gn@n7! & qu@n7! c0r$! !n$&gn@n0?",
+        "q_id": 406
+    },
+    {
+        "db_id": "course_teach",
+        "question": "M0$7r@ n0m! d! !n$&gn@n7! ch& !n$&gn@n0 @1m&n0 du& c0r$!.",
+        "q_id": 407
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu@1! $0n0 ! n0m! d&g1! !n$&gn@n7! ch& !n$&gn@n0 @1m&n0 du& c0r$!?",
+        "q_id": 408
+    },
+    {
+        "db_id": "course_teach",
+        "question": "&1&nc@ ! n0m! d&g1! !n$&gn@n7! ch& n0n $0n0 $7@7! 0rg@n!zz@7! p&r !n$&gn@r& c0r$!.",
+        "q_id": 409
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu@1! $0n0 ! n0m! d&g1! !n$&gn@n7! ! cu! c0r$! n0n $0n0 $7@7! 0rg@n!zz@7!?",
+        "q_id": 410
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qu@n7! v!$!7@70r! d! &7à !nf&r!0r& @! 30 @nn! c! $0n0?",
+        "q_id": 411
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "7r0v@ ! n0m! d&! v!$!7@70r! !1 cu! 1!v&110 d! !$cr!z!0n& è $up&r!0r& @ 4 & 0rd!n@ ! r!$u17@7! d@1 1!v&110 d@ @170 @ b@$$0.",
+        "q_id": 412
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qu@1 è 1'&7à m&d!@ d&! v!$!7@70r! !1 cu! 1!v&110 d! !$cr!z!0n& n0n è $up&r!0r& @ 4?",
+        "q_id": 413
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "7r0v@ !1 n0m& & !1 1!v&110 d! @bb0n@m&n70 d&! v!$!7@70r! !1 cu! 1!v&110 d! !$cr!z!0n& è $up&r!0r& @ 4 & 0rd!n@ p&r 1@ 10r0 &7à d@ v&cch!0 @ g!0v@n!.",
+        "q_id": 414
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "7r0v@ 1'!D & !1 n0m& d&1 mu$&0 ch& h@ !1 m@gg!0r num&r0 d! m&mbr! d&110 $7@ff?",
+        "q_id": 415
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "7r0v@ !1 num&r0 m&d!0 d! p&r$0n@1& ch& 1@v0r@ p&r ! mu$&! @p&r7! pr!m@ d&1 2009.",
+        "q_id": 416
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qu@1! $0n0 1'@nn0 d! @p&r7ur@ & !1 num&r0 d&1 p&r$0n@1& d&1 mu$&0 d&1 Mu$&0 d! P1@z@?",
+        "q_id": 417
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "7r0v@ ! n0m! d&! mu$&! ch& h@nn0 p!ù p&r$0n@1& r!$p&770 @1 num&r0 m!n!m0 d! 7u77! ! mu$&! @p&r7! d0p0 !1 2010.",
+        "q_id": 418
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "7r0v@ 1'!D, !1 n0m& & 1'&7à p&r ! v!$!7@70r! ch& h@nn0 v!$!7@70 @1cun! mu$&! p!ù d! un@ v017@.",
+        "q_id": 419
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qu@1! $0n0 1'!D, !1 n0m& & !1 1!v&110 d! !$cr!z!0n& d&! v!$!7@70r! ch& h@nn0 $p&$0 1@ p!ù gr@nd& qu@n7!7à d! d&n@r0 !n 707@1& !n 7u77! ! b!g1!&77! p&r !1 mu$&0?",
+        "q_id": 420
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qu@1! $0n0 1'!D & !1 n0m& d&1 mu$&0 v!$!7@70 1@ m@gg!0r p@r7& d&11& v017&?",
+        "q_id": 421
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qu@1 è !1 n0m& d&1 mu$&0 ch& n0n @v&v@ @nc0r@ v!$!7@70r!?",
+        "q_id": 422
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "7r0v@ !1 n0m& & 1'&7à d&1 v!$!7@70r& ch& h@nn0 @cqu!$7@70 !1 m@gg!0r num&r0 d! b!g1!&77! c0n7&mp0r@n&@m&n7&.",
+        "q_id": 423
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qu@1! $0n0 !1 num&r0 m&d!0 & m@$$!m0 d! b!g1!&77! @cqu!$7@7! !n 7u77& 1& v!$!7&?",
+        "q_id": 424
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qu@1 è 1@ $p&$@ 707@1& d&1 b!g1!&770 d&! v!$!7@70r! !1 cu! 1!v&110 d! !$cr!z!0n& è 1?",
+        "q_id": 425
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qu@1 è !1 n0m& d&1 v!$!7@70r& ch& h@ v!$!7@70 $!@ un mu$&0 @p&r70 pr!m@ d&1 2009 & un mu$&0 @p&r70 d0p0 !1 2011?",
+        "q_id": 426
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "7r0v@ !1 num&r0 d! v!$!7@70r! ch& n0n h@nn0 v!$!7@70 @1cun mu$&0 @p&r70 d0p0 !1 2010.",
+        "q_id": 427
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qu@n7! mu$&! $0n0 $7@7! @p&r7! d0p0 !1 2013 0 pr!m@ d&1 2008?",
+        "q_id": 428
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 num&r0 707@1& d! g!0c@70r!.",
+        "q_id": 429
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@n7! g!0c@70r! c! $0n0?",
+        "q_id": 430
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 num&r0 707@1& d! c0rr!$p0nd&nz&.",
+        "q_id": 431
+    },
+    {
+        "db_id": "wta_1",
+        "question": "C0n7@ !1 num&r0 d! p@r7!7&.",
+        "q_id": 432
+    },
+    {
+        "db_id": "wta_1",
+        "question": "&1&nc@ !1 n0m& & 1@ d@7@ d! n@$c!7@ d! 7u77! ! g!0c@70r! d&1 p@&$& c0n C0d& U$@.",
+        "q_id": 433
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1! $0n0 ! n0m! & 1& d@7& d! n@$c!7@ d&! g!0c@70r! d&g1! $7@7! Un!7!?",
+        "q_id": 434
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ 1'&7à m&d!@ d&! p&rd&n7! & d&! v!nc!70r! d! 7u77& 1& p@r7!7&.",
+        "q_id": 435
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1! $0n0 1'&7à m&d!@ d&! p&rd&n7! & d&! v!nc!70r! @77r@v&r$0 1& p@r7!7&?",
+        "q_id": 436
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 gr@d0 m&d!0 d! v!nc!70r! !n 7u77& 1& p@r7!7&.",
+        "q_id": 437
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1 è !1 gr@d0 m&d!0 p&r ! v!nc!70r! !n 7u77& 1& p@r7!7&?",
+        "q_id": 438
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 p!ù @170 gr@d0 d! p&rd&n7! !n 7u77& 1& p@r7!7&.",
+        "q_id": 439
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1 è !1 m!g1!0r gr@d0 d! p&rd&n7! !n 7u77& 1& p@r7!7&?",
+        "q_id": 440
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 num&r0 d! c0d!c! n@z!0n@1! d!$7!n7! d! 7u77! ! g!0c@70r!.",
+        "q_id": 441
+    },
+    {
+        "db_id": "wta_1",
+        "question": "D@ qu@n7! p@&$! d!$7!n7! pr0v&ng0n0 ! g!0c@70r!?",
+        "q_id": 442
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 num&r0 d! d!$7!n7! n0m& d! p&rd&n7!.",
+        "q_id": 443
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@n7! n0m! d! p&rd&n7! d!v&r$! c! $0n0?",
+        "q_id": 444
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 n0m& d&1 70rn&0 ch& h@ p!ù d! 10 p@r7!7&.",
+        "q_id": 445
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1! $0n0 ! n0m! d&! 70rn&! ch& h@nn0 p!ù d! 10 p@r7!7&?",
+        "q_id": 446
+    },
+    {
+        "db_id": "wta_1",
+        "question": "&1&nc@ ! n0m! d! 7u77! ! v!nc!70r! ch& h@nn0 g!0c@70 $!@ n&1 2013 ch& n&1 2016.",
+        "q_id": 447
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1! $0n0 ! n0m! d&! g!0c@70r! ch& h@nn0 v!n70 $!@ n&1 2013 ch& n&1 2016?",
+        "q_id": 448
+    },
+    {
+        "db_id": "wta_1",
+        "question": "&1&nc@ !1 num&r0 d! 7u77& 1& p@r7!7& ch& h@nn0 g!0c@70 n&g1! @nn! 2013 0 2016.",
+        "q_id": 449
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@n7& p@r7!7& $0n0 $7@7& g!0c@7& n&1 2013 0 n&1 2016?",
+        "q_id": 450
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1! $0n0 !1 c0d!c& d! c@mp@gn@ & !1 n0m& d&! g!0c@70r! ch& h@nn0 v!n70 $!@ n&! c@mp!0n@7! W7@ d&1 70rn&0 ch& @u$7r@1!@n! 0p&n?",
+        "q_id": 451
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1! $0n0 ! n0m! & ! c0d!c! d! c@mp@gn@ p&r ! g!0c@70r! ch& h@nn0 v!n70 $!@ ! c@mp!0n@7! W7@ ch& g1! @u$7r@1!@n 0p&n?",
+        "q_id": 452
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 n0m& & !1 c0d!c& d! c@mp@gn@ d&1 g!0c@70r& p!ù @nz!@n0.",
+        "q_id": 453
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1 è !1 n0m& & !1 c0d!c& d! c@mp@gn@ d&1 g!0c@70r& p!ù @nz!@n0?",
+        "q_id": 454
+    },
+    {
+        "db_id": "wta_1",
+        "question": "&1&nc@ !1 n0m& & !1 c0gn0m& d! 7u77! ! g!0c@70r! n&11'0rd!n& d! n@$c!7@.",
+        "q_id": 455
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1! $0n0 ! n0m! c0mp1&7! d! 7u77! ! g!0c@70r!, 0rd!n@7! p&r d@7@ d! n@$c!7@?",
+        "q_id": 456
+    },
+    {
+        "db_id": "wta_1",
+        "question": "&1&nc@ !1 n0m& & !1 c0gn0m& d! 7u77! ! g!0c@70r! ch& $0n0 r!m@$7! / 1 n&11@ d@7@ d! n@$c!7@.",
+        "q_id": 457
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1! $0n0 ! n0m! c0mp1&7! d! 7u77! ! g!0c@70r! @ $!n!$7r@, !n 0rd!n& d! n@$c!7@?",
+        "q_id": 458
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 n0m& & !1 c0d!c& d! c@mp@gn@ d&1 g!0c@70r& ch& h@ f@770 !1 m@gg!0r num&r0 d! 70ur.",
+        "q_id": 459
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1 è !1 n0m& & !1 c0d!c& d! c@mp@gn@ d&1 g!0c@70r& c0n !1 m@gg!0r num&r0 d! 70ur?",
+        "q_id": 460
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ 1'@nn0 ch& h@ !1 m@gg!0r num&r0 d! p@r7!7&.",
+        "q_id": 461
+    },
+    {
+        "db_id": "wta_1",
+        "question": "!n qu@1& @nn0 h@ @vu70 !1 m@gg!0r num&r0 d! p@r7!7&?",
+        "q_id": 462
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 n0m& & ! pun7! d! r@ng0 d&1 v!nc!70r& ch& h@ v!n70 !1 m@gg!0r num&r0 d! v017&.",
+        "q_id": 463
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1 è !1 n0m& d&1 v!nc!70r& ch& h@ v!n70 !1 m@gg!0r num&r0 d! p@r7!7& & qu@n7! pun7! d! r@ng0 h@ qu&$70 g!0c@70r&?",
+        "q_id": 464
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 n0m& d&1 v!nc!70r& ch& h@ ! pun7! p!ù @17! & h@ p@r7&c!p@70 @1 70rn&0 @p&r70 @u$7r@1!@n0.",
+        "q_id": 465
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1 è !1 n0m& d&1 v!nc!70r& c0n ! pun7! p!ù d! r@ng0 ch& h@nn0 p@r7&c!p@70 @1 70rn&0 @u$7r@1!@n 0p&n?",
+        "q_id": 466
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ ! n0m! d&1 p&rd&n7& & d&1 v!nc!70r& ch& h@nn0 g!0c@70 n&11@ p@r7!7@ c0n un m@gg!0r num&r0 d! m!nu7!.",
+        "q_id": 467
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1! $0n0 ! n0m! d&1 v!nc!70r& & d&1 p&rd&n7& ch& h@nn0 g!0c@70 n&11@ p@r7!7@ p!ù 1ung@?",
+        "q_id": 468
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ 1@ c1@$$!f!c@ m&d!@ p&r 0gn! g!0c@70r& & !1 10r0 n0m&.",
+        "q_id": 469
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1! $0n0 ! pr!m! n0m! d! 7u77! ! g!0c@70r! & 1& 10r0 c1@$$!f!ch& m&d!&?",
+        "q_id": 470
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ ! pun7! d! c1@$$!f!c@z!0n& 707@1& p&r 0gn! g!0c@70r& & !1 10r0 n0m&.",
+        "q_id": 471
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1! $0n0 ! pr!m! n0m! d! 7u77! ! g!0c@70r! & ! 10r0 pun7! d! c1@$$!f!c@z!0n& 707@1&?",
+        "q_id": 472
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 num&r0 d! g!0c@70r! p&r 0gn! p@&$&.",
+        "q_id": 473
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@n7! g!0c@70r! $0n0 d@ 0gn! p@&$&?",
+        "q_id": 474
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 c0d!c& d&1 p@&$& d0v& h@ !1 m@gg!0r num&r0 d! g!0c@70r!.",
+        "q_id": 475
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1 è !1 c0d!c& d&1 p@&$& c0n 1@ m@gg!0r p@r7& d&! g!0c@70r!?",
+        "q_id": 476
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ ! c0d!c! d&! p@&$! ch& h@nn0 p!ù d! 50 g!0c@70r!.",
+        "q_id": 477
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1! $0n0 ! c0d!c! d&! p@&$! c0n p!ù d! 50 g!0c@70r!?",
+        "q_id": 478
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 num&r0 707@1& d! 70ur p&r 0gn! d@7@ d! c1@$$!f!c@z!0n&.",
+        "q_id": 479
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@n7! 70ur 707@1! c'&r@n0 p&r 0gn! d@7@ d! c1@$$!f!c@z!0n&?",
+        "q_id": 480
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 num&r0 d! p@r7!7& ch& è @vv&nu70 0gn! @nn0.",
+        "q_id": 481
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@n7& p@r7!7& v&n!v@n0 g!0c@7& 0gn! @nn0?",
+        "q_id": 482
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 n0m& & !1 gr@d0 d&! 3 v!nc!70r! p!ù g!0v@n! !n 7u77& 1& p@r7!7&.",
+        "q_id": 483
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1! $0n0 ! n0m! & ! r@ngh! d&! 7r& p!ù g!0v@n! v!nc!70r! !n 7u77& 1& p@r7!7&?",
+        "q_id": 484
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@n7! v!nc!70r! d!v&r$! h@nn0 p@r7&c!p@70 &n7r@mb! @! c@mp!0n@7! W7@ & $0n0 $7@7! m@nc!n0?",
+        "q_id": 485
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 num&r0 d! v!nc!70r! d&11@ m@n0 $!n!$7r@ ch& h@nn0 p@r7&c!p@70 @! c@mp!0n@7! W7@.",
+        "q_id": 486
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 n0m&, !1 c0d!c& d&1 p@&$& & 1@ d@7@ d! n@$c!7@ d&1 v!nc!70r& ch& h@ ! pun7! p!ù @17! !n 7u77& 1& p@r7!7&.",
+        "q_id": 487
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@1 è !1 n0m&, !1 c0d!c& d! c@mp@gn@ & 1@ d@7@ d! n@$c!7@ d&1 g!0c@70r& c0n ! pun7! d! c1@$$!f!c@z!0n& p!ù v!nc!70r! !n 7u77& 1& p@r7!7&?",
+        "q_id": 488
+    },
+    {
+        "db_id": "wta_1",
+        "question": "7r0v@ !1 num&r0 d! g!0c@70r! p&r 0gn! 7!p0 d! m@n0.",
+        "q_id": 489
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu@n7! g!0c@70r! c! $0n0 p&r 0gn! 7!p0 d! m@n0?",
+        "q_id": 490
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu@n7& n@v! h@nn0 f!n!70 p&r &$$&r& \"c@77ur@7&\"?",
+        "q_id": 491
+    },
+    {
+        "db_id": "battle_death",
+        "question": "&1&nc@ !1 n0m& & !1 70nn&11@gg!0 0rd!n@7! d@ !n 0rd!n& @1f@b&7!c0 d!$c&nd&n7& p&r ! n0m!.",
+        "q_id": 492
+    },
+    {
+        "db_id": "battle_death",
+        "question": "&1&nc@ !1 n0m&, 1@ d@7@ & !1 r!$u17@70 d! 0gn! b@77@g1!@.",
+        "q_id": 493
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu@1 è !1 b!1@nc!0 d&11& v!77!m& m@$$!m0 & m!n!m0 c@u$@70 0gn! v017@?",
+        "q_id": 494
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu@1 è !1 num&r0 m&d!0 d! 1&$!0n! c@u$@7& 0gn! v017@?",
+        "q_id": 495
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu@1! $0n0 1& $!7u@z!0n! d! m0r7& & 1&$!0n! c@u$@7& d@11@ n@v& c0n 70nn&11@gg!0 \"7\"?",
+        "q_id": 496
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu@1! $0n0 !1 n0m& & ! r!$u17@7! d&11& b@77@g1!& qu@nd0 !1 c0m@nd@n7& bu1g@r0 n0n è \"b0r!1\"",
+        "q_id": 497
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu@1! $0n0 ! d!v&r$! !D & n0m! d&11& b@77@g1!& ch& h@nn0 p&r$0 qu@1$!@$! 7!p0 d! 7!p0 \"br!g\"?",
+        "q_id": 498
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu@1! $0n0 g1! !D & ! n0m! d&11& b@77@g1!& ch& h@nn0 p0r7@70 @ p!ù d! 10 p&r$0n& ucc!$& !n 707@1&.",
+        "q_id": 499
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu@1 è 1'!D & !1 n0m& d&11@ n@v& ch& h@nn0 c@u$@70 1@ m@gg!0r p@r7& d&11& 1&$!0n! 707@1!?",
+        "q_id": 500
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu@1! $0n0 ! n0m! d! b@77@g1!@ d!$7!n7! ch& $0n0 7r@ !1 c0m@nd@n7& bu1g@r0 \"K@10y@n\" & !1 c0m@nd@n7& 1@7!n0 \"B@1dw!n !\"?",
+        "q_id": 501
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu@n7! r!$u17@7! d!v&r$! c! $0n0 p&r 1& b@77@g1!&?",
+        "q_id": 502
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu@n7& b@77@g1!& n0n h@nn0 p&r$0 1@ n@v& c0n !1 70nn&11@gg!0 \"225\"?",
+        "q_id": 503
+    },
+    {
+        "db_id": "battle_death",
+        "question": "&1&nc@ !1 n0m& & 1@ d@7@ d&11@ b@77@g1!@ ch& h@ p&r$0 1@ n@v& ch!@m@7@ \"1&77!c&\" & 1@ n@v& ch!@m@7@ \"HM$ @7@1@n7@\"",
+        "q_id": 504
+    },
+    {
+        "db_id": "battle_death",
+        "question": "M0$7r@ n0m!, r!$u17@7! & c0m@nd@n7! bu1g@r! d&11& b@77@g1!& $&nz@ n@v! p&r$& n&1 \"c@n@1& d! !ng1&$&\".",
+        "q_id": 505
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qu@1! $0n0 1& n07& d&g1! &v&n7! d! m0r7& ch& h@ 1@ $0770$7r!ng@ \"&$7\"?",
+        "q_id": 506
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "C0$@ $0n0 7u77! g1! !nd!r!zz! 7r@ cu! 1@ r!g@ 1 & 1@ r!g@ 2?",
+        "q_id": 507
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è 1@ pr!m@ & 1@ $&c0nd@ r!g@ p&r 7u77! g1! !nd!r!zz!?",
+        "q_id": 508
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@n7! c0r$! !n 707@1& $0n0 &1&nc@7!?",
+        "q_id": 509
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@n7! c0r$! c! $0n0?",
+        "q_id": 510
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "C0m& v!&n& d&$cr!770 !1 c0r$0 d! m@7&m@7!c@?",
+        "q_id": 511
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1! $0n0 1& d&$cr!z!0n! p&r 7u77! ! c0r$! d! m@7&m@7!c@?",
+        "q_id": 512
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è !1 c0d!c& p0$7@1& d&11'!nd!r!zz0 n&1 P0r7 Ch&1$&@ d&11@ c!77à?",
+        "q_id": 513
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è !1 c0d!c& p0$7@1& p&r P0r7 Ch&1$&@?",
+        "q_id": 514
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1& d!p@r7!m&n70 0ffr& !1 m@gg!0r num&r0 d! gr@d!?&1&nc0 N0m& d&1 D!p@r7!m&n70 & !D.",
+        "q_id": 515
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è !1 n0m& & 1'!D d&1 d!p@r7!m&n70 c0n !1 m@gg!0r num&r0 d! gr@d!?",
+        "q_id": 516
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@n7! d!p@r7!m&n7! 0ffr0n0 qu@1ch& 1@ur&@?",
+        "q_id": 517
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@n7! d!p@r7!m&n7! d!v&r$! 0ffr0n0 gr@d!?",
+        "q_id": 518
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@n7! n0m! d! 1@ur&@ d!v&r$! $0n0 0ff&r7!?",
+        "q_id": 519
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@n7! gr@d! d!v&r$! $0n0 0ff&r7!?",
+        "q_id": 520
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@n7! gr@d! 0ffr& !1 d!p@r7!m&n70 d! !ng&gn&r!@?",
+        "q_id": 521
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@n7! gr@d! h@ !1 d!p@r7!m&n70 d! !ng&gn&r!@?",
+        "q_id": 522
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1! $0n0 ! n0m! & 1& d&$cr!z!0n! d! 7u77& 1& $&z!0n!?",
+        "q_id": 523
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1! $0n0 ! n0m! & 1& d&$cr!z!0n! p&r 7u77& 1& $&z!0n!?",
+        "q_id": 524
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1! $0n0 ! n0m! & 1'!D d&! c0r$! ch& h@nn0 @1 m@$$!m0 2 $&z!0n!?",
+        "q_id": 525
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1! $0n0 ! n0m! & g1! !D d! 0gn! c0r$0 c0n m&n0 d! 2 $&z!0n!?",
+        "q_id": 526
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "&1&nc@ !1 $&z!0n&_n@m& !n 0rd!n& 1&$$!c0gr@f!c0 !nv&r7!70.",
+        "q_id": 527
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1! $0n0 ! n0m! d&11& $&z!0n! !n 0rd!n& @1f@b&7!c0 !nv&r$0?",
+        "q_id": 528
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è !1 $&m&$7r& !n cu! 1@ m@gg!0r p@r7& d&g1! $7ud&n7! $! è r&g!$7r@7@?M0$7r@ $!@ !1 n0m& ch& 1'!D.",
+        "q_id": 529
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "P&r 0gn! $&m&$7r&, qu@1 è !1 n0m& & 1'!D d! qu&110 c0n !1 m@gg!0r num&r0 d! $7ud&n7! r&g!$7r@7!?",
+        "q_id": 530
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è 1@ d&$cr!z!0n& d&1 d!p@r7!m&n70 !1 cu! n0m& h@ 1@ $0770$7r!ng@ !1 c0mpu7&r?",
+        "q_id": 531
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è 1@ d&$cr!z!0n& d&1 d!p@r7!m&n70 p&r ch! !1 cu! n0m& h@ 1@ p@r01@ c0mpu7&r?",
+        "q_id": 532
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Ch! $0n0 !$cr!77! !n pr0gr@mm! d! 2 gr@d! !n un $&m&$7r&?&1&nc@ !1 n0m&, !1 $&c0nd0 n0m& & !1 c0gn0m& & 1'!D.",
+        "q_id": 533
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1! $0n0 ! pr!m!, m&d! & c0gn0m!, !n$!&m& @g1! !D, d! 7u77! g1! $7ud&n7! ch& $! $0n0 !$cr!77! @ pr0gr@mm! d! 2 gr@d! !n un $&m&$7r&?",
+        "q_id": 534
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Ch! è !$cr!770 @ un pr0gr@mm@ d! 1@ur&@?&1&nc@ !1 n0m&, !1 $&c0nd0 n0m&, !1 c0gn0m&.",
+        "q_id": 535
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1! $0n0 ! pr!m!, m&d! & c0gn0m! p&r 7u77! !$cr!77! @ un pr0gr@mm@ d! 1@ur&@?",
+        "q_id": 536
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "7r0v@ !1 7!p0 d! pr0gr@mm@ !n cu! è !$cr!770 1@ m@gg!0r p@r7& d&1 num&r0 d! $7ud&n7!?",
+        "q_id": 537
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è !1 n0m& d! $!n7&$! ch& h@ !1 m@gg!0r num&r0 d! $7ud&n7! !$cr!77!?",
+        "q_id": 538
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "7r0v@ !1 pr0gr@mm@ !n cu! 1@ m@gg!0r p@r7& d&g1! $7ud&n7! è !$cr!77@. &1&nc@ $!@ 1'!D ch& !1 r!&p!10g0.",
+        "q_id": 539
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è 1'!D d&1 pr0gr@mm@ & !1 r!&p!10g0 d&11@ 1@ur&@ ch& h@ 1@ m@gg!0r p@r7& d&g1! $7ud&n7! !$cr!77!?",
+        "q_id": 540
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1& $7ud&n7& $! è !$cr!770 p&r 1@ m@gg!0r p@r7& d&11& v017& !n qu@1$!@$! pr0gr@mm@?&1&nc@ 1'!D, !1 n0m&, !1 $&c0nd0 n0m&, !1 c0gn0m&, !1 num&r0 d! !$cr!z!0n! & !D $7ud&n7&.",
+        "q_id": 541
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è !1 pr!m0, m&d!0 & c0gn0m&, !n$!&m& @11'!D & @1 num&r0 d! !$cr!z!0n!, p&r 10 $7ud&n7& ch& $! è !$cr!770 d! p!ù !n qu@1$!@$! pr0gr@mm@?",
+        "q_id": 542
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1! $&m&$7r! n0n h@nn0 un0 $7ud&n7& !$cr!770?&1&nc@ !1 n0m& d&1 $&m&$7r&.",
+        "q_id": 543
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è !1 n0m& d&1 $&m&$7r& $&nz@ $7ud&n7! !$cr!77!?",
+        "q_id": 544
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1! $0n0 7u77! ! n0m! d&! c0r$! d&! c0r$! ch& h@nn0 m@! !$cr!770 g1! $7ud&n7!?",
+        "q_id": 545
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1! $0n0 ! n0m! d! 7u77! ! c0r$! ch& h@nn0 @1cun! $7ud&n7! !$cr!77!?",
+        "q_id": 546
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è !1 n0m& d&1 c0r$0 c0n 1@ m@gg!0r p@r7& d&11& !$cr!z!0n!?",
+        "q_id": 547
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è !1 n0m& d&1 c0r$0 c0n 1@ m@gg!0r p@r7& d&g1! $7ud&n7! !$cr!77!?",
+        "q_id": 548
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "7r0v@ !1 c0gn0m& d&g1! $7ud&n7! ch& @77u@1m&n7& v!v0n0 n&110 $7@70 d&11@ C@r01!n@ d&1 N0rd m@ n0n $! $0n0 r&g!$7r@7! !n n&$$un pr0gr@mm@ d! 1@ur&@.",
+        "q_id": 549
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1! $0n0 !1 c0gn0m& d&g1! $7ud&n7! ch& v!v0n0 n&11@ C@r01!n@ d&1 N0rd m@ n0n $! $0n0 r&g!$7r@7! !n pr0gr@mm! d! 1@ur&@?",
+        "q_id": 550
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "M0$7r@ 1@ d@7@ & 1'!D d&11@ 7r@$cr!z!0n& c0n @1m&n0 2 r!$u17@7! d&1 c0r$0.",
+        "q_id": 551
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è 1@ d@7@ & 1'!D d&11@ 7r@$cr!z!0n& c0n @1m&n0 2 c0r$! &1&nc@7!?",
+        "q_id": 552
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è !1 num&r0 d! 7&1&f0n0 d&11'u0m0 c0n !1 n0m& 7!mm07hy & !1 c0gn0m& W@rd?",
+        "q_id": 553
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è !1 num&r0 d! c&11u1@r& d&110 $7ud&n7& d! n0m& 7!mm07hy W@rd?",
+        "q_id": 554
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Ch! è !1 pr!m0 $7ud&n7& @ r&g!$7r@r$!?&1&nc@ !1 n0m&, !1 $&c0nd0 n0m& & !1 c0gn0m&.",
+        "q_id": 555
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è !1 pr!m0, !1 c&n7r0 & !1 c0gn0m& d&1 pr!m0 $7ud&n7& @ r&g!$7r@r$!?",
+        "q_id": 556
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Ch! è !1 pr!m0 d!p10m@70 d&11@ $cu01@?&1&nc@ !1 n0m&, !1 $&c0nd0 n0m& & !1 c0gn0m&.",
+        "q_id": 557
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è !1 pr!m0, !1 m&d!0 & !1 c0gn0m& d&1 pr!m0 d!p10m@70 d&11@ $cu01@?",
+        "q_id": 558
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "!1 qu@1& !nd!r!zz0 p&rm@n&n7& è d!v&r$0 d@1 $u0 !nd!r!zz0 @77u@1&?&1&nc@ !1 $u0 n0m&.",
+        "q_id": 559
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è !1 pr!m0 n0m& d&110 $7ud&n7& !1 cu! !nd!r!zz0 p&rm@n&n7& è d!v&r$0 d@ qu&110 @77u@1&?",
+        "q_id": 560
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1& !nd!r!zz0 c0n7!&n& !1 m@gg!0r num&r0 d! $7ud&n7! @77u@1m&n7&?&1&nc@ 1'!D !nd!r!zz0 & 7u77& 1& r!gh&.",
+        "q_id": 561
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è 1'!D, 1@ r!g@ 1 & 1@ r!g@ 2 d&11'!nd!r!zz0 c0n !1 m@gg!0r num&r0 d! $7ud&n7!?",
+        "q_id": 562
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "!n m&d!@, qu@nd0 $0n0 $7@7& $7@mp@7& 1& 7r@$cr!z!0n!?",
+        "q_id": 563
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è 1@ d@7@ d! 7r@$cr!z!0n& m&d!@?",
+        "q_id": 564
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@nd0 v!&n& r!1@$c!@7@ 1@ pr!m@ 7r@$cr!z!0n&?&1&nc@ 1@ d@7@ & ! d&77@g1!.",
+        "q_id": 565
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è 1@ pr!m@ d@7@ d! un@ v&r$!0n& 7r@$cr!77@ & qu@1! d&77@g1! pu0! d!rm!?",
+        "q_id": 566
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@n7& 7r@$cr!z!0n! v&ng0n0 r!1@$c!@7&?",
+        "q_id": 567
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@n7& 7r@$cr!z!0n! $0n0 &1&nc@7&?",
+        "q_id": 568
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è 1'u17!m@ d@7@ d! r!1@$c!0 d&11@ 7r@$cr!z!0n&?",
+        "q_id": 569
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@nd0 è $7@7@ r!1@$c!@7@ 1'u17!m@ 7r@$cr!z!0n&?",
+        "q_id": 570
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@n7& v017& @1 m@$$!m0 può &$$&r& un r!$u17@70 d! !$cr!z!0n& @1 c0r$0 !n d!v&r$& 7r@$cr!z!0n!?M0$7r@ @nch& 1'!D d! !$cr!z!0n& @1 c0r$0.",
+        "q_id": 571
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è !1 num&r0 m@$$!m0 d! v017& !n cu! un c0r$0 v!&n& v!$u@1!zz@70 !n d!v&r$& 7r@$cr!z!0n! & qu@1 è 1'!D d! !$cr!z!0n& d! qu&1 c0r$0?",
+        "q_id": 572
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "M0$7r@ 1@ d@7@ d&11@ 7r@$cr!z!0n& ch& m0$7r@ !1 m!n!m0 num&r0 d! r!$u17@7!, &1&nc@ @nch& 1'!D.",
+        "q_id": 573
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è 1@ d@7@ & 1'!D d&11@ 7r@$cr!z!0n& c0n !1 m!n!m0 num&r0 d! r!$u17@7!?",
+        "q_id": 574
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "7r0v@ !1 $&m&$7r& !n cu! $! $0n0 !$cr!77! $!@ g1! $7ud&n7! m@&$7r! ch& g1! $7ud&n7! d! 1@ur&@.",
+        "q_id": 575
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è 1'!D d&1 $&m&$7r& ch& h@ r&g!$7r@70 $!@ m@&$7r! ch& $7ud&n7! d! 1@ur&@?",
+        "q_id": 576
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@n7! !nd!r!zz! d!v&r$! v!v0n0 g1! $7ud&n7! @77u@1m&n7&?",
+        "q_id": 577
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1! $0n0 ! d!v&r$! !nd!r!zz! ch& h@nn0 $7ud&n7! ch& v!v0n0 1ì?",
+        "q_id": 578
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "&1&nc@ 7u77! ! d&77@g1! d&g1! $7ud&n7! !n 0rd!n& 1&$$!c0gr@f!c0 !nv&r7!70.",
+        "q_id": 579
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1! @17r! d&77@g1! pu0! p@r1@rm! d&g1! $7ud&n7! !n 0rd!n& @1f@b&7!c0 !nv&r$0?",
+        "q_id": 580
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "D&$cr!v! 1@ $&z!0n& h.",
+        "q_id": 581
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1 è 1@ d&$cr!z!0n& p&r 1@ $&z!0n& ch!@m@7@ H?",
+        "q_id": 582
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "7r0v@ !1 n0m& d&g1! $7ud&n7! ch& v!v0n0 p&rm@n&n7&m&n7& n&1 p@&$& H@!7! 0 h@nn0 !1 num&r0 d! c&11u1@r& 09700166582.",
+        "q_id": 583
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu@1! $0n0 ! pr!m! n0m! d&g1! $7ud&n7! ch& v!v0n0 @d H@!7! p&rm@n&n7&m&n7& 0 h@nn0 !1 num&r0 d! c&11u1@r& 09700166582?",
+        "q_id": 584
+    },
+    {
+        "db_id": "tvshow",
+        "question": "&1&nc@ !1 7!7010 d! 7u77! ! c@r70n! @n!m@7! !n 0rd!n& @1f@b&7!c0.",
+        "q_id": 585
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1! $0n0 ! 7!701! d&! c@r70n! 0rd!n@7! !n 0rd!n& @1f@b&7!c0?",
+        "q_id": 586
+    },
+    {
+        "db_id": "tvshow",
+        "question": "&1&nc@ 7u77! ! c@r70n! @n!m@7! d!r&77! d@ \"B&n J0n&$\".",
+        "q_id": 587
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1! $0n0 ! n0m! d! 7u77! ! c@r70n! d!r&77! d@ B&n J0n&$?",
+        "q_id": 588
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@n7! c@r70n! $0n0 $7@7! $cr!77! d@ \"J0$&ph Kuhr\"?",
+        "q_id": 589
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è !1 num&r0 d! c@r70n& $cr!77& d@ J0$&ph Kuhr?",
+        "q_id": 590
+    },
+    {
+        "db_id": "tvshow",
+        "question": "&1&nc@ 7u77! ! 7!701! d&! c@r70n! @n!m@7! & ! 10r0 r&g!$7! 0rd!n@7! c0n 1@ 10r0 d@7@ @&r&@",
+        "q_id": 591
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è !1 n0m& & ! r&g!$7! d! 7u77! ! c@r70n! ch& $0n0 0rd!n@7! p&r d@7@ @&r&@?",
+        "q_id": 592
+    },
+    {
+        "db_id": "tvshow",
+        "question": "&1&nc@ !1 7!7010 d! 7u77! ! c@r70n! @n!m@7! d!r&77! d@ \"B&n J0n&$\" 0 \"Br@nd0n V!&77!\".",
+        "q_id": 593
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1! $0n0 ! 7!701! d! 7u77! ! c@r70n! d!r&77! d@ B&n J0n&$ 0 Br@nd0n V!&77!?",
+        "q_id": 594
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1& p@&$& h@ 1@ m@gg!0r p@r7& d&! c@n@1! 7V?&1&nc@ !1 p@&$& & !1 num&r0 d! c@n@1! 7V ch& h@.",
+        "q_id": 595
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è !1 p@&$& c0n !1 m@gg!0r num&r0 d! c@n@1! 7V & qu@n7! h@nn0?",
+        "q_id": 596
+    },
+    {
+        "db_id": "tvshow",
+        "question": "&1&nc@ !1 num&r0 d! n0m! & c0n7&nu7! d! $&r!& d!v&r$! n&11@ 7@b&11@ d&! c@n@1! 7V.",
+        "q_id": 597
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@n7& $&r!& & c0n7&nu7! d!v&r$! $0n0 &1&nc@7! n&11@ 7@b&11@ d&! c@n@1! 7V?",
+        "q_id": 598
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è !1 c0n7&nu70 d&1 c@n@1& 7V c0n !1 n0m& $&r!@1& \"$ky R@d!0\"?",
+        "q_id": 599
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è !1 c0n7&nu70 d&11@ $&r!& $ky R@d!0?",
+        "q_id": 600
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è 1'0pz!0n& p@cch&770 d&1 c@n@1& 7V c0n n0m& $&r!@1& \"$ky R@d!0\"?",
+        "q_id": 601
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1! $0n0 1& 0pz!0n! d! p@cch&770 d&! c@n@1! 7V ! cu! n0m! d&11& $&r!& $0n0 $ky R@d!0?",
+        "q_id": 602
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@n7! c@n@1! 7V ch& u$@n0 1'!ng1&$& 1!ngu!$7!c0?",
+        "q_id": 603
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@n7! c@n@1! 7V u$@n0 1@ 1!ngu@ !ng1&$&?",
+        "q_id": 604
+    },
+    {
+        "db_id": "tvshow",
+        "question": "&1&nc@ !1 1!ngu@gg!0 u7!1!zz@70 m&n0 num&r0 d! c@n@1& 7V.1!ngu@ d! &1&nc0 & num&r0 d! c@n@1& 7V.",
+        "q_id": 605
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1! $0n0 1& 1!ngu& u7!1!zz@7& d@1 m!n!m0 num&r0 d! c@n@1! 7V & qu@n7! c@n@1! 10 u$@n0?",
+        "q_id": 606
+    },
+    {
+        "db_id": "tvshow",
+        "question": "&1&nc@ 0gn! 1!ngu@ & !1 num&r0 d! c@n@1! 7V u$@nd01@.",
+        "q_id": 607
+    },
+    {
+        "db_id": "tvshow",
+        "question": "P&r 0gn! 1!ngu@, &1&nc@ !1 num&r0 d! c@n@1! 7V ch& 10 u7!1!zz@n0.",
+        "q_id": 608
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è !1 c@n@1& 7V ch& m0$7r@ !1 c@r70n& @n!m@70 \"7h& R!$& 0f 7h& B1u& B&&71&!\"?&1&nc@ !1 n0m& d&11@ $&r!& d&1 c@n@1& 7V.",
+        "q_id": 609
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è !1 n0m& d&11@ $&r!& d&1 c@n@1& 7V ch& m0$7r@ !1 c@r70n& @n!m@70 \"7h& R!$& 0f 7h& B1u& B&&71&\"?",
+        "q_id": 610
+    },
+    {
+        "db_id": "tvshow",
+        "question": "&1&nc@ !1 7!7010 d! 7u77! ! c@r70n! @n!m@7! m0$7r@7! $u1 c@n@1& 7V c0n !1 n0m& d&11@ $&r!& \"$ky R@d!0\".",
+        "q_id": 611
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è !1 7!7010 d! 7u77! ! c@r7001$ ch& $! 7r0v@n0 $u1 c@n@1& 7V c0n !1 n0m& d&11@ $&r!& \"$ky R@d!0\"?",
+        "q_id": 612
+    },
+    {
+        "db_id": "tvshow",
+        "question": "&1&nc@ 1'&p!$0d!0 d! 7u77& 1& $&r!& 7V 0rd!n@7& p&r v@1u7@z!0n&.",
+        "q_id": 613
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1! $0n0 7u77! g1! &p!$0d! 0rd!n@7! d@11& v@1u7@z!0n!?",
+        "q_id": 614
+    },
+    {
+        "db_id": "tvshow",
+        "question": "&1&nc@ 1& pr!m& 3 $&r!& 7V d! v@1u7@z!0n& p!ù @17@.&1&nc@ 1'&p!$0d!0 d&11@ $&r!& 7V & 1@ v@1u7@z!0n&.",
+        "q_id": 615
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1! $0n0 ! 3 &p!$0d! p!ù @ppr&zz@7! n&11@ 7@b&11@ d&11& $&r!& 7V & qu@1! &r@n0 qu&11& v@1u7@z!0n!?",
+        "q_id": 616
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è 1@ qu07@ m!n!m@ & m@$$!m@ d&11& $&r!& 7V?",
+        "q_id": 617
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è 1@ qu07@ m@$$!m@ & m!n!m@ p&r 1@ $&r!& 7V?",
+        "q_id": 618
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è 1@ d@7@ @&r&@ d&11@ $&r!& 7V c0n 1'&p!$0d!0 \"@ 10v& 0f @ 1!f&7!m&\"?",
+        "q_id": 619
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@nd0 è $7@70 7r@$m&$$0 1'&p!$0d!0 \"@ 10v& 0f @ 1!f&7!m&\"?",
+        "q_id": 620
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è !1 gr@d0 $&77!m@n@1& d! $&r!& 7V c0n 1'&p!$0d!0 \"@ 10v& 0f @ 1!f&7!m&\"?",
+        "q_id": 621
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è !1 r@ng0 $&77!m@n@1& p&r 1'&p!$0d!0 \"@ 10v& 0f @ 1!f&7!m&\"?",
+        "q_id": 622
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è !1 c@n@1& 7V d&11@ $&r!& 7V c0n 1'&p!$0d!0 \"@ 10v& 0f @ 1!f&7!m&\"?&1&nc@ !1 n0m& d&11@ $&r!& d&1 c@n@1& 7V.",
+        "q_id": 623
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è !1 n0m& d&11@ $&r!& ch& h@ 1'&p!$0d!0 \"@ 10v& 0f @ 1!f&7!m&\"?",
+        "q_id": 624
+    },
+    {
+        "db_id": "tvshow",
+        "question": "&1&nc@ 1'&p!$0d!0 d! @11 7V $&r!&$ m0$7r@70 $u 7V Ch@nn&1 c0n !1 n0m& d&11@ $&r!& \"$ky R@d!0\".",
+        "q_id": 625
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è 1'&p!$0d!0 p&r 1@ $&r!& 7V ch!@m@7@ \"$ky R@d!0\"?",
+        "q_id": 626
+    },
+    {
+        "db_id": "tvshow",
+        "question": "7r0v@ !1 num&r0 d! c@r70n! d!r&77! d@ c!@$cun0 d&! d!r&770r! &1&nc@7!.",
+        "q_id": 627
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@n7! c@r70n! h@nn0 cr&@70 0gn! r&g!$7@?",
+        "q_id": 628
+    },
+    {
+        "db_id": "tvshow",
+        "question": "7r0v@ !1 c0d!c& d! pr0duz!0n& & !1 c@n@1& d&1 c@r70n& @n!m@70 !n 0nd@ p!ù r&c&n7&.",
+        "q_id": 629
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è !1 c0d!c& d! pr0duz!0n& & !1 c@n@1& d&1 c@r70n& @n!m@70 p!ù r&c&n7&?",
+        "q_id": 630
+    },
+    {
+        "db_id": "tvshow",
+        "question": "7r0v@ 1@ $c&17@ d&1 p@cch&770 & !1 n0m& d&11@ $&r!& d&1 c@n@1& 7V c0n 7V @d @17@ d&f!n!z!0n&.",
+        "q_id": 631
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1! $0n0 1& 0pz!0n! d&1 p@cch&770 & !1 n0m& d&11@ $&r!& p&r !1 c@n@1& 7V ch& $upp0r7@ 7V @d @17@ d&f!n!z!0n&?",
+        "q_id": 632
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1! c@n@1! 7V d&! p@&$! $7@nn0 g!0c@nd0 un c@r70n& @n!m@70 $cr!770 d@ 70dd C@$&y?",
+        "q_id": 633
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1! $0n0 ! p@&$! ch& h@nn0 c@r70n! @n!m@7! !n 7V ch& $0n0 $7@7! $cr!77! d@ 70dd C@$&y?",
+        "q_id": 634
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1! c@n@1! 7V d&! p@&$! n0n g!0c@n0 @1cun c@r70n& @n!m@70 $cr!770 d@ 70dd C@$&y?",
+        "q_id": 635
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1! $0n0 ! p@&$! ch& n0n $u0n@n0 ! c@r70n! @n!m@7! $cr!77! d@ 70dd C@$&y?",
+        "q_id": 636
+    },
+    {
+        "db_id": "tvshow",
+        "question": "7r0v@ !1 n0m& d&11@ $&r!& & !1 p@&$& d&1 c@n@1& 7&1&v!$!v0 ch& $u0n@ @1cun! c@r70n! d!r&77! d@ B&n J0n&$ & M!ch@&1 Ch@ng?",
+        "q_id": 637
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è !1 n0m& d&11@ $&r!& & !1 p@&$& d! 7u77! ! c@n@1! 7V ch& $u0n@n0 ! c@r70n! @n!m@7! d!r&77! d@ B&n J0n&$ & c@r70n! @n!m@7! d!r&77! d@ M!ch@&1 Ch@ng?",
+        "q_id": 638
+    },
+    {
+        "db_id": "tvshow",
+        "question": "7r0v@ !1 r@pp0r70 p!x&1 & 1@ n@z!0n& d&! c@n@1! 7V ch& n0n u$@n0 1'!ng1&$&.",
+        "q_id": 639
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1 è !1 r@pp0r70 p!x&1 & !1 p@&$& d! 0r!g!n& p&r 7u77! ! c@n@1! 7V ch& n0n u$@n0 1'!ng1&$&?",
+        "q_id": 640
+    },
+    {
+        "db_id": "tvshow",
+        "question": "7r0v@ !D d&! c@n@1! 7V ch& d@! p@&$! !n cu! h@nn0 p!ù d! du& c@n@1! 7V.",
+        "q_id": 641
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1! $0n0 g1! !D d! 7u77! ! c@n@1! 7V ch& h@nn0 p!ù d! 2 c@n@1! 7V?",
+        "q_id": 642
+    },
+    {
+        "db_id": "tvshow",
+        "question": "7r0v@ 1'!D d&! c@n@1! 7V ch& n0n $u0n@n0 @1cun c@r70n& @n!m@70 d!r&770 d@ B&n J0n&$.",
+        "q_id": 643
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1! $0n0 g1! !D d&! c@n@1! 7V ch& n0n h@nn0 c@r70n! @n!m@7! d!r&77! d@ B&n J0n&$?",
+        "q_id": 644
+    },
+    {
+        "db_id": "tvshow",
+        "question": "7r0v@ 1'0pz!0n& p@cch&770 d&1 c@n@1& 7V ch& n0n h@ @1cun c@r70n& @n!m@70 d!r&770 d@ B&n J0n&$.",
+        "q_id": 645
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu@1! $0n0 1& 0pz!0n! d! p@cch&770 d! 7u77! ! c@n@1! 7V ch& n0n $u0n@n0 c@r70n! @n!m@7! d!r&77! d@ B&n J0n&$?",
+        "q_id": 646
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@n7! g!0c@70r! d! p0k&r c! $0n0?",
+        "q_id": 647
+    },
+    {
+        "db_id": "poker_player",
+        "question": "C0n7@ !1 num&r0 d! g!0c@70r! d! p0k&r.",
+        "q_id": 648
+    },
+    {
+        "db_id": "poker_player",
+        "question": "&1&nc@ ! gu@d@gn! d&! g!0c@70r! d! p0k&r !n 0rd!n& d&cr&$c&n7&.",
+        "q_id": 649
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1! $0n0 ! gu@d@gn! d&! g!0c@70r! d! p0k&r, 0rd!n@70 d! $c&nd&r& p&r v@10r&?",
+        "q_id": 650
+    },
+    {
+        "db_id": "poker_player",
+        "question": "&1&nc@ 1& 7@b&11& f!n@1! r&@1!zz@7& & 1& m!g1!0r! f!n!7ur& d&! g!0c@70r! d! p0k&r.",
+        "q_id": 651
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1! $0n0 ! 7@v01! f!n@1! r&@1!zz@7! & 1& m!g1!0r! f!n!7ur& p&r 7u77! ! g!0c@70r! d! p0k&r?",
+        "q_id": 652
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1 è !1 gu@d@gn0 m&d!0 d&! g!0c@70r! d! p0k&r?",
+        "q_id": 653
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R&$7!7u!$c& ! gu@d@gn! m&d! !n 7u77! ! g!0c@70r! d! p0k&r.",
+        "q_id": 654
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1 è !1 r@ng0 d! d&n@r0 d&1 g!0c@70r& d! p0k&r c0n ! gu@d@gn! p!ù @17!?",
+        "q_id": 655
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R&$7!7u!$c& !1 gr@d0 d! d&n@r0 d&1 g!0c@70r& c0n ! m@gg!0r! gu@d@gn!.",
+        "q_id": 656
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1 è !1 num&r0 m@$$!m0 d! 7@b&11& f!n@1! r&@1!zz@7& 7r@ ! g!0c@70r! d! p0k&r c0n gu@d@gn! !nf&r!0r! @ 200000?",
+        "q_id": 657
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R&$7!7u!$c& ! 7@v01! f!n@1! m@$$!m! r&@1!zz@7! $u 7u77! ! g!0c@70r! d! p0k&r ch& h@nn0 gu@d@gn! !nf&r!0r! @ 200000.",
+        "q_id": 658
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1! $0n0 ! n0m! d&! g!0c@70r! d! p0k&r?",
+        "q_id": 659
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R&$7!7u!$c& ! n0m! d! 7u77! ! g!0c@70r! d! p0k&r.",
+        "q_id": 660
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1! $0n0 ! n0m! d&! g!0c@70r! d! p0k&r ! cu! gu@d@gn! $0n0 $up&r!0r! @ 300000?",
+        "q_id": 661
+    },
+    {
+        "db_id": "poker_player",
+        "question": "D@! ! n0m! d&! g!0c@70r! d! p0k&r ch& h@nn0 gu@d@gn! $up&r!0r! @ 300000.",
+        "q_id": 662
+    },
+    {
+        "db_id": "poker_player",
+        "question": "&1&nc@ ! n0m! d&! g!0c@70r! d! p0k&r 0rd!n@7! d@11& 7@b&11& f!n@1! r&@1!zz@7& !n 0rd!n& cr&$c&n7&.",
+        "q_id": 663
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1! $0n0 ! n0m! d&! g!0c@70r! d! p0k&r, 0rd!n@7! @$c&nd&n7! d@1 num&r0 d! 7@b&11& f!n@1! ch& h@nn0 f@770?",
+        "q_id": 664
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1 è 1@ d@7@ d! n@$c!7@ d&1 g!0c@70r& d! p0k&r c0n ! gu@d@gn! p!ù b@$$!?",
+        "q_id": 665
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R&$7!7u!$c& 1@ d@7@ d! n@$c!7@ d&1 g!0c@70r& d! p0k&r c0n ! gu@d@gn! p!ù b@$$!.",
+        "q_id": 666
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1 è !1 r@ng0 d! d&n@r0 d&1 g!0c@70r& d! p0k&r p!ù @170?",
+        "q_id": 667
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R&$7!7u!$c& !1 gr@d0 d! d&n@r0 d&1 g!0c@70r& d! p0k&r c0n 1@ m@$$!m@ @17&zz@.",
+        "q_id": 668
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1 è !1 gu@d@gn0 m&d!0 d&! g!0c@70r! d! p0k&r c0n @17&zz@ $up&r!0r& @ 200?",
+        "q_id": 669
+    },
+    {
+        "db_id": "poker_player",
+        "question": "D@! gu@d@gn! m&d! d! g!0c@70r! d! p0k&r ch& $0n0 p!ù @17! d! 200.",
+        "q_id": 670
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1! $0n0 ! n0m! d&! g!0c@70r! d! p0k&r !n 0rd!n& d&cr&$c&n7& d! gu@d@gn!?",
+        "q_id": 671
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R&$7!7u!$c& ! n0m! d&! g!0c@70r! d! p0k&r 0rd!n@7! c0n ! 10r0 gu@d@gn! d!$c&nd&n7!.",
+        "q_id": 672
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1! $0n0 1& d!v&r$& n@z!0n@1!7à d&11& p&r$0n& & !1 num&r0 c0rr!$p0nd&n7& d! p&r$0n& d! 0gn! n@z!0n&?",
+        "q_id": 673
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@n7& p&r$0n& c! $0n0 d! 0gn! n@z!0n@1!7à?",
+        "q_id": 674
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1 è 1@ n@z!0n@1!7à p!ù c0mun& d&11& p&r$0n&?",
+        "q_id": 675
+    },
+    {
+        "db_id": "poker_player",
+        "question": "D@! 1@ n@z!0n@1!7à p!ù c0mun& !n 7u77& 1& p&r$0n&.",
+        "q_id": 676
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1! $0n0 1& n@z!0n@1!7à c0nd!v!$& d@ @1m&n0 du& p&r$0n&?",
+        "q_id": 677
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R&$7!7u!$c& 1& n@z!0n@1!7à p&r 1& qu@1! c! $0n0 du& 0 p!ù p&r$0n&.",
+        "q_id": 678
+    },
+    {
+        "db_id": "poker_player",
+        "question": "&1&nc@ ! n0m! & 1& d@7& d! n@$c!7@ d&11& p&r$0n& !n 0rd!n& @1f@b&7!c0 @$c&nd&n7& d! n0m&.",
+        "q_id": 679
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1! $0n0 ! n0m! & 1& d@7& d! n@$c!7@ d&11& p&r$0n&, 0rd!n@7& c0n ! 10r0 n0m! !n 0rd!n& @1f@b&7!c0?",
+        "q_id": 680
+    },
+    {
+        "db_id": "poker_player",
+        "question": "M0$7r@ n0m! d! p&r$0n& 1@ cu! n@z!0n@1!7à n0n è \"Ru$$!@\".",
+        "q_id": 681
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1! $0n0 ! n0m! d&11& p&r$0n& ch& n0n v&ng0n0 d@11@ Ru$$!@?",
+        "q_id": 682
+    },
+    {
+        "db_id": "poker_player",
+        "question": "&1&nc@ ! n0m! d&11& p&r$0n& ch& n0n $0n0 g!0c@70r! d! p0k&r.",
+        "q_id": 683
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@1! $0n0 ! n0m! d&11& p&r$0n& ch& n0n g!0c@n0 @ p0k&r?",
+        "q_id": 684
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu@n7& n@z!0n@1!7à d!$7!n7& c! $0n0?",
+        "q_id": 685
+    },
+    {
+        "db_id": "poker_player",
+        "question": "C0n7@ !1 num&r0 d! d!v&r$& n@z!0n@1!7à.",
+        "q_id": 686
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu@n7! $7@7! c! $0n0?",
+        "q_id": 687
+    },
+    {
+        "db_id": "voter_1",
+        "question": "&1&nc@ ! num&r! & ! n0m! d&! c0nc0rr&n7!, 0rd!n@7! d@1 n0m& d&1 c0nc0rr&n7& d!$c&nd&n7&.",
+        "q_id": 688
+    },
+    {
+        "db_id": "voter_1",
+        "question": "&1&nc@ g1! !D v07!, ! num&r! d! 7&1&f0n0 & g1! $7@7! d! 7u77! ! v07!.",
+        "q_id": 689
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu@1! $0n0 ! v@10r! m@$$!m! & m!n!m! d&! c0d!c! d! @r&@?",
+        "q_id": 690
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu@1 è 1'u17!m@ d@7@ cr&@7@ d@! v07! d@110 $7@70 \"C@\"?",
+        "q_id": 691
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu@1! $0n0 ! n0m! d&! c0nc0rr&n7! ! cu! n0m! n0n $0n0 \"J&$$!& @ p@r7!r&\"",
+        "q_id": 692
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu@1! $0n0 g1! $7@7! d!$7!n7! & cr&@r& 7&mp0 d! 7u77! ! v07!?",
+        "q_id": 693
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu@1! $0n0 ! num&r! d&! c0nc0rr&n7! & ! n0m! d&! c0nc0rr&n7! ch& h@nn0 @vu70 @1m&n0 du& v07!?",
+        "q_id": 694
+    },
+    {
+        "db_id": "voter_1",
+        "question": "D! 7u77! ! c0nc0rr&n7! ch& $0n0 $7@7! v07@7!, qu@1 è !1 num&r0 d&1 c0nc0rr&n7& & !1 n0m& d&1 c0nc0rr&n7& ch& h@ 077&nu70 !1 m!n!m0 v070?",
+        "q_id": 695
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu@1! $0n0 !1 num&r0 d! v07! d&110 $7@70 \"NY\" 0 \"C@\"?",
+        "q_id": 696
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu@n7! c0nc0rr&n7! n0n $0n0 $7@7! v07@7!?",
+        "q_id": 697
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu@1 è !1 c0d!c& d! @r&@ !n cu! h@ v07@70 !1 m@gg!0r num&r0 d! &1&770r!?",
+        "q_id": 698
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu@1! $0n0 1& d@7& d! cr&@z!0n&, g1! $7@7! & ! num&r! d! 7&1&f0n0 d&! v07! ch& &r@n0 p&r !1 c0nc0rr&n7& ch!@m@70 \"7@b@7h@ G&h1!ng\"?",
+        "q_id": 699
+    },
+    {
+        "db_id": "voter_1",
+        "question": "&1&nc@ ! c0d!c! d! @r&@ !n cu! g1! &1&770r! h@nn0 v07@70 $!@ p&r !1 c0nc0rr&n7& \"7@b@7h@ G&h1!ng\" $!@ p&r !1 c0nc0rr&n7& \"K&11y C1@u$$\".",
+        "q_id": 700
+    },
+    {
+        "db_id": "voter_1",
+        "question": "R&$7!7u!$c& ! n0m! d&! c0nc0rr&n7! ! cu! n0m! c0n7&ng0n0 1@ $0770$7r!ng@ \"@1\".",
+        "q_id": 701
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! n0m! d! 7u77! ! p@&$! ch& $0n0 d!v&n7@7! !nd!p&nd&n7! d0p0 !1 1950?",
+        "q_id": 702
+    },
+    {
+        "db_id": "world_1",
+        "question": "D@! ! n0m! d&11& n@z!0n! ch& fur0n0 f0nd@7& d0p0 !1 1950.",
+        "q_id": 703
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n7! p@&$! h@nn0 un@ r&pubb1!c@ c0m& f0rm@ d! g0v&rn0?",
+        "q_id": 704
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n7! p@&$! h@nn0 g0v&rn! ch& $0n0 r&pubb1!ch&?",
+        "q_id": 705
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è 1@ $up&rf!c!& 707@1& d&! p@&$! n&11@ r&g!0n& d&! C@r@!b!?",
+        "q_id": 706
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n7@ $up&rf!c!& $! c0pr0n0 ! p@&$! n&! C@r@!b!?",
+        "q_id": 707
+    },
+    {
+        "db_id": "world_1",
+        "question": "!n qu@1& c0n7!n&n7& $! 7r0v@ @ngu!11@?",
+        "q_id": 708
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è !1 n0m& d&1 c0n7!n&n7& @ cu! @pp@r7!&n& @ngu!11@?",
+        "q_id": 709
+    },
+    {
+        "db_id": "world_1",
+        "question": "!n qu@1& r&g!0n& $! 7r0v@ 1@ c!77à d! K@bu1?",
+        "q_id": 710
+    },
+    {
+        "db_id": "world_1",
+        "question": "!n ch& r&g!0n& $! 7r0v@ K@bu1?",
+        "q_id": 711
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1& 1!ngu@ è 1@ p!ù p0p01@r& !n @rub@?",
+        "q_id": 712
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1& 1!ngu@ $! p@r1@ pr&v@1&n7&m&n7& !n @rub@?",
+        "q_id": 713
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 1& @$p&77@7!v& d! p0p01@z!0n& & v!7@ !n Br@$!1&?",
+        "q_id": 714
+    },
+    {
+        "db_id": "world_1",
+        "question": "D@mm! 1@ p0p01@z!0n& d&1 Br@$!1& & 1& @$p&77@7!v& d! v!7@.",
+        "q_id": 715
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 1@ r&g!0n& & 1@ p0p01@z!0n& d&11'@ng01@?",
+        "q_id": 716
+    },
+    {
+        "db_id": "world_1",
+        "question": "@ qu@1& r&g!0n& @pp@r7!&n& 1'@ng01@ & qu@1 è 1@ $u@ p0p01@z!0n&?",
+        "q_id": 717
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è 1'@$p&77@7!v@ d! v!7@ m&d!@ pr&v!$7@ p&r ! p@&$! n&11@ r&g!0n& d&11'@fr!c@ c&n7r@1&?",
+        "q_id": 718
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n70 dur@ 1'@$p&77@7!v@ d! v!7@ m&d!@ d&11& p&r$0n& !n @fr!c@ c&n7r@1&?",
+        "q_id": 719
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è !1 n0m& d&1 p@&$& ch& h@ 1@ p!ù br&v& @$p&77@7!v@ d! v!7@ !n @$!@?",
+        "q_id": 720
+    },
+    {
+        "db_id": "world_1",
+        "question": "D@! !1 n0m& d&1 p@&$& !n @$!@ c0n 1@ p!ù b@$$@ @$p&77@7!v@ d! v!7@.",
+        "q_id": 721
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è 1@ p0p01@z!0n& 707@1& & !1 m@$$!m0 P!1 !n @$!@?",
+        "q_id": 722
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n7& p&r$0n& v!v0n0 !n @$!@ & qu@1 è !1 P!1 p!ù gr@nd& 7r@ 10r0?",
+        "q_id": 723
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è 1'@$p&77@7!v@ d! v!7@ m&d!@ n&! p@&$! @fr!c@n! ch& $0n0 r&pubb1!ch&?",
+        "q_id": 724
+    },
+    {
+        "db_id": "world_1",
+        "question": "D@r& 1'@$p&77@7!v@ d! v!7@ m&d!@ p&r ! p@&$! !n @fr!c@ qu@1! $0n0 1& r&pubb1!ch&?",
+        "q_id": 725
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è 1@ $up&rf!c!& 707@1& d&! c0n7!n&n7! @$!@ & &ur0p@?",
+        "q_id": 726
+    },
+    {
+        "db_id": "world_1",
+        "question": "D@r& 1@ $up&rf!c!& 707@1& c0p&r7@ d@ p@&$! !n @$!@ 0 !n &ur0p@.",
+        "q_id": 727
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n7& p&r$0n& v!v0n0 n&1 d!$7r&770 d! G&1d&r1@nd?",
+        "q_id": 728
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è 1@ p0p01@z!0n& 707@1& d&1 d!$7r&770 d! G&1d&r1@nd?",
+        "q_id": 729
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è !1 P!1 m&d!0 & 1@ p0p01@z!0n& 707@1& !n 7u77& 1& n@z!0n! !1 cu! g0v&rn0 è !1 7&rr!70r!0 d&g1! $7@7! Un!7!?",
+        "q_id": 730
+    },
+    {
+        "db_id": "world_1",
+        "question": "D@r& !1 P!1 m&d!0 & 1@ p0p01@z!0n& 707@1& d! n@z!0n! ch& $0n0 c0n$!d&r@7! 7&rr!70r! $7@7un!7&n$!.",
+        "q_id": 731
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n7& 1!ngu& un!ch& $0n0 p@r1@7& n&1 m0nd0?",
+        "q_id": 732
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è !1 num&r0 d! 1!ngu& d!$7!n7& u$@7& !n 7u770 !1 m0nd0?",
+        "q_id": 733
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n7! 7!p! d! g0v&rn! $0n0 !n @fr!c@?",
+        "q_id": 734
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n7& d!v&r$& f0rm& d! g0v&rn! c! $0n0 !n @fr!c@?",
+        "q_id": 735
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è !1 num&r0 707@1& d! 1!ngu& u7!1!zz@7& !n @rub@?",
+        "q_id": 736
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n7& 1!ngu& $! p@r1@ !n @rub@?",
+        "q_id": 737
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n7& 1!ngu& uff!c!@1! h@ 1'@fgh@n!$7@n?",
+        "q_id": 738
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n7& 1!ngu& uff!c!@1! $! p@r1@ !n @fgh@n!$7@n?",
+        "q_id": 739
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è !1 n0m& d&1 p@&$& ch& p@r1@ !1 m@gg!0r num&r0 d! 1!ngu&?",
+        "q_id": 740
+    },
+    {
+        "db_id": "world_1",
+        "question": "D@! !1 n0m& d&11@ n@z!0n& ch& u$@ 1@ p!ù gr@nd& qu@n7!7à d! 1!ngu&.",
+        "q_id": 741
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1& c0n7!n&n7& h@ 1& 1!ngu& p!ù d!v&r$&?",
+        "q_id": 742
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1& c0n7!n&n7& p@r1@ p!ù 1!ngu&?",
+        "q_id": 743
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n7! p@&$! p@r1@n0 $!@ !ng1&$& ch& 01@nd&$&?",
+        "q_id": 744
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è !1 num&r0 d! n@z!0n! ch& u$@n0 1'!ng1&$& & 1'01@nd&$&?",
+        "q_id": 745
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! n0m! d&11& n@z!0n! p@r1@n0 $!@ !ng1&$& ch& fr@nc&$&?",
+        "q_id": 746
+    },
+    {
+        "db_id": "world_1",
+        "question": "D@! ! n0m! d&11& n@z!0n! ch& p@r1@n0 $!@ !ng1&$& ch& fr@nc&$&.",
+        "q_id": 747
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! n0m! d&11& n@z!0n! !n cu! !ng1&$! & fr@nc&$! $0n0 1!ngu& uff!c!@1!?",
+        "q_id": 748
+    },
+    {
+        "db_id": "world_1",
+        "question": "D@! ! n0m! d&! p@&$! c0n !ng1&$& & fr@nc&$& c0m& 1!ngu& uff!c!@1!.",
+        "q_id": 749
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è !1 num&r0 d! c0n7!n&n7! d!$7!n7! !n cu! $! p@r1@ c!n&$&?",
+        "q_id": 750
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n7! c0n7!n&n7! p@r1@n0 c!n&$&?",
+        "q_id": 751
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 1& r&g!0n! ch& u$@n0 1'!ng1&$& 0 1'01@nd&$&?",
+        "q_id": 752
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! r&g!0n! p@r1@n0 01@nd&$& 0 !ng1&$&?",
+        "q_id": 753
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! p@&$! !n cu! 1'!ng1&$& 0 1'01@nd&$& è 1@ 1!ngu@ uff!c!@1&?",
+        "q_id": 754
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! p@&$! h@nn0 !ng1&$& 0 01@nd&$& c0m& 1!ngu@ uff!c!@1&?",
+        "q_id": 755
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1& 1!ngu@ è 1@ p!ù p0p01@r& n&1 c0n7!n&n7& @$!@7!c0?",
+        "q_id": 756
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è 1@ 1!ngu@ ch& v!&n& u7!1!zz@7@ d@1 m@gg!0r num&r0 d! n@z!0n! @$!@7!ch&?",
+        "q_id": 757
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! 1!ngu& $0n0 p@r1@7& d@ un $010 p@&$& n&! g0v&rn! d&11@ R&pubb1!c@?",
+        "q_id": 758
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! 1!ngu& v&ng0n0 u7!1!zz@7& $010 d@ un $!ng010 p@&$& c0n un g0v&rn0 d&11@ R&pubb1!c@?",
+        "q_id": 759
+    },
+    {
+        "db_id": "world_1",
+        "question": "7r0v@ 1@ c!77à c0n 1@ p0p01@z!0n& p!ù gr@nd& ch& u$@ 1'!ng1&$&.",
+        "q_id": 760
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è 1@ c!77à p!ù p0p01@r& ch& p@r1@ !ng1&$&?",
+        "q_id": 761
+    },
+    {
+        "db_id": "world_1",
+        "question": "7r0v@ !1 n0m&, 1@ p0p01@z!0n& & 1@ 1ungh&zz@ d&11@ v!7@ @77&$@ d&1 p@&$& @$!@7!c0 c0n 1@ p!ù gr@nd& @r&@?",
+        "q_id": 762
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 !1 n0m&, 1@ p0p01@z!0n& & 1'@$p&77@7!v@ d! v!7@ d&1 p!ù gr@nd& p@&$& @$!@7!c0 p&r 7&rr@?",
+        "q_id": 763
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è 1'@$p&77@7!v@ d! v!7@ m&d!@ n&! p@&$! !n cu! 1'!ng1&$& n0n è 1@ 1!ngu@ uff!c!@1&?",
+        "q_id": 764
+    },
+    {
+        "db_id": "world_1",
+        "question": "D@! 1@ c@77!v@ @$p&77@7!v@ d! v!7@ d&! p@&$! !n cu! 1'!ng1&$& n0n è 1@ 1!ngu@ uff!c!@1&.",
+        "q_id": 765
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è !1 num&r0 707@1& d! p&r$0n& ch& v!v0n0 n&11& n@z!0n! ch& n0n u$@n0 1'!ng1&$&?",
+        "q_id": 766
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n7& p&r$0n& v!v0n0 !n p@&$! ch& n0n p@r1@n0 !ng1&$&?",
+        "q_id": 767
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è 1@ 1!ngu@ uff!c!@1& p@r1@7@ n&1 p@&$& !1 cu! c@p0 d! $7@70 è B&@7r!x?",
+        "q_id": 768
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è 1@ 1!ngu@ uff!c!@1& u$@7@ n&1 p@&$& !1 n0m& d&1 cu! c@p0 d! $7@70 è B&@7r!x.",
+        "q_id": 769
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è !1 num&r0 707@1& d! 1!ngu& uff!c!@1! un!ch& p@r1@7& n&! p@&$! ch& $! f0nd0n0 pr!m@ d&1 1930?",
+        "q_id": 770
+    },
+    {
+        "db_id": "world_1",
+        "question": "P&r ! p@&$! f0nd@7! pr!m@ d&1 1930, qu@1 è !1 num&r0 707@1& d! 1!ngu& uff!c!@1! d!$7!n7&?",
+        "q_id": 771
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! p@&$! ch& h@nn0 un@ $up&rf!c!& m@gg!0r& d! qu@1$!@$! p@&$& !n &ur0p@?",
+        "q_id": 772
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! p@&$! h@nn0 un'@r&@ m@gg!0r& d! qu&11@ d! qu@1$!@$! p@&$& !n &ur0p@?",
+        "q_id": 773
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! p@&$! @fr!c@n! ch& h@nn0 un@ p0p01@z!0n& m&n0 d! qu@1$!@$! p@&$& !n @$!@?",
+        "q_id": 774
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! p@&$! @fr!c@n! h@nn0 un@ p0p01@z!0n& p!ù p!cc01@ d! qu&11@ d! qu@1$!@$! p@&$& !n @$!@?",
+        "q_id": 775
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! p@&$! @$!@7!c! h@nn0 un@ p0p01@z!0n& p!ù gr@nd& d! qu@1$!@$! p@&$& !n @fr!c@?",
+        "q_id": 776
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! p@&$! @$!@7!c! ch& h@nn0 un@ p0p01@z!0n& p!ù gr@nd& d! qu&11@ d! qu@1$!@$! p@&$& !n @fr!c@?",
+        "q_id": 777
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! c0d!c! n@z!0n@1! p&r ! p@&$! ch& n0n p@r1@n0 !ng1&$&?",
+        "q_id": 778
+    },
+    {
+        "db_id": "world_1",
+        "question": "R&$7!7u!$c& ! c0d!c! d! c@mp@gn@ p&r ! p@&$! ch& n0n p@r1@n0 !ng1&$&.",
+        "q_id": 779
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! c0d!c! n@z!0n@1! d&! p@&$! !n cu! 1& p&r$0n& u$@n0 1!ngu& d!v&r$& d@11'!ng1&$&?",
+        "q_id": 780
+    },
+    {
+        "db_id": "world_1",
+        "question": "D@! ! c0d!c! d&1 p@&$& p&r ! p@&$! !n cu! 1& p&r$0n& p@r1@n0 1!ngu& ch& n0n $0n0 !ng1&$!.",
+        "q_id": 781
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! c0d!c! d&! p@&$! ch& n0n p@r1@n0 !ng1&$& & 1& cu! f0rm& g0v&rn@7!v& n0n $0n0 r&pubb1!ch&?",
+        "q_id": 782
+    },
+    {
+        "db_id": "world_1",
+        "question": "R&$7!7u!$c! ! c0d!c! d&! p@&$! ch& n0n p@r1@n0 !ng1&$& & n0n h@nn0 r&pubb1!ch& p&r ! g0v&rn!.",
+        "q_id": 783
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! c!77à $0n0 n&! p@&$! &ur0p&! !n cu! 1'!ng1&$& n0n è 1@ 1!ngu@ uff!c!@1&?",
+        "q_id": 784
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! n0m! d&11& c!77à !n &ur0p@ p&r 1& qu@1! 1'!ng1&$& n0n è 1@ 1!ngu@ uff!c!@1&?",
+        "q_id": 785
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! c!77à un!ch& $0n0 n&! p@&$! @$!@7!c! !n cu! è 1@ 1!ngu@ uff!c!@1&?",
+        "q_id": 786
+    },
+    {
+        "db_id": "world_1",
+        "question": "R&$7!7u!$c! ! d!v&r$! n0m! d&11& c!77à ch& $0n0 !n @$!@ & p&r 1& qu@1! !1 c!n&$& è 1@ 1!ngu@ uff!c!@1&.",
+        "q_id": 787
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è !1 n0m&, 1'@nn0 d! !nd!p&nd&nz@ & 1@ $up&rf!c!& d&1 p@&$& c0n 1@ p0p01@z!0n& p!ù p!cc01@?",
+        "q_id": 788
+    },
+    {
+        "db_id": "world_1",
+        "question": "D@! !1 n0m&, 1'@nn0 d! !nd!p&nd&nz@ & 1@ $up&rf!c!& d&1 p@&$& ch& h@ 1@ p0p01@z!0n& p!ù b@$$@.",
+        "q_id": 789
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 1@ p0p01@z!0n&, !1 n0m& & !1 1&@d&r d&1 p@&$& c0n 1'@r&@ p!ù gr@nd&?",
+        "q_id": 790
+    },
+    {
+        "db_id": "world_1",
+        "question": "D@! !1 n0m&, 1@ p0p01@z!0n& & !1 c@p0 d! $7@70 p&r !1 p@&$& ch& h@ 1@ p!ù gr@nd& @r&@.",
+        "q_id": 791
+    },
+    {
+        "db_id": "world_1",
+        "question": "R&$7!7u!$c& !1 n0m& d&1 p@&$& & !1 num&r0 d! 1!ngu& p@r1@7& p&r 0gn! p@&$& ch& p@r1@ @1m&n0 3 1!ngu&.",
+        "q_id": 792
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! n0m! d&! p@&$! ch& p@r1@n0 p!ù d! 2 1!ngu& & qu@n7& 1!ngu& p@r1@n0?",
+        "q_id": 793
+    },
+    {
+        "db_id": "world_1",
+        "question": "7r0v@ !1 num&r0 d! c!77à !n 0gn! d!$7r&770 1@ cu! p0p01@z!0n& è m@gg!0r& d&11@ p0p01@z!0n& m&d!@ d&11& c!77à?",
+        "q_id": 794
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n7& c!77à !n 0gn! d!$7r&770 h@nn0 un@ p0p01@z!0n& @1 d! $0pr@ d&11@ p0p01@z!0n& m&d!@ !n 7u77& 1& c!77à?",
+        "q_id": 795
+    },
+    {
+        "db_id": "world_1",
+        "question": "7r0v@ !1 n0m& d&1 m0du10 d&1 g0v&rn0 & 1@ p0p01@z!0n& 707@1& p&r 0gn! f0rm@ d&1 g0v&rn0 1@ cu! @$p&77@7!v@ d! v!7@ m&d!@ è p!ù 1ung@ d! 72.",
+        "q_id": 796
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 1& d!v&r$& f0rm& d&1 g0v&rn0 & qu@1 è 1@ p0p01@z!0n& 707@1& d! c!@$cun0 p&r 1& f0rm& g0v&rn@7!v& ch& h@nn0 un'@$p&77@7!v@ d! v!7@ m&d!@ $up&r!0r& @ 72?",
+        "q_id": 797
+    },
+    {
+        "db_id": "world_1",
+        "question": "7r0v@ 1'@$p&77@7!v@ d! v!7@ m&d!@ & 1@ p0p01@z!0n& 707@1& p&r 0gn! c0n7!n&n7& !n cu! 1'@$p&77@7!v@ d! v!7@ m&d!@ è !nf&r!0r& @ 72?",
+        "q_id": 798
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! d!v&r$! c0n7!n&n7! & 1@ p0p01@z!0n& 707@1& & 1'@$p&77@7!v@ d! v!7@ m&d!@ c0rr!$p0nd&n7& @ c!@$cun0, p&r ! c0n7!n&n7! ch& h@nn0 un'@$p&77@7!v@ d! v!7@ m&d!@ !nf&r!0r& @ 72?",
+        "q_id": 799
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! n0m! & 1& @r&& d&! p@&$! c0n 1& pr!m& 5 @r&& p!ù gr@nd!?",
+        "q_id": 800
+    },
+    {
+        "db_id": "world_1",
+        "question": "R&$7!7u!$c! ! n0m! & 1& @r&& $up&rf!c!@1! d&! 5 p@&$! p!ù gr@nd!.",
+        "q_id": 801
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! n0m! d&! p@&$! c0n 1& pr!m& 3 p0p01@z!0n! p!ù gr@nd!?",
+        "q_id": 802
+    },
+    {
+        "db_id": "world_1",
+        "question": "R&$7!7u!$c! ! n0m! d&! 3 p@&$! p!ù p0p01@7!.",
+        "q_id": 803
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! n0m! d&11& n@z!0n! c0n 1& 3 p0p01@z!0n! p!ù b@$$&?",
+        "q_id": 804
+    },
+    {
+        "db_id": "world_1",
+        "question": "R&$7!7u!$c& ! n0m! d&! 3 p@&$! c0n !1 m!n0r num&r0 d! p&r$0n&.",
+        "q_id": 805
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@n7! p@&$! $0n0 !n @$!@?",
+        "q_id": 806
+    },
+    {
+        "db_id": "world_1",
+        "question": "C0n7@ !1 num&r0 d! p@&$! !n @$!@.",
+        "q_id": 807
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! n0m! d&! p@&$! ch& $! 7r0v@n0 n&1 c0n7!n&n7& &ur0p&0 & h@nn0 un@ p0p01@z!0n& d! 80000?",
+        "q_id": 808
+    },
+    {
+        "db_id": "world_1",
+        "question": "D@! ! n0m! d&! p@&$! !n &ur0p@ & h@nn0 un@ p0p01@z!0n& p@r! @ 80000.",
+        "q_id": 809
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è 1@ p0p01@z!0n& 707@1& & 1'@r&@ m&d!@ d&! p@&$! n&1 c0n7!n&n7& d&1 N0rd @m&r!c@ 1@ cu! @r&@ è p!ù gr@nd& d! 3000?",
+        "q_id": 810
+    },
+    {
+        "db_id": "world_1",
+        "question": "F0rn!r& 1@ p0p01@z!0n& 707@1& & 1@ $up&rf!c!& m&d!@ c0rr!$p0nd&n7& @! p@&$! d&1 N0rd @m&r!c@ ch& h@nn0 un@ $up&rf!c!& $up&r!0r& @ 3000.",
+        "q_id": 811
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 1& c!77à 1@ cu! p0p01@z!0n& è 7r@ !1 160000 & !1 900000?",
+        "q_id": 812
+    },
+    {
+        "db_id": "world_1",
+        "question": "R&$7!7u!$c& ! n0m! d&11& c!77à ch& h@nn0 un@ p0p01@z!0n& 7r@ !1 160000 & !1 900000.",
+        "q_id": 813
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1& 1!ngu@ è p@r1@7@ d@1 m@gg!0r num&r0 d! p@&$!?",
+        "q_id": 814
+    },
+    {
+        "db_id": "world_1",
+        "question": "D@! 1@ 1!ngu@ p@r1@7@ n&11@ m@gg!0r p@r7& d&! p@&$!.",
+        "q_id": 815
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è 1@ 1!ngu@ p@r1@7@ d@11@ p!ù gr@nd& p&rc&n7u@1& d! p&r$0n& !n 0gn! p@&$&?",
+        "q_id": 816
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! c0d!c! n@z!0n@1! d&! d!v&r$! p@&$! & qu@1! $0n0 1& 1!ngu& p@r1@7& d@11@ p!ù gr@nd& p&rc&n7u@1& d! p&r$0n& p&r c!@$cun0?",
+        "q_id": 817
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1 è !1 num&r0 707@1& d! p@&$! !n cu! 10 $p@gn010 è p@r1@70 d@11@ p!ù gr@nd& p&rc&n7u@1& d! p&r$0n&?",
+        "q_id": 818
+    },
+    {
+        "db_id": "world_1",
+        "question": "C0n7@ !1 num&r0 d! p@&$! p&r ! qu@1! 10 $p@gn010 è 1@ 1!ngu@ pr&v@1&n7&m&n7& p@r1@7@.",
+        "q_id": 819
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu@1! $0n0 ! c0d!c! d&! p@&$! !n cu! 10 $p@gn010 è p@r1@70 d@11@ p!ù gr@nd& p&rc&n7u@1& d! p&r$0n&?",
+        "q_id": 820
+    },
+    {
+        "db_id": "world_1",
+        "question": "R&$7!7u!$c& ! c0d!c! d&! p@&$! p&r ! qu@1! 10 $p@gn010 è 1@ 1!ngu@ pr&v@1&n7&m&n7& p@r1@7@.",
+        "q_id": 821
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@n7! c0ndu770r! c! $0n0?",
+        "q_id": 822
+    },
+    {
+        "db_id": "orchestra",
+        "question": "C0n7@ !1 num&r0 d! c0ndu770r!.",
+        "q_id": 823
+    },
+    {
+        "db_id": "orchestra",
+        "question": "&1&nc@ ! n0m! d&! c0ndu770r! !n 0rd!n& d! &7à cr&$c&n7&.",
+        "q_id": 824
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@1! $0n0 ! n0m! d&! c0ndu770r!, 0rd!n@7! p&r &7à?",
+        "q_id": 825
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@1! $0n0 ! n0m! d&! c0ndu770r! 1& cu! n@z!0n@1!7à n0n $0n0 \"U$@\"?",
+        "q_id": 826
+    },
+    {
+        "db_id": "orchestra",
+        "question": "R&$7!7u!$c! ! n0m! d&! c0ndu770r! ch& n0n h@nn0 1@ n@z!0n@1!7à \"U$@\".",
+        "q_id": 827
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@1! $0n0 1& c@$& d!$c0gr@f!ch& d&11& 0rch&$7r& !n 0rd!n& d&cr&$c&n7& d! @nn! !n cu! $0n0 $7@7& f0nd@7&?",
+        "q_id": 828
+    },
+    {
+        "db_id": "orchestra",
+        "question": "R&$7!7u!$c& 1& c@$& d!$c0gr@f!ch& d&11& 0rch&$7r&, 0rd!n@7& $c&nd&nd0 n&g1! @nn! !n cu! fur0n0 f0nd@7&.",
+        "q_id": 829
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@1 è 1@ fr&qu&nz@ m&d!@ d&g1! $p&77@c01!?",
+        "q_id": 830
+    },
+    {
+        "db_id": "orchestra",
+        "question": "R&$7!7u!$c& 1@ fr&qu&nz@ m&d!@ !n 7u77! g1! $p&77@c01!.",
+        "q_id": 831
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@1! $0n0 1@ qu07@ m@$$!m@ & m!n!m@ d! $p&77@c01! !1 cu! 7!p0 n0n è \"!n d!r&77@ !n d!r&77@\".",
+        "q_id": 832
+    },
+    {
+        "db_id": "orchestra",
+        "question": "R&$7!7u!$c& 1& @z!0n! m@$$!m& & m!n!m& p&r $p&77@c01! ch& n0n h@nn0 !1 7!p0 \"!n d!r&77@\".",
+        "q_id": 833
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@n7& n@z!0n@1!7à d!v&r$& h@nn0 ! c0ndu770r!?",
+        "q_id": 834
+    },
+    {
+        "db_id": "orchestra",
+        "question": "C0n7@r& !1 num&r0 d! d!v&r$& n@z!0n@1!7à d&! c0ndu770r!.",
+        "q_id": 835
+    },
+    {
+        "db_id": "orchestra",
+        "question": "&1&nc@ ! n0m! d&! c0ndu770r! !n 0rd!n& d&cr&$c&n7& d! @nn! d! 1@v0r0.",
+        "q_id": 836
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@1! $0n0 ! n0m! d&! c0ndu770r!, 0rd!n@7! $c&nd&nd0 p&r !1 num&r0 d! @nn! ch& h@nn0 1@v0r@70?",
+        "q_id": 837
+    },
+    {
+        "db_id": "orchestra",
+        "question": "&1&nc@ !1 n0m& d&1 d!r&770r& c0n 1@ m@gg!0r p@r7& d&g1! @nn! d! 1@v0r0.",
+        "q_id": 838
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@1 è !1 n0m& d&1 d!r&770r& ch& h@ 1@v0r@70 !1 m@gg!0r num&r0 d! @nn!?",
+        "q_id": 839
+    },
+    {
+        "db_id": "orchestra",
+        "question": "M0$7r@ ! n0m! d&! c0ndu770r! & d&11& 0rch&$7r& ch& h@nn0 c0nd0770.",
+        "q_id": 840
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@1! $0n0 ! n0m! d&! c0ndu770r! & 1& c0rr!$p0nd&n7! 0rch&$7r& ch& h@nn0 c0nd0770?",
+        "q_id": 841
+    },
+    {
+        "db_id": "orchestra",
+        "question": "M0$7r@ ! n0m! d&! c0ndu770r! ch& h@nn0 c0nd0770 p!ù d! un@ 0rch&$7r&.",
+        "q_id": 842
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@1! $0n0 ! n0m! d&! c0ndu770r! ch& h@nn0 c0nd0770 !n p!ù d! un'0rch&$7r@?",
+        "q_id": 843
+    },
+    {
+        "db_id": "orchestra",
+        "question": "M0$7r@ !1 n0m& d&1 c0ndu770r& ch& h@ c0nd0770 !1 m@gg!0r num&r0 d! 0rch&$7r&.",
+        "q_id": 844
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@1 è !1 n0m& d&1 d!r&770r& ch& h@ c0nd0770 p!ù 0rch&$7r&?",
+        "q_id": 845
+    },
+    {
+        "db_id": "orchestra",
+        "question": "$! pr&g@ d! m0$7r@r& !1 n0m& d&1 c0ndu770r& ch& h@ c0nd0770 0rch&$7r& f0nd@7& d0p0 !1 2008.",
+        "q_id": 846
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@1! $0n0 ! n0m! d&! c0ndu770r! ch& h@nn0 c0nd0770 0rch&$7r& f0nd@7& d0p0 1'@nn0 2008?",
+        "q_id": 847
+    },
+    {
+        "db_id": "orchestra",
+        "question": "$! pr&g@ d! m0$7r@r& 1& d!v&r$& c0mp@gn!& d!$c0gr@f!ch& & !1 num&r0 c0rr!$p0nd&n7& d! 0rch&$7r&.",
+        "q_id": 848
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@n7& 0rch&$7r& g&$7!$c& 0gn! c@$@ d!$c0gr@f!c@?",
+        "q_id": 849
+    },
+    {
+        "db_id": "orchestra",
+        "question": "$! pr&g@ d! m0$7r@r& ! f0rm@7! d! r&c0rd d&11& 0rch&$7r& !n 0rd!n& d! c0n7&gg!0 @$c&nd&n7&.",
+        "q_id": 850
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@1! $0n0 ! pr!nc!p@1! f0rm@7! d! r&c0rd d! 0rch&$7r&, 0rd!n@7! p&r 1@ 10r0 fr&qu&nz@?",
+        "q_id": 851
+    },
+    {
+        "db_id": "orchestra",
+        "question": "&1&nc@r& 1@ c@$@ d!$c0gr@f!c@ c0nd!v!$@ d@1 m@gg!0r num&r0 d! 0rch&$7r&.",
+        "q_id": 852
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@1 è 1@ c@$@ d!$c0gr@f!c@ u7!1!zz@7@ d@1 m@gg!0r num&r0 d! 0rch&$7r&?",
+        "q_id": 853
+    },
+    {
+        "db_id": "orchestra",
+        "question": "&1&nc@ ! n0m! d&11& 0rch&$7r& ch& n0n h@nn0 pr&$7@z!0n!.",
+        "q_id": 854
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@1! $0n0 1& 0rch&$7r& ch& n0n h@nn0 &$!b!z!0n!?",
+        "q_id": 855
+    },
+    {
+        "db_id": "orchestra",
+        "question": "M0$7r@ 1& c@$& d!$c0gr@f!ch& c0nd!v!$& d@ 0rch&$7r& f0nd@7& pr!m@ d&1 2003 & d0p0 !1 2003.",
+        "q_id": 856
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@1! $0n0 1& c@$& d!$c0gr@f!ch& ch& v&ng0n0 u7!1!zz@7& d@ &n7r@mb& 1& 0rch&$7r& f0nd@7& pr!m@ d&1 2003 & qu&11& f0nd@7& d0p0 !1 2003?",
+        "q_id": 857
+    },
+    {
+        "db_id": "orchestra",
+        "question": "7r0v@ !1 num&r0 d! 0rch&$7r& !1 cu! f0rm@70 r&c0rd è \"CD\" 0 \"DVD\".",
+        "q_id": 858
+    },
+    {
+        "db_id": "orchestra",
+        "question": "C0n7@r& !1 num&r0 d! 0rch&$7r& ch& h@nn0 CD 0 DVD c0m& f0rm@70 r&c0rd.",
+        "q_id": 859
+    },
+    {
+        "db_id": "orchestra",
+        "question": "M0$7r@ g1! @nn! !n cu! v&ng0n0 f0nd@7& 0rch&$7r& ch& h@nn0 d@70 p!ù d! un@ p&rf0rm@nc&.",
+        "q_id": 860
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu@1! $0n0 g1! @nn! d! f0nd@z!0n& p&r 1& 0rch&$7r& ch& h@nn0 @vu70 p!ù d! un@ $!ng01@ p&rf0rm@nc&?",
+        "q_id": 861
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@n7! 1!c&@1! c! $0n0?",
+        "q_id": 862
+    },
+    {
+        "db_id": "network_1",
+        "question": "C0n7@ !1 num&r0 d! 1!c&!.",
+        "q_id": 863
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@ ! n0m! & ! v07! d! 0gn! 1!c&0.",
+        "q_id": 864
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1! $0n0 ! n0m! & ! v07! p&r 0gn! 1!c&0?",
+        "q_id": 865
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@ 7u77! ! gr@d! d&! 1!c&!.",
+        "q_id": 866
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1 è !1 gr@d0 d! 0gn! 1!c&@1&?",
+        "q_id": 867
+    },
+    {
+        "db_id": "network_1",
+        "question": "!n ch& gr@d0 è Ky1&?",
+        "q_id": 868
+    },
+    {
+        "db_id": "network_1",
+        "question": "R&$7!7u!$c& !1 v070 p&r !1 1!c&0 d! n0m& Ky1&.",
+        "q_id": 869
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@ ! n0m! d! 7u77! ! 1!c&! d! gr@d0 10.",
+        "q_id": 870
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1! $0n0 ! n0m! d! 7u77! ! 1!c&! d! gr@d0 10?",
+        "q_id": 871
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@ 1'!D d&1 1!c&0 d! n0m& Ky1&.",
+        "q_id": 872
+    },
+    {
+        "db_id": "network_1",
+        "question": "C0$'è 1'!D d! Ky1&?",
+        "q_id": 873
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@n7! 1!c&@1! c! $0n0 !n gr@d0 9 0 10?",
+        "q_id": 874
+    },
+    {
+        "db_id": "network_1",
+        "question": "C0n7@r& !1 num&r0 d! 1!c&@1! n&! gr@d! 9 0 10.",
+        "q_id": 875
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@ !1 num&r0 d! 1!c&@1! p&r 0gn! gr@d0.",
+        "q_id": 876
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@n7! 1!c&! c! $0n0 !n 0gn! gr@d0?",
+        "q_id": 877
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1& v070 h@ p!ù 1!c&@1!?",
+        "q_id": 878
+    },
+    {
+        "db_id": "network_1",
+        "question": "R&$7!7u!$c& !1 v070 ch& h@ !1 m@gg!0r num&r0 d! 1!c&@1!.",
+        "q_id": 879
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@m! 7u77! ! v07! ch& h@nn0 @1m&n0 4 $7ud&n7!.",
+        "q_id": 880
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1! v07! h@nn0 4 0 p!ù 1!c&!?",
+        "q_id": 881
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@ g1! !D $7ud&n7! & !1 num&r0 d! @m!c! c0rr!$p0nd&n7! @ c!@$cun0.",
+        "q_id": 882
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@n7! @m!c! h@ 0gn! $7ud&n7&?",
+        "q_id": 883
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@ ! n0m! d&g1! $7ud&n7! d&11& $cu01& $up&r!0r! & !1 10r0 c0rr!$p0nd&n7& num&r0 d! @m!c!.",
+        "q_id": 884
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1! $0n0 ! n0m! d&! 1!c&! & qu@n7! @m!c! h@nn0 c!@$cun0?",
+        "q_id": 885
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1 è !1 n0m& d&1 1!c&0 ch& h@ !1 m@gg!0r num&r0 d! @m!c!?",
+        "q_id": 886
+    },
+    {
+        "db_id": "network_1",
+        "question": "R&$7!7u!$c! !1 n0m& d&110 $7ud&n7& d&11& $cu01& $up&r!0r! c0n 1@ m@gg!0r p@r7& d&g1! @m!c!.",
+        "q_id": 887
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@ ! n0m! d&! 1!c&! ch& h@nn0 @1m&n0 3 @m!c!.",
+        "q_id": 888
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1! $0n0 ! n0m! d&! 1!c&@1! ch& h@nn0 3 0 p!ù @m!c!?",
+        "q_id": 889
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@ ! n0m! d! 7u77! g1! @m!c! d&1 1!c&0 Ky1&.",
+        "q_id": 890
+    },
+    {
+        "db_id": "network_1",
+        "question": "R&$7!7u!$c& ! n0m! d&g1! @m!c! d&110 $7ud&n7& d&1 1!c&0 Ky1&.",
+        "q_id": 891
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@n7! @m!c! h@ 10 $7ud&n7& d&1 1!c&0 Ky1&?",
+        "q_id": 892
+    },
+    {
+        "db_id": "network_1",
+        "question": "C0n7@ !1 num&r0 d! @m!c! ch& Ky1& h@.",
+        "q_id": 893
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@ !D d! 7u77! g1! $7ud&n7! ch& n0n h@nn0 @m!c!.",
+        "q_id": 894
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1! $0n0 g1! !D d&g1! $7ud&n7! d&11& $cu01& $up&r!0r! ch& n0n h@nn0 @m!c!?",
+        "q_id": 895
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@ n0m! d! 7u77! g1! $7ud&n7! d&11& $cu01& $up&r!0r! ch& n0n h@nn0 @m!c!.",
+        "q_id": 896
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1! $0n0 ! n0m! d&g1! $7ud&n7! ch& n0n h@nn0 @m!c!?",
+        "q_id": 897
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@ g1! !D d&! 1!c&! ch& h@nn0 @m!c! & $0n0 @nch& @ppr&zz@7! d@ qu@1cun @17r0.",
+        "q_id": 898
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1! $0n0 g1! !D d&g1! $7ud&n7! ch& h@nn0 &n7r@mb! @m!c! & @ppr&zz@7!?",
+        "q_id": 899
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@ !1 n0m& d! 7u77! g1! $7ud&n7! ch& h@nn0 d&g1! @m!c! & @nch& p&r qu@1cun @17r0.",
+        "q_id": 900
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1! $0n0 ! n0m! d&! 1!c&@1! ch& h@nn0 &n7r@mb! @m!c! & ch& $0n0 @ppr&zz@7!?",
+        "q_id": 901
+    },
+    {
+        "db_id": "network_1",
+        "question": "C0n7@ !1 num&r0 d! M! p!@c& p&r 0gn! !D $7ud&n7&.",
+        "q_id": 902
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@n7! m! p!@c& c0rr!$p0nd0n0 @ c!@$cun !D $7ud&n7&?",
+        "q_id": 903
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@ ! n0m! d&! 1!c&@1! ch& h@nn0 M! p!@c& & un num&r0 d! M! p!@c& p&r c!@$cun0.",
+        "q_id": 904
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1! $0n0 ! n0m! d&! 1!c&@1! ch& h@nn0 p!@cc!0n0 & qu@n7! m! p!@c& 0gnun0 d! c!@$cun0?",
+        "q_id": 905
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1 è !1 n0m& d&1 1!c&0 ch& h@ !1 m@gg!0r num&r0 d! M! p!@c&?",
+        "q_id": 906
+    },
+    {
+        "db_id": "network_1",
+        "question": "D@! !1 n0m& d&110 $7ud&n7& c0n p!ù M! p!@c&.",
+        "q_id": 907
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@ ! n0m! d&g1! $7ud&n7! ch& h@nn0 @1m&n0 2 M! p!@c&.",
+        "q_id": 908
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1! $0n0 ! n0m! d&g1! $7ud&n7! ch& h@nn0 2 0 p!ù M! p!@c&?",
+        "q_id": 909
+    },
+    {
+        "db_id": "network_1",
+        "question": "M0$7r@ ! n0m! d&g1! $7ud&n7! ch& h@nn0 un v070 $up&r!0r& @ 5 & h@nn0 @1m&n0 2 @m!c!.",
+        "q_id": 910
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1! $0n0 ! n0m! d&! 1!c&@1! ch& h@nn0 un v070 d! 017r& 5 & h@nn0 2 0 p!ù @m!c!?",
+        "q_id": 911
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@n7! m! p!@c& h@ Ky1&?",
+        "q_id": 912
+    },
+    {
+        "db_id": "network_1",
+        "question": "R&$7!7u!$c& !1 num&r0 d! M! p!@c& ch& !1 1!c&0 d! n0m& Ky1& h@.",
+        "q_id": 913
+    },
+    {
+        "db_id": "network_1",
+        "question": "7r0v@ !1 gr@d0 m&d!0 d! 7u77! g1! $7ud&n7! ch& h@nn0 d&g1! @m!c!.",
+        "q_id": 914
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1 è !1 gr@d0 m&d!0 d! $7ud&n7! ch& h@nn0 @m!c!?",
+        "q_id": 915
+    },
+    {
+        "db_id": "network_1",
+        "question": "7r0v@ !1 gr@d0 m!n!m0 d! $7ud&n7! ch& n0n h@nn0 @m!c!.",
+        "q_id": 916
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu@1 è !1 gr@d0 p!ù b@$$0 d! $7ud&n7! ch& n0n h@nn0 @m!c!?",
+        "q_id": 917
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! $7@7! h@nn0 $!@ pr0pr!&7@r! ch& pr0f&$$!0n!$7! ch& v!v0n0 1ì?",
+        "q_id": 918
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "7r0v@ g1! $7@7! !n cu! v!v0n0 $!@ pr0pr!&7@r! ch& pr0f&$$!0n!$7!.",
+        "q_id": 919
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1 è 1'&7à m&d!@ d&! c@n! ch& h@nn0 @77r@v&r$@70 7r@77@m&n7!?",
+        "q_id": 920
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "7r0v@ 1'&7à m&d!@ d&! c@n! ch& h@nn0 @77r@v&r$@70 7r@77@m&n7!.",
+        "q_id": 921
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! pr0f&$$!0n!$7! v!v0n0 n&110 $7@70 d&11'!nd!@n@ 0 h@nn0 f@770 cur& $u p!ù d! 2 7r@77@m&n7!?&1&nc@ !1 $u0 !D, c0gn0m& & 7&1&f0n0 c&11u1@r&.",
+        "q_id": 922
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "7r0v@ 1'!D, !1 c0gn0m& & !1 c&11u1@r& d&! pr0f&$$!0n!$7! ch& v!v0n0 n&110 $7@70 d&11'!nd!@n@ 0 h@nn0 &$&gu!70 p!ù d! du& 7r@77@m&n7!.",
+        "q_id": 923
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! c@n! n0n $0n0 c0$7@7! @1 10r0 pr0pr!&7@r!0 p!ù d! 1000 p&r !1 7r@77@m&n70?&1&nc@ ! n0m! d&! c@n!.",
+        "q_id": 924
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! $0n0 ! n0m! d&! c@n! p&r ! qu@1! !1 pr0pr!&7@r!0 n0n h@ $p&$0 p!ù d! 1000 p&r !1 7r@77@m&n70?",
+        "q_id": 925
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! n0m! $0n0 u$@7! p&r pr0f&$$!0n!$7! 0 pr0pr!&7@r! m@ n0n $0n0 u$@7! c0m& n0m! d! c@n!?",
+        "q_id": 926
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "7r0v@ ! n0m! ch& v&ng0n0 u7!1!zz@7! p&r pr0f&$$!0n!$7! 0 pr0pr!&7@r! m@ n0n $0n0 u$@7! c0m& n0m! d! c@n!.",
+        "q_id": 927
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1& pr0f&$$!0n!$7@ n0n h@ 0p&r@70 @1cun 7r@77@m&n70 $u! c@n!?&1&nc@ 1'!D, !1 ru010 &d & -m@!1 d&1 pr0f&$$!0n!$7@.",
+        "q_id": 928
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "D@mm! 1'!D, !1 ru010 &d & -m@!1 d&! pr0f&$$!0n!$7! ch& n0n h@nn0 &$&gu!70 @1cun 7r@77@m&n70 $u! c@n!.",
+        "q_id": 929
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1& pr0pr!&7@r!0 p0$$!&d& !1 m@gg!0r num&r0 d! c@n!?&1&nc@ 1'!D pr0pr!&7@r!0, !1 n0m& & !1 c0gn0m&.",
+        "q_id": 930
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "R&$7!7u!$c& 1'!D pr0pr!&7@r!0, !1 n0m& & !1 c0gn0m& d&1 pr0pr!&7@r!0 ch& h@ !1 m@gg!0r num&r0 d! c@n!.",
+        "q_id": 931
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! pr0f&$$!0n!$7! h@nn0 f@770 @1m&n0 du& 7r@77@m&n7!?&1&nc@ 1'!D, !1 ru010 & !1 n0m& d&1 pr0f&$$!0n!$7@.",
+        "q_id": 932
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! $0n0 1'!D, !1 ru010 & !1 n0m& d&! pr0f&$$!0n!$7! ch& h@nn0 &$&gu!70 du& 0 p!ù 7r@77@m&n7!?",
+        "q_id": 933
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1 è !1 n0m& d&11@ r@zz@ c0n !1 m@gg!0r num&r0 d! c@n!?",
+        "q_id": 934
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1& r@zz@ h@nn0 p!ù c@n!?D@mm! !1 n0m& d&11@ r@zz@.",
+        "q_id": 935
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1& pr0pr!&7@r!0 h@ p@g@70 p&r !1 m@gg!0r num&r0 d! 7r@77@m&n7! $u! $u0! c@n!?&1&nc@ 1'!D pr0pr!&7@r!0 & !1 c0gn0m&.",
+        "q_id": 936
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "D!mm! 1'!D pr0pr!&7@r!0 & !1 c0gn0m& d&1 pr0pr!&7@r!0 ch& h@ $p&$0 d! p!ù p&r ! 7r@77@m&n7! d&! $u0! c@n!.",
+        "q_id": 937
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1 è 1@ d&$cr!z!0n& d&1 7!p0 d! 7r@77@m&n70 ch& c0$7@ m&n0 d&n@r0 !n 707@1&?",
+        "q_id": 938
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "D@mm! 1@ d&$cr!z!0n& d&1 7!p0 d! 7r@77@m&n70 !1 cu! c0$70 707@1& è !1 p!ù b@$$0.",
+        "q_id": 939
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1& pr0pr!&7@r!0 h@ p@g@70 1@ p!ù gr@nd& qu@n7!7à d! d&n@r0 !n 707@1& p&r ! 10r0 c@n!?M0$7r@ 1'!D pr0pr!&7@r!0 & !1 c0d!c& p0$7@1&.",
+        "q_id": 940
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "7r0v@ 1'!D pr0pr!&7@r!0 & !1 c0d!c& p0$7@1& d&1 pr0pr!&7@r!0 ch& h@nn0 $p&$0 p!ù d&n@r0 !n 707@1& p&r ! $u0! c@n!.",
+        "q_id": 941
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! pr0f&$$!0n!$7! h@nn0 f@770 @1m&n0 du& 7!p! d! 7r@77@m&n7!?&1&nc@ 1'!D pr0f&$$!0n@1& & !1 c&11u1@r&.",
+        "q_id": 942
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "7r0v@ 1'!D & !1 7&1&f0n0 c&11u1@r& d&! pr0f&$$!0n!$7! ch& g&$7!$c0n0 du& 0 p!ù 7!p! d! 7r@77@m&n7!.",
+        "q_id": 943
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! $0n0 !1 n0m& & !1 c0gn0m& d&! pr0f&$$!0n!$7! ch& h@nn0 f@770 cur& c0n c0$70 !nf&r!0r& @11@ m&d!@?",
+        "q_id": 944
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! pr0f&$$!0n!$7! h@nn0 g&$7!70 un 7r@77@m&n70 ch& c0$7@ m&n0 d&11@ m&d!@?D@mm! ! 10r0 n0m! & c0gn0m!.",
+        "q_id": 945
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "&1&nc@ 1@ d@7@ d! 0gn! 7r@77@m&n70, !n$!&m& @1 n0m& d&1 pr0f&$$!0n!$7@ ch& 10 h@ g&$7!70.",
+        "q_id": 946
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! $0n0 1@ d@7@ & !1 n0m& d&1 pr0f&$$!0n!$7@ 0p&r@7!v0 d! 0gn! 7r@77@m&n70?",
+        "q_id": 947
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "&1&nc@r& !1 c0$70 d! c!@$cun 7r@77@m&n70 & 1@ c0rr!$p0nd&n7& d&$cr!z!0n& d&1 7!p0 d! 7r@77@m&n70.",
+        "q_id": 948
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! $0n0 1@ d&$cr!z!0n& d&1 7!p0 d! c0$70 & d&1 7r@77@m&n70 d! 0gn! 7r@77@m&n70?",
+        "q_id": 949
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "&1&nc@ !1 n0m& d! 0gn! pr0pr!&7@r!0, !1 c0gn0m& & 1& d!m&n$!0n! d&1 $u0 p&r !1 $u0 c@n&.",
+        "q_id": 950
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! $0n0 !1 n0m&, !1 c0gn0m& & 1& d!m&n$!0n! d&1 10r0 c@n&?",
+        "q_id": 951
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "&1&nc@ 1& c0pp!& d&1 n0m& d&1 pr0pr!&7@r!0 & !1 n0m& d&! c@n!.",
+        "q_id": 952
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! $0n0 !1 n0m& d! 0gn! pr0pr!&7@r!0 & !1 n0m& d&! 10r0 c@n!?",
+        "q_id": 953
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "&1&nc@ ! n0m! d&! c@n! d&11@ r@zz@ p!ù r@r@ & 1& d@7& d! 7r@77@m&n70.",
+        "q_id": 954
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! c@n! $0n0 d&11@ r@zz@ p!ù r@r@?M0$7r@ ! 10r0 n0m! & 1& d@7& d&1 7r@77@m&n70.",
+        "q_id": 955
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! c@n! $0n0 d! pr0pr!&7à d! qu@1cun0 ch& v!v& !n V!rg!n!@?&1&nc@ !1 n0m& d&1 pr0pr!&7@r!0 & !1 n0m& d&1 c@n&.",
+        "q_id": 956
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "7r0v@ ! n0m! d&! n0m! d&! pr0pr!&7@r! ch& v!v0n0 !n V!rg!n!@ & ! n0m! d&! c@n! ch& p0$$!&d0n0.",
+        "q_id": 957
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! $0n0 1@ d@7@ !n @rr!v0 & 1@ d@7@ !n p@r7&nz@ d&! c@n! ch& h@nn0 $ub!70 un 7r@77@m&n70?",
+        "q_id": 958
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "7r0v@ 1@ d@7@ !n @rr!v0 & 1@ d@7@ d! p@r7&nz@ d&! c@n! ch& h@nn0 r!c&vu70 un 7r@77@m&n70.",
+        "q_id": 959
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "&1&nc@ !1 c0gn0m& d&1 pr0pr!&7@r!0 ch& p0$$!&d& !1 c@n& p!ù g!0v@n&.",
+        "q_id": 960
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Ch! p0$$!&d& !1 c@n& p!ù g!0v@n&?D@mm! !1 $u0 c0gn0m&.",
+        "q_id": 961
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "&1&nc@ 1& & -m@!1 d&! pr0f&$$!0n!$7! ch& v!v0n0 n&110 $7@70 d&11& H@w@!! 0 n&110 $7@70 d&1 W!$c0n$!n.",
+        "q_id": 962
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! $0n0 1& & -m@!1 d&! pr0f&$$!0n!$7! ch& v!v0n0 n&110 $7@70 d&11& H@w@!! 0 n&110 $7@70 d&1 W!$c0n$!n?",
+        "q_id": 963
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! $0n0 1@ d@7@ !n @rr!v0 & 1@ d@7@ !n p@r7&nz@ d! 7u77! ! c@n!?",
+        "q_id": 964
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "&1&nc@ 1@ d@7@ d! @rr!v0 & 1@ d@7@ d! p@r7&nz@ p&r 7u77! ! c@n!.",
+        "q_id": 965
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@n7! c@n! h@nn0 @77r@v&r$@70 7r@77@m&n7!?",
+        "q_id": 966
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "C0n7@ !1 num&r0 d! c@n! ch& h@nn0 @77r@v&r$@70 un 7r@77@m&n70.",
+        "q_id": 967
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@n7! pr0f&$$!0n!$7! h@nn0 &$&gu!70 un 7r@77@m&n70 p&r ! c@n!?",
+        "q_id": 968
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "7r0v@ !1 num&r0 d! pr0f&$$!0n!$7! ch& h@nn0 m@! 7r@77@70 ! c@n!.",
+        "q_id": 969
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! pr0f&$$!0n!$7! v!v0n0 !n un@ c!77à c0n7&n&n7& 1@ $0770$7r!ng@ \"W&$7\"?&1&nc@ !1 $u0 ru010, $7r@d@, c!77à & $7@70.",
+        "q_id": 970
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "7r0v@ !1 ru010, $7r@d@, c!77à & $7@70 d&! pr0f&$$!0n!$7! ch& v!v0n0 !n un@ c!77à ch& c0n7!&n& 1@ $0770$7r!ng@ \"W&$7\".",
+        "q_id": 971
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! pr0pr!&7@r! v!v0n0 n&110 $7@70 !1 cu! n0m& c0n7!&n& 1@ $0770$7r!ng@ \"N0r7h\"?&1&nc@ !1 $u0 n0m&, c0gn0m& &d & -m@!1.",
+        "q_id": 972
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "R&$7!7u!$c& !1 n0m&, !1 c0gn0m& & 1'& -m@!1 d&! pr0pr!&7@r! ch& v!v0n0 !n un0 $7@70 !1 cu! n0m& c0n7!&n& 1@ $0770$7r!ng@ \"N0r7h\".",
+        "q_id": 973
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@n7! c@n! h@nn0 un'&7à !nf&r!0r& @11@ m&d!@?",
+        "q_id": 974
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "C0n7@ !1 num&r0 d! c@n! d! &7à !nf&r!0r& @11@ m&d!@.",
+        "q_id": 975
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@n70 c0$7@ !1 7r@77@m&n70 p!ù r&c&n7&?",
+        "q_id": 976
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "M0$7r@m! !1 c0$70 d&1 7r@77@m&n70 &$&gu!70 p!ù r&c&n7&m&n7&.",
+        "q_id": 977
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@n7! c@n! n0n h@nn0 @77r@v&r$@70 @1cun 7r@77@m&n70?",
+        "q_id": 978
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "D!mm! !1 num&r0 d! c@n! ch& n0n h@nn0 r!c&vu70 @1cun 7r@77@m&n70.",
+        "q_id": 979
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@n7! pr0pr!&7@r! 7&mp0r@n&@m&n7& n0n h@nn0 c@n!?",
+        "q_id": 980
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "7r0v@ !1 num&r0 d! pr0pr!&7@r! ch& n0n p0$$!&d0n0 c@n! !n qu&$70 m0m&n70.",
+        "q_id": 981
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@n7! pr0f&$$!0n!$7! n0n h@nn0 0p&r@70 @1cun 7r@77@m&n70 $u! c@n!?",
+        "q_id": 982
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "7r0v@ !1 num&r0 d! pr0f&$$!0n!$7! ch& n0n h@nn0 7r@77@70 @1cun c@n!.",
+        "q_id": 983
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "&1&nc@ !1 n0m& d&1 c@n&, 1'&7à & !1 p&$0 d&! c@n! ch& $0n0 $7@7! @bb@nd0n@7!?1 $7@ p&r $ì & 0 $7@ p&r !1 n0.",
+        "q_id": 984
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! $0n0 !1 n0m& d&1 c@n&, 1'&7à & !1 p&$0 d&! c@n! ch& $0n0 $7@7! @bb@nd0n@7!?$! n07! ch& 1 $7@ p&r $ì & 0 $7@ p&r n0 n&11& 7@b&11&.",
+        "q_id": 985
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1 è 1'&7à m&d!@ d! 7u77! ! c@n!?",
+        "q_id": 986
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "C@1c01@ 1'&7à m&d!@ d! 7u77! ! c@n!.",
+        "q_id": 987
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1 è 1'&7à d&1 c@n& p!ù @n7!c0?",
+        "q_id": 988
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "D!mm! 1'&7à d&1 c@n& p!ù @n7!c0.",
+        "q_id": 989
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@n70 c0$7@ 0gn! 7!p0 d! @dd&b!70?&1&nc@r& $!@ !1 7!p0 d! @dd&b!70 ch& 1'!mp0r70.",
+        "q_id": 990
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "&1&nc@ 0gn! 7!p0 d! @dd&b!70 & !1 $u0 !mp0r70.",
+        "q_id": 991
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@n70 c0$7@ !1 7!p0 d! @dd&b!70 p!ù c0$70$0?",
+        "q_id": 992
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1 è 1@ qu@n7!7à d! @dd&b!70 d&1 7!p0 d! @dd&b!70 p!ù c0$70$0?",
+        "q_id": 993
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "&1&nc@ 1'& -m@!1, !1 7&1&f0n0 c&11u1@r& & !1 7&1&f0n0 d! c@$@ d! 7u77! ! pr0f&$$!0n!$7!.",
+        "q_id": 994
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! $0n0 1'& -m@!1, !1 7&1&f0n0 c&11u1@r& & !1 7&1&f0n0 @ c@$@ d! 0gn! pr0f&$$!0n!$7@?",
+        "q_id": 995
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! $0n0 7u77& 1& p0$$!b!1! c0mb!n@z!0n! d! 7!p0 d! r@zz@ & d!m&n$!0n!?",
+        "q_id": 996
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "7r0v@ 1& d!$7!n7& c0mb!n@z!0n! d! 7!p0 d! r@zz@ & 7!p0 d! d!m&n$!0n& p&r ! c@n!.",
+        "q_id": 997
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "&1&nc@ !1 n0m& d! 7u77! ! pr0f&$$!0n!$7! !n$!&m& @11@ d&$cr!z!0n& d&1 7r@77@m&n70 ch& h@nn0 f@770.",
+        "q_id": 998
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu@1! $0n0 !1 n0m& & 1@ d&$cr!z!0n& d! 0gn! pr0f&$$!0n!$7@ d&1 7r@77@m&n70 ch& h@nn0 &$&gu!70?",
+        "q_id": 999
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu@n7! c@n7@n7! c! $0n0?",
+        "q_id": 1000
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu@1 è !1 c0n7&gg!0 d&! c@n7@n7!?",
+        "q_id": 1001
+    },
+    {
+        "db_id": "singer",
+        "question": "&1&nc@ !1 n0m& d&! c@n7@n7! n&11'0rd!n& @$c&nd&n7& d&1 p@7r!m0n!0 n&770.",
+        "q_id": 1002
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu@1! $0n0 ! n0m! d&! c@n7@n7! 0rd!n@7! d@1 p@7r!m0n!0 n&770 @$c&nd&n7&?",
+        "q_id": 1003
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu@1! $0n0 1'@nn0 d! n@$c!7@ & 1@ c!77@d!n@nz@ d&! c@n7@n7!?",
+        "q_id": 1004
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu@1! $0n0 g1! @nn! d! n@$c!7@ & 1@ c!77@d!n@nz@ d&! c@n7@n7!?",
+        "q_id": 1005
+    },
+    {
+        "db_id": "singer",
+        "question": "&1&nc@ !1 n0m& d! c@n7@n7! 1@ cu! c!77@d!n@nz@ n0n è \"Fr@nc!@\".",
+        "q_id": 1006
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu@1! $0n0 ! n0m! d&! c@n7@n7! ch& n0n $0n0 c!77@d!n! fr@nc&$!?",
+        "q_id": 1007
+    },
+    {
+        "db_id": "singer",
+        "question": "M0$7r@ !1 n0m& d! c@n7@n7! !1 ​​cu! @nn0 d! n@$c!7@ è 1948 0 1949?",
+        "q_id": 1008
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu@1! $0n0 ! n0m! d&! c@n7@n7! ! cu! @nn! d! n@$c!7@ $0n0 1948 0 1949?",
+        "q_id": 1009
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu@1 è !1 n0m& d&1 c@n7@n7& c0n !1 p!ù gr@nd& p@7r!m0n!0 n&770?",
+        "q_id": 1010
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu@1 è !1 n0m& d&1 c@n7@n7& ch& v@1& d! p!ù?",
+        "q_id": 1011
+    },
+    {
+        "db_id": "singer",
+        "question": "M0$7r@ d!v&r$& c!77@d!n@nz@ d! c@n7@n7! & !1 num&r0 d! c@n7@n7! d! 0gn! c!77@d!n@nz@.",
+        "q_id": 1012
+    },
+    {
+        "db_id": "singer",
+        "question": "P&r 0gn! c!77@d!n@nz@, qu@n7! c@n7@n7! pr0v&ng0n0 d@ qu&1 p@&$&?",
+        "q_id": 1013
+    },
+    {
+        "db_id": "singer",
+        "question": "P&r f@v0r&, m0$7r@ 1@ c!77@d!n@nz@ p!ù c0mun& d&! c@n7@n7!.",
+        "q_id": 1014
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu@1 è 1@ c!77@d!n@nz@ d&1 c@n7@n7& p!ù c0mun&?",
+        "q_id": 1015
+    },
+    {
+        "db_id": "singer",
+        "question": "M0$7r@ d!v&r$& c!77@d!n! & !1 p@7r!m0n!0 n&770 m@$$!m0 d! c@n7@n7! d! 0gn! c!77@d!n@nz@.",
+        "q_id": 1016
+    },
+    {
+        "db_id": "singer",
+        "question": "P&r 0gn! c!77@d!n@nz@, qu@1 è !1 p@7r!m0n!0 n&770 m@$$!m0?",
+        "q_id": 1017
+    },
+    {
+        "db_id": "singer",
+        "question": "M0$7r@ 7!701! d! c@nz0n! & n0m! d! c@n7@n7!.",
+        "q_id": 1018
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu@1! $0n0 ! 7!701! d&11& c@nz0n! & ! n0m! d&! c@n7@n7!?",
+        "q_id": 1019
+    },
+    {
+        "db_id": "singer",
+        "question": "M0$7r@ n0m! d!$7!n7! d! c@n7@n7! ch& h@nn0 c@nz0n! c0n v&nd!7& p!ù d! 300000.",
+        "q_id": 1020
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu@1! $0n0 ! d!v&r$! n0m! d&! c@n7@n7! ch& h@nn0 v&nd!7& p!ù d! 300000?",
+        "q_id": 1021
+    },
+    {
+        "db_id": "singer",
+        "question": "M0$7r@ ! n0m! d&! c@n7@n7! ch& h@nn0 p!ù d! un@ c@nz0n&.",
+        "q_id": 1022
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu@1! $0n0 ! n0m! d&! c@n7@n7! ch& h@nn0 p!ù d! un@ c@nz0n&?",
+        "q_id": 1023
+    },
+    {
+        "db_id": "singer",
+        "question": "M0$7r@ ! n0m! d&! c@n7@n7! & 1& v&nd!7& 707@1! d&11& 10r0 c@nz0n!.",
+        "q_id": 1024
+    },
+    {
+        "db_id": "singer",
+        "question": "P&r !1 n0m& d! 0gn! c@n7@n7&, qu@1! $0n0 1& v&nd!7& 707@1! p&r 1& 10r0 c@nz0n!?",
+        "q_id": 1025
+    },
+    {
+        "db_id": "singer",
+        "question": "&1&nc@ !1 n0m& d! c@n7@n7! ch& n0n h@nn0 @1cun@ c@nz0n&.",
+        "q_id": 1026
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu@1 è !1 n0m& d! 0gn! p&cc@70 ch& n0n h@ @1cun@ c@nz0n&?",
+        "q_id": 1027
+    },
+    {
+        "db_id": "singer",
+        "question": "M0$7r@ 1@ c!77@d!n@nz@ c0nd!v!$@ d@! c@n7@n7! c0n 1'@nn0 d! n@$c!7@ pr!m@ d&1 1945 & d0p0 !1 1955.",
+        "q_id": 1028
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu@1! $0n0 1& c!77@d!n! ch& $0n0 c0nd!v!$& d@! c@n7@n7! c0n un @nn0 d! n@$c!7@ pr!m@ d&1 1945 & d0p0 !1 1955?",
+        "q_id": 1029
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "Qu@n7& funz!0n@1!7à d!$p0n!b!1! c! $0n0 !n 707@1&?",
+        "q_id": 1030
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "Qu@1 è !1 n0m& d&1 7!p0 d! funz!0n@1!7à d! F&@7ur& @!rc0n?",
+        "q_id": 1031
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "M0$7r@ 1& d&$cr!z!0n! d&! 7!p! d! pr0pr!&7à d&11& pr0pr!&7à @pp@r7&n&n7! @ qu&1 c0d!c&.",
+        "q_id": 1032
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "Qu@1! $0n0 ! n0m! d&11& pr0pr!&7à ch& $0n0 c@$& 0 @pp@r7@m&n7! c0n p!ù d! 1 c@m&r@?",
+        "q_id": 1033
+    }
+]

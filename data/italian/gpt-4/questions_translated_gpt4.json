@@ -1,0 +1,5172 @@
+[
+    {
+        "db_id": "concert_singer",
+        "q_id": 0,
+        "question": "Quanti cantanti abbiamo?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 1,
+        "question": "Qual è il numero totale di cantanti?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 2,
+        "question": "Mostra nome, paese, età per tutti i cantanti ordinati per età dal più vecchio al più giovane."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 3,
+        "question": "Quali sono i nomi, i paesi e le età di ogni cantante in ordine decrescente di età?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 4,
+        "question": "Qual è l'età media, minima e massima di tutti i cantanti dalla Francia?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 5,
+        "question": "Qual è l'età media, minima e massima per tutti i cantanti francesi?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 6,
+        "question": "Mostra il nome e l'anno di pubblicazione della canzone del cantante più giovane."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 7,
+        "question": "Quali sono i nomi e gli anni di pubblicazione di tutte le canzoni del cantante più giovane?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 8,
+        "question": "Quali sono tutti i paesi distinti da cui provengono i cantanti di età superiore ai 20 anni?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 9,
+        "question": "Quali sono i diversi paesi con cantanti sopra i 20 anni?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 10,
+        "question": "Mostra tutti i paesi e il numero di cantanti in ogni paese."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 11,
+        "question": "Quanti cantanti provengono da ogni paese?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 12,
+        "question": "Elenca tutti i nomi delle canzoni dei cantanti sopra l'età media."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 13,
+        "question": "Quali sono i nomi di tutte le canzoni dei cantanti che sono più vecchi della media?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 14,
+        "question": "Mostra posizione e nome per tutti gli stadi con una capacità tra 5000 e 10000."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 15,
+        "question": "Quali sono le posizioni e i nomi di tutte le stazioni con capacità tra 5000 e 10000?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 16,
+        "question": "Qual è la capacità massima e la media di tutti gli stadi?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 17,
+        "question": "Quali sono la capacità media e massima per tutti gli stadi?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 18,
+        "question": "Qual è il nome e la capacità dello stadio con la più alta affluenza media?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 19,
+        "question": "Qual è il nome e la capacità dello stadio con la più alta affluenza media?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 20,
+        "question": "Quanti concerti ci sono nel 2014 o 2015?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 21,
+        "question": "Quanti concerti si sono svolti nel 2014 o nel 2015?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 22,
+        "question": "Mostra il nome dello stadio e il numero di concerti in ogni stadio."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 23,
+        "question": "Per ogni stadio, quanti concerti si svolgono lì?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 24,
+        "question": "Mostra il nome dello stadio e la capacità con il maggior numero di concerti nell'anno 2014 o successivo."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 25,
+        "question": "Qual è il nome e la capacità dello stadio con più concerti dopo il 2013?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 26,
+        "question": "Quale anno ha il maggior numero di concerti?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 27,
+        "question": "Qual è l'anno che ha avuto più concerti?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 28,
+        "question": "Mostra i nomi degli stadi senza alcun concerto."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 29,
+        "question": "Quali sono i nomi degli stadi senza alcun concerto?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 30,
+        "question": "Mostra i paesi da cui provengono un cantante sopra i 40 anni e un cantante sotto i 30 anni."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 31,
+        "question": "Mostra i nomi di tutti gli stadi tranne quelli che hanno ospitato un concerto nell'anno 2014."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 32,
+        "question": "Quali sono i nomi di tutti gli stadi che non hanno ospitato un concerto nel 2014?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 33,
+        "question": "Mostra il nome e il tema di tutti i concerti e il numero di cantanti in ogni concerto."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 34,
+        "question": "Quali sono i nomi, i temi e il numero di cantanti per ogni concerto?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 35,
+        "question": "Elenca i nomi dei cantanti e il numero di concerti per ogni cantante."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 36,
+        "question": "Quali sono i nomi dei cantanti e il numero di concerti per ogni persona?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 37,
+        "question": "Elenca tutti i nomi dei cantanti nei concerti nell'anno 2014."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 38,
+        "question": "Quali sono i nomi dei cantanti che si sono esibiti in un concerto nel 2014?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 39,
+        "question": "Qual è il nome e la nazionalità del cantante che ha una canzone con 'Hey' nel titolo?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 40,
+        "question": "Qual è il nome e il paese di origine di ogni cantante che ha una canzone con la parola 'Hey' nel titolo?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 41,
+        "question": "Trova il nome e la posizione degli stadi in cui si sono svolti alcuni concerti negli anni 2014 e 2015."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 42,
+        "question": "Quali sono i nomi e le posizioni degli stadi che hanno ospitato concerti sia nel 2014 che nel 2015?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 43,
+        "question": "Trova il numero di concerti avvenuti nello stadio con la maggiore capacità."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 44,
+        "question": "Qual è il numero di concerti che si sono svolti nello stadio con la maggiore capacità?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 45,
+        "question": "Trova il numero di animali domestici il cui peso è superiore a 10."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 46,
+        "question": "Quanti animali domestici pesano più di 10?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 47,
+        "question": "Trova il peso del cane più giovane."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 48,
+        "question": "Quanto pesa il cane più giovane?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 49,
+        "question": "Trova il peso massimo per ogni tipo di animale domestico. Elenca il peso massimo e il tipo di animale domestico."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 50,
+        "question": "Elenca il peso massimo e il tipo per ogni tipo di animale domestico."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 51,
+        "question": "Trova il numero di animali domestici posseduti da studenti che hanno più di 20 anni."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 52,
+        "question": "Quanti animali domestici possiedono gli studenti che hanno un'età superiore ai 20 anni?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 53,
+        "question": "Trova il numero di cani domestici che sono allevati da studentesse (con sesso F)."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 54,
+        "question": "Quanti cani domestici sono allevati da studentesse?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 55,
+        "question": "Trova il numero di tipi distinti di animali domestici."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 56,
+        "question": "Quanti tipi diversi di animali domestici ci sono?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 57,
+        "question": "Trova il nome proprio degli studenti che hanno un gatto o un cane come animale domestico."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 58,
+        "question": "Quali sono i nomi di ogni studente che ha un gatto o un cane come animale domestico?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 59,
+        "question": "Trova il nome dei studenti che hanno sia gatti che cani come animali domestici."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 60,
+        "question": "Quali sono i nomi dei studenti che hanno sia gatti che cani come animali domestici?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 61,
+        "question": "Trova la specializzazione e l'età degli studenti che non hanno un gatto come animale domestico."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 62,
+        "question": "Qual è la specializzazione di ogni studente che non possiede un gatto come animale domestico, e quanti anni hanno?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 63,
+        "question": "Trova l'id degli studenti che non hanno un gatto come animale domestico."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 64,
+        "question": "Quali sono gli id degli studenti che non possiedono gatti come animali domestici?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 65,
+        "question": "Trova il nome e l'età degli studenti che hanno un cane ma non hanno un gatto come animale domestico."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 66,
+        "question": "Qual è il nome di ogni studente che ha un cane ma non ha un gatto?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 67,
+        "question": "Trova il tipo e il peso dell'animale domestico più giovane."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 68,
+        "question": "Che tipo di animale domestico è il più giovane e quanto pesa?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 69,
+        "question": "Trova l'id e il peso di tutti gli animali domestici la cui età è superiore a 1."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 70,
+        "question": "Qual è l'ID e il peso di ogni animale domestico che ha più di 1 anno?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 71,
+        "question": "Trova l'età media e massima per ogni tipo di animale domestico."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 72,
+        "question": "Qual è l'età media e massima per ogni tipo di animale domestico?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 73,
+        "question": "Trova il peso medio per ogni tipo di animale domestico."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 74,
+        "question": "Qual è il peso medio per ogni tipo di animale domestico?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 75,
+        "question": "Trova il nome e l'età degli studenti che hanno un animale domestico."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 76,
+        "question": "Quali sono i diversi nomi e età degli studenti che hanno animali domestici?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 77,
+        "question": "Trova l'id dell'animale domestico posseduto dallo studente il cui cognome è 'Smith'."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 78,
+        "question": "Qual è l'id dell'animale domestico posseduto dallo studente il cui cognome è 'Smith'?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 79,
+        "question": "Trova il numero di animali domestici per ogni studente che ha un animale domestico e un id studente."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 80,
+        "question": "Per gli studenti che hanno animali domestici, quanti animali domestici ha ciascuno studente? Elenca i loro ID invece dei nomi."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 81,
+        "question": "Trova il nome e il genere dello studente che ha più di un animale domestico."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 82,
+        "question": "Qual è il nome e il sesso di tutti gli studenti che hanno più di un animale domestico?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 83,
+        "question": "Trova il cognome dello studente che ha un gatto di 3 anni."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 84,
+        "question": "Qual è il cognome dello studente che ha un gatto di 3 anni?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 85,
+        "question": "Trova l'età media degli studenti che non hanno alcun animale domestico."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 86,
+        "question": "Qual è l'età media di tutti gli studenti che non possiedono animali domestici?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 87,
+        "question": "Quanti continenti ci sono?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 88,
+        "question": "Qual è il numero dei continenti?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 89,
+        "question": "Quanti paesi ha ogni continente? Elenca l'id del continente, il nome del continente e il numero di paesi."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 90,
+        "question": "Per ogni continente, elenca il suo id, nome e quanti paesi ha?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 91,
+        "question": "Quanti paesi sono elencati?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 92,
+        "question": "Quanti paesi esistono?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 93,
+        "question": "Quanti modelli produce ogni produttore di auto? Elenca il nome completo del produttore, l'ID e il numero."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 94,
+        "question": "Qual è il nome completo di ogni produttore di auto, insieme al suo id e a quanti modelli produce?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 95,
+        "question": "Quale modello di auto ha la minima potenza?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 96,
+        "question": "Qual è il modello dell'auto con la minore quantità di cavalli?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 97,
+        "question": "Trova il modello dell'auto il cui peso è inferiore al peso medio."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 98,
+        "question": "Qual è il modello dell'auto con un peso inferiore alla media?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 99,
+        "question": "Trova il nome dei produttori che hanno prodotto alcune auto nell'anno 1970?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 100,
+        "question": "Qual è il nome dei diversi produttori di auto che hanno prodotto un'auto nel 1970?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 101,
+        "question": "Trova la marca e il tempo di produzione delle auto che sono state prodotte nel primo anno?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 102,
+        "question": "Qual è il produttore dell'auto prodotta nell'anno più antico e in che anno è stata prodotta?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 103,
+        "question": "Quali modelli di auto distinti sono stati prodotti dopo il 1980?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 104,
+        "question": "Quali sono i diversi modelli per le carte prodotte dopo il 1980?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 105,
+        "question": "Quanti costruttori di auto ci sono in ogni continente? Elenca il nome del continente e il conteggio."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 106,
+        "question": "Qual è il nome di ogni continente e quanti produttori di auto ci sono in ognuno?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 107,
+        "question": "Quale dei paesi ha il maggior numero di produttori di automobili? Elenca il nome del paese."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 108,
+        "question": "Qual è il nome del paese con il maggior numero di produttori di automobili?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 109,
+        "question": "Quanti modelli di auto vengono prodotti da ogni produttore? Elenca solo il conteggio e il nome completo del produttore."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 110,
+        "question": "Qual è il numero di modelli di auto prodotti da ciascun produttore e qual è l'ID e il nome completo di ciascun produttore?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 111,
+        "question": "Qual è l'accelerazione della macchina AMC Hornet Sportabout (SW)?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 112,
+        "question": "Quanto accelera l'auto che produce l'amc hornet sportabout (sw)?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 113,
+        "question": "Quanti costruttori di auto ci sono in Francia?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 114,
+        "question": "Qual è il numero di produttori di cure in Francia?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 115,
+        "question": "Quanti modelli di auto vengono prodotti negli Stati Uniti?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 116,
+        "question": "Qual è il conteggio dei modelli di auto prodotti negli Stati Uniti?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 117,
+        "question": "Qual è la media dei miglia per gallone (mpg) delle auto con 4 cilindri?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 118,
+        "question": "Qual è la media dei miglia per gallone di tutte le auto con 4 cilindri?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 119,
+        "question": "Qual è il peso minimo dell'auto prodotta con 8 cilindri nel 1974?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 120,
+        "question": "Qual è il peso minimo dell'auto con 8 cilindri prodotta nel 1974?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 121,
+        "question": "Quali sono tutti i produttori e i modelli?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 122,
+        "question": "Quali sono i produttori e i modelli?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 123,
+        "question": "Quali sono i paesi che hanno almeno un produttore di automobili? Elenca nome e id."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 124,
+        "question": "Quali sono i nomi e gli id di tutti i paesi con almeno un produttore di automobili?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 125,
+        "question": "Qual è il numero delle auto con una potenza superiore a 150?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 126,
+        "question": "Qual è il numero di auto con una potenza superiore a 150?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 127,
+        "question": "Qual è il peso medio delle auto ogni anno?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 128,
+        "question": "Qual è il peso medio e l'anno per ogni anno?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 129,
+        "question": "Quali paesi in Europa hanno almeno 3 produttori di automobili?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 130,
+        "question": "Quali sono i nomi di tutti i paesi europei con almeno 3 produttori?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 131,
+        "question": "Qual è la potenza massima e la marca dei modelli di auto con 3 cilindri?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 132,
+        "question": "Qual è la potenza massima in cavalli per i modelli con 3 cilindri e di quale marca è?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 133,
+        "question": "Quale modello risparmia più benzina? Cioè, ha il massimo di miglia per gallone."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 134,
+        "question": "Qual è il modello di auto con il consumo di carburante più basso?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 135,
+        "question": "Qual è la potenza media delle auto prima del 1980?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 136,
+        "question": "Qual è la potenza media di tutte le auto prodotte prima del 1980?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 137,
+        "question": "Qual è la media di edispl delle auto del modello volvo?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 138,
+        "question": "Qual è la cilindrata media per tutte le Volvo?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 139,
+        "question": "Qual è l'accelerazione massima per un diverso numero di cilindri?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 140,
+        "question": "Qual è l'accelerazione massima per tutti i diversi cilindri?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 141,
+        "question": "Quale modello ha il maggior numero di versioni (marche) di auto?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 142,
+        "question": "Quale modello ha le versioni più diverse?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 143,
+        "question": "Quante auto hanno più di 4 cilindri?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 144,
+        "question": "Qual è il numero di auto con più di 4 cilindri?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 145,
+        "question": "quante auto sono state prodotte nel 1980?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 146,
+        "question": "Nel 1980, quante auto sono state prodotte?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 147,
+        "question": "Quanti modelli di auto sono stati prodotti dal produttore con il nome completo American Motor Company?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 148,
+        "question": "Qual è il numero di modelli di auto creati dal produttore di auto American Motor Company?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 149,
+        "question": "Quali produttori hanno progettato più di 3 modelli di auto? Elenca il nome completo e l'ID."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 150,
+        "question": "Quali sono i nomi e gli id di tutti i produttori con più di 3 modelli?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 151,
+        "question": "Quali modelli distintivi sono prodotti dal produttore con il nome completo General Motors o che pesano più di 3500?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 152,
+        "question": "Quali sono i diversi modelli creati dal costruttore di automobili General Motors o che pesano più di 3500?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 153,
+        "question": "In quali anni sono state prodotte auto con un peso non inferiore a 3000 e non superiore a 4000?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 154,
+        "question": "Quali sono i diversi anni in cui sono state prodotte auto che pesavano meno di 4000 e anche auto che pesavano più di 3000?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 155,
+        "question": "Qual è la potenza in cavalli dell'auto con la maggiore accelerazione?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 156,
+        "question": "Qual è la potenza in cavalli dell'auto con la maggiore accelerazione?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 157,
+        "question": "Per il modello Volvo, quante cilindrate ha l'auto con la minima accelerazione?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 158,
+        "question": "Per un modello Volvo, quanti cilindri ha la versione con la minima accelerazione?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 159,
+        "question": "Quante auto hanno un'accelerazione maggiore rispetto all'auto con la potenza massima?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 160,
+        "question": "Qual è il numero di auto con un'accelerazione maggiore di quella con la potenza massima?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 161,
+        "question": "Quanti paesi hanno più di 2 produttori di auto?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 162,
+        "question": "Qual è il numero di paesi con più di 2 produttori di automobili?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 163,
+        "question": "Quante auto hanno più di 6 cilindri?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 164,
+        "question": "Qual è il numero di auto con più di 6 cilindri?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 165,
+        "question": "Per le auto con 4 cilindri, quale modello ha la potenza più grande?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 166,
+        "question": "Per tutte le auto a 4 cilindri, quale modello ha la maggior potenza?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 167,
+        "question": "Tra le auto con più del minimo cavallo vapore, quali non hanno più di 3 cilindri? Elenca l'ID del produttore e il nome del produttore."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 168,
+        "question": "Tra le auto che non hanno la potenza minima, quali sono gli ID e i nomi di tutte quelle con meno di 4 cilindri?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 169,
+        "question": "Qual è il massimo miglia per gallone dell'auto con 8 cilindri o prodotta prima del 1980?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 170,
+        "question": "Qual è il massimo consumo di carburante delle auto che avevano 8 cilindri o che sono state prodotte prima del 1980?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 171,
+        "question": "Quali modelli sono più leggeri di 3500 ma non costruiti dalla 'Ford Motor Company'?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 172,
+        "question": "Quali sono i diversi modelli che pesano meno di 3500 ma non sono stati costruiti dalla Ford Motor Company?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 173,
+        "question": "Quali sono i nomi dei paesi in cui non c'è un solo produttore di automobili?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 174,
+        "question": "Quali sono i nomi dei paesi senza produttori di automobili?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 175,
+        "question": "Quali sono i produttori di auto che producono almeno 2 modelli e più di 3 produttori di auto? Elenca l'id e il produttore."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 176,
+        "question": "Quali sono gli id e i produttori di tutti i produttori di auto che producono almeno 2 modelli e fabbricano più di 3 auto?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 177,
+        "question": "Quali sono l'id e i nomi dei paesi che hanno più di 3 produttori di auto o producono il modello 'fiat'?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 178,
+        "question": "Quali sono gli ID e i nomi di tutti i paesi che hanno più di 3 produttori di automobili o producono il modello Fiat?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 179,
+        "question": "A quale paese appartiene la compagnia aerea \"JetBlue Airways\"?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 180,
+        "question": "Con quale paese è affiliata la Jetblue Airways?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 181,
+        "question": "Qual è l'abbreviazione della compagnia aerea \"JetBlue Airways\"?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 182,
+        "question": "Quale abbreviazione corrisponde a Jetblue Airways?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 183,
+        "question": "Elenca tutti i nomi delle compagnie aeree e le loro abbreviazioni negli \"USA\"."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 184,
+        "question": "Quali sono i nomi e le abbreviazioni delle compagnie aeree negli Stati Uniti?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 185,
+        "question": "Elenca il codice aeroportuale e il nome nella città di Anthony."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 186,
+        "question": "Fornisci il codice aeroportuale e il nome dell'aeroporto corrispondente alla città di Anthony."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 187,
+        "question": "Quante compagnie aeree abbiamo?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 188,
+        "question": "Qual è il numero totale di compagnie aeree?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 189,
+        "question": "Quanti aeroporti abbiamo?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 190,
+        "question": "Restituisci il numero degli aeroporti."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 191,
+        "question": "Quanti voli abbiamo?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 192,
+        "question": "Restituisci il numero dei voli."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 193,
+        "question": "Quale compagnia aerea ha l'abbreviazione 'UAL'?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 194,
+        "question": "Dai la compagnia aerea con l'abbreviazione 'UAL'."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 195,
+        "question": "Quante compagnie aeree provengono dagli USA?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 196,
+        "question": "Restituisci il numero di compagnie aeree negli USA."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 197,
+        "question": "In quale città e paese si trova l'aeroporto di Alton?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 198,
+        "question": "Fornisci la città e il paese per l'aeroporto di Alton."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 199,
+        "question": "Qual è il nome dell'aeroporto per l'aeroporto 'AKO'?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 200,
+        "question": "Restituisci il nome dell'aeroporto con codice 'AKO'."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 201,
+        "question": "Quali sono i nomi degli aeroporti nella città 'Aberdeen'?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 202,
+        "question": "Quali sono i nomi degli aeroporti ad Aberdeen?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 203,
+        "question": "Quanti voli partono da 'APG'?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 204,
+        "question": "Conta il numero di voli in partenza da 'APG'."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 205,
+        "question": "Quanti voli hanno come destinazione ATO?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 206,
+        "question": "Conta il numero di voli verso ATO."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 207,
+        "question": "Quanti voli partono dalla città di Aberdeen?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 208,
+        "question": "Restituisci il numero di voli in partenza da Aberdeen."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 209,
+        "question": "Quanti voli in arrivo nella città di Aberdeen?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 210,
+        "question": "Restituisci il numero di voli in arrivo ad Aberdeen."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 211,
+        "question": "Quanti voli partono dalla città 'Aberdeen' e hanno come destinazione la città 'Ashley'?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 212,
+        "question": "Quanti voli volano da Aberdeen a Ashley?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 213,
+        "question": "Quanti voli ha la compagnia aerea 'JetBlue Airways'?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 214,
+        "question": "Dai il numero dei voli di Jetblue Airways."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 215,
+        "question": "Quanti voli di 'United Airlines' vanno all'aeroporto 'ASY'?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 216,
+        "question": "Conta il numero di voli United Airlines in arrivo all'aeroporto ASY."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 217,
+        "question": "Quanti voli 'United Airlines' partono dall'aeroporto 'AHD'?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 218,
+        "question": "Restituisci il numero di voli United Airlines in partenza dall'aeroporto AHD."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 219,
+        "question": "Quanti voli di United Airlines vanno alla città 'Aberdeen'?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 220,
+        "question": "Conta il numero di voli United Airlines che arrivano ad Aberdeen."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 221,
+        "question": "Quale città ha il maggior numero di voli in arrivo?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 222,
+        "question": "Quale città ha l'aeroporto di destinazione più frequentato?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 223,
+        "question": "Quale città ha il maggior numero di voli in partenza?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 224,
+        "question": "Quale città è l'aeroporto di partenza più frequente?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 225,
+        "question": "Qual è il codice dell'aeroporto che ha il numero più alto di voli?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 226,
+        "question": "Qual è il codice aeroportuale dell'aeroporto con il maggior numero di voli?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 227,
+        "question": "Qual è il codice dell'aeroporto che ha il minor numero di voli?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 228,
+        "question": "Dai il codice dell'aeroporto con meno voli."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 229,
+        "question": "Quale compagnia aerea ha il maggior numero di voli?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 230,
+        "question": "Quale compagnia aerea serve il maggior numero di voli?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 231,
+        "question": "Trova l'abbreviazione e il paese della compagnia aerea che ha il minor numero di voli?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 232,
+        "question": "Qual è l'abbreviazione della compagnia aerea che ha il minor numero di voli e in quale paese si trova?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 233,
+        "question": "Quali sono le compagnie aeree che hanno qualche volo in partenza dall'aeroporto 'AHD'?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 234,
+        "question": "Quali compagnie aeree hanno un volo con aeroporto di partenza AHD?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 235,
+        "question": "Quali compagnie aeree hanno voli in arrivo all'aeroporto 'AHD'?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 236,
+        "question": "Quali compagnie aeree hanno un volo con destinazione aeroporto AHD?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 237,
+        "question": "Trova tutte le compagnie aeree che hanno voli da entrambi gli aeroporti 'APG' e 'CVO'."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 238,
+        "question": "Quali compagnie aeree hanno voli in partenza sia dall'aeroporto APG che dall'aeroporto CVO?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 239,
+        "question": "Trova tutte le compagnie aeree che hanno voli dall'aeroporto 'CVO' ma non da 'APG'."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 240,
+        "question": "Quali compagnie aeree hanno partenze da CVO ma non da aeroporti APG?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 241,
+        "question": "Trova tutte le compagnie aeree che hanno almeno 10 voli."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 242,
+        "question": "Quali compagnie aeree hanno almeno 10 voli?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 243,
+        "question": "Trova tutte le compagnie aeree che hanno meno di 200 voli."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 244,
+        "question": "Quali compagnie aeree hanno meno di 200 voli?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 245,
+        "question": "Quali sono i numeri di volo della compagnia aerea \"United Airlines\"?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 246,
+        "question": "Quali numeri di volo corrispondono ai voli di United Airlines?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 247,
+        "question": "Quali sono i numeri di volo dei voli in partenza dall'aeroporto \"APG\"?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 248,
+        "question": "Fornisci i numeri di volo dei voli in partenza da APG."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 249,
+        "question": "Quali sono i numeri di volo dei voli in arrivo all'aeroporto \"APG\"?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 250,
+        "question": "Fornisci i numeri di volo dei voli in arrivo a APG."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 251,
+        "question": "Quali sono i numeri di volo dei voli in partenza dalla città di \"Aberdeen\"?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 252,
+        "question": "Fornisci i numeri di volo dei voli in partenza da Aberdeen."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 253,
+        "question": "Quali sono i numeri di volo dei voli in arrivo alla città \"Aberdeen\"?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 254,
+        "question": "Fornisci i numeri di volo dei voli in arrivo ad Aberdeen."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 255,
+        "question": "Trova il numero di voli che atterrano nella città di Aberdeen o Abilene."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 256,
+        "question": "Quanti voli atterrano a Aberdeen o Abilene?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 257,
+        "question": "Trova il nome degli aeroporti che non hanno nessun volo in entrata e in uscita."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 258,
+        "question": "Quali aeroporti non hanno voli in partenza o in arrivo?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 259,
+        "question": "Quanti dipendenti ci sono?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 260,
+        "question": "Conta il numero dei dipendenti"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 261,
+        "question": "Ordina i nomi dei dipendenti per la loro età in ordine crescente."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 262,
+        "question": "Elenca i nomi dei dipendenti e ordina in ordine crescente di età."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 263,
+        "question": "Qual è il numero di dipendenti da ogni città?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 264,
+        "question": "Conta il numero di dipendenti per ogni città."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 265,
+        "question": "Da quali città provengono più di un dipendente di età inferiore ai 30 anni?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 266,
+        "question": "Trova le città che hanno più di un dipendente di età inferiore a 30 anni."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 267,
+        "question": "Trova il numero di negozi in ogni località."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 268,
+        "question": "Quanti negozi ci sono in ogni località?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 269,
+        "question": "Trova il nome del manager e il distretto del negozio il cui numero di prodotti è il più grande."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 270,
+        "question": "Qual è il nome del manager e il distretto del negozio che vende il maggior numero di prodotti?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 271,
+        "question": "trova il numero minimo e massimo di prodotti di tutti i negozi."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 272,
+        "question": "Qual è il numero minimo e massimo di prodotti in tutti i negozi?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 273,
+        "question": "Restituisci il nome, la posizione e il distretto di tutti i negozi in ordine decrescente del numero di prodotti."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 274,
+        "question": "Ordina tutti i negozi per numero di prodotti in ordine decrescente e restituisci il nome, la posizione e il distretto di ogni negozio."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 275,
+        "question": "Trova i nomi dei negozi il cui numero di prodotti è superiore alla media dei prodotti."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 276,
+        "question": "Quale numero di prodotti dei negozi è sopra la media? Dammi i nomi dei negozi."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 277,
+        "question": "trova il nome del dipendente che è stato premiato più volte nella valutazione."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 278,
+        "question": "Quale dipendente ha ricevuto più premi nelle valutazioni? Dammi il nome del dipendente."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 279,
+        "question": "Trova il nome del dipendente che ha ricevuto il bonus una tantum più alto."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 280,
+        "question": "Quale dipendente ha ricevuto il bonus più grande? Dammi il nome del dipendente."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 281,
+        "question": "Trova i nomi dei dipendenti che non hanno mai vinto alcun premio nella valutazione."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 282,
+        "question": "Quali sono i nomi dei dipendenti che non hanno mai ricevuto alcuna valutazione?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 283,
+        "question": "Qual è il nome del negozio che assume il maggior numero di dipendenti?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 284,
+        "question": "Quale negozio ha più dipendenti? Dammi il nome del negozio."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 285,
+        "question": "Trova il nome dei negozi che non assumono alcun dipendente."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 286,
+        "question": "Quali negozi funzionano senza dipendenti? Trova i nomi dei negozi."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 287,
+        "question": "Trova il numero di dipendenti assunti in ogni negozio; mostra anche il nome del negozio."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 288,
+        "question": "Per ogni negozio, restituisci il numero di dipendenti che ci lavorano e il nome del negozio."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 289,
+        "question": "Qual è il bonus totale dato in tutte le valutazioni?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 290,
+        "question": "Trova l'importo totale del bonus dato in tutte le valutazioni."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 291,
+        "question": "Dammi tutte le informazioni sul processo di assunzione."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 292,
+        "question": "Quali sono tutte le informazioni riguardo l'assunzione?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 293,
+        "question": "Quale distretto ha sia negozi con meno di 3000 prodotti che negozi con più di 10000 prodotti?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 294,
+        "question": "Trova i quartieri in cui ci sono sia negozi che vendono meno di 3000 prodotti sia negozi che vendono più di 10000 prodotti."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 295,
+        "question": "Quante diverse sedi di negozi ci sono?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 296,
+        "question": "Conta il numero di sedi di negozio distinte."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 297,
+        "question": "Quanti documenti abbiamo?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 298,
+        "question": "Conta il numero di documenti."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 299,
+        "question": "Elenca gli ID dei documenti, i nomi dei documenti e le descrizioni dei documenti per tutti i documenti."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 300,
+        "question": "Quali sono gli id, i nomi e le descrizioni di tutti i documenti?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 301,
+        "question": "Qual è il nome del documento e l'ID del modello per il documento con la descrizione con la lettera 'w' in esso?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 302,
+        "question": "Restituisci i nomi e gli ID del modello per i documenti che contengono la lettera w nella loro descrizione."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 303,
+        "question": "Qual è l'ID del documento, l'ID del modello e la descrizione per il documento chiamato \"Robbin CV\"?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 304,
+        "question": "Restituisci l'id del documento, l'id del modello e la descrizione per il documento con il nome Robbin CV."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 305,
+        "question": "Quanti diversi modelli utilizzano tutti i documenti?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 306,
+        "question": "Conta il numero di diversi modelli utilizzati per i documenti."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 307,
+        "question": "Quanti documenti stanno utilizzando il modello con codice di tipo 'PPT'?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 308,
+        "question": "Conta il numero di documenti che utilizzano il tipo di modello PPT."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 309,
+        "question": "Mostra tutti gli ID dei template e il numero di documenti che utilizzano ciascun template."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 310,
+        "question": "Quali sono tutti i diversi ID di template utilizzati per i documenti e quante volte sono stati utilizzati ciascuno di essi?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 311,
+        "question": "Qual è l'ID e il codice di tipo per il modello utilizzato dalla maggior parte dei documenti?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 312,
+        "question": "Restituisci l'id e il codice di tipo del modello che viene utilizzato per il maggior numero di documenti."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 313,
+        "question": "Mostra gli ID per tutti i modelli che vengono utilizzati da più di un documento."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 314,
+        "question": "Quali sono gli ID dei template utilizzati in più di un singolo documento?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 315,
+        "question": "Mostra gli id per tutti i modelli non utilizzati da alcun documento."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 316,
+        "question": "Quali sono gli ID per i modelli che non vengono utilizzati in nessun documento?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 317,
+        "question": "Quanti modelli abbiamo?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 318,
+        "question": "Conta il numero di modelli."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 319,
+        "question": "Mostra gli ID dei modelli, i numeri di versione e i codici di tipo di modello per tutti i modelli."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 320,
+        "question": "Quali sono gli id, i numeri di versione e i codici di tipo per ogni modello?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 321,
+        "question": "Mostra tutti i codici di tipo di modello distinti per tutti i modelli."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 322,
+        "question": "Quali sono i diversi codici di tipo di modello?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 323,
+        "question": "Quali sono gli id dei modelli con codice di tipo modello PP o PPT?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 324,
+        "question": "Restituisci gli id dei modelli che hanno il codice PP o PPT."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 325,
+        "question": "Quanti modelli hanno il codice di tipo di modello CV?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 326,
+        "question": "Conta il numero di modelli del tipo CV."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 327,
+        "question": "Qual è il numero di versione e il codice del tipo di modello per il modello con numero di versione superiore a 5?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 328,
+        "question": "Restituisci i numeri di versione e i codici di tipo di modello dei modelli con un numero di versione superiore a 5."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 329,
+        "question": "Mostra tutti i codici di tipo di modello e il numero di modelli per ciascuno."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 330,
+        "question": "Quali sono i diversi codici di tipo di modello e quanti modelli corrispondono a ciascuno?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 331,
+        "question": "Quale codice di tipo di modello ha il maggior numero di modelli?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 332,
+        "question": "Restituisci il codice di tipo del tipo di modello a cui appartengono la maggior parte dei modelli."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 333,
+        "question": "Mostra tutti i codici di tipo di modello con meno di tre modelli."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 334,
+        "question": "Quali sono i codici dei tipi di template che hanno meno di 3 template?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 335,
+        "question": "Qual è il numero della versione più piccola e il suo codice di tipo di modello?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 336,
+        "question": "Restituisci il numero di versione più basso, insieme al suo corrispondente codice di tipo di modello."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 337,
+        "question": "Qual è il codice di tipo di modello del modello utilizzato dal documento con il nome \"Data base\"?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 338,
+        "question": "Restituisci il codice di tipo di modello del modello utilizzato da un documento chiamato Data base."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 339,
+        "question": "Mostra tutti i nomi dei documenti utilizzando modelli con codice di tipo modello BK."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 340,
+        "question": "Quali sono i nomi dei documenti che utilizzano modelli con il codice BK?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 341,
+        "question": "Mostra tutti i codici di tipo di modello e il numero di documenti che utilizzano ogni tipo."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 342,
+        "question": "Quali sono i diversi codici di tipo di modello e quanti documenti utilizzano ogni tipo?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 343,
+        "question": "Quale codice di tipo di modello è utilizzato dal maggior numero di documenti?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 344,
+        "question": "Restituisci il codice del tipo di modello più comunemente utilizzato nei documenti."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 345,
+        "question": "Mostra tutti i codici di tipo di modello che non vengono utilizzati da nessun documento."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 346,
+        "question": "Quali sono i codici dei tipi di modello che non vengono utilizzati per nessun documento?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 347,
+        "question": "Mostra tutti i codici e le descrizioni dei tipi di template."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 348,
+        "question": "Quali sono i codici di tipo e le descrizioni per tutti i tipi di template?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 349,
+        "question": "Quali sono le descrizioni del tipo di modello per il codice del tipo di modello \"AD\"."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 350,
+        "question": "Restituisci la descrizione del tipo di modello del tipo di modello con il codice AD."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 351,
+        "question": "Qual è il codice di tipo di modello per la descrizione del tipo di modello \"Libro\"."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 352,
+        "question": "Restituisci il codice di tipo del tipo di modello con la descrizione \"Libro\"."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 353,
+        "question": "Quali sono le descrizioni dei tipi di modello distinti per i modelli mai utilizzati da qualsiasi documento?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 354,
+        "question": "Restituisci le diverse descrizioni per i modelli che sono stati utilizzati in un documento."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 355,
+        "question": "Quali sono gli ID del modello con la descrizione del tipo di modello \"Presentazione\"."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 356,
+        "question": "Restituisci gli id corrispondenti ai modelli con la descrizione 'Presentazione'."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 357,
+        "question": "Quanti paragrafi in totale?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 358,
+        "question": "Conta il numero di paragrafi."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 359,
+        "question": "Quanti paragrafi per il documento con nome 'Summer Show'?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 360,
+        "question": "Conta il numero di paragrafi nel documento chiamato 'Summer Show'."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 361,
+        "question": "Mostra i dettagli del paragrafo per il paragrafo con il testo 'Korea '."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 362,
+        "question": "Quali sono i dettagli per il paragrafo che include il testo 'Korea'?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 363,
+        "question": "Mostra tutti gli ID dei paragrafi e i testi per il documento con il nome 'Benvenuto a NY'."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 364,
+        "question": "Quali sono gli ID e i testi dei paragrafi nel documento intitolato 'Benvenuto a NY'?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 365,
+        "question": "Mostra tutti i testi dei paragrafi per il documento \"Recensioni dei clienti\"."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 366,
+        "question": "Quali sono i testi dei paragrafi per il documento con il nome 'Recensioni dei clienti'?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 367,
+        "question": "Mostra tutti gli id dei documenti e il numero di paragrafi in ogni documento. Ordina per id del documento."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 368,
+        "question": "Restituisci i diversi id dei documenti insieme al numero di paragrafi corrispondenti a ciascuno, ordinati per id."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 369,
+        "question": "Mostra tutti gli ID dei documenti, i nomi e il numero di paragrafi in ogni documento."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 370,
+        "question": "Quali sono gli ID e i nomi di ogni documento, così come il numero di paragrafi in ciascuno?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 371,
+        "question": "Elenca tutti gli ID dei documenti con almeno due paragrafi."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 372,
+        "question": "Quali sono gli id dei documenti che hanno 2 o più paragrafi?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 373,
+        "question": "Qual è l'ID e il nome del documento con il maggior numero di paragrafi?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 374,
+        "question": "Restituisci l'id e il nome del documento con il maggior numero di paragrafi."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 375,
+        "question": "Qual è l'ID del documento con il minor numero di paragrafi?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 376,
+        "question": "Restituisci l'id del documento con il minor numero di paragrafi."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 377,
+        "question": "Qual è l'ID del documento con 1 o 2 paragrafi?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 378,
+        "question": "Dai gli id dei documenti che hanno tra uno e due paragrafi."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 379,
+        "question": "Mostra l'ID del documento con il testo del paragrafo 'Brasile' e 'Irlanda'."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 380,
+        "question": "Quali sono gli id dei documenti che contengono il testo del paragrafo 'Brasile' e 'Irlanda'?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 381,
+        "question": "Quanti insegnanti ci sono?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 382,
+        "question": "Qual è il conteggio totale degli insegnanti?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 383,
+        "question": "Elenca i nomi degli insegnanti in ordine crescente di età."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 384,
+        "question": "Quali sono i nomi degli insegnanti ordinati per età crescente?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 385,
+        "question": "Quali sono l'età e la città natale degli insegnanti?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 386,
+        "question": "Qual è l'età e la città natale di ogni insegnante?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 387,
+        "question": "Elenca il nome degli insegnanti il cui paese natale non è \"Little Lever Urban District\"."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 388,
+        "question": "Quali sono i nomi degli insegnanti la cui città natale non è \"Little Lever Urban District\"?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 389,
+        "question": "Mostra il nome degli insegnanti di 32 o 33 anni?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 390,
+        "question": "Quali sono i nomi degli insegnanti che hanno 32 o 33 anni?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 391,
+        "question": "Qual è la città natale del professore più giovane?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 392,
+        "question": "Da dove viene l'insegnante più giovane?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 393,
+        "question": "Mostra diverse città natale degli insegnanti e il numero di insegnanti provenienti da ogni città natale."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 394,
+        "question": "Per ogni città natale, quanti insegnanti ci sono?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 395,
+        "question": "Elenca la città natale più comune degli insegnanti."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 396,
+        "question": "Quali sono le città natali più comuni per gli insegnanti?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 397,
+        "question": "Mostra le città natali condivise da almeno due insegnanti."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 398,
+        "question": "Quali sono le città da cui provengono almeno due insegnanti?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 399,
+        "question": "Mostra i nomi degli insegnanti e i corsi che sono stati organizzati per insegnare."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 400,
+        "question": "Qual è il nome di ogni insegnante e quale corso insegnano?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 401,
+        "question": "Mostra i nomi degli insegnanti e i corsi che sono stati organizzati per insegnare in ordine alfabetico crescente del nome dell'insegnante."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 402,
+        "question": "Quali sono i nomi degli insegnanti e dei corsi che insegnano in ordine alfabetico crescente per il nome dell'insegnante?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 403,
+        "question": "Mostra il nome dell'insegnante per il corso di matematica."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 404,
+        "question": "Quali sono i nomi delle persone che insegnano corsi di matematica?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 405,
+        "question": "Mostra i nomi degli insegnanti e il numero di corsi che insegnano."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 406,
+        "question": "Quali sono i nomi degli insegnanti e quanti corsi insegnano?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 407,
+        "question": "Mostra i nomi degli insegnanti che insegnano almeno due corsi."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 408,
+        "question": "Quali sono i nomi degli insegnanti che insegnano almeno due corsi?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 409,
+        "question": "Elenca i nomi degli insegnanti che non sono stati organizzati per insegnare corsi."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 410,
+        "question": "Quali sono i nomi degli insegnanti i cui corsi non sono stati organizzati?"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 411,
+        "question": "Quanti visitatori sotto i 30 anni ci sono?"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 412,
+        "question": "Trova i nomi dei visitatori il cui livello di adesione è superiore a 4 e ordina i risultati per livello dal più alto al più basso."
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 413,
+        "question": "Qual è l'età media dei visitatori il cui livello di iscrizione non è superiore a 4?"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 414,
+        "question": "Trova il nome e il livello di adesione dei visitatori il cui livello di adesione è superiore a 4, e ordina per la loro età dal più vecchio al più giovane."
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 415,
+        "question": "Trova l'id e il nome del museo che ha il maggior numero di membri dello staff?"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 416,
+        "question": "Trova il numero medio di personale che lavorava per i musei aperti prima del 2009."
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 417,
+        "question": "Quali sono l'anno di apertura e il numero di personale del museo chiamato Plaza Museum?"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 418,
+        "question": "trova i nomi dei musei che hanno più personale del numero minimo di personale di tutti i musei aperti dopo il 2010."
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 419,
+        "question": "trova l'id, il nome e l'età dei visitatori che hanno visitato alcuni musei più di una volta."
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 420,
+        "question": "Quali sono l'id, il nome e il livello di iscrizione dei visitatori che hanno speso la quantità più grande di denaro in totale in tutti i biglietti del museo?"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 421,
+        "question": "Quali sono l'id e il nome del museo più visitato?"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 422,
+        "question": "Qual è il nome del museo che non ha ancora avuto visitatori?"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 423,
+        "question": "Trova il nome e l'età del visitatore che ha comprato il maggior numero di biglietti in una sola volta."
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 424,
+        "question": "Qual è il numero medio e massimo di biglietti acquistati in tutte le visite?"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 425,
+        "question": "Qual è la spesa totale dei biglietti dei visitatori il cui livello di iscrizione è 1?"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 426,
+        "question": "Qual è il nome del visitatore che ha visitato sia un museo aperto prima del 2009 che un museo aperto dopo il 2011?"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 427,
+        "question": "Trova il numero di visitatori che non hanno visitato nessun museo aperto dopo il 2010."
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 428,
+        "question": "Quanti musei sono stati aperti dopo il 2013 o prima del 2008?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 429,
+        "question": "Trova il numero totale di giocatori."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 430,
+        "question": "Quanti giocatori ci sono?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 431,
+        "question": "Trova il numero totale di partite."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 432,
+        "question": "Conta il numero di fiammiferi."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 433,
+        "question": "Elenca il nome e la data di nascita di tutti i giocatori del paese con codice USA."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 434,
+        "question": "Quali sono i nomi e le date di nascita dei giocatori provenienti dagli USA?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 435,
+        "question": "Trova l'età media dei perdenti e dei vincitori di tutte le partite."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 436,
+        "question": "Quali sono le età medie dei perdenti e dei vincitori nelle partite?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 437,
+        "question": "Trova il rango medio dei vincitori in tutte le partite."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 438,
+        "question": "Qual è il rango medio per i vincitori in tutte le partite?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 439,
+        "question": "Trova il rango più alto dei perdenti in tutte le partite."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 440,
+        "question": "Qual è il miglior rango dei perdenti in tutte le partite?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 441,
+        "question": "trova il numero di codici di paese distinti di tutti i giocatori."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 442,
+        "question": "Da quanti paesi diversi provengono i giocatori?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 443,
+        "question": "Trova il numero di nomi distinti di perdenti."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 444,
+        "question": "Quanti nomi diversi di perdenti ci sono?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 445,
+        "question": "Trova il nome del torneo che ha più di 10 partite."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 446,
+        "question": "Quali sono i nomi dei tornei che hanno più di 10 partite?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 447,
+        "question": "Elenca i nomi di tutti i vincitori che hanno giocato sia nel 2013 che nel 2016."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 448,
+        "question": "Quali sono i nomi dei giocatori che hanno vinto sia nel 2013 che nel 2016?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 449,
+        "question": "Elenca il numero di tutte le partite giocate negli anni 2013 o 2016."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 450,
+        "question": "Quante partite sono state giocate nel 2013 o nel 2016?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 451,
+        "question": "Quali sono il codice del paese e il nome dei giocatori che hanno vinto sia il torneo WTA Championships che l'Australian Open?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 452,
+        "question": "Quali sono i nomi e i codici dei paesi dei giocatori che hanno vinto sia i Campionati WTA che l'Open d'Australia?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 453,
+        "question": "Trova il nome e il codice del paese del giocatore più anziano."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 454,
+        "question": "Qual è il nome e il prefisso del paese del giocatore più anziano?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 455,
+        "question": "Elenca il nome e cognome di tutti i giocatori in ordine di data di nascita."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 456,
+        "question": "Quali sono i nomi completi di tutti i giocatori, ordinati per data di nascita?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 457,
+        "question": "Elenca il nome e cognome di tutti i giocatori che sono mancini / di mano sinistra in ordine di data di nascita."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 458,
+        "question": "Quali sono i nomi completi di tutti i giocatori mancini, in ordine di data di nascita?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 459,
+        "question": "Trova il nome e il codice del paese del giocatore che ha effettuato il maggior numero di tour."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 460,
+        "question": "Qual è il nome e il codice del paese del giocatore con il maggior numero di tour?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 461,
+        "question": "Trova l'anno che ha il maggior numero di partite."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 462,
+        "question": "In quale anno ci sono state più partite?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 463,
+        "question": "Trova il nome e i punti di classifica del vincitore che ha vinto più volte."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 464,
+        "question": "Qual è il nome del vincitore che ha vinto più partite e quanti punti di classifica ha questo giocatore?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 465,
+        "question": "Trova il nome del vincitore che ha il punteggio più alto e ha partecipato al torneo Australian Open."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 466,
+        "question": "Qual è il nome del vincitore con il maggior numero di punti di classifica che ha partecipato al torneo Australian Open?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 467,
+        "question": "trova i nomi del perdente e del vincitore che hanno giocato nella partita con il maggior numero di minuti."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 468,
+        "question": "Quali sono i nomi del vincitore e del perdente che hanno giocato nella partita più lunga?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 469,
+        "question": "Trova la classifica media per ogni giocatore e il loro primo nome."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 470,
+        "question": "Quali sono i nomi di tutti i giocatori e le loro classifiche medie?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 471,
+        "question": "Trova il punteggio totale di classificazione per ogni giocatore e il loro primo nome."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 472,
+        "question": "Quali sono i nomi di tutti i giocatori e i loro punti totali in classifica?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 473,
+        "question": "trova il numero di giocatori per ogni paese."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 474,
+        "question": "Quanti giocatori provengono da ogni paese?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 475,
+        "question": "trova il codice del paese dove ha il maggior numero di giocatori."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 476,
+        "question": "Qual è il codice del paese con il maggior numero di giocatori?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 477,
+        "question": "Trova i codici dei paesi che hanno più di 50 giocatori."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 478,
+        "question": "Quali sono i codici dei paesi con più di 50 giocatori?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 479,
+        "question": "Trova il numero totale di tour per ogni data di classificazione."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 480,
+        "question": "Quanti tour totali c'erano per ogni data di classificazione?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 481,
+        "question": "Trova il numero di partite che si sono svolte in ogni anno."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 482,
+        "question": "Quante partite sono state giocate in ogni anno?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 483,
+        "question": "Trova il nome e il grado dei 3 vincitori più giovani in tutte le partite."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 484,
+        "question": "Quali sono i nomi e i gradi dei tre vincitori più giovani in tutte le partite?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 485,
+        "question": "Quanti diversi vincitori hanno partecipato ai Campionati WTA ed erano mancini?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 486,
+        "question": "Trova il numero di vincitori mancini che hanno partecipato ai Campionati WTA."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 487,
+        "question": "Trova il nome, il codice del paese e la data di nascita del vincitore che ha il punteggio più alto in tutte le partite."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 488,
+        "question": "Qual è il nome, il codice del paese e la data di nascita del giocatore con il maggior numero di punti vittoria in tutte le partite?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 489,
+        "question": "Trova il numero di giocatori per ogni tipo di mano."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 490,
+        "question": "Quanti giocatori ci sono per ogni tipo di mano?"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 491,
+        "question": "Quante navi sono finite per essere 'Catturate'?"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 492,
+        "question": "Elenca il nome e la stazza ordinati in ordine alfabetico decrescente per i nomi."
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 493,
+        "question": "Elenca il nome, la data e il risultato di ogni battaglia."
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 494,
+        "question": "Qual è il numero massimo e minimo di morti causato ogni volta?"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 495,
+        "question": "Qual è il numero medio di infortuni causati ogni volta?"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 496,
+        "question": "Quali sono le situazioni di morte e ferimento causate dalla nave con stazza 't'?"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 497,
+        "question": "Quali sono il nome e i risultati delle battaglie quando il comandante bulgaro non è 'Boril'?"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 498,
+        "question": "Quali sono i diversi ID e nomi delle battaglie in cui sono state perse navi di tipo 'Brig'?"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 499,
+        "question": "Quali sono gli id e i nomi delle battaglie che hanno portato a più di 10 persone uccise in totale."
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 500,
+        "question": "Qual è l'ID e il nome della nave che ha causato il maggior numero totale di feriti?"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 501,
+        "question": "Quali sono i nomi distinti delle battaglie tra il comandante bulgaro 'Kaloyan' e il comandante latino 'Baldwin I'?"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 502,
+        "question": "Quanti risultati diversi ci sono per le battaglie?"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 503,
+        "question": "Quante battaglie non hanno perso nessuna nave con stazza '225'?"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 504,
+        "question": "Elenca il nome e la data della battaglia in cui sono stati persi la nave chiamata 'Lettice' e la nave chiamata 'HMS Atalanta'"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 505,
+        "question": "Mostra i nomi, i risultati e i comandanti bulgari delle battaglie in cui non sono state perse navi nel 'Canale della Manica'."
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 506,
+        "question": "Quali sono le note degli eventi di morte che contengono la sottostringa 'East'?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 507,
+        "question": "quali sono tutti gli indirizzi compresi la linea 1 e la linea 2?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 508,
+        "question": "Qual è la prima e la seconda riga per tutti gli indirizzi?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 509,
+        "question": "Quanti corsi in totale sono elencati?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 510,
+        "question": "Quanti corsi ci sono?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 511,
+        "question": "Come viene descritto il corso di matematica?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 512,
+        "question": "Quali sono le descrizioni di tutti i corsi di matematica?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 513,
+        "question": "Qual è il codice postale dell'indirizzo nella città di Port Chelsea?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 514,
+        "question": "Qual è il codice postale per Port Chelsea?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 515,
+        "question": "Quale dipartimento offre il maggior numero di lauree? Elenca il nome e l'id del dipartimento."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 516,
+        "question": "Qual è il nome e l'id del dipartimento con il maggior numero di lauree?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 517,
+        "question": "Quanti dipartimenti offrono un qualsiasi diploma?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 518,
+        "question": "Quanti dipartimenti diversi offrono lauree?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 519,
+        "question": "Quanti nomi di laurea diversi vengono offerti?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 520,
+        "question": "Quanti diversi titoli di studio vengono offerti?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 521,
+        "question": "Quanti corsi di laurea offre il dipartimento di ingegneria?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 522,
+        "question": "Quanti gradi ha il dipartimento di ingegneria?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 523,
+        "question": "Quali sono i nomi e le descrizioni di tutte le sezioni?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 524,
+        "question": "Quali sono i nomi e le descrizioni di tutte le sezioni?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 525,
+        "question": "Quali sono i nomi e l'id dei corsi che hanno al massimo 2 sezioni?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 526,
+        "question": "Quali sono i nomi e gli id di ogni corso con meno di 2 sezioni?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 527,
+        "question": "Elenca il nome_sezione in ordine lessicografico inverso."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 528,
+        "question": "Quali sono i nomi delle sezioni in ordine alfabetico inverso?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 529,
+        "question": "Qual è il semestre in cui si sono iscritti più studenti? Mostra sia il nome che l'id."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 530,
+        "question": "Per ogni semestre, qual è il nome e l'ID di quello con il maggior numero di studenti iscritti?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 531,
+        "question": "Qual è la descrizione del dipartimento il cui nome contiene la sottostringa il computer?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 532,
+        "question": "Qual è la descrizione del dipartimento per quello il cui nome contiene la parola computer?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 533,
+        "question": "Chi è iscritto a 2 programmi di laurea in un semestre? Elenca il nome, il secondo nome e il cognome e l'ID."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 534,
+        "question": "Quali sono i nomi, i cognomi e gli id di tutti gli studenti che si sono iscritti a due programmi di laurea in un semestre?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 535,
+        "question": "Chi è iscritto a un programma di laurea triennale? Elenca il nome, il secondo nome, il cognome."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 536,
+        "question": "Quali sono i nomi, i nomi di mezzo e i cognomi di tutti coloro che sono iscritti a un programma di laurea?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 537,
+        "question": "Trova il tipo di programma in cui sono iscritti il maggior numero di studenti?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 538,
+        "question": "Qual è il nome del corso di laurea che ha il maggior numero di studenti iscritti?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 539,
+        "question": "Trova il programma in cui sono iscritti il maggior numero di studenti. Elenca sia l'id che il riassunto."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 540,
+        "question": "Qual è l'ID del programma e il riassunto del corso che ha il maggior numero di studenti iscritti?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 541,
+        "question": "Quale studente si è iscritto più volte a qualsiasi programma? Elenca l'id, il nome, il secondo nome, il cognome, il numero di iscrizioni e l'id dello studente."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 542,
+        "question": "Qual è il nome, il secondo nome e il cognome, insieme all'ID e al numero di iscrizioni, dello studente che si è iscritto di più in qualsiasi programma?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 543,
+        "question": "Quali semestri non hanno nessuno studente iscritto? Elenca il nome del semestre."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 544,
+        "question": "Come si chiama il semestre senza studenti iscritti?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 545,
+        "question": "Quali sono i nomi di tutti i corsi in cui si sono mai iscritti degli studenti?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 546,
+        "question": "Quali sono i nomi di tutti i corsi che hanno degli studenti iscritti?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 547,
+        "question": "Qual è il nome del corso con il maggior numero di iscrizioni?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 548,
+        "question": "Qual è il nome del corso con il maggior numero di studenti iscritti?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 549,
+        "question": "Trova il cognome degli studenti che attualmente vivono nello stato del North Carolina ma non si sono iscritti a nessun programma di laurea."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 550,
+        "question": "Qual è il cognome degli studenti che vivono in North Carolina ma non si sono iscritti a nessun programma di laurea?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 551,
+        "question": "Mostra la data e l'id della trascrizione con almeno 2 risultati del corso."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 552,
+        "question": "Qual è la data e l'id della trascrizione con almeno 2 corsi elencati?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 553,
+        "question": "Qual è il numero di telefono dell'uomo di nome Timmothy e cognome Ward?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 554,
+        "question": "Qual è il numero di cellulare dello studente di nome Timmothy Ward?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 555,
+        "question": "Chi è il primo studente a registrarsi? Elenca il nome, il secondo nome e il cognome."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 556,
+        "question": "Qual è il nome, il secondo nome e il cognome del primo studente a registrarsi?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 557,
+        "question": "Chi è il laureato più anziano della scuola? Elenca il nome, il secondo nome e il cognome."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 558,
+        "question": "Qual è il nome, il secondo nome e il cognome del laureato più anziano?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 559,
+        "question": "Di chi è l'indirizzo permanente diverso dal suo attuale indirizzo? Elenca il suo nome di battesimo."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 560,
+        "question": "Qual è il nome dello studente il cui indirizzo permanente è diverso da quello attuale?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 561,
+        "question": "Quale indirizzo ospita attualmente il maggior numero di studenti? Elenca l'ID dell'indirizzo e tutte le linee."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 562,
+        "question": "Qual è l'id, la linea 1 e la linea 2 dell'indirizzo con il maggior numero di studenti?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 563,
+        "question": "In media, quando sono state stampate le trascrizioni?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 564,
+        "question": "Qual è la data media della trascrizione?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 565,
+        "question": "Quando viene rilasciato il primo verbale? Elenca la data e i dettagli."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 566,
+        "question": "Qual è la data più precoce di rilascio di un verbale e quali dettagli puoi dirmi?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 567,
+        "question": "Quanti trascritti vengono rilasciati?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 568,
+        "question": "Quanti trascritti sono elencati?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 569,
+        "question": "Qual è la data dell'ultima pubblicazione del verbale?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 570,
+        "question": "Quando è stato rilasciato l'ultimo verbale?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 571,
+        "question": "Quante volte al massimo può apparire un risultato di iscrizione a un corso in diversi trascritti? Mostra anche l'ID di iscrizione al corso."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 572,
+        "question": "Qual è il numero massimo di volte in cui un corso appare in diverse trascrizioni e qual è l'id di iscrizione di quel corso?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 573,
+        "question": "Mostra la data della trascrizione che mostra il minor numero di risultati, elenca anche l'id."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 574,
+        "question": "Qual è la data e l'id della trascrizione con il minor numero di risultati?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 575,
+        "question": "Trova il semestre in cui sia gli studenti del Master che quelli della Laurea si sono iscritti."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 576,
+        "question": "Qual è l'ID del semestre in cui erano iscritti sia studenti di Master che di Laurea?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 577,
+        "question": "Quanti indirizzi diversi abitano attualmente gli studenti?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 578,
+        "question": "Quali sono i diversi indirizzi in cui vivono gli studenti?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 579,
+        "question": "Elenca tutti i dettagli degli studenti in ordine lessicografico inverso."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 580,
+        "question": "Quali altri dettagli puoi dirmi sugli studenti in ordine alfabetico inverso?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 581,
+        "question": "Descrivi la sezione h."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 582,
+        "question": "Qual è la descrizione per la sezione denominata h?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 583,
+        "question": "Trova il nome dei studenti che vivono permanentemente nel paese Haiti o hanno il numero di cellulare 09700166582."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 584,
+        "question": "Quali sono i nomi dei studenti che vivono in Haiti permanentemente o hanno il numero di cellulare 09700166582?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 585,
+        "question": "Elenca il titolo di tutti i cartoni in ordine alfabetico."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 586,
+        "question": "Quali sono i titoli dei cartoni animati ordinati in ordine alfabetico?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 587,
+        "question": "Elenca tutti i cartoni animati diretti da \"Ben Jones\"."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 588,
+        "question": "Quali sono i nomi di tutti i cartoni animati diretti da Ben Jones?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 589,
+        "question": "Quanti cartoni animati sono stati scritti da \"Joseph Kuhr\"?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 590,
+        "question": "Qual è il numero di cartoni animati scritti da Joseph Kuhr?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 591,
+        "question": "elenca tutti i titoli dei cartoni animati e i loro registi ordinati per data di trasmissione"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 592,
+        "question": "Qual è il nome e i registi di tutti i cartoni animati ordinati per data di trasmissione?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 593,
+        "question": "Elenca il titolo di tutti i cartoni animati diretti da \"Ben Jones\" o \"Brandon Vietti\"."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 594,
+        "question": "Quali sono i titoli di tutti i cartoni animati diretti da Ben Jones o Brandon Vietti?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 595,
+        "question": "Quale paese ha il maggior numero di canali TV? Elenca il paese e il numero di canali TV che possiede."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 596,
+        "question": "Qual è il paese con il maggior numero di canali TV e quanti ne ha?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 597,
+        "question": "Elenca il numero di nomi di serie diverse e contenuti nella tabella del Canale TV."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 598,
+        "question": "Quante serie e contenuti diversi sono elencati nella tabella del canale TV?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 599,
+        "question": "Qual è il contenuto del canale TV con il nome della serie \"Sky Radio\"?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 600,
+        "question": "Qual è il contenuto della serie Sky Radio?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 601,
+        "question": "Qual è l'opzione del pacchetto del canale TV con il nome della serie \"Sky Radio\"?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 602,
+        "question": "Quali sono le opzioni di pacchetto dei canali TV i cui nomi delle serie sono Sky Radio?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 603,
+        "question": "Quanti canali TV usano la lingua inglese?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 604,
+        "question": "Quanti canali TV usano la lingua inglese?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 605,
+        "question": "Elenca la lingua utilizzata dal minor numero di canali TV. Elenca lingua e numero di canali TV."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 606,
+        "question": "Quali sono le lingue utilizzate dal minor numero di canali TV e quanti canali le utilizzano?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 607,
+        "question": "Elenca ogni lingua e il numero di canali TV che la utilizzano."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 608,
+        "question": "Per ogni lingua, elenca il numero di canali TV che la utilizzano."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 609,
+        "question": "Qual è il canale TV che trasmette il cartone animato \"The Rise of the Blue Beetle!\"? Elenca il nome della serie del canale TV."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 610,
+        "question": "Qual è il nome della serie del canale TV che trasmette il cartone animato \"The Rise of the Blue Beetle\"?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 611,
+        "question": "Elenca il titolo di tutti i cartoni animati trasmessi sul canale TV con il nome della serie \"Sky Radio\"."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 612,
+        "question": "Qual è il titolo di tutti i cartoni che sono sul canale TV con il nome della serie \"Sky Radio\"?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 613,
+        "question": "Elenca gli episodi di tutte le serie TV ordinati per valutazione."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 614,
+        "question": "Quali sono tutti gli episodi ordinati per valutazioni?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 615,
+        "question": "Elenca le prime 3 serie TV con il rating più alto. Elenca l'episodio e il rating della serie TV."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 616,
+        "question": "Quali sono i 3 episodi con le valutazioni più alte nella serie TV e quali erano quelle valutazioni?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 617,
+        "question": "Qual è la quota minima e massima di serie TV?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 618,
+        "question": "Qual è la quota massima e minima per la serie TV?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 619,
+        "question": "Qual è la data di trasmissione della serie TV con l'episodio \"A Love of a Lifetime\"?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 620,
+        "question": "Quando è andato in onda l'episodio \"A Love of a Lifetime\"?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 621,
+        "question": "Qual è la classifica settimanale della serie TV con l'episodio \"A Love of a Lifetime\"?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 622,
+        "question": "Qual è la classifica settimanale per l'episodio \"A Love of a Lifetime\"?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 623,
+        "question": "Qual è il canale TV della serie TV con l'episodio \"A Love of a Lifetime\"? Elenca il nome della serie del canale TV."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 624,
+        "question": "Qual è il nome della serie che ha l'episodio \"A Love of a Lifetime\"?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 625,
+        "question": "Elenca l'episodio di tutte le serie TV mostrate sul canale TV con il nome della serie \"Sky Radio\"."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 626,
+        "question": "Qual è l'episodio della serie TV chiamata \"Sky Radio\"?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 627,
+        "question": "Trova il numero di cartoni animati diretti da ciascuno dei registi elencati."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 628,
+        "question": "Quanti cartoni ha creato ogni regista?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 629,
+        "question": "Trova il codice di produzione e il canale del cartone animato trasmesso più recentemente."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 630,
+        "question": "Qual è il codice di produzione e il canale del cartone animato più recente?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 631,
+        "question": "Trova la scelta del pacchetto e il nome della serie del canale TV che ha la TV ad alta definizione."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 632,
+        "question": "Quali sono le opzioni di pacchetto e il nome della serie per il canale TV che supporta la TV ad alta definizione?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 633,
+        "question": "Quali canali televisivi dei paesi stanno trasmettendo un cartone animato scritto da Todd Casey?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 634,
+        "question": "Quali sono i paesi che trasmettono cartoni animati in TV scritti da Todd Casey?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 635,
+        "question": "Quali paesi non trasmettono cartoni animati scritti da Todd Casey sui loro canali televisivi?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 636,
+        "question": "Quali sono i paesi che non trasmettono cartoni animati scritti da Todd Casey?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 637,
+        "question": "Trova il nome della serie e il paese del canale televisivo che sta trasmettendo alcuni cartoni animati diretti da Ben Jones e Michael Chang?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 638,
+        "question": "Qual è il nome della serie e il paese di tutti i canali TV che trasmettono cartoni animati diretti da Ben Jones e cartoni animati diretti da Michael Chang?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 639,
+        "question": "trova il rapporto d'aspetto dei pixel e la nazione dei canali TV che non utilizzano l'inglese."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 640,
+        "question": "Qual è il rapporto d'aspetto dei pixel e il paese di origine per tutti i canali TV che non utilizzano l'inglese?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 641,
+        "question": "trova l'ID dei canali TV provenienti dai paesi che hanno più di due canali TV."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 642,
+        "question": "Quali sono gli id di tutti i canali TV che hanno più di 2 canali TV?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 643,
+        "question": "trova l'ID dei canali TV che non trasmettono nessun cartone animato diretto da Ben Jones."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 644,
+        "question": "Quali sono gli id dei canali TV che non hanno nessun cartone animato diretto da Ben Jones?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 645,
+        "question": "trova l'opzione del pacchetto del canale TV che non ha nessun cartone animato diretto da Ben Jones."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 646,
+        "question": "Quali sono le opzioni di pacchetto di tutti i canali TV che non trasmettono nessun cartone animato diretto da Ben Jones?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 647,
+        "question": "Quanti giocatori di poker ci sono?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 648,
+        "question": "Conta il numero dei giocatori di poker."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 649,
+        "question": "Elenca i guadagni dei giocatori di poker in ordine decrescente."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 650,
+        "question": "Quali sono i guadagni dei giocatori di poker, ordinati in ordine decrescente per valore?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 651,
+        "question": "Elenca i tavoli finali realizzati e i migliori piazzamenti dei giocatori di poker."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 652,
+        "question": "Quali sono i tavoli finali realizzati e le migliori conclusioni per tutti i giocatori di poker?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 653,
+        "question": "Qual è il guadagno medio dei giocatori di poker?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 654,
+        "question": "Restituisci il guadagno medio di tutti i giocatori di poker."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 655,
+        "question": "Qual è la posizione in termini di guadagni del giocatore di poker con i guadagni più alti?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 656,
+        "question": "Restituisci il rango monetario del giocatore con i guadagni più alti."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 657,
+        "question": "Qual è il numero massimo di tavoli finali realizzati tra i giocatori di poker con guadagni inferiori a 200000?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 658,
+        "question": "Restituisci il massimo di tavoli finali realizzati da tutti i giocatori di poker che hanno guadagni inferiori a 200000."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 659,
+        "question": "Quali sono i nomi dei giocatori di poker?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 660,
+        "question": "Restituisci i nomi di tutti i giocatori di poker."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 661,
+        "question": "Quali sono i nomi dei giocatori di poker i cui guadagni sono superiori a 300000?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 662,
+        "question": "Dai i nomi dei giocatori di poker che hanno guadagni superiori a 300000."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 663,
+        "question": "Elenca i nomi dei giocatori di poker ordinati per tavoli finali realizzati in ordine crescente."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 664,
+        "question": "Quali sono i nomi dei giocatori di poker, ordinati in modo crescente per il numero di tavoli finali a cui hanno partecipato?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 665,
+        "question": "Qual è la data di nascita del giocatore di poker con i guadagni più bassi?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 666,
+        "question": "Restituisci la data di nascita del giocatore di poker con i guadagni più bassi."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 667,
+        "question": "Qual è il rango monetario del giocatore di poker più alto?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 668,
+        "question": "Restituisci il grado di denaro del giocatore di poker con l'altezza più grande."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 669,
+        "question": "Qual è il guadagno medio dei giocatori di poker con un'altezza superiore a 200?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 670,
+        "question": "Dai guadagni medi dei giocatori di poker che sono più alti di 200."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 671,
+        "question": "Quali sono i nomi dei giocatori di poker in ordine decrescente di guadagni?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 672,
+        "question": "Restituisci i nomi dei giocatori di poker ordinati in base ai loro guadagni in ordine decrescente."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 673,
+        "question": "Quali sono le diverse nazionalità delle persone e il corrispondente numero di persone da ogni nazione?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 674,
+        "question": "Quante persone ci sono di ogni nazionalità?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 675,
+        "question": "Qual è la nazionalità più comune delle persone?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 676,
+        "question": "Dai la nazionalità che è più comune tra tutte le persone."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 677,
+        "question": "Quali sono le nazionalità condivise da almeno due persone?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 678,
+        "question": "Restituisci le nazionalità per le quali ci sono due o più persone."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 679,
+        "question": "Elenca i nomi e le date di nascita delle persone in ordine alfabetico crescente del nome."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 680,
+        "question": "Quali sono i nomi e le date di nascita delle persone, ordinati in ordine alfabetico per nome?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 681,
+        "question": "Mostra i nomi delle persone la cui nazionalità non è \"Russia\"."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 682,
+        "question": "Quali sono i nomi delle persone che non sono della Russia?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 683,
+        "question": "Elenca i nomi delle persone che non sono giocatori di poker."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 684,
+        "question": "Quali sono i nomi delle persone che non giocano a poker?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 685,
+        "question": "Quante nazionalità distinte ci sono?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 686,
+        "question": "Conta il numero di nazionalità diverse."
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 687,
+        "question": "Quanti stati ci sono?"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 688,
+        "question": "Elenca i numeri e i nomi dei concorrenti, ordinati in ordine decrescente per nome del concorrente."
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 689,
+        "question": "Elenca gli id dei voti, i numeri di telefono e gli stati di tutti i voti."
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 690,
+        "question": "Quali sono i valori massimo e minimo dei prefissi telefonici?"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 691,
+        "question": "Qual è la data dell'ultimo voto creato dallo stato 'CA'?"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 692,
+        "question": "Quali sono i nomi dei concorrenti i cui nomi non sono 'Jessie Alloway'?"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 693,
+        "question": "Quali sono gli stati distinti e il tempo di creazione di tutti i voti?"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 694,
+        "question": "Quali sono i numeri e i nomi dei concorrenti che hanno ricevuto almeno due voti?"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 695,
+        "question": "Di tutti i concorrenti che sono stati votati, qual è il numero e il nome del concorrente che ha ricevuto meno voti?"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 696,
+        "question": "Qual è il numero di voti dallo stato 'NY' o 'CA'?"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 697,
+        "question": "Quanti concorrenti non sono stati votati?"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 698,
+        "question": "Qual è il prefisso telefonico in cui hanno votato più elettori?"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 699,
+        "question": "Quali sono le date di creazione, gli stati e i numeri di telefono dei voti che erano per la concorrente chiamata 'Tabatha Gehling'?"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 700,
+        "question": "Elenca i prefissi telefonici in cui gli elettori hanno votato sia per la concorrente 'Tabatha Gehling' che per la concorrente 'Kelly Clauss'."
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 701,
+        "question": "Restituisci i nomi dei concorrenti i cui nomi contengono la sottostringa 'Al'."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 702,
+        "question": "Quali sono i nomi di tutti i paesi che sono diventati indipendenti dopo il 1950?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 703,
+        "question": "Dai i nomi delle nazioni che sono state fondate dopo il 1950."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 704,
+        "question": "Quanti paesi hanno una repubblica come forma di governo?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 705,
+        "question": "Quanti paesi hanno governi che sono repubbliche?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 706,
+        "question": "Qual è la superficie totale dei paesi nella regione dei Caraibi?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 707,
+        "question": "Quanta superficie coprono insieme i paesi dei Caraibi?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 708,
+        "question": "In quale continente si trova Anguilla?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 709,
+        "question": "Qual è il nome del continente a cui appartiene Anguilla?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 710,
+        "question": "In quale regione si trova la città di Kabul?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 711,
+        "question": "In quale regione si trova Kabul?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 712,
+        "question": "Quale lingua è la più popolare ad Aruba?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 713,
+        "question": "Qual è la lingua prevalentemente parlata ad Aruba?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 714,
+        "question": "Quali sono la popolazione e l'aspettativa di vita in Brasile?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 715,
+        "question": "Dammi la popolazione del Brasile e l'aspettativa di vita."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 716,
+        "question": "Quali sono la regione e la popolazione dell'Angola?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 717,
+        "question": "A quale regione appartiene l'Angola e qual è la sua popolazione?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 718,
+        "question": "Qual è l'aspettativa di vita media prevista per i paesi nella regione dell'Africa Centrale?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 719,
+        "question": "Quanto è l'aspettativa media di vita della popolazione in Africa Centrale?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 720,
+        "question": "Qual è il nome del paese che ha l'aspettativa di vita più breve in Asia?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 721,
+        "question": "Dai il nome del paese in Asia con l'aspettativa di vita più bassa."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 722,
+        "question": "Qual è la popolazione totale e il PIL massimo in Asia?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 723,
+        "question": "Quante persone vivono in Asia, e qual è il PIL più grande tra loro?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 724,
+        "question": "Qual è l'aspettativa di vita media nei paesi africani che sono repubbliche?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 725,
+        "question": "Fornisci l'aspettativa media di vita per i paesi in Africa che sono repubbliche?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 726,
+        "question": "Qual è la superficie totale dei continenti Asia ed Europa?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 727,
+        "question": "Dai l'area superficiale totale coperta dai paesi in Asia o Europa."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 728,
+        "question": "Quante persone vivono nel distretto di Gelderland?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 729,
+        "question": "Qual è la popolazione totale del distretto di Gelderland?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 730,
+        "question": "Qual è il PIL medio e la popolazione totale in tutte le nazioni il cui governo è territorio degli Stati Uniti?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 731,
+        "question": "Fornisci il PIL medio e la popolazione totale delle nazioni che sono considerate territorio degli Stati Uniti."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 732,
+        "question": "Quante lingue uniche si parlano nel mondo?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 733,
+        "question": "Qual è il numero di lingue distinte utilizzate in tutto il mondo?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 734,
+        "question": "Quanti tipi di governi ci sono in Africa?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 735,
+        "question": "Quante diverse forme di governo ci sono in Africa?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 736,
+        "question": "Qual è il numero totale di lingue utilizzate ad Aruba?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 737,
+        "question": "Quante lingue sono parlate ad Aruba?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 738,
+        "question": "Quante lingue ufficiali ha l'Afghanistan?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 739,
+        "question": "Quante lingue ufficiali si parlano in Afghanistan?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 740,
+        "question": "Qual è il nome del paese che parla il maggior numero di lingue?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 741,
+        "question": "Dai il nome della nazione che utilizza il maggior numero di lingue."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 742,
+        "question": "Quale continente ha le lingue più diverse?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 743,
+        "question": "Quale continente parla più lingue?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 744,
+        "question": "Quanti paesi parlano sia inglese che olandese?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 745,
+        "question": "Qual è il numero di nazioni che usano l'inglese e l'olandese?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 746,
+        "question": "Quali sono i nomi delle nazioni che parlano sia inglese che francese?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 747,
+        "question": "Dai i nomi delle nazioni che parlano sia inglese che francese."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 748,
+        "question": "Quali sono i nomi delle nazioni dove sia l'inglese che il francese sono lingue ufficiali?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 749,
+        "question": "Dai i nomi dei paesi con l'inglese e il francese come lingue ufficiali."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 750,
+        "question": "Qual è il numero di continenti distinti in cui si parla cinese?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 751,
+        "question": "Quanti continenti parlano cinese?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 752,
+        "question": "Quali sono le regioni che usano l'inglese o l'olandese?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 753,
+        "question": "Quali regioni parlano olandese o inglese?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 754,
+        "question": "Quali sono i paesi in cui l'inglese o l'olandese è la lingua ufficiale?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 755,
+        "question": "Quali paesi hanno l'inglese o l'olandese come lingua ufficiale?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 756,
+        "question": "Quale lingua è la più popolare sul continente asiatico?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 757,
+        "question": "Qual è la lingua utilizzata dal maggior numero di nazioni asiatiche?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 758,
+        "question": "Quali lingue sono parlate solo da un paese nelle repubbliche?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 759,
+        "question": "Quali lingue vengono utilizzate solo da un singolo paese con un governo repubblicano?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 760,
+        "question": "Trova la città con la popolazione più grande che usa l'inglese."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 761,
+        "question": "Qual è la città più popolosa che parla inglese?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 762,
+        "question": "Trova il nome, la popolazione e l'aspettativa di vita del paese asiatico con la superficie più grande?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 763,
+        "question": "Quali sono il nome, la popolazione e l'aspettativa di vita del più grande paese asiatico per superficie terrestre?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 764,
+        "question": "Qual è l'aspettativa di vita media nei paesi in cui l'inglese non è la lingua ufficiale?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 765,
+        "question": "Fornisci l'aspettativa di vita media dei paesi in cui l'inglese non è la lingua ufficiale."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 766,
+        "question": "Qual è il numero totale di persone che vivono nelle nazioni che non usano l'inglese?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 767,
+        "question": "Quante persone vivono in paesi che non parlano inglese?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 768,
+        "question": "Qual è la lingua ufficiale parlata nel paese il cui capo di stato è Beatrix?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 769,
+        "question": "Qual è la lingua ufficiale utilizzata nel paese il cui capo di stato si chiama Beatrix."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 770,
+        "question": "Qual è il numero totale di lingue ufficiali uniche parlate nei paesi fondati prima del 1930?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 771,
+        "question": "Per i paesi fondati prima del 1930, qual è il numero totale di lingue ufficiali distinte?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 772,
+        "question": "Quali sono i paesi che hanno una superficie maggiore di qualsiasi paese in Europa?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 773,
+        "question": "Quali paesi hanno un'area maggiore di quella di qualsiasi paese in Europa?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 774,
+        "question": "Quali sono i paesi africani che hanno una popolazione inferiore a qualsiasi paese in Asia?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 775,
+        "question": "Quali paesi africani hanno una popolazione più piccola di quella di qualsiasi paese in Asia?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 776,
+        "question": "Quali paesi asiatici hanno una popolazione più grande di qualsiasi paese in Africa?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 777,
+        "question": "Quali sono i paesi asiatici che hanno una popolazione più grande di quella di qualsiasi paese in Africa?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 778,
+        "question": "Quali sono i codici dei paesi per i paesi che non parlano inglese?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 779,
+        "question": "Restituisci i codici dei paesi per i paesi che non parlano inglese."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 780,
+        "question": "Quali sono i codici dei paesi in cui le persone usano lingue diverse dall'inglese?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 781,
+        "question": "Fornisci i codici dei paesi in cui le persone parlano lingue che non sono l'inglese."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 782,
+        "question": "Quali sono i codici dei paesi che non parlano inglese e le cui forme di governo non sono Repubbliche?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 783,
+        "question": "Restituisci i codici dei paesi che non parlano inglese e non hanno Repubbliche come governi."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 784,
+        "question": "Quali città si trovano in paesi europei dove l'inglese non è la lingua ufficiale?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 785,
+        "question": "Quali sono i nomi delle città in Europa per le quali l'inglese non è la lingua ufficiale?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 786,
+        "question": "Quali città uniche si trovano nei paesi asiatici dove il cinese è la lingua ufficiale?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 787,
+        "question": "Restituisci i diversi nomi delle città che si trovano in Asia e per le quali il cinese è la lingua ufficiale."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 788,
+        "question": "Quali sono il nome, l'anno di indipendenza e la superficie del paese con la popolazione più piccola?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 789,
+        "question": "Dai il nome, l'anno di indipendenza e la superficie del paese che ha la popolazione più bassa."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 790,
+        "question": "Quali sono la popolazione, il nome e il leader del paese con la superficie più grande?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 791,
+        "question": "Dai il nome, la popolazione e il capo di stato del paese che ha la superficie più grande."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 792,
+        "question": "Restituisci il nome del paese e il numero di lingue parlate per ogni paese che parla almeno 3 lingue."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 793,
+        "question": "Quali sono i nomi dei paesi che parlano più di 2 lingue, e quanti lingue parlano?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 794,
+        "question": "Trova il numero di città in ogni distretto la cui popolazione è superiore alla media della popolazione delle città?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 795,
+        "question": "Quante città in ogni distretto hanno una popolazione superiore alla media della popolazione di tutte le città?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 796,
+        "question": "Trova il nome del modulo di governo e la popolazione totale per ogni modulo di governo la cui aspettativa di vita media è superiore a 72."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 797,
+        "question": "Quali sono le diverse forme di governo e qual è la popolazione totale di ciascuna per le forme di governo che hanno un'aspettativa di vita media superiore a 72?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 798,
+        "question": "Trova l'aspettativa di vita media e la popolazione totale per ogni continente dove l'aspettativa di vita media è inferiore a 72?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 799,
+        "question": "Quali sono i diversi continenti e la popolazione totale e l'aspettativa di vita media corrispondente a ciascuno, per i continenti che hanno un'aspettativa di vita media inferiore a 72?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 800,
+        "question": "Quali sono i nomi e le aree dei paesi con le 5 aree più grandi?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 801,
+        "question": "Restituisci i nomi e le superfici dei 5 paesi più grandi."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 802,
+        "question": "Quali sono i nomi dei paesi con le prime 3 popolazioni più grandi?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 803,
+        "question": "Restituisci i nomi dei 3 paesi più popolati."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 804,
+        "question": "Quali sono i nomi delle nazioni con le 3 popolazioni più basse?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 805,
+        "question": "Restituisci i nomi dei 3 paesi con meno persone."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 806,
+        "question": "quanti paesi ci sono in Asia?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 807,
+        "question": "Conta il numero di paesi in Asia."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 808,
+        "question": "Quali sono i nomi dei paesi che si trovano nel continente europeo e hanno una popolazione di 80000?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 809,
+        "question": "Dai i nomi dei paesi che si trovano in Europa e hanno una popolazione pari a 80000."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 810,
+        "question": "Qual è la popolazione totale e l'area media dei paesi del continente nordamericano la cui area è maggiore di 3000?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 811,
+        "question": "Fornisci la popolazione totale e la superficie media corrispondenti ai paesi del Nord America che hanno una superficie superiore a 3000."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 812,
+        "question": "Quali sono le città la cui popolazione è compresa tra 160000 e 900000?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 813,
+        "question": "Restituisci i nomi delle città che hanno una popolazione tra 160000 e 900000."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 814,
+        "question": "Quale lingua è parlata dal maggior numero di paesi?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 815,
+        "question": "Dai la lingua che viene parlata nella maggior parte dei paesi."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 816,
+        "question": "Qual è la lingua parlata dalla percentuale più alta di persone in ogni paese?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 817,
+        "question": "Quali sono i codici dei diversi paesi e quali sono le lingue parlate dalla maggior percentuale di persone per ciascuno?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 818,
+        "question": "Qual è il numero totale di paesi in cui lo spagnolo è parlato dalla maggior percentuale di persone?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 819,
+        "question": "Conta il numero di paesi in cui lo spagnolo è la lingua prevalentemente parlata."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 820,
+        "question": "Quali sono i codici dei paesi dove lo spagnolo è parlato dalla più grande percentuale di persone?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 821,
+        "question": "Restituisci i codici dei paesi in cui lo spagnolo è la lingua prevalentemente parlata."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 822,
+        "question": "Quanti direttori ci sono?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 823,
+        "question": "Conta il numero di conduttori."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 824,
+        "question": "Elenca i nomi dei direttori in ordine crescente di età."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 825,
+        "question": "Quali sono i nomi dei direttori d'orchestra, ordinati per età?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 826,
+        "question": "Quali sono i nomi dei direttori d'orchestra la cui nazionalità non è \"USA\"?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 827,
+        "question": "Restituisci i nomi dei direttori che non hanno la nazionalità \"USA\"."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 828,
+        "question": "Quali sono le case discografiche delle orchestre in ordine decrescente degli anni in cui sono state fondate?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 829,
+        "question": "Restituisci le case discografiche delle orchestre, ordinate in ordine decrescente per gli anni in cui sono state fondate."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 830,
+        "question": "Qual è la partecipazione media agli spettacoli?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 831,
+        "question": "Restituisci la presenza media in tutti gli spettacoli."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 832,
+        "question": "Qual è la quota massima e minima di spettacoli il cui tipo non è \"Finale dal vivo\"."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 833,
+        "question": "Restituisci le quote massime e minime per le esibizioni che non hanno il tipo \"Finale dal vivo\"."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 834,
+        "question": "Quante nazionalità diverse hanno i direttori d'orchestra?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 835,
+        "question": "Conta il numero di diverse nazionalità dei direttori d'orchestra."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 836,
+        "question": "Elenca i nomi dei direttori in ordine decrescente di anni di lavoro."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 837,
+        "question": "Quali sono i nomi dei direttori d'orchestra, ordinati in ordine decrescente per il numero di anni di lavoro?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 838,
+        "question": "Elenca il nome del direttore con più anni di lavoro."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 839,
+        "question": "Qual è il nome del direttore che ha lavorato per il maggior numero di anni?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 840,
+        "question": "Mostra i nomi dei direttori e le orchestre che hanno diretto."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 841,
+        "question": "Quali sono i nomi dei direttori d'orchestra e le corrispondenti orchestre che hanno diretto?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 842,
+        "question": "Mostra i nomi dei direttori d'orchestra che hanno diretto più di un'orchestra."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 843,
+        "question": "Quali sono i nomi dei direttori d'orchestra che hanno diretto in più di un'orchestra?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 844,
+        "question": "Mostra il nome del direttore che ha diretto il maggior numero di orchestre."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 845,
+        "question": "Qual è il nome del direttore d'orchestra che ha diretto il maggior numero di orchestre?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 846,
+        "question": "Si prega di mostrare il nome del direttore che ha diretto orchestre fondate dopo il 2008."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 847,
+        "question": "Quali sono i nomi dei direttori d'orchestra che hanno diretto orchestre fondate dopo l'anno 2008?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 848,
+        "question": "Per favore, mostra le diverse case discografiche e il numero corrispondente di orchestre."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 849,
+        "question": "Quante orchestre gestisce ogni casa discografica?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 850,
+        "question": "Si prega di mostrare i formati dei registri delle orchestre in ordine crescente di conteggio."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 851,
+        "question": "Quali sono i principali formati di registrazione delle orchestre, ordinati per frequenza?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 852,
+        "question": "Elenca la casa discografica condivisa dal maggior numero di orchestre."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 853,
+        "question": "Qual è la casa discografica utilizzata dal maggior numero di orchestre?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 854,
+        "question": "Elenca i nomi delle orchestre che non hanno esibizioni."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 855,
+        "question": "Quali sono le orchestre che non hanno nessuna esibizione?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 856,
+        "question": "Mostra le case discografiche condivise da orchestre fondate prima del 2003 e dopo il 2003."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 857,
+        "question": "Quali sono le case discografiche utilizzate sia dalle orchestre fondate prima del 2003 che da quelle fondate dopo il 2003?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 858,
+        "question": "Trova il numero di orchestre il cui formato di registrazione è \"CD\" o \"DVD\"."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 859,
+        "question": "Conta il numero di orchestre che hanno CD o DVD come formato di registrazione."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 860,
+        "question": "Mostra gli anni in cui sono state fondate le orchestre che hanno dato più di una performance."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 861,
+        "question": "Quali sono gli anni di fondazione delle orchestre che hanno avuto più di una singola esibizione?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 862,
+        "question": "Quanti studenti delle scuole superiori ci sono?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 863,
+        "question": "Conta il numero di studenti delle scuole superiori."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 864,
+        "question": "Mostra i nomi e i voti di ogni studente di scuola superiore."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 865,
+        "question": "Quali sono i nomi e i voti di ogni studente delle scuole superiori?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 866,
+        "question": "Mostra tutti i voti degli studenti delle scuole superiori."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 867,
+        "question": "Qual è il voto di ogni studente delle superiori?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 868,
+        "question": "In quale classe è Kyle?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 869,
+        "question": "Restituisci il voto per lo studente delle superiori chiamato Kyle."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 870,
+        "question": "Mostra i nomi di tutti gli studenti del liceo in decima classe."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 871,
+        "question": "Quali sono i nomi di tutti gli studenti del liceo in decima classe?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 872,
+        "question": "Mostra la carta d'identità dello studente liceale di nome Kyle."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 873,
+        "question": "Qual è l'id di Kyle?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 874,
+        "question": "Quanti studenti delle superiori ci sono in nona o decima classe?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 875,
+        "question": "Conta il numero di studenti delle superiori in nona o decima classe."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 876,
+        "question": "Mostra il numero di studenti delle superiori per ogni anno."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 877,
+        "question": "Quanti studenti delle superiori ci sono in ogni classe?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 878,
+        "question": "Quale classe ha il maggior numero di studenti delle scuole superiori?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 879,
+        "question": "Restituisci il grado che ha il maggior numero di studenti delle scuole superiori."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 880,
+        "question": "Mostrami tutti i voti che hanno almeno 4 studenti."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 881,
+        "question": "Quali voti hanno 4 o più studenti delle superiori?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 882,
+        "question": "Mostra gli ID degli studenti e il numero di amici corrispondenti a ciascuno."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 883,
+        "question": "Quanti amici ha ogni studente?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 884,
+        "question": "Mostra i nomi degli studenti delle scuole superiori e il loro numero corrispondente di amici."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 885,
+        "question": "Quali sono i nomi degli studenti delle scuole superiori e quanti amici ha ciascuno?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 886,
+        "question": "Qual è il nome dello studente di liceo che ha il maggior numero di amici?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 887,
+        "question": "Restituisci il nome dello studente delle scuole superiori con più amici."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 888,
+        "question": "Mostra i nomi degli studenti delle scuole superiori che hanno almeno 3 amici."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 889,
+        "question": "Quali sono i nomi degli studenti delle superiori che hanno 3 o più amici?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 890,
+        "question": "Mostra i nomi di tutti gli amici del liceale Kyle."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 891,
+        "question": "Restituisci i nomi degli amici dello studente di liceo Kyle."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 892,
+        "question": "Quanti amici ha lo studente di liceo Kyle?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 893,
+        "question": "Conta il numero di amici che Kyle ha."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 894,
+        "question": "Mostra gli id di tutti gli studenti che non hanno amici."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 895,
+        "question": "Quali sono gli id degli studenti delle scuole superiori che non hanno amici?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 896,
+        "question": "Mostra i nomi di tutti gli studenti delle scuole superiori che non hanno amici."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 897,
+        "question": "Quali sono i nomi degli studenti che non hanno amici?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 898,
+        "question": "Mostra gli id dei liceali che hanno amici e sono anche apprezzati da qualcun altro."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 899,
+        "question": "Quali sono gli id degli studenti che hanno sia amici che sono piaciuti?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 900,
+        "question": "Mostra il nome di tutti gli studenti che hanno alcuni amici e che sono anche graditi da qualcun altro."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 901,
+        "question": "Quali sono i nomi degli studenti delle scuole superiori che hanno sia amici che sono piaciuti?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 902,
+        "question": "Conta il numero di \"mi piace\" per ogni id studente."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 903,
+        "question": "Quanti mi piace corrispondono a ciascun id studente?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 904,
+        "question": "Mostra i nomi degli studenti delle scuole superiori che hanno dei \"mi piace\", e il numero di \"mi piace\" per ciascuno."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 905,
+        "question": "Quali sono i nomi degli studenti delle superiori che hanno \"mi piace\" e quanti \"mi piace\" ha ciascuno?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 906,
+        "question": "Qual è il nome dello studente delle superiori che ha il maggior numero di mi piace?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 907,
+        "question": "Dai il nome dello studente con più mi piace."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 908,
+        "question": "Mostra i nomi degli studenti che hanno almeno 2 mi piace."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 909,
+        "question": "Quali sono i nomi degli studenti che hanno 2 o più mi piace?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 910,
+        "question": "Mostra i nomi degli studenti che hanno un voto superiore a 5 e hanno almeno 2 amici."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 911,
+        "question": "Quali sono i nomi degli studenti delle superiori che hanno un voto superiore a 5 e hanno 2 o più amici?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 912,
+        "question": "Quanti mi piace ha Kyle?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 913,
+        "question": "Restituisci il numero di \"mi piace\" che ha il liceale di nome Kyle."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 914,
+        "question": "Trova la media dei voti di tutti gli studenti che hanno alcuni amici."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 915,
+        "question": "Qual è la media dei voti degli studenti che hanno amici?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 916,
+        "question": "Trova il voto minimo degli studenti che non hanno amici."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 917,
+        "question": "Qual è il voto più basso degli studenti che non hanno amici?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 918,
+        "question": "Quali stati hanno sia proprietari che professionisti che ci vivono?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 919,
+        "question": "Trova gli stati in cui vivono sia i proprietari che i professionisti."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 920,
+        "question": "Qual è l'età media dei cani che hanno subito qualsiasi trattamento?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 921,
+        "question": "Trova l'età media dei cani che hanno subito trattamenti."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 922,
+        "question": "Quali professionisti vivono nello stato dell'Indiana o hanno effettuato trattamenti su più di 2 trattamenti? Elenca il suo id, cognome e cellulare."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 923,
+        "question": "Trova l'id, il cognome e il cellulare dei professionisti che vivono nello stato dell'Indiana o hanno eseguito più di due trattamenti."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 924,
+        "question": "Quali cani non sono costati al loro proprietario più di 1000 per il trattamento? Elenca i nomi dei cani."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 925,
+        "question": "Quali sono i nomi dei cani per i quali il proprietario non ha speso più di 1000 per il trattamento?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 926,
+        "question": "Quali nomi propri vengono utilizzati per professionisti o proprietari ma non vengono utilizzati come nomi di cani?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 927,
+        "question": "Trova i primi nomi che vengono utilizzati per professionisti o proprietari ma che non vengono utilizzati come nomi di cani."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 928,
+        "question": "Quale professionista non ha effettuato alcun trattamento sui cani? Elenca l'ID, il ruolo e l'email del professionista."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 929,
+        "question": "Dammi l'id, il ruolo e l'email dei professionisti che non hanno eseguito alcun trattamento sui cani."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 930,
+        "question": "Quale proprietario possiede più cani? Elenca l'ID del proprietario, il nome e il cognome."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 931,
+        "question": "Restituisci l'ID del proprietario, il nome e il cognome del proprietario che ha il maggior numero di cani."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 932,
+        "question": "Quali professionisti hanno effettuato almeno due trattamenti? Elenca l'ID del professionista, il ruolo e il nome."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 933,
+        "question": "Quali sono l'id, il ruolo e il nome dei professionisti che hanno eseguito due o più trattamenti?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 934,
+        "question": "Qual è il nome della razza con più cani?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 935,
+        "question": "Quale razza hanno la maggior parte dei cani? Dammi il nome della razza."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 936,
+        "question": "Quale proprietario ha pagato per il maggior numero di trattamenti sui suoi cani? Elenca l'ID del proprietario e il cognome."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 937,
+        "question": "Dimmi l'ID del proprietario e il cognome del proprietario che ha speso di più per i trattamenti dei suoi cani."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 938,
+        "question": "Qual è la descrizione del tipo di trattamento che costa meno denaro in totale?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 939,
+        "question": "Dammi la descrizione del tipo di trattamento il cui costo totale è il più basso."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 940,
+        "question": "Quale proprietario ha pagato l'importo più grande in totale per i suoi cani? Mostra l'ID del proprietario e il codice postale."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 941,
+        "question": "Trova l'ID del proprietario e il codice postale del proprietario che ha speso più soldi in totale per i suoi cani."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 942,
+        "question": "Quali professionisti hanno eseguito almeno due tipi di trattamenti? Elenca l'ID professionale e il cellulare."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 943,
+        "question": "Trova l'ID e il cellulare dei professionisti che eseguono due o più tipi di trattamenti."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 944,
+        "question": "Quali sono il nome e il cognome dei professionisti che hanno effettuato trattamenti con costi inferiori alla media?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 945,
+        "question": "Quali professionisti hanno eseguito un trattamento che costa meno della media? Dammi i loro nomi e cognomi."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 946,
+        "question": "Elenca la data di ogni trattamento, insieme al nome del professionista che lo ha eseguito."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 947,
+        "question": "Quali sono la data e il nome del professionista operativo di ogni trattamento?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 948,
+        "question": "Elenca il costo di ogni trattamento e la corrispondente descrizione del tipo di trattamento."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 949,
+        "question": "Quali sono il costo e la descrizione del tipo di trattamento per ogni trattamento?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 950,
+        "question": "Elenca il nome, il cognome di ogni proprietario e la taglia del suo cane."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 951,
+        "question": "Qual è il nome, cognome di ogni proprietario e la taglia del loro cane?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 952,
+        "question": "Elenca coppie del nome del proprietario e del nome del cane."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 953,
+        "question": "Qual è il nome del proprietario e il nome del suo cane?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 954,
+        "question": "Elenca i nomi dei cani della razza più rara e le date di trattamento di essi."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 955,
+        "question": "Quali cani sono della razza più rara? Mostra i loro nomi e le date di trattamento."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 956,
+        "question": "Quali cani sono di proprietà di qualcuno che vive in Virginia? Elenca il nome del proprietario e il nome del cane."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 957,
+        "question": "Trova i nomi dei proprietari che vivono in Virginia e i nomi dei cani di cui sono proprietari."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 958,
+        "question": "Quali sono la data di arrivo e la data di partenza dei cani che hanno subito un trattamento?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 959,
+        "question": "Trova la data di arrivo e la data di partenza dei cani che hanno ricevuto un trattamento."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 960,
+        "question": "Elenca il cognome del proprietario che possiede il cane più giovane."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 961,
+        "question": "Chi possiede il cane più giovane? Dammi il suo cognome."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 962,
+        "question": "Elenca le email dei professionisti che vivono nello stato di Hawaii o nello stato del Wisconsin."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 963,
+        "question": "Quali sono le email dei professionisti che vivono nello stato delle Hawaii o nello stato del Wisconsin?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 964,
+        "question": "Quali sono la data di arrivo e la data di partenza di tutti i cani?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 965,
+        "question": "Elenca la data di arrivo e la data di partenza per tutti i cani."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 966,
+        "question": "Quanti cani hanno subito dei trattamenti?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 967,
+        "question": "Conta il numero di cani che hanno subito un trattamento."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 968,
+        "question": "Quanti professionisti hanno eseguito qualsiasi trattamento sui cani?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 969,
+        "question": "Trova il numero di professionisti che hanno mai curato i cani."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 970,
+        "question": "Quali professionisti vivono in una città che contiene la sottostringa 'West'? Elenca il suo ruolo, via, città e stato."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 971,
+        "question": "Trova il ruolo, la strada, la città e lo stato dei professionisti che vivono in una città che contiene la sottostringa 'West'."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 972,
+        "question": "Quali proprietari vivono nello stato il cui nome contiene la sottostringa 'North'? Elenca il suo nome, cognome e email."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 973,
+        "question": "Restituisci il nome, il cognome e l'email dei proprietari che vivono in uno stato il cui nome contiene la sottostringa 'North'."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 974,
+        "question": "Quanti cani hanno un'età inferiore alla media?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 975,
+        "question": "Conta il numero di cani di un'età inferiore alla media."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 976,
+        "question": "Quanto costa l'ultimo trattamento?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 977,
+        "question": "Mostrami il costo dell'ultimo trattamento eseguito."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 978,
+        "question": "Quanti cani non hanno subito alcun trattamento?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 979,
+        "question": "Dimmi il numero di cani che non hanno ricevuto alcun trattamento."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 980,
+        "question": "Quanti proprietari temporaneamente non hanno cani?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 981,
+        "question": "Trova il numero di proprietari che non possiedono cani in questo momento."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 982,
+        "question": "Quanti professionisti non hanno effettuato alcun trattamento sui cani?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 983,
+        "question": "Trova il numero di professionisti che non hanno curato nessun cane."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 984,
+        "question": "Elenca il nome, l'età e il peso dei cani che sono stati abbandonati? 1 significa sì, e 0 significa no."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 985,
+        "question": "Quali sono il nome, l'età e il peso dei cani che sono stati abbandonati? Nota che 1 indica sì, e 0 indica no nelle tabelle."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 986,
+        "question": "Qual è l'età media di tutti i cani?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 987,
+        "question": "Calcola l'età media di tutti i cani."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 988,
+        "question": "Qual è l'età del cane più vecchio?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 989,
+        "question": "Dimmi l'età del cane più vecchio."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 990,
+        "question": "Quanto costa ogni tipo di addebito? Elenca sia il tipo di addebito che l'importo."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 991,
+        "question": "Elenca ogni tipo di addebito e il suo importo."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 992,
+        "question": "Quanto costa il tipo di addebito più costoso?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 993,
+        "question": "Qual è l'importo della tariffa più costosa?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 994,
+        "question": "Elenca l'email, il cellulare e il telefono di casa di tutti i professionisti."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 995,
+        "question": "Quali sono l'email, il cellulare e il telefono di casa di ogni professionista?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 996,
+        "question": "Quali sono tutte le possibili combinazioni di razza e dimensione?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 997,
+        "question": "Trova le combinazioni distinte di razza e dimensione per i cani."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 998,
+        "question": "Elenca il nome di tutti i professionisti insieme alla descrizione del trattamento che hanno effettuato."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 999,
+        "question": "Qual è il nome e la descrizione del trattamento eseguito da ciascun professionista?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1000,
+        "question": "Quanti cantanti ci sono?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1001,
+        "question": "Qual è il numero di cantanti?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1002,
+        "question": "Elenca il nome dei cantanti in ordine crescente di patrimonio netto."
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1003,
+        "question": "Quali sono i nomi dei cantanti ordinati per patrimonio netto crescente?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1004,
+        "question": "Quali sono l'anno di nascita e la cittadinanza dei cantanti?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1005,
+        "question": "Quali sono gli anni di nascita e le cittadinanze dei cantanti?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1006,
+        "question": "Elenca il nome dei cantanti la cui cittadinanza non è \"Francia\"."
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1007,
+        "question": "Quali sono i nomi dei cantanti che non sono cittadini francesi?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1008,
+        "question": "Mostra il nome dei cantanti il cui anno di nascita è o 1948 o 1949?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1009,
+        "question": "Quali sono i nomi dei cantanti i cui anni di nascita sono o 1948 o 1949?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1010,
+        "question": "Qual è il nome del cantante con il patrimonio netto più grande?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1011,
+        "question": "Qual è il nome del cantante che vale di più?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1012,
+        "question": "Mostra diverse cittadinanze dei cantanti e il numero di cantanti di ogni cittadinanza."
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1013,
+        "question": "Per ogni cittadinanza, quanti cantanti provengono da quel paese?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1014,
+        "question": "Si prega di mostrare la cittadinanza più comune dei cantanti."
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1015,
+        "question": "Qual è la cittadinanza più comune tra i cantanti?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1016,
+        "question": "Mostra diverse cittadinanze e il patrimonio netto massimo dei cantanti di ogni cittadinanza."
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1017,
+        "question": "Per ogni cittadinanza, qual è il patrimonio netto massimo?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1018,
+        "question": "Mostra i titoli delle canzoni e i nomi dei cantanti."
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1019,
+        "question": "Quali sono i titoli delle canzoni e i nomi dei cantanti?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1020,
+        "question": "Mostra i nomi distinti dei cantanti che hanno canzoni con vendite superiori a 300000."
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1021,
+        "question": "Quali sono i diversi nomi dei cantanti che hanno vendite superiori a 300000?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1022,
+        "question": "Mostra i nomi dei cantanti che hanno più di una canzone."
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1023,
+        "question": "Quali sono i nomi dei cantanti che hanno più di una canzone?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1024,
+        "question": "Mostra i nomi dei cantanti e le vendite totali delle loro canzoni."
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1025,
+        "question": "Per ogni nome di cantante, qual è il totale delle vendite per le loro canzoni?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1026,
+        "question": "Elenca il nome dei cantanti che non hanno nessuna canzone."
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1027,
+        "question": "Qual è il nome di ogni cosa che non ha alcuna canzone?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1028,
+        "question": "Mostra la cittadinanza condivisa dai cantanti nati prima del 1945 e dopo il 1955."
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1029,
+        "question": "Quali sono le cittadinanze condivise dai cantanti nati prima del 1945 e dopo il 1955?"
+    },
+    {
+        "db_id": "real_estate_properties",
+        "q_id": 1030,
+        "question": "Quante funzionalità disponibili ci sono in totale?"
+    },
+    {
+        "db_id": "real_estate_properties",
+        "q_id": 1031,
+        "question": "Qual è il nome del tipo di caratteristica della caratteristica AirCon?"
+    },
+    {
+        "db_id": "real_estate_properties",
+        "q_id": 1032,
+        "question": "Mostra le descrizioni del tipo di proprietà delle proprietà appartenenti a quel codice."
+    },
+    {
+        "db_id": "real_estate_properties",
+        "q_id": 1033,
+        "question": "Quali sono i nomi delle proprietà che sono case o appartamenti con più di una stanza?"
+    }
+]

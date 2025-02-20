@@ -1,0 +1,5172 @@
+[
+    {
+        "db_id": "concert_singer",
+        "question": "Qu:ant'i cantan:ti. abb,iamo?",
+        "q_id": 0
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu.al è il n.ume,ro tot;al.e di. canta.nti?",
+        "q_id": 1
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Nom,e s,pet?tacolo, p:aese., età per tu;t!t:i? i cantan!t.i! o!rdinati per età dal! più vecc'hi'o' al p?i,ù gio!van:e.",
+        "q_id": 2
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qual:i. s,ono i, no?mi, i paes'i e le età! per og'ni! cantan;te in o'rdine, di età! discende'nte?",
+        "q_id": 3
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qual è l'et:à me.di?a, m.i'ni.m'a e massim;a di tut't;i i; cantanti dalla Francia??",
+        "q_id": 4
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qual è: l'età m!edia, mi;n!im;a e, ma:ss!ima pe,r tutti i canta:nt?i france,si??",
+        "q_id": 5
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Mo?str:a i,l nom;e e! l'ann?o di uscit?a della can'zone; de;l: canta!n,te! più' giovane,.",
+        "q_id": 6
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qua?li so;no i no:m:i, e g,li anni di uscita p:er tutte l'e c'an!zoni del can't.an?te p'iù' gio,va:ne?",
+        "q_id": 7
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu!ali s:o!no tu?tti pae!si distin:ti da c'ui prov,engono i canta.nti di età? s'uperi!ore' ai: 20 a,n:ni?",
+        "q_id": 8
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Quali? sono i diver,si p!ae.si co?n' cant,anti di e:tà s'u;per:iore ai, 20 anni?",
+        "q_id": 9
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Mostra tut.ti! i p,aesi e il nume,ro di c?a'n,tanti! in! o?g;n;i paese.",
+        "q_id": 10
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Quanti cantan:ti s,ono da o'gni paes'e?",
+        "q_id": 11
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Elenca! t.u:tti i n!omi; delle can.zoni. di can?tant:i a'l di! s:opra de:ll'età m?edia.",
+        "q_id": 12
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qual!i! sono t?utt:i i; nomi delle canz:oni dei: cant!an;ti p.iù v,ec,chi della medi:a?",
+        "q_id": 13
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Most.ra pos'iz?ione, e nome p:er t!utti gl!i stad,i c!on un:a capacit'à tra 5000 e 10000.",
+        "q_id": 14
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Q!uali sono l:e posizio,n;i e i nomi di. tut!te le stazioni c:on ca:pa;c?it?à tra 5000 e' 10000?",
+        "q_id": 15
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Q;u:al è: l'a mas'sim.a cap'a,cità e la: media di? tutti gli st.adi?",
+        "q_id": 16
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Q:ua!li; s;on'o le c!apa,cità' m.edie' e massime; per tu'tti gli st:adi?",
+        "q_id": 17
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qua;l! è il nom.e, e l.a. c:apaci.tà d;el.lo s.tadio, con la pi?ù al:ta frequenza m.edi.a?",
+        "q_id": 18
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qual è: il n.ome e! la capa;cità dello: st?adio co'n la più. al.ta frequ,en?za! media:?",
+        "q_id": 19
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Quanti concerti ci' s.ono ne;ll'a.n!no 2014 o 2015?",
+        "q_id": 20
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Quant.i conc?erti si son;o verif;ic,at'i! n,el; 2014 o n;el 2015?",
+        "q_id": 21
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "M!o:st:ra: i.l nome dello stadio. e il num:er.o di' c.oncerti in o;g;ni s'ta;di.o.",
+        "q_id": 22
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "P.e;r o?gni stadio, quan,ti con.c;er.ti suonano? lì?",
+        "q_id": 23
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "M!os'tra il n;ome e. la; cap;acità; del.l!o stadio con la, mag!gior par:te d:ei co:ncerti' n!ell'anno? 2014 o dopo.",
+        "q_id": 24
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qua;l è i;l? nome e la! capa,cit;à dello sta!di:o. con il mag:gior numer?o di concerti d;op'o i;l? 2013?",
+        "q_id": 25
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "I,n che; anno ha! la m!aggio'r; parte dei co!nc!erti?",
+        "q_id": 26
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Q'ua,l è l'an;no che ha avuto i;l m?agg.io?r n'um.er;o d!i con,cer;ti?",
+        "q_id": 27
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Mo:stra i nom.i de:ll?o sta:d,io se'nza al:c.un concer:to.",
+        "q_id": 28
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu;a,li s!on?o i nomi de.gl!i stadi. s.enza. concer.ti?",
+        "q_id": 29
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "M'ostra paesi' d;a: cui. proven,g;ono un, c!antante di' età superior:e: ai 40 an,ni e. un ca,nt.ante inf:er.i.o're a. 30.",
+        "q_id": 30
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Mostr'a? no,mi! per tut'ti' g,li st?ad!i ad eccezio;ne de?g!li sta?di che h,anno, un! concerto? nell:'a!nno 2014.",
+        "q_id": 31
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qu?ali son:o i' n'omi di tutti gli stadi! che; non hann.o, av!u'to un con:cer,to ne!l 2014?",
+        "q_id": 32
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Mos!tra il nom,e e il tema per tutti i conce:rt;i: e' il nu!mero di c.a?nta?nti i,n ogn.i conc;er?t?o.",
+        "q_id": 33
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Q?uali sono i n!o:mi!, i t,emi: e, i:l: numer!o di' cantanti p'er! o'gni co:n!c;erto?",
+        "q_id": 34
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "E!len:ca i n?omi d.e?i: cantanti e il num.ero di concert,i per og.n,i c.anta:nte.",
+        "q_id": 35
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qual.i! so:no i n.om;i dei. cantanti e, il n!umer!o di c.on.c?erti? per ogni pe,rson,a?",
+        "q_id": 36
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "E'lenca' tut!ti i nomi de'i. can!tanti in! c'onc.er:ti nell'an?no 2014.",
+        "q_id": 37
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Quali s!ono i n!om,i dei c?an,ta!nti. che: si s.ono esi!bi'ti; in un. co,ncerto; nel 2014?",
+        "q_id": 38
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qua,l è il nom'e e la nazio!ne: del can;tante c:h?e, h?anno, una canzone, che ha \"ehi\" ne'l su?o no,me;?",
+        "q_id": 39
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qual! è il nome e i!l paes.e di or!i,gin;e di? ogn!i cant'an.te, che ha: un,a! canz?one con la pa,rola! \"hey\" ne?l su?o tit.olo?",
+        "q_id": 40
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Tro.va il no?me e! la? posi;zio:n?e, degli, s:t:adi: che son?o avve;nut!i a:lcun,i co?ncerti neg:l?i ann'i d!el 2014 e del 2015.",
+        "q_id": 41
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Qua'l,i so.n.o! i, nomi: e le po.s,i,z.ioni degli; stad;i che han'no avu;t,o' concert;i che si s!o;n.o. verif,i?cati sia nel 2014 che nel 2015?",
+        "q_id": 42
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Tr,ova il n?ume:ro di; concer,t,i ch'e è avv!e!nut?o nello s?tadio con; la mass'ima c,a'paci;t.à;.",
+        "q_id": 43
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Quali s'ono i!l n'umero di concer.ti a:vvenut.i, nello stadio c;on. la più gra.nd!e; ca!p:ac?it?à?",
+        "q_id": 44
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova il numero; di ani'mal,i. dome!stici il c!u:i; p'eso è p'iù p!e.sante! di 10.",
+        "q_id": 45
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Q'uanti ani!mali d;omestici ha:n,n;o! un pe:so maggiore, d,i 10?",
+        "q_id": 46
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova il p'eso de!l can?e p:iù gi?ov.ane.",
+        "q_id": 47
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu'a:n.to pes'a il c,ane più g;iov?ane?",
+        "q_id": 48
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trov:a il peso m;assim'o per og:n.i: ti'po di' animale domestico;.El:enc;a? il p,es;o: ma,s;simo? e il, tipo di an,i;male domes;tico;.",
+        "q_id": 49
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Elenca, il; pe:so? ma,ssi;mo e il' ti'po per ogni tipo; d.i? anim'ale dom?estico.",
+        "q_id": 50
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova i:l nu;mer:o di a,n;imali' dome'stici di p.ro,pr.iet,à di stu.denti d.i età? superi,ore a.i: 20 anni.",
+        "q_id": 51
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu.an:ti animali d;ome'stici son,o. d:i. pr;opr'ietà; di studenti che; h:anno un'et:à super;iore a 20?",
+        "q_id": 52
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T;rova: i,l num!e,ro di a,nimali? domesti'ci ch?e so!no! all?evati! da st;udente!ss;e (c,on ses:s:o F).",
+        "q_id": 53
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qua;nti a.nim'ali domestici s!ono; allevat'i da? stud!e;ntesse?",
+        "q_id": 54
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova il num!ero? di t.i:pi distinti d:i a:nimal?i do?mest'i!ci.",
+        "q_id": 55
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qua,nt,i diver'si tipi, di, anim;al.i d:o.me:stici ci; son'o?",
+        "q_id": 56
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Tro;va i:l n:ome de?gli st,u'de;nti? c?he hanno u'n ani?ma;le dom;estico per ga;tt:i o c;ani.",
+        "q_id": 57
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu?a!li sono: i p?r;i.mi' no;m'i di? ogni st.uden'te ch:e ha' un gatt:o o un cane come, ani.male dom.e'stico??",
+        "q_id": 58
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Tro.va i!l n'ome? di; studenti ch.e han;no? animali do!m!es.tici sia d!i' gatti c.he di ca:n:e.",
+        "q_id": 59
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Quali sono i nomi! de?gli, studenti: c:he h:an?no s,ia gat:ti ch'e c'ani, com;e a!nimali? domes'tici.?",
+        "q_id": 60
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova il mag?gi;ore: e l'e;tà degl,i. stud'e.nti c;he no'n hanno un an'im'a'le; dome,s:tico.",
+        "q_id": 61
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Q?ua!le! m?a:ggiore è o:gn,i student:e che: no.n possie:de u!n gatto come anim,ale dom;est;i'c,o, e anc:he qua!nti a?nn'i h;anno?",
+        "q_id": 62
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T;ro:va l'ID degl,i stu;denti c!h,e. non hanno u?n: animale! domestico.",
+        "q_id": 63
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Quali sono gli; ID degli: stud?ent'i che n'on, po.ssiedono i? g;att'i come ani,mali dom'e,stici,?",
+        "q_id": 64
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T.ro?va i!l no:me e l'età de'gli st!udenti c;he' han.no u.n c'an.e: ma non ha.nno un gat?to co:m,e animale do,mesti?co.",
+        "q_id": 65
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qu'al è il nome! di o,gni st:uden,te; che ha; un cane ma non. ha un, gatt?o?",
+        "q_id": 66
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trov'a; i:l! ti!po' e il peso dell'ani,ma.le più gio?v!a'ne'.",
+        "q_id": 67
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Che t:ip!o di a'ni,mal;e dom.est,ico: è l'animale. più giovan'e? e quanto pes'a?",
+        "q_id": 68
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova! l'I,D e il pe:so di tutti' gl;i a,nim?a'li, domestici la cui: e.tà è più: ve!c?c?hi.a di 1.",
+        "q_id": 69
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Q'ual' è: l,'ID e i.l peso di ogni an'imale. do:mestico che, ha più di: 1?",
+        "q_id": 70
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Tr'o,v:a l'et:à med.ia e: massima' p'er; ogni tipo di a:nim.ale. dome!sti:co.",
+        "q_id": 71
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qua.l è l'e'tà media! e mas,si,ma? pe;r og;ni t,ipo: di animale. domesti.co?",
+        "q_id": 72
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Tr:ova il' pe;so me:dio per cias:cun ti?po d.i a?nimale, d.o'm!estico.",
+        "q_id": 73
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qua?l è, il p.eso; me:dio per o:g,ni! tipo di an,ima;le domestic,o?",
+        "q_id": 74
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trov:a il nome' e l'e,tà degli: st:ud'enti ch.e hanno: u!n a!nimal;e domest!ic;o:.",
+        "q_id": 75
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Quali' s'ono i! d!iver.si nomi, e secoli de,gli s!tudenti c'h?e h,ann:o ani,ma;li dom.estici?",
+        "q_id": 76
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T.rova l'I!D de?ll''ani!m:ale di proprie.tà di; Stu?den.t il cu!i c:og?nome è \"Smi,th\".",
+        "q_id": 77
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qual è. l;'ID del'l'a:nimale! di, p!ropr;ie?tà dello stu.dente i!l! cui cogno!me! è \"Smit:h\"?",
+        "q_id": 78
+    },
+    {
+        "db_id": "pets_1",
+        "question": "T.rova il numero; d,i an,i!mali do:me:s?t,i:ci per ogni stu,de,nte che ha un docum,ent,o! di id!enti't!à' c!on an.i!m;a.l?i do?me;stici e studente.",
+        "q_id": 79
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Per, gli s,t!udenti: che hanno: an.imali domest.ic!i, qu?ant:i an.imali d,ome?stic.i ha ogni s.tudente?Elen!ca i. lor,o I,D, in,v?e,ce d:i nomi.",
+        "q_id": 80
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Tr,ova il n?o?me e il? ge:nere d?e'llo, s:t.udente c:he! ha.n;no più di u!n an:i!mal.e domestico.",
+        "q_id": 81
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qual; è il. nome e il: ge'n'ere d?i; tu!t:ti gli s,tude:nti che han'no! p;iù di un anim:ale domest?i?co?",
+        "q_id": 82
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Tro;va il c.o'g:nome d,ello studente che h?a un gatto ch,e ha 3 a:nn,i.",
+        "q_id": 83
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qua?l è il cog:n'ome d:e'llo st!udente ch.e' ha un gatto che ha 3 a;n.ni?",
+        "q_id": 84
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova l'età. me:d,ia degl.i. studenti ch;e n?on ha.nno a:l:cun an?imale d.o!mesti!co.",
+        "q_id": 85
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Q!u.al è l'età med!i:a' pe;r t:utt'i: gli stu;denti ch?e non po,ssi;ed'ono! anima!l!i dom:es:tici?",
+        "q_id": 86
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quanti conti.n;enti c,i so!no?",
+        "q_id": 87
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è! il nu:mero? di contin;en,ti?",
+        "q_id": 88
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quanti p,aesi, ha og'ni c!o,nt'inente?E'le;nc:a, l'I'D co,nti'n;en,te, il n,ome del cont'in!ente! e il, nu:me;ro; di paesi!.",
+        "q_id": 89
+    },
+    {
+        "db_id": "car_1",
+        "question": "Per og;ni; co.n,t?in?ente, elenca i!l suo ID, il nome e' quanti p.a.es,i ha?",
+        "q_id": 90
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua:nti p,ae,si sono elenca,ti.?",
+        "q_id": 91
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu:anti pae'si esi?sto;no?",
+        "q_id": 92
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua'nti: mo;de.ll?i prod:uc,e ogni. pr'odu't'tor,e a?utomob'ili'stic,o?Ele;n;co N!ome compl,eto, ID e numero.",
+        "q_id": 93
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q.ual è; i;l nome' c?ompleto di; o'g.n.i pro,dut;t;or'e di aut!o, in.sie.me. al su.o ID e a q;uan.ti m.odelli produce,?",
+        "q_id": 94
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quale m:od?ell;o d;el'l'auto ha' la pot,enza minima!?",
+        "q_id": 95
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu.al è il model;lo: dell'a;uto' con la pi.ù piccol,a q;u'a,ntit'à di. potenz?a:?",
+        "q_id": 96
+    },
+    {
+        "db_id": "car_1",
+        "question": "T,r:ova i.l m!odello d?ell'aut,o il cu:i pe!so è, al: di s,otto del! p.eso m?edio.",
+        "q_id": 97
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è il, m,odello per l'a?u!to co:n: un p,eso inferi:ore' al.la, med!ia?",
+        "q_id": 98
+    },
+    {
+        "db_id": "car_1",
+        "question": "T,rova il no'me dei prod:utt'ori ch,e h!ann;o! prod'ot:to alcu,ne au;to, nell'a;nno 1970?",
+        "q_id": 99
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è i.l nome de;i d!iver?s!i p?ro!d.ut!to?ri di' automo.bili che. hann!o, p,rodotto un'aut.o nel 1970?",
+        "q_id": 100
+    },
+    {
+        "db_id": "car_1",
+        "question": "Trova il tempo, di, mar;ca e pro:d'uzione! del.l:e a?ut?o p:rodotte n'e!l pr:im!o a?nno?",
+        "q_id": 101
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è il pr:o!dut;tore di Carr! prod!otto; nel primo a;nno e! i?n che a.n:no; è stat?o??",
+        "q_id": 102
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q'uali mo?delli di a,ut.o' distin;te' son?o p'ro:dott;i dop?o il 1980?",
+        "q_id": 103
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quali! sono i di,ver's'i mode:l;l:i per; l:e carte p.rodo:t!te dopo il 1980?",
+        "q_id": 104
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q,uanti: produ!tto:ri di; automobili ci s.ono: in! o?gn'i: co;ntinen:te?Elenc!a, il nom'e d'el c,o!n;tinente e il? co!nt?egg.io.",
+        "q_id": 105
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q,u?a'l è il nome di' ogni contin'e;nte e: quan?ti p;rodu:ttori di aut.o!mob:i.l;i ci so?no i,n? ognun!o?",
+        "q_id": 106
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quale dei paes'i h:a la m!aggio.r p!a'r!te dei produt;tor'i di automo,bili?El;e!n?c:a il nome de,l paese.",
+        "q_id": 107
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è il nome de,l pae:se! con' la; maggior pa:rte de'i p!rodutto:ri di; a!ut;o.mob'ili??",
+        "q_id": 108
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quant!i: modell,i. di auto sono pro.d:o.tti da ogn?i pr.oduttore?E'lenca; solo il c.onteg,gi,o e il! nome comple'to del produ:ttor:e:.",
+        "q_id": 109
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q?ua'l è il? n.u.m,e:ro di modell,i di aut:o che sono. prod!otti? da o?gni pro:dutto;re e. qual; è l'I?D e i.l no?me com,p.leto di ogni' produtto:re?",
+        "q_id": 110
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q;ua!l è l'ac?cel;era!zion.e de!ll'auto Mak,in'g AMC Ho?rnet Sport;About! (SW)?",
+        "q_id": 111
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quan:to acceler.a l'aut:o che: rende; A'M:C Hornet Spor?tAb'out (SW)?",
+        "q_id": 112
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu?anti' prod'uttori di automo?b;ili' c!i? s;ono! in Francia??",
+        "q_id": 113
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua'l è; il n;ume:ro. di p,ro;duttor!i di c'ure in Franci'a?",
+        "q_id": 114
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quanti m.odelli; d:i a:u.to sono prodot.ti n;egli Sta,ti Uniti?",
+        "q_id": 115
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q!ual! è il c?onteggi!o: dei m.odell!i, di auto prod:ot'ti negli! Stati Unit!i,?",
+        "q_id": 116
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua'l è le: migl:i.a medi,e per; g.allone (mpg) de:lle? auto con 4 cil'indri?",
+        "q_id": 117
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu?al è le mig'lia med;ie p,er ga;llo!n,e' di tu;t;te; le car;te co,n 4 cilindri?",
+        "q_id": 118
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q'u'al è il! pe:so più picco!lo dell'a:ut?o pr;odott!a con, 8 c!ilindri! nel 1974?",
+        "q_id": 119
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu,al' è il peso mini:m.o? d'el:l'a,uto con 8 cili.ndri prodotti nel 1974?",
+        "q_id": 120
+    },
+    {
+        "db_id": "car_1",
+        "question": "Co.sa sono tu:tt:i i produtt.ori. e i mode:ll!i?",
+        "q_id": 121
+    },
+    {
+        "db_id": "car_1",
+        "question": "Co!sa son,o i pro'duttor,i e i mod.e,ll!i?",
+        "q_id": 122
+    },
+    {
+        "db_id": "car_1",
+        "question": "Cos?a ha;n.n.o i paesi che ha?nno: a.lm.e'no, un p!rod.ut.to're di a?uto;?Nome elenco e ID.",
+        "q_id": 123
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua.l.i son.o i nomi e gli! ID di; tut?ti i pa;e.si' con al!men.o un' produttore auto;mobilist;ico;?",
+        "q_id": 124
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q?ual è il n,um'ero: delle a!u!to co.n pote!nza più; di! 150?",
+        "q_id": 125
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è: il' num!ero di auto con u?na p?otenza su;per,io're? a! 150?",
+        "q_id": 126
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua;l è il, p;eso med!io del,le auto ogni, an?no,?",
+        "q_id": 127
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è i:l' peso, med?io e l'an!n,o p'er ogni anno:?",
+        "q_id": 128
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quali pa?esi in Euro.p;a ha,nn.o; almen'o. 3 case automobi:lis:t?ic;he:?",
+        "q_id": 129
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual'i; sono i no'mi di. t'utt'i i p,aesi europei c.o?n alm,eno 3 produ'ttori?",
+        "q_id": 130
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua'l è l!a potenza massi'ma e la ma;rc!a: d:ei model;li d,i! aut'o co'n 3 cil,indri'?",
+        "q_id": 131
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è la pi?ù gra.nde qu.a.ntità di pote?nz'a per i m!od!e,l,li con 3 c,ilindri! e ch!e c,osa è?",
+        "q_id": 132
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual?e modello? cons:ente di r'i?sp;ar;miare p;iù b,enzina?Vale a; di're, a.vere le mi.glia m?assi,me p.e,r gal!lon.e.",
+        "q_id": 133
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua'l! è il m;o.dell!o di aut!o? c?on il MPG più. a,l:to?",
+        "q_id": 134
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q:ual è l,a poten'z!a media del;le au!to! p:ri.ma del 1980?",
+        "q_id": 135
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua?l' è la potenz?a media p.er t:u,tt'e, l:e' a.ut,o prodott,e prima de?l 1980?",
+        "q_id": 136
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è l'E'd;ispl med!io delle! aut.o del mo?dell'o, V;olvo?",
+        "q_id": 137
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è l''E'Disp;l me!dio p,e;r tu:tti i Volvos?",
+        "q_id": 138
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual. è l'a?cce:lerazione ma,ssima p:er; il di?vers;o n,umero. d!i cili.ndri?",
+        "q_id": 139
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu?al. è l'accelerazione ma?ss!i;ma p?er tutti i diver:si; cil!in!dr:i?",
+        "q_id": 140
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quale model'l!o h,a la più v!ers:i.one' (m;ake) delle auto,?",
+        "q_id": 141
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua.le modello ha? le v:ersi!oni pi.ù dive;r!s'e'?",
+        "q_id": 142
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q'uante auto h?a.nn:o più di 4 cilin!dr'i??",
+        "q_id": 143
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua:l è il nu?mero di? au?to; con più. di; 4 c;ilin:dri?",
+        "q_id": 144
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quan:te auto s.o:no state! prodo.tte nel 1980?",
+        "q_id": 145
+    },
+    {
+        "db_id": "car_1",
+        "question": "N;el 1980, qu.an,te au,to so:no state realizz!at?e??",
+        "q_id": 146
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quan;ti m,odelli di a.uto sono stati pr,od;otti d?al? pr:odutto?re' con n?ome comp;leto A:me;rican Moto;r C,o;m:pany?",
+        "q_id": 147
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è il numero d'i m,odell?i d'i au!tom;obil'i creat.i d!all'a compagnia aut,o!mobi,list?ic!a america;na;?",
+        "q_id": 148
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q;uali. pr;od!utt:ori hanno. p.rog.ettato: pi?ù di: 3 mod;elli, d?i auto?Elen?c'a il? nome completo e; l'I;D.",
+        "q_id": 149
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q.ual.i. sono i nomi e gli' ID di. t.utti; i: p?rodutt,ori con pi?ù. di 3 m!odelli?",
+        "q_id": 150
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual'i' modell,i; dis:tint,ivi, so'no prodotti dal pr,oduttore, co,n il nom.e com?pl.et:o d.i mo?to?r,i gen,e,rali o pesano più d'i 3500?",
+        "q_id": 151
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua'li sono i d:iv,e'rsi m!ode.ll?i cr.e,ati dai moto!r!i gener;al;i de!l Maker C;ar; o? p?esavano pi?ù di, 3500?",
+        "q_id": 152
+    },
+    {
+        "db_id": "car_1",
+        "question": "In qu?ali: ann;i veniv;ano. pr?odotte le a.u;to che p,esa,van;o non me'no di! 3000 e n;on più di: 4000?",
+        "q_id": 153
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quali' sono. g;li ann?i di:ver!s:i i!n cu;i? c'e!rano auto prodotte che? pes.avano! me!no di 4000 e anche: auto, ch!e pesavan;o pi?ù di 3000?",
+        "q_id": 154
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua'l è! la po?tenza de?ll'auto c,on; l'ac?c?eler.azion'e più grande;?",
+        "q_id": 155
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q!ual? è la. po,tenza d'e!ll'au?to co;n il. più gr.and:e acce;lerazione?",
+        "q_id": 156
+    },
+    {
+        "db_id": "car_1",
+        "question": "Per il modello Volvo?, q:uant;i cil,indr'i? ha l'aut,o c'on il meno. a'ccelerato!?",
+        "q_id": 157
+    },
+    {
+        "db_id": "car_1",
+        "question": "Per un! mod;el;lo V'o'lvo, qua:nt'i c.ilindri ha la ve'r'sione c?o.n, meno! acc!elerato?",
+        "q_id": 158
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quan?te au.to h.a.n:no un' accelerato: più grande dell'a.uto c,o'n l,a! po!t.enza: pi,ù grande?",
+        "q_id": 159
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qua!l, è il numero; di a?ut'o con un acc,eler.ato m,aggiore di q:uello con p'i:ù pot.enz?a?",
+        "q_id": 160
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quanti; paesi' hanno più di 2 p?rod.u;ttori di! auto?",
+        "q_id": 161
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è il' numero di p:aesi co.n p?iù. d:i 2 p!ro.dutto?r.i di au,tomo,bili?",
+        "q_id": 162
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quante aut:o ha,nno' oltre 6 cilind.ri:?",
+        "q_id": 163
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q'u:al è il nu;mero? di auto con oltr;e 6 ci.lin'dr'i:?",
+        "q_id": 164
+    },
+    {
+        "db_id": "car_1",
+        "question": "Pe.r l.e auto con. 4 c'ili'ndri, q:u'ale m?o'dello ha: la' poten:za più grande:?",
+        "q_id": 165
+    },
+    {
+        "db_id": "car_1",
+        "question": "Per t,ut:t'e le a;uto a! 4 ci,lindri, q;uale? modell:o ha più cav:a!l:li:?",
+        "q_id": 166
+    },
+    {
+        "db_id": "car_1",
+        "question": "Tra l.e a:u:to co:n po,tenza più che più bassa,, q,u:al'i n.on ha;nno p;iù di 3 c'i?li:n!d,ri,?Ele,nca. la ma,c?ch'ina per ca:lare e fai il nome.",
+        "q_id": 167
+    },
+    {
+        "db_id": "car_1",
+        "question": "T;ra l,e, a;uto c!he no?n ha,n!no l?a potenza min'ima, q?uali; sono? i docu!menti di. r,endim:en;to e; nom,i di tutti que!lli con meno d:i 4 cil.i:ndri?",
+        "q_id": 168
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual. è le m:i;g!lia' m;a!ss?ime pe?r? gall?o;ne del;l'aut!o con: 8 cilind.ri o pro;dotte' prima d'el 1980?",
+        "q_id": 169
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual è i!l; m?assi;mo mpg! del:le auto; con 8 cili:n'd,ri o ch:e sono stati pro;do,tt'i pr.ima del 1980?",
+        "q_id": 170
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual'i mod'ell'i' so!n'o più l:eggeri di 3500 ma non? co,s'tr:ui!t:i dall;a \"For;d M'otor. Company\"?",
+        "q_id": 171
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual.i sono i d?iv'ers'i mo'delli; p.iù legger!i; di 3500 ma non sono st;a'ti c?ost'ruit'i; d;alla F.ord Motor Company?",
+        "q_id": 172
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quali s;ono i;l! nome' de.i; paesi in cu!i: non esist'e un solo. produ'ttore. di a?uto?",
+        "q_id": 173
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q;ua;li so?no i nom.i d,ei paesi sen,za. produ,tt,or.i d'i automobi,li?",
+        "q_id": 174
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q!ual,i so!no' i. produ.ttor,i di auto ch'e, produ?cono al?men:o 2 model.l:i e p,iù d:i 3 produt.tor!i d'i auto?E:le'nca l'I:D e. i,l creator'e.",
+        "q_id": 175
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q'uali! sono gli: ID e i prod'uttor.i di tutt?i. i produtt.ori! di, auto;m?obili: che p,roduc?ono almeno 2 mod.ell?i, e? prod:ucono più? di 3 aut!o?",
+        "q_id": 176
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qu!ali sono l:'I,D; e' i nomi. dei p'aesi ch!e hanno pi.ù di 3 produtt.ori di au't?omob;i;l;i; o p:roducon,o il model:l'o \"F!i;at\"?",
+        "q_id": 177
+    },
+    {
+        "db_id": "car_1",
+        "question": "Q.ua:li, son.o g?li I!D' e i no;mi di tu?tti i pa:esi che! ha,nno più di. 3 pro.d:u?tt,ori di auto o produ.c'ono' un mode,llo Fiat?",
+        "q_id": 178
+    },
+    {
+        "db_id": "flight_2",
+        "question": "A q'ua,l!e paes;e app;a?rtie;ne, \"Je;tBl,ue Airwa'ys\" della, c'ompa,gnia, aerea?",
+        "q_id": 179
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Co?n' quale paese, è affil.iato' J!e't?B:lue. Airways?",
+        "q_id": 180
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qual è l'a.bbre?v,iazion?e dell'a compagnia aerea, \"J'e;tBlue Ai,r:w?ay's\"?",
+        "q_id": 181
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q;ual?e abbreviaz,i;one, co:rr,ispond;e a Jet?Blue Airway's?",
+        "q_id": 182
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Elenc:a tutt!i? i nomi. d,e.l:l,e, c;ompagnie aeree e' le lo'ro ab'b?revia,zi?oni in \"USA\".",
+        "q_id": 183
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu!al!i' sono i no;mi d'e.lle c:ompag!ni;e aeree e le' ab'bre;viazi,oni per le co'm!p.a!gn.ie aeree. n;egli Stat:i, Uniti?",
+        "q_id": 184
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Ele;nca il codice dell'ae.roporto. e il nome' nella? città d!i! An!t?ho'ny.",
+        "q_id": 185
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Dai il codic?e, dell!'a;erop?orto. e. il n,om'e; dell:'aero;porto co!rri;spo;nde,nt!e alla città Antho'n;y.",
+        "q_id": 186
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q,uante; co?mpagnie a:eree ab;b,i?amo?",
+        "q_id": 187
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qual è' il. numero t:otale d!i: co!mpagn'ie a!eree,?",
+        "q_id": 188
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quant?i: aero.po.rt.i abbiamo;?",
+        "q_id": 189
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Resti'tu.isce, i.l numero di! aeroporti.",
+        "q_id": 190
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quant?i vol?i abb?iamo?",
+        "q_id": 191
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Restituis!c;e i?l numero di' v:ol'i!.",
+        "q_id": 192
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua:le; co,mpagn,ia ae'rea ha? l'ab;brev:iaz:ione \"ua.l.\"?",
+        "q_id": 193
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Dai a,lla. comp'a.g.nia a;er.ea c'on a!bbre!via,zione 'ual'.",
+        "q_id": 194
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q?uante. comp;a?gn,ie aere.e; sono d:agli S,tati Un;iti?",
+        "q_id": 195
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Rest?ituisc;e il n:umero di co?mp;ag,nie ae're?e negli Stat'i Unit!i!.",
+        "q_id": 196
+    },
+    {
+        "db_id": "flight_2",
+        "question": "In qua'le c:it!t.à e' paese è l'aeroporto di A;lto,n?",
+        "q_id": 197
+    },
+    {
+        "db_id": "flight_2",
+        "question": "D.a!i? l.a. città e il paese per l'ae:rop,orto d:i Alto?n.",
+        "q_id": 198
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua'l è il nome d!ell'aerop?orto pe!r l'a?ero.po?rto? \"Ako\"?",
+        "q_id": 199
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Rest'it,uis.ce? il nome: d'ell'ae!ropo.rto con il codic;e \"A'ko,\".",
+        "q_id": 200
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Cosa sono' i n!omi de'gl.i ae!ropo,rti a' City \"Ab!erd?een\"?",
+        "q_id": 201
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q:u;al?i s.ono i nomi degli: aer'oporti d:i A;berd?een?",
+        "q_id": 202
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q:uan.ti vol?i pa:rtono da \"APG\"?",
+        "q_id": 203
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Co;nta il: nume!r:o di voli: in parten,za! da \"A.P:G:\".",
+        "q_id": 204
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quanti: vo?li hann,o D,estinat?io.n Ato;?",
+        "q_id": 205
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Conta! il n.umero d!i voli. i?n ATO.",
+        "q_id": 206
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua'nti, v:oli par't!ono da Cit;y Aberde'en:?",
+        "q_id": 207
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Res?ti;tuis'ce' il numero d.i v.ol!i in partenza da Aberde?en,.",
+        "q_id": 208
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q,uant;i voli. in. a:r,riv:o a Aber;dee:n City?",
+        "q_id": 209
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Re!s?t?ituisce il n!u;m!er:o di voli' i;n arrivo a.d Aberde'en.",
+        "q_id": 210
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quan,ti voli partono d,a C?i'ty \"Ab;e:rdeen\" e h?ai la cit;t;à d?i d;est'i:na?z;i?one \"Ashley\"?",
+        "q_id": 211
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q.uant;i vol?i vola'no da Ab,erde?en, ad Ashl!ey!?",
+        "q_id": 212
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quan,ti voli ha \"J'etBlue Airwa:y:s\" d.el,la; c;ompag,n!ia aerea,?",
+        "q_id": 213
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Dai i!l numer!o, di: voli JetB!lue: Airw:a.ys.",
+        "q_id": 214
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q!uan;ti voli \"U:ni.t?ed Airli?n,es\" v.a.nno all'aero:porto, \"As?y\"?",
+        "q_id": 215
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Co?n.ta i?l nume:ro di voli de,lla U!nited Airli'nes! c!he ar:ri!vano' al,l'a?er.oporto AS'Y.",
+        "q_id": 216
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua,nti voli \"U:n,ited Airlines\" par!ton;o dal;l'a;er:o.p'o?rto! \"A;HD\"?",
+        "q_id": 217
+    },
+    {
+        "db_id": "flight_2",
+        "question": "R;e's,t.ituisce il' nume:ro di' voli? d'ella Uni,ted Airlines' in partenza? dal'l'a.e'ropor.to AHD:.",
+        "q_id": 218
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quanti! v?oli, del.l,a United? Airl:ine:s vanno. i,n città \"Ab;er'deen\"?",
+        "q_id": 219
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Con!ta il numer!o di? v:o,l:i della United A!irl,ine;s che. ar'r;iv;a;n?o ad Aberd:een?.",
+        "q_id": 220
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qual;e: citt:à ha la m,a!ggi'or parte dei vo:li' i?n arrivo?",
+        "q_id": 221
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu:a!le' ci:ttà ha l'aeropor;to di. de.st'i!n?azione! più f,requente?",
+        "q_id": 222
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q;u.ale città ha; la! maggi:or part.e; dei; voli' in part?enza?",
+        "q_id": 223
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua'le? città? è l'aeroporto, di f'on:te pi:ù f'req:u;ente?",
+        "q_id": 224
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qual è il c,odi;ce; de,ll,'a;eroporto che! h;a il mag;gior nume!ro di, voli:?",
+        "q_id": 225
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q'ual è il codice' dell.'aeroporto de:ll'aero?po,rt'o c.on il magg,ior num;e;r;o d;i voli??",
+        "q_id": 226
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua!l è il: codice del?l'a?eroport'o c.he ha meno nu.mero; d'i v'oli?",
+        "q_id": 227
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Da!i il cod!ice dell:'aer?oporto! con i. m;i,nimi vol,i.",
+        "q_id": 228
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quale comp:a!gni;a aer'ea ha la ma?g;g;i'or p;ar!te dei voli.?",
+        "q_id": 229
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua;le comp,agni;a a,erea' serve: il. maggior? n?ume?ro d?i vo:li?",
+        "q_id": 230
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Tro'va l''ab:breviazione e il: paese de?l.la! co?m:p?agni;a aerea. che ha me.no n:umer'o di: vol!i?",
+        "q_id": 231
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qual! è l'abb'r!ev,iazi:one di Airil;ne h.a: i!l min'or numero? di vo.li? e in, che' paese si t!rova!?",
+        "q_id": 232
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qual.i s,on'o le: com,p,agn:ie' ae:ree che h!anno un v:o.lo in partenza dall?'a;eropor'to' \"A.HD?\"?",
+        "q_id": 233
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qual'i compa!gn'i,e aere'e ha.nno u?n vol:o c!o?n, l'aeropor.to di origi?ne AHD?",
+        "q_id": 234
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qual,i s;ono l:e compagn.ie a!e:re:e che hanno vol:i ch.e ar;rivano; al?l'a?ero?po,rto \"A:H:D\"?",
+        "q_id": 235
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q!uali c:omp'agnie a!eree hanno un vo;lo con: l'ae?ropor,t;o d?i dest?i;na.zion,e AHD?",
+        "q_id": 236
+    },
+    {
+        "db_id": "flight_2",
+        "question": "T:r.ova tutte le com!pagnie' a'eree che han.no vol?i da en:trambi gli' a,ero;porti \"AP.G'\" e \"CVO\".",
+        "q_id": 237
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qua.li c!o'mpag.ni?e ae?r?ee' h,anno voli in par't,e?nza dagli aeroport'i A:PG e CV;O?",
+        "q_id": 238
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Trov.a tu,t'te l.e co,mpag,n,ie a;e!ree: ch:e. hann,o voli! d:all'a!erop,o?rto \"CVO\" ma no;n da \"AP'G\".",
+        "q_id": 239
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quali co;m:pag'ni,e ae,ree h:anno; part:enz:e da CVO m:a non dagli aeropor?ti APG?",
+        "q_id": 240
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Tr:ov!a tutte le co?mpag;nie a'ere:e. che han:no al,men.o 10 voli.",
+        "q_id": 241
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quali compagnie aer?ee! han,no alm.en?o! 10 vo,li?",
+        "q_id": 242
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Tr,o?va tutte le' co.m:pagnie aer,e!e; che han;no me!no di 200 v?oli..",
+        "q_id": 243
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q;uali com!p!ag:n!ie a;e:ree ha.n,no meno di 200 voli?",
+        "q_id": 244
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quali' son!o i n'umer?i di volo d'ell'a co!mpagnia a?ere'a. \"Un:ited Airline.s?\"?",
+        "q_id": 245
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quali n;umeri di volo corrisp!o'n;dono ai vo?li del;la' Un'i?te;d Ai,rlines?",
+        "q_id": 246
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu?a.li! sono i numeri. di volo! di v;ol;i in part?enz.a dall'aer'op:orto; \"APG\"?",
+        "q_id": 247
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Da?i il num,ero! di' voli di vo'li in par;ten;za d,a APG,.",
+        "q_id": 248
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q.u'ali so.n?o i nu.m'eri di' vo:lo di vo;li c'he, arrivano a:ll'aerop!orto \"APG\"?",
+        "q_id": 249
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Dai i'l num'ero di; volo di, v,o.li che; atterr!ano ad APG.",
+        "q_id": 250
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q,uali so;no? il numero di vo?li d,i voli in. pa?rtenza dalla cit:tà \"Ab!e;r;deen\"?",
+        "q_id": 251
+    },
+    {
+        "db_id": "flight_2",
+        "question": "D;ai! il nume?ro di v?oli! d?i: vol,i in partenza da Aberd;ee!n:.",
+        "q_id": 252
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quali so:no i;l nu:mero d!i vo.l.i di' v'oli ch;e arrivan.o a City \"A:ber;deen\"?",
+        "q_id": 253
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Dai il numero di: voli di vol!i i!n, ar,riv;o' a;d A:berd?een.",
+        "q_id": 254
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Tro!va il, nume,ro d,i voli c:he: atterran!o n.el?la, ci.ttà di A.b!erd!een o, Ab,ilene.",
+        "q_id": 255
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Q,ua,nt!i. v'oli atter:r,an!o' ad Aberdeen o! Abilene?",
+        "q_id": 256
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Trova il nom?e d;egli! aeroport;i. c.he: non han?no al?cun, vo.lo' de'ntr!o e' f:uori.",
+        "q_id": 257
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Qu:ali, ae.rop'ort?i non hanno vol'i in. p!arte,nza o in arr;ivo?",
+        "q_id": 258
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qua;nti dipenden!ti: ci so.n,o?",
+        "q_id": 259
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Conta il n!u'mero: di dipenden,ti?",
+        "q_id": 260
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Ordina i? nomi dei dip,end,enti p.er la lor?o e.tà. in or;dine c;r;es;c;ente.",
+        "q_id": 261
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Ele.nca! i n.omi de?i dipe?ndenti: e ord?in,a' in, ordine cresc?ente di et,à.",
+        "q_id": 262
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qual! è il numero. di dipe;nde'nt'i; di ogni c'ittà?",
+        "q_id": 263
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Conta il n:umer.o: di dipe:n:denti? per ogni ci,ttà.",
+        "q_id": 264
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "D'a quali: citt.à prove'ngono. pi!ù di un dip;endente: d?i età inferiore ai 30 a;n.n!i?",
+        "q_id": 265
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Tr?ov'a le città che' h,a'nno pi?ù' di. un d.ip?endente di età infe:riore ai 30 an,ni.",
+        "q_id": 266
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "T;r?o;va: il, numero. di negozi; in ogni p:osizion:e.",
+        "q_id": 267
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Q;uant!i! neg;ozi ci sono in og?ni posiz;ione,?",
+        "q_id": 268
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Tro.va! il, nome d:el diretto,r,e: e il di,s:tre?tto del negozio il c'u.i numero: di p,ro?d?ot:ti è il più gr!a'nde.",
+        "q_id": 269
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Quali; s.o?no il nome manager e il d'istre'tt?o del n;eg;o.z!i'o ch:e v,end.e il m:agg,ior n:u,m:er;o di pr.odotti?",
+        "q_id": 270
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Trova i!l numero minimo: e mas!si'm:o di, prodotti d;i tu.t;t:i i nego;zi.",
+        "q_id": 271
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qua,li sono il n,um!ero min!im,o. e mas;simo di prod;otti in tu?tti i negozi??",
+        "q_id": 272
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Res?titui:sce; il no'me, la pos'izione e i'l distret,to di? tutti i; ne,go'zi in. or!dine decresce.nte di nu.mero di p'r;odot;t.i.",
+        "q_id": 273
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Ordin;a t;ut!ti i n.egozi; p!er numer.o di p:ro,do?tti in! ordine dec'res.cente e res,titui!sc.i il n;ome, la p.osiz:ione! e' il di:stretto d!i o!gni n,eg.ozi:o.",
+        "q_id": 274
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Tr.o!va i nomi; dei negozi i. c?ui prod:o?t!ti' numeric?i: sono più d;el, num.e'r.o: med'io di prodotti;.",
+        "q_id": 275
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Quali! p.rodotti; nu'm.erici de!i' negozi s.ono a:l: di? sopra de?ll!a, me:dia?Dam.mi i nomi, d!el negozio.",
+        "q_id": 276
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Trova il; no,me' del d'ipend;ente a cu!i è stato? a'ss;egna.t,o il m:a:g.gior nu.mero di: volte ne'll:a valu,ta?zione.",
+        "q_id": 277
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Quale d!ipende:nte ha rice,v,ut'o, il: maggio;r; numer:o di pr;em;i nelle val?utazi.oni?D:a?mmi; il no?me d,el d;ipen!de:nte.",
+        "q_id": 278
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Tro,va il n?o;me de!l d!ipend!ente; che ha o!t?tenut,o. il; bonus, un;a volta, più alto.",
+        "q_id": 279
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Q:uale di,penden;te ha: ricevu;to il? bo;nus p.iù grande.?D!ammi i;l' nom'e del dipen!de!nte.",
+        "q_id": 280
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Tro.va. i no!mi dei dipendent:i che non ha?n.n!o ma?i? v'in!to alc;u!n pr,emio ne?ll,a valutazion?e.",
+        "q_id": 281
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qual:i! sono i n:omi! d!ei, dip;ende;nti: che no,n han.n'o mai ri:c;ev?uto alc.una v?alut.azione?",
+        "q_id": 282
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Q.ua:l è il nom,e; del negozi:o che' sta a:ssumendo i!l. maggior nu'mero, d'i dipenden.t,i?",
+        "q_id": 283
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qua?le ne.goz:io ha il m;aggio'r: nu:mer,o di dipe'nden?ti?Dammi il n.ome, de;l ne;goz?io.",
+        "q_id": 284
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Tr.ov,a: il no'me, d!ei: negozi che; non ass;umon.o al'cu?n d.ip?endente.",
+        "q_id": 285
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Q:ua!li n'egozi funzionan,o senza dipe?ndenti?Tr!ov?a i n;om.i; del n'e'g:ozio",
+        "q_id": 286
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "T!r.ov;a il numero di? dip;endenti as;sunti. in og'n,i! neg'oz:io;Most?ra anc:he; il nome d;e!l negozio:.",
+        "q_id": 287
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Per o'gni negoz;io, re'st.itu,isc!e il num,ero di d:ipendenti! che? lav.ora:no lì e. il nome de;l! negoz'i;o!.",
+        "q_id": 288
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "C:osa vien'e! dato i.l? bonus totale in; tut'te l.e va.l'utazioni?",
+        "q_id": 289
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "T!rova la! qu;an:tit?à, t'otale. d'i bo:nus ind'icato i?n tutte le valut'az.ioni.",
+        "q_id": 290
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Da:mm,i tutte l,e? i.nfo:rmazioni sul!l''assunz:ion,e.",
+        "q_id": 291
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Q,ua,l, è t!utte le inf,o;rmaz?ioni su:ll'assunzio,n'e?",
+        "q_id": 292
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Q,u,ale di?s.tretto ha entra'm:b'i i negozi! co!n meno di 3000 pr.od!o'tti: e. negoz:i: con: ol!tre 10000 prod.otti?",
+        "q_id": 293
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "T'ro.va i di,stretti in cu?i c!i s,o,no e,ntr.amb;i i; neg;oz!i ch!e! ve!ndono m;eno di 3000 p!ro'dotti e neg:oz!i che v.endono più d.i. 10000 prodo.t.ti?.",
+        "q_id": 294
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Qua.nte divers;e posiz.io'n;i d:e!i. n,eg,ozi c,i sono?",
+        "q_id": 295
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Co.nt.ar'e il numero d!i posi;zio,n!i dis!t!inte de:i neg:ozi.",
+        "q_id": 296
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qua!nti; do'cum.enti, abbiam'o?",
+        "q_id": 297
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Conta: i:l numero d'i d'ocume,nt;i.",
+        "q_id": 298
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Elen?ca: ID d?ocume!nti, no!m'i di! do!cum'enti e, de!scrizioni di docu?ment;i p.er, tut;ti i d.o!cu'menti.",
+        "q_id": 299
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu!ali, so.n?o gli: ID, i n,omi e l!e. d;escriz;ioni p,e.r t,u.tti i, docume;nti?",
+        "q_id": 300
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q:u'al' è il n!om:e d'el: do!cu!mento e. l'ID modello p'er? il d!ocument'o con descrizi:one? co!n, la: let;tera \"W\"?",
+        "q_id": 301
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R?estituisci i! nomi e gl,i ID model!l;o p?e:r do.cumen.t.i c'h:e cont,engon'o la l,et.tera; W nella lo:ro des?criz,ion;e.",
+        "q_id": 302
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual è: l'ID d:e;l doc,u;ment,o, l,'I.D? modello e la descrizi,on'e p.er i:l docum'e!nto. de:nomi:n.ato \"Rob;bin CV\"?",
+        "q_id": 303
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Res,t:it;uisc!i: l'ID; do?cu,m!ento, l'ID model;lo; e la. d.es;crizio.ne per il' do:cu'm'ento con il nome Rob:bi?n CV.",
+        "q_id": 304
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quanti: mod?ell.i diversi' u?t;ilizzano tutti i do'c?ume.n,ti;?",
+        "q_id": 305
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "C.onta!re il: n.umero di diversi: mo;de?l'li. utilizzat:i' p,e'r i d;o'c'umenti.",
+        "q_id": 306
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu!ant,i' d;oc,ume.nti utilizz?ano? i,l; model.lo c,on il codice di tipo \"ppt\"?",
+        "q_id": 307
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "C?onta il numero: di docume'nti? c?he u'til!izzano il; t:ip'o: di mode.ll.o? PPT.",
+        "q_id": 308
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M!o'stra tutti gli! ID' mode:llo e i,l n!ume;ro di: d!oc'umen.t?i usando ciascun mo.d'el!l:o.",
+        "q_id": 309
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q'uali son!o? tu,t:ti i diversi ID mod;elli' utilizzati? per i? d!oc.umenti e quan:t:e vol.te so!no sta?ti? uti,liz'zat,i ciascu.no di. essi!?",
+        "q_id": 310
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q.ua!l è i'l cod!ice ID e tipo pe?r il mode!ll:o ut'iliz:zato: dal ma'g!gi!or' nu!mero di d!ocument.i?",
+        "q_id": 311
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R.es;tituis:ci' l:'ID' e il tip'o di cod.i'ce del model,lo utilizzato p!e'r? il magg.io,r num.er,o di docu:menti,.",
+        "q_id": 312
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mostra ID p:er tutti i mod;ell!i uti?l:izzati! da! pi;ù d?i un; doc.u;men:to.",
+        "q_id": 313
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qua'li s,ono g,li ID mod.ello; di qua:l,s'iasi: modell:o! utili,zzato i.n p;iù di un si?ngolo doc:um?ento?",
+        "q_id": 314
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Most'ra: ID pe?r t.utti i mo.del'li n.on uti;l?izz'ati d!a nessun doc!um.en;to.",
+        "q_id": 315
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qua'li s:ono gl;i I;D per i modelli c'he! n?o'n vengono utilizz?ati in' alcun, d'ocum?e'nt;o?",
+        "q_id": 316
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu:ant'i mod'el:li abb?iamo?",
+        "q_id": 317
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Con;t.a, i!l numero di modell!i.",
+        "q_id": 318
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M:o'stra ID mo:dello', num:eri? di v:e!rsi?one! e co:dici d:i tip;o modell.o p;er. tutti. i model?li.",
+        "q_id": 319
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu:ali sono? gli ID, i numer:i di' versione e i c,o?d,i.c,i d?i tip'o p;er o;g?ni m?od;ello?",
+        "q_id": 320
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M;ostra tu:tti i c:odici di tipo mod!ell,o disti'n!ti per t'u:tti. i m,odel.li:.",
+        "q_id": 321
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q?ua!li? sono i diversi co.dic,i, di tip!o m;odello?",
+        "q_id": 322
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu,al?i sono gli I'D dei mo:delli; c'on codic?e tipo mod:ello PP: o P.P?T?",
+        "q_id": 323
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R?e,stitu!isci. gli ID dei m:o.del'li che h:ann?o il! codice? PP, o PPT.",
+        "q_id": 324
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu!an!ti mod?el'l;i hann?o codice di ti.p,o mode:llo CV?",
+        "q_id": 325
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "C;ontar!e il numero di model!li del: t;ip;o. C'V.",
+        "q_id": 326
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual è il' nu'm;e,r'o di v!e;rsi?one e il tipo di tipo di mode:llo per' il m'odell.o; con num!e!ro di: vers,io!ne più; ta.r;di! d:i 5?",
+        "q_id": 327
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Restituisci i n;u'mer.i' di ve?rs.ion'e' e i codic'i di tip'o mod'el.lo dei; mod!elli con u.n nume.ro di ver,sione s,uperio're a? 5.",
+        "q_id": 328
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Most;ra? tutti i? c?odi.ci: di tip.o mod!e.ll!o e il num:ero! di m:ode,lli pe;r; ciascuno.",
+        "q_id": 329
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual!i son,o i d;ive:r;si codic!i di; t?ipo modello e q?uanti mo!delli corrispon.dono a cia.s.c;un:o??",
+        "q_id": 330
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q:uale c;odic'e d!i t!ipo; modello h?a la? maggio;r p'arte dei mod'elli:?",
+        "q_id": 331
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Rest?itu:i'sci; i'l cod'ice tipo! d,el tipo d.i modello, a cui appa;rtie!ne la' mag!gio?r parte de,i mode;lli.",
+        "q_id": 332
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mostra tutti i codic?i di? tipo m:o?de!ll.o; con men:o di t!re mo?delli.",
+        "q_id": 333
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qua,li so;n:o? i codici d.ei tipi di mod,elli che. han'no m'en,o di, 3 mo.d!elli?",
+        "q_id": 334
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu:al è' il, n.umero di versione più p.iccol,o e il? cod'i;ce; del t'ipo d;i m:odello?",
+        "q_id": 335
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R.estitu;is:ci i.l numer?o di v.er;sione più bas.s!o:, in,siem.e al cod'ice tip:o? model!lo corrispon!d,en!te.",
+        "q_id": 336
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual è i:l co.dice d'i, t?i,po' m,od;ello d'el modell,o utilizza!to da;l. doc:um'ent!o con il nome \"Base' dati\"?",
+        "q_id": 337
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R,es,titu!isci il cod;ice t'ipo! mo.dello, d,el m!o!d!ell,o utili'zzato da' un doc;ume;nto de,nominato bas'e di: dati:.",
+        "q_id": 338
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Most.ra tu?tti. i no?mi dei d.oc?u?men;ti us;an:d!o m.odel:li con codic.e tip:o m;odello B;K.",
+        "q_id": 339
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quali s:ono i. nomi dei do'cumen:t!i c!he utiliz!zan.o; i m,o'de'l?li c'on il co.dice BK?",
+        "q_id": 340
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mos?tra, tutti i. c:od'ic?i d!i ti,po mod.ello e il n;umero di do!cu:menti u:sa!nd'o ci?ascun t!ipo.",
+        "q_id": 341
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qua!l.i? sono i di,versi c,odi?ci di tipo? mode?llo e quant,i; docume'nt.i u!sano ogni tipo?",
+        "q_id": 342
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu'a;le. co?dice di! ti;po mod;el!lo vie?ne u,tilizza!to dall'a; ma,g,gior p,arte! d.el? n,ume!ro di documenti?",
+        "q_id": 343
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Restit,ui?s;ci il; cod?ice: de'l. tipo di. model:lo c,he vi;ene pi:ù comune,me.n!te us:ato nei d,ocument,i?.",
+        "q_id": 344
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mo!s:tra tu;tti i codici di tipo mo?d?ello: c.he no!n! son!o: utilizz.ati d'a ne's'sun do!cume!nto.",
+        "q_id": 345
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quali; sono: i co?dici! d,ei tipi di, mo?del'li che no,n vengo,no uti'l.i;zzati per nes!sun d:oc?ume.nt?o?",
+        "q_id": 346
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mostra tut,t.i i cod!ici e. le descrizio'n'i d:el tipo d'i modell.o.",
+        "q_id": 347
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quali so,no! i! codi,ci di t!ip?o e' le d'escrizio:ni: p?er: tut'ti i tip'i di mod,elli?",
+        "q_id": 348
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu:al: è le desc'ri'zio,ni de,l; tipo d:i mo?de;llo pe?r i:l codi.ce t;ipo \"ann.unci'o\".",
+        "q_id": 349
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Re,s'tit'ui?sci il, tipo di modello Descrizion.e del tipo di: mod?el:lo c!o.n l'ann?uncio. d'el, c:odice;.",
+        "q_id": 350
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual? è il; c?o.di,c.e tipo mod!ell:o per i?l tipo di m,od,el:lo! D;escri:zione \"li?bro\".",
+        "q_id": 351
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R:estitu'isci il' c:odice t:ipo' del ti?po di m?ode:ll;o; con il \"libro\" d;ella! descriz?ione.",
+        "q_id": 352
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qua;li so:no le. des'cr:izio'ni del? tipo di mode;lli distin?te per i: m:odel.li m;ai uti;l.i,zzati. d?a un d!ocu;m:ent?o?",
+        "q_id": 353
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "R'estit;uisce; le di,verse d?escrizioni per i mod'ell;i che! s'on!o; sta.ti' utilizzati i!n! u?n d,oc!um?en;to;.",
+        "q_id": 354
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quali s?o.n?o gli ID. mod?ello con t?ipo di mo:de!llo Descri.zion!e del tipo: \"P'r,e;sentazi?one.\".",
+        "q_id": 355
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Res,tituisci gl:i: I'D, cor:rispondenti: ai modelli, con la? de:scr!i,z:io,n.e \"Pr,ese'ntazion'e\".",
+        "q_id": 356
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quan;t?i parag.rafi i:n tot?ale?",
+        "q_id": 357
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Co;n,tare! i?l numero di pa:ragra,fi.",
+        "q_id": 358
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q:uanti parag?r!afi: per il' docume!nto con? il no;me \"S;umm,e.r; S,ho;w\"?",
+        "q_id": 359
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "C;onta; il: numero di, para;graf.i ne;l documento ch?i?amato; \"Su'm!mer Show:\".",
+        "q_id": 360
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M,ostr?a, i: d.ett:agli del pa;ragra!f:o; per il! para:grafo con i.l testo \"Cor!ea!\".",
+        "q_id": 361
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qua'li so'no i: dett?agl'i; p'er! i?l paragrafo c:he incl:ude il testo \"Corea\"?",
+        "q_id": 362
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mostra: t'utt,i, gli I,D e: t:est?i di paragr:af'o pe.r il docu'mento con i:l no!m,e \"Welc:ome t'o NY\".",
+        "q_id": 363
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu.ali son;o g,li ID, e i te!sti! dei par.a:g'rafi nel do'cume,n;to int?itolato \"We?lc?ome, to N:Y.\"?",
+        "q_id": 364
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mo?stra tutti i t.est:i di parag.ra:fo. per' il docum:ento? \"R,e'censioni! dei. c;lienti\".",
+        "q_id": 365
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu'ali' son:o, i t'es!ti: di pa'ragrafo per? i;l? docum'ento con i!l. nome \"rec,ensi!oni dei? c;lient:i\"?",
+        "q_id": 366
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mo;str;a tutti gl,i ID do?cumenti e? il nu;mero d?i pa:r'a;graf!i, in c;ia?sc?un doc'ume.nto..O;rdine per d'ocument;o ID.",
+        "q_id": 367
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Restit'u:is;ci i; di.v;ersi I!D de,l d'o!cumento ins:i,eme, al n;u:mero di paragrafi, corr,i.s:ponde,nti, a? ciascuno, o?rdinato? pe;r ID.",
+        "q_id": 368
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Mo,str,a tu'tt,i. gli ID d;oc'umenti:, i nomi: e il n,ume:ro di par!agraf'i; in c?ias?cun docum:ent?o..",
+        "q_id": 369
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qua?l:i s?o?n!o; gl.i! ID e i no.m?i d!i cias,cun. documento, non!ché il' n:um;er?o di p.aragra?fi in ciascuno?",
+        "q_id": 370
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Elenca: t.utti gli? I?D docume?nti co:n al:meno due pa;ragr,afi.",
+        "q_id": 371
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Q'uali so?no gli: ID dei docum!ent!i ch?e hanno! 2 o pi?ù paragr;afi:?",
+        "q_id": 372
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu!al' è l'ID! doc,umento e il nome: con; il' maggio.r numero! d?i; parag,rafi?",
+        "q_id": 373
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Res;t?ituis,ci l'I'D e i?l nom?e del d!o?cu:mento con i,l maggi?or n,um.ero di pa.ra;gr:a.fi.",
+        "q_id": 374
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual è l'ID docu:m'ento c:o!n il mi!n;o,r numero di par?ag?rafi?",
+        "q_id": 375
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Resti:tuis.ci. l:'I?D del do.c:ume,nt.o con il minor n!umer,o. di paragra:fi.",
+        "q_id": 376
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual è l?'ID, docum!ento, con 1 a: 2 paragra'fi?",
+        "q_id": 377
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Dare? gli I'D dei documenti c.h:e: ha;nno tr;a uno? e' due: paragr'afi?.",
+        "q_id": 378
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "M.o.str?a l'ID docu,me:nto c.on! il; tes;to, di? paragra!fo \"Brasile\" e. \"Irlanda\".",
+        "q_id": 379
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qu.ali sono g'li ID de:i documenti c!h,e conten;gono il t'e?s?t'o di para:gra?f!o \"B?ra,s,ile\" e! \"I?rlanda\"?",
+        "q_id": 380
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu:a?n:ti in'segnanti ci so,no?",
+        "q_id": 381
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Q?ua?l è? il. conteggio t;o:t'al.e degl.i i?nse?gnanti?",
+        "q_id": 382
+    },
+    {
+        "db_id": "course_teach",
+        "question": "E'lenca' i nomi. degli in:se!g!nanti? i;n ordi!n;e: di; età crescente.",
+        "q_id": 383
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu,al?i, s.ono i nomi degli: ins?e'gnanti o?rd'i!nati dall:'età as?cendent.e?",
+        "q_id": 384
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu;a'li sono l'et.à e la! città nata:le d;eg;li; inseg,n!anti?",
+        "q_id": 385
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qua;l è l'età e: la citt;à n?at?al?e d:i ogni inseg'nante.?",
+        "q_id": 386
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Elenca, i:l nom!e degli' i;nsegn.an?ti? la' c;ui città nata,l:e non è `` Little Le?ver U?r.ba,n Dis:t!r?ict ''.",
+        "q_id": 387
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Q'uali' sono i nom:i degli ins.e,gna:n'ti l?a cui città natal?e non. è `` Li.ttl,e' Lev:e'r Urb:a,n D.istric!t ''?",
+        "q_id": 388
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Mostra! i?l n.ome d?i ins'e?gnan.t,i di età co.mp:resa t!r.a 32 o 33?",
+        "q_id": 389
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Quali s!ono i. no;mi deg!l'i' inse,gn;anti che h!anno 32 o 33 anni?",
+        "q_id": 390
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Q.ual! è; la citt.à n!at;ale de.ll.'insegnan:t.e p?iù giovan.e?",
+        "q_id": 391
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Da d,o.v'e vi!ene l'inse,gna,nte più g!iovane?",
+        "q_id": 392
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Mo'stra diver!se città d;i insegn:anti! e il n.u.me:r.o? di inse,gn;an;ti di o:gni citt?à na!t;al:e.",
+        "q_id": 393
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Pe?r og!n'i: citt;à n'atale, qua!nti inseg!na,n;ti ci sono?",
+        "q_id": 394
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Elenc?a la cit,t:à natale pi;ù c!o!mune deg.li. inse,gnanti.",
+        "q_id": 395
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Quali so,no le! c;ittà più co'muni p;er gli: in!s;egnant?i'?",
+        "q_id": 396
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Mostra le' c,i'ttà de?l?le c'ittà. c,ondivi,s:e d?a alme.n,o due insegnanti.",
+        "q_id": 397
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Da cosa prov,e?ngono le ci.ttà da c:u!i: pr.ovengo!n;o. alm;eno d:ue inseg:nanti??",
+        "q_id": 398
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Most;ra: i n?o.mi; deg'li' insegnanti e dei co,rsi! c'he s;ono o!rg:aniz?zati per ins,e'gnare.",
+        "q_id": 399
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qua!l è i'l n?o:me di? ogn'i, insegnante e qual:e cor!so in:segnano!?",
+        "q_id": 400
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Mostra i n,om'i! degli inse,g,nanti e de:i corsi! ch?e, sono or,ganiz?zat:i per! insegnare, in, u,n ordine; a!lfabetico asc!en!d.ent?e del nom;e. dell''insegnante!.",
+        "q_id": 401
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qu'a!li so.no' i nomi; degli ins!egnant:i e dei' corsi che' inse?gnano ne;ll'o!rdi:ne? a;l'fabe,t.i'co asc:en!dente con. il n,ome d!ell!'inse;gnant!e?",
+        "q_id": 402
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Mos:tra, il no;me d;el'l'in'seg.nante pe,r il corso. di matemat;ica.",
+        "q_id": 403
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Quali sono i nom'i dell!e' p?erso?n:e che? i?nse.gn.a!no corsi di m?atematica.?",
+        "q_id": 404
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Mostra i no:mi d!egl'i i?nse;gnanti e il numer'o di c;o;rsi c?he in.s,e!g!nan!o:.",
+        "q_id": 405
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Quali s,o:n.o i? nomi. de.gl,i i?nsegnanti! e quan:ti corsi ins:e:g;na'no?",
+        "q_id": 406
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Most,ra. nomi di i,nsegn:anti che. in's?e'g:n;a,no almen.o due corsi.",
+        "q_id": 407
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Q?uali sono i nom,i d;egl;i? in'segnan'ti che i'nse?gnano? a.lm!eno: due corsi'?",
+        "q_id": 408
+    },
+    {
+        "db_id": "course_teach",
+        "question": "E;len!ca' i no,mi degli insegna,nti c!he n;o'n sono st;ati o!rgan.i'z!zati per ins.egnare cor!s,i.",
+        "q_id": 409
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Q'uali? sono i nom'i. de.g.li insegn;ant:i i' cui cors:i non so'no stati orga;nizz?at;i!?",
+        "q_id": 410
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Quan?ti vis.ita!t?ori. d;i età inferior.e, a;i 30 anni? ci sono?",
+        "q_id": 411
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Tr.o.va i no.mi; dei. v,is!ita!tori il cui li'vello di, is:crizione è s!u!p;er'ior:e a 4 e o'rdina i risul:tati dal? li;vello. d;a a'lto a basso.",
+        "q_id": 412
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qual è l'età; m:e,di.a d.ei visit.atori il! cui livello di: iscrizi,one? non è superior'e! a? 4?",
+        "q_id": 413
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Trova: il no,me. e i!l live;llo d,i a.bbona;ment'o dei' vi?sitatori i?l cui, live,llo di is:crizio;ne è, s.up;eriore a 4 e. o?rdina p!e:r l:a, lor'o età da v.ec;chio; a giovani:.",
+        "q_id": 414
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Tr,o.va l'ID e i.l nome de!l mus,e;o c?he ha il: maggior num,e;ro. di memb;r,i dello? staff?",
+        "q_id": 415
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Tro.va il n:u?mero: medi.o, di; pe.rsonale: ch;e la.vo!ra pe!r i mus?ei! ap!er?ti pri.ma del 2009.",
+        "q_id": 416
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Q;ua,li so'no. l.'anno di a:pertur;a e il. numer,o del: perso!nale del mu'seo? de?l? Museo di Plaza:?",
+        "q_id": 417
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Trova i n,o'mi de.i m'u:sei. ch;e! ha'nn,o p.iù persona;l,e risp;etto al nu'mero m?inimo di. tut?t.i? i musei aperti dopo il? 2010.",
+        "q_id": 418
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "T.rov'a l''ID, i;l nom.e e l'età pe?r i visi.ta,t.o;r;i, che han?no visi'ta;t!o alcun,i mu;se:i più, di una v'o:lta.",
+        "q_id": 419
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qu.ali so:no l'ID, il; nome: e, il li'v;e:ll.o di iscrizi,o?ne dei visitato,ri che hann!o spes!o: la più grand!e quantità? d,i dena,r:o i!n to?tal;e in' tutti i bigl:ie:tt;i per il: muse;o?",
+        "q_id": 420
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qua?li so!no l'ID e. i.l; nome d!el' museo? v,isitat,o la? m;aggior. par'te del!le volte?",
+        "q_id": 421
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Q.ual è? il nom.e de'l, mus:eo che, n'on! aveva? anc.ora v.isitat:ori?",
+        "q_id": 422
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Tr:o?va i?l no,me e. l''età d'el visitatore! che han'no acqui,st,ato i'l ma;ggior numero di' b;i!gliett:i conte,mporan.eam'ente.",
+        "q_id": 423
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qua?l;i sono il numero me!dio e massi.m?o di big;l:i'et:t:i acqu.ista!t:i i?n, t;utte le visite'?",
+        "q_id": 424
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qual è l'a sp!esa t.o'tale; de:l big'lietto de'i vi!sit,at:ori' il cui livell;o d:i is:c;riz!ione è 1?",
+        "q_id": 425
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Qua.l! è il no.me del vi,sitatore che ha visitato sia u;n! m.us!eo ape,rto prima: del 2009 e' un. m;u?s!eo ape?r!to dop.o i!l 2011?",
+        "q_id": 426
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Trova il numero; d?i visitatori c,he n,on ha'nno visita:to alc;un: mu,seo. aper!to? d,op,o il 2010.",
+        "q_id": 427
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Quant?i musei! sono st;ati ap;e.rt,i! dopo, il 2013 o; pri?ma del 2008?",
+        "q_id": 428
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trova, i:l n;ume.ro totale d;i gioca?t,ori.",
+        "q_id": 429
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quanti? gi,oca!tor:i ci so:no?",
+        "q_id": 430
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T?rova i:l nu,me:r,o to:t.ale di cor,rispo:ndenze?.",
+        "q_id": 431
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Co:n!ta il numer.o. di par'tite.",
+        "q_id": 432
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Ele!nca! il n.om;e e la' dat?a d;i nasci.ta di tu!tti i gioc.a?tor:i d!el p'aese con Code USA.",
+        "q_id": 433
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quali: sono i nomi! e le. da.t,e di nascit:a! dei gi;o!cato'ri degl,i Stati! Uni;t!i!?",
+        "q_id": 434
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T?r;o.va l,'età me!di:a? dei perdenti! e dei vin'citori di t'u.tte le: pa:rt?ite.",
+        "q_id": 435
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q.uali, sono' l'età medi!a d!ei perdenti e: dei vinci;to:ri at'tra,vers!o le. p?ar,tite?",
+        "q_id": 436
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trova il g:rado! me;dio di vin!cit;or.i in t;u'tte. le pa?rti.t?e.",
+        "q_id": 437
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q;ual è il gra.do med,i;o per? i; vi!ncitor.i in tu'tte le pa'rtite?",
+        "q_id": 438
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tro:v;a: il più a;lto gr,a:do di pe?rd:enti in tutte l.e: p:artite.",
+        "q_id": 439
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qual? è, il miglio:r gr'a.do, di perdenti in, t!utt!e le: part.i:te?",
+        "q_id": 440
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trova il? num;ero di co,dici n.azio,n,a:li di,st:i.nti d,i tutt:i i gi;ocato;ri..",
+        "q_id": 441
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Da qua,nti paes?i distin.ti! p'rovengon'o i g'i.oca,to?r,i?",
+        "q_id": 442
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T'rova il nu'm'ero di? dis.tinti no'me di; pe.rden,ti.",
+        "q_id": 443
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qua;nti n?o?m?i di perdenti, dive'rsi c!i so;no?",
+        "q_id": 444
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trova il nome del! t;orn:e?o che ha p:iù di 10 p,a;rti.te.",
+        "q_id": 445
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qual?i son.o i n,omi dei tor:nei, che hanno più di 10 pa!r:ti?t.e?",
+        "q_id": 446
+    },
+    {
+        "db_id": "wta_1",
+        "question": "E;lenca i no;m?i d;i tutt!i i vincitori! c'he! h!ann;o gi.oc'at,o sia n.el 2013 che nel, 2016.",
+        "q_id": 447
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu'ali s'o,no i nomi! dei g,ioca'tori c'he han;no vin,to s;ia. nel 2013 ch.e? nel! 2016?",
+        "q_id": 448
+    },
+    {
+        "db_id": "wta_1",
+        "question": "E:l:enca. il numero d:i tu,tte l?e partite che? hann!o? giocato? ne!g!li a'nni: 2013 o 2016.",
+        "q_id": 449
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quante parti!te sono st'at.e g;i!ocate nel; 2013 o n:el! 2016?",
+        "q_id": 450
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quali son.o; il codice, d?i c,a'mpagna: e il nome dei, g:ioca:to?ri? c;h;e hanno vinto sia nei: ca?mpionati W;T'A! del, tor,n,e.o ch.e, australia,n;i Open??",
+        "q_id": 451
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu?ali sono i n?om.i e i codici d,i campagna: p?er i giocat!o!r.i; che' ha;nno v:in:to sia i camp,iona't?i WTA! ch.e g?l;i Austr?ali;a!n, Open?",
+        "q_id": 452
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tr?ova i;l nom'e' e il codice: di campa.gna del. gio:c!ato:r!e più an.zian,o.",
+        "q_id": 453
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qual' è! il nome e i!l c,o:d.ice di: camp,a'g:na del? gio:catore pi:ù a'nzia!no?",
+        "q_id": 454
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Elenca il' n.ome: e; il cognom?e di tutt!i! i gi!o,ca?tor'i ne;ll'ordine; di n.asc?ita.",
+        "q_id": 455
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qua.li so?no i nomi com,p.le,ti di tu:tt'i! i' giocator?i', ordinat?i' per data di nascit,a?",
+        "q_id": 456
+    },
+    {
+        "db_id": "wta_1",
+        "question": "El;en'c'a il n:ome e i?l c'o!gnome di tut?ti i gioc.a.t.o.ri che sono rimast'i / L, n'ell.a data di na,scit'a.",
+        "q_id": 457
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quali s!ono' i: no?m;i comp.leti di tut'ti i g:iocato.ri a sin;is:t.r'a, in or.dine d?i nascita?",
+        "q_id": 458
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tro!v?a il no.me e il cod.ic?e di, campagna del gi.oca!t?ore c:he' ha f,att?o i,l maggio'r nu:mero di tour!.",
+        "q_id": 459
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu'al è' il nome e i.l codic,e di campagna; del gioc;ato;re. con il ma!ggior' n.umero, di' t,o.ur?",
+        "q_id": 460
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T'rova l'anno che ha il mag!gior' numero di pa'rtite;.",
+        "q_id": 461
+    },
+    {
+        "db_id": "wta_1",
+        "question": "I;n quale? anno! ha avu'to i;l ma:g.gior nu;mero di p,ar?tit'e!?",
+        "q_id": 462
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tro'va il nome. e i punti d.i. rango de;l, vincitore che. ha vinto il? magg.i'or n!um'e,ro' d'i; v;olte.",
+        "q_id": 463
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qual è il nome de?l v?incitore; ch.e ha. vint'o i'l magg?ior: numero; d,i parti?te: e quanti pun.ti di rango! ha. que;s!to giocator:e?",
+        "q_id": 464
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trova il n?ome. d;el vi'nc,itore che ha i, p:un.ti; più a.lti e? ha pa;rt;ec;ipat,o al: tor,neo aperto: austr.aliano.",
+        "q_id": 465
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qual è il n'ome de,l vin!citore con i: pu!nti più: d?i' ra?ngo? c?he hanno p,ar;tecipa;to al. To?r:n;eo A;ustralia.n Ope:n?",
+        "q_id": 466
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T.rov,a i! nomi d'el p'erdente e del vi!ncitore? che hanno giocat:o; n!ella pa?rtita. c:on un m;aggi,or? n!um:ero. di minu:ti.",
+        "q_id": 467
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q!uali sono i nomi del' v;i?nci!t!o.re! e del pe?r.den.te ch'e hanno gi,ocat!o nel,la pa'r't;ita più lunga?",
+        "q_id": 468
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T:rova la c?lassifi!ca med?i:a pe:r o!gni g'ioc;at:ore e' il lor'o no!me.",
+        "q_id": 469
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu!a!li sono; i prim.i' no?mi: di tutti i g;i;ocatori: e le lor:o c!la'ssifiche med,ie?",
+        "q_id": 470
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tr!ova: i pu;nti d,i classificazion'e t.o?t!a:le: per o.gni gio!c,ato;re e il loro n!o.me.",
+        "q_id": 471
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q;ual:i. sono i primi nomi d?i tutti i? gioca;tori e? i' loro punti di clas;s;ifica,z,ione? t:ota'le?",
+        "q_id": 472
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tr.o?v!a i:l! nume'ro di giocatori. p:er, ogn!i paese,.",
+        "q_id": 473
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu;an;ti g'iocat?ori so?no da ogni. p'aes,e?",
+        "q_id": 474
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tr,ov:a i.l codice del p:ae?s:e dov,e ha il mag?gior nu?me.ro di gi?ocator;i'.",
+        "q_id": 475
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qual è il codice d:e?l paese; con l:a maggio.r p:ar'te' dei g!ioc.ato!ri?",
+        "q_id": 476
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tro.va, i c.odici dei paesi che h?a,nno più di? 50 gioca't.ori.",
+        "q_id": 477
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q!ua?li; son!o i c?od!i'c,i! dei paesi. con più di 50 giocator'i?",
+        "q_id": 478
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T!r'ova il num;e,ro tota.le d;i tour per; og!ni dat:a d;i class;ificaz.ion;e.",
+        "q_id": 479
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Q;uanti tour t:ot'a;li c'er,an,o p.er ogn?i dat,a di classific:azione?",
+        "q_id": 480
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trova i.l numero di p:art.i;t;e che è' av?venu.to ogni an;n:o.",
+        "q_id": 481
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quan'te p!art;i?te v'enivano gio:cate ogni! ann?o?",
+        "q_id": 482
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T:rov.a il: no;me e il gr:ado dei 3 vinci?tori pi,ù giovani in t.utte le p:artit:e.",
+        "q_id": 483
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quali sono; i, nomi: e' i r;anghi' de!i tre più gio'va'ni vi!nc;ito!ri in tutte l:e; pa'rt'ite?",
+        "q_id": 484
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qu!anti' vi!nci.to.r'i: diversi ha'nno pa,rtecipato e?ntr?a!m?bi ai ca;mpiona'ti WT!A e sono sta:ti mancino'?",
+        "q_id": 485
+    },
+    {
+        "db_id": "wta_1",
+        "question": "T!r:o:va il nu,m?ero di! v;incit:ori d;el:l!a? m,ano sinis,tra? ch.e h;anno partec.i?pato ai campionat;i W,T.A.",
+        "q_id": 486
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Tr?o;va il nome!, il c.odice de!l paese e la da.ta d'i nascita d;el! v?inci!tore c?he ha! i pu'nti più alt.i: in tu?tte! le? pa;r:tite.",
+        "q_id": 487
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Qual: è. il nom?e', il co!dice di cam?pagna e la dat.a di nascita: del gio!c;a'tor?e c'o;n: i pu:nti di classificazi'on'e più vin?c?itor,i. in tut.t.e le par?tite?",
+        "q_id": 488
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trov?a il n!um:ero; di giocatori per; o,gn;i ti:po d;i mano.",
+        "q_id": 489
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quanti; giocatori; ci so!no pe:r og'n,i tipo di ma.no?",
+        "q_id": 490
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Quante navi h;an;no: f:in!ito! p'er e,ss.e?re \"catturate\"?",
+        "q_id": 491
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Elenca il nom?e e i!l t!onnel?lag!gio o?rdinati da in ord?ine a;lfab;e?t;ic:o disce!ndente. p'er i nomi.",
+        "q_id": 492
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Elen:ca il, nom,e, la d.a.t'a; e, il! r'is!ultato di ogni b,attaglia.",
+        "q_id": 493
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qual è i;l bila!n.c,i!o d.el.le vi,tt,ime' massim?o! e minimo causa.to ogni volta.?",
+        "q_id": 494
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Q!ual è: il numero m,ed,i!o d?i l;es'i,on'i causat!e ogni' volta?",
+        "q_id": 495
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Q,ua.li son!o le situ,az.ioni di mo,r,te? e. l'esi'o;ni causate d'alla nave' con tonn:ellaggio \"t\"?",
+        "q_id": 496
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qua?l?i s:ono il! nome; e i r?is,ultati! delle? battaglie, qu?a;ndo: il coma?nd'ante? bulgaro non; è \"bori'l\"",
+        "q_id": 497
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qua?li s.ono i d'iv;ersi ID e n'omi d!elle b:at!tag,lie! che hanno pers!o qu,alsia;si t:i.p'o di t,i;po \"br?i;g\"?",
+        "q_id": 498
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Quali so.no gli. I;D e i no:m:i; delle batt;aglie ch!e h'anno po:rtato a pi?ù d?i! 10 pers,o;n?e uccise, i.n t?otal'e.",
+        "q_id": 499
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Qua?l è l'ID e il, nome: d;el'la na,ve' che ha,nn'o c,au.s?at:o l;a. maggior' parte delle; lesioni totali?",
+        "q_id": 500
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Q'uali s,ono i no'mi d:i bat!tagli:a distint,i ch!e. s:on.o t!ra il, comandante bul;g:aro \"K,alo:yan\" e il c!oma?ndante l,atino; \"Ba;ldwi.n I\"?",
+        "q_id": 501
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Q.uan?t!i risu?lt'ati diver!si ci! son!o per' l.e battaglie?",
+        "q_id": 502
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Quant,e' batt:aglie non han.no; perso. la n'a?v'e co.n il tonnellag!gio \"225\"?",
+        "q_id": 503
+    },
+    {
+        "db_id": "battle_death",
+        "question": "El'enca il! nome e la d'a,t,a della: bat.t'agli?a? ch;e ha pe:r,so l?a nave ch,i'amata \"Let.ti,c.e\" e la nave ch'iamat.a \"HMS Atala:nta\"",
+        "q_id": 504
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Mo!st:ra: n.omi, risult,ati e co'mandant.i bul:ga.ri: d:elle ba'tt:aglie' sen?za navi! perse ne,l \"canale; di i?ngl!ese\".",
+        "q_id": 505
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Quali sono? le note, degl,i e.ven.ti di morte che ha! l?a sot;tostri:n.ga \"es;t\"?",
+        "q_id": 506
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Co?sa son:o t?u'tti gli indirizzi t,ra; cui! la, rig'a' 1 e la: riga 2?",
+        "q_id": 507
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q'ua.l è l!a prima! e la seconda riga: pe,r tutti gl?i indir:iz?z;i?",
+        "q_id": 508
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quanti, c!or:si in? t;otale sono e,lenc,ati!?",
+        "q_id": 509
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quant.i' corsi: ci! sono?",
+        "q_id": 510
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Co,me' viene' descritt!o il corso! d,i ma?t!ematica?",
+        "q_id": 511
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual?i sono' le; descr:iz;i:oni per tutti. i! corsi di mat!emat;ica:?",
+        "q_id": 512
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual? è i!l codic!e po?sta.l!e dell'indir;izzo. ne;l P,ort Chels?e.a' della? cit;tà?",
+        "q_id": 513
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual è il codi!ce posta?l'e p;er Por?t, Ch;el;sea?",
+        "q_id": 514
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q'uale d:i!p.a,rt?iment,o, offr;e il ma'ggio,r numero di g:radi?E;lenc:o Nome del Dipart'ime,nto e I'D.",
+        "q_id": 515
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qua'l: è: il. nome, e l.'ID; de?l dipa?rtimento con i'l maggior n'umer;o di' grad!i?",
+        "q_id": 516
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quant.i. di?p,arti;me,nti, offrono qu'alche laurea:?",
+        "q_id": 517
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qua?nt!i d;ipartimenti di;v,e,rsi of'frono gra,di?",
+        "q_id": 518
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quanti no!mi di? l!a;ure'a di:ver?si sono' off?erti?",
+        "q_id": 519
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quan.ti gradi! diversi son'o o,ffer;t!i?",
+        "q_id": 520
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quant.i gradi; offre. il, d,ipar:ti:me,nto d:i, ingegneria,?",
+        "q_id": 521
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q'uan'ti gradi ha il. dip;artimen,t.o di. ingegn:er!ia?",
+        "q_id": 522
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quali son:o i no?mi e le des,c?riz!ioni' d!i tu?tte le: sezioni?",
+        "q_id": 523
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q!uali sono i nomi e le' de!s!cri,zi'oni p?er t.utte: le? sezioni?",
+        "q_id": 524
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q;u.al.i sono i no,mi e, l'ID d?ei corsi che han:n,o al ma.ssi'm.o 2 sezion?i?",
+        "q_id": 525
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quali son;o? i n?omi! e. gl!i' ID! di; og!ni cors,o, con meno di 2 sezioni?",
+        "q_id": 526
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "E?len.c?a il! s;ezione_na?me in ord!ine lessico:grafico in:ver,tito:.",
+        "q_id": 527
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu:ali son:o i nom.i delle; s!ez,ioni in ordine? al?fabetico inve;r'so?",
+        "q_id": 528
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu:al è il semestre: in c.ui, la maggio.r parte degli studenti si è re!g'is.tr.a't?a?Mos:tra sia? i;l n'ome ch;e l'ID:.",
+        "q_id": 529
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "P:er ogni semes!t,re', qual è il n.om;e e l'ID! di? q:uello con il m'ag?gior? nu.mero di st;u;denti reg,istrat;i?",
+        "q_id": 530
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu!al è l;a descri;zion,e del dipartimento? il' c?ui nome ha la sotto!st?r,in,g,a i:l c;ompu!ter?",
+        "q_id": 531
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q,u.a.l è la! descrizione d'el' di:partime.nto pe'r. chi i!l; c.ui? n?ome ha la parol.a compu.ter?",
+        "q_id": 532
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Chi, so?n:o iscritt;i? i;n! pr'o'gra!mmi d:i 2 g?radi in u.n se,mest;r,e?Elenc?a il nome, il sec,ondo n:ome e il' c!og.n;ome e l'ID.",
+        "q_id": 533
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu!ali s.ono. i primi, m!edi e cogn:omi, in?sieme, a.gli ID, di tutti? g:l'i student!i che; si sono is'critti a progra'mm?i? di 2 gra?d?i i.n un; se:mes:t:r'e?",
+        "q_id": 534
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Chi è is.crit!to! a u,n progra?mma d:i la!u.rea?El!e?nca il nom?e, il sec:ondo no:me, i'l: cognom,e.",
+        "q_id": 535
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quali; so!no i primi, medi e. co,gno.mi p;er t'utti is'critti a. un! p'rogramma d?i! l:a:ure'a?",
+        "q_id": 536
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Tro;va il tipo, di pro'gram:m!a in' cui! è! isc'rit?to la m;agg:ior par'te del numer?o d,i st;u'denti?",
+        "q_id": 537
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q'ua!l è il! nome di si!ntesi che h;a. i:l maggio;r nu!m,ero di stu.d!e'nt.i i,s;critti?",
+        "q_id": 538
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Trova' il! programma i'n. cui l,a: maggior. pa:rte degli stu:denti è, isc!rit?t'a. Ele;nca: sia l'ID c,h,e il riepil,og,o..",
+        "q_id": 539
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual? è l'I;D de?l p!r?ogramma e il rie,p,ilog:o del,la? l'a?ure'a c!h.e ha la ma.ggior parte de!gli stu!denti isc.rit;t,i?",
+        "q_id": 540
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q.uale, studente s,i è iscritto per' la? maggior pa?rte' de;lle vol,te! in qua,l?sias:i program:ma?E:len?ca l'I!D, il? n.ome, i.l; se!c.on,do n:om!e,, il co?gnome., il num,ero di i'scrizion'i e ID stude.n?te.",
+        "q_id": 541
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q?u;a,l è il primo., medio e cognom'e, i,nsieme' all''ID e! a'l numero! d:i iscrizi?o.ni, p:er lo! s.tud,ent;e che s;i è i!sc;r!i,tt:o? di più i:n q;ualsi'asi, p.rogr.am!ma?",
+        "q_id": 542
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual:i s!emes!t?ri non hanno' uno stud;e;nte isc'rit;to.?E,lenca il nom?e del semestr.e.",
+        "q_id": 543
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu'a:l è il! nome. del s!emestre sen:za; s,tud!enti iscr:i?tti?",
+        "q_id": 544
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quali so?n:o: tut!ti i nomi d.ei corsi dei corsi c'he' h'ann.o; m.a,i isc?rit;to; gli studenti?",
+        "q_id": 545
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q,uali! s:ono i n?omi di t:utti i cors!i ch,e h'anno al,cun;i! stu!de.nti iscr!i;tti?",
+        "q_id": 546
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual è il nome d?el co.rso; con' la: ma'ggior pa,rte de.lle i;s?crizio?ni?",
+        "q_id": 547
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu:al è il no,me del corso co,n la, mag;gi,or par'te degli s.tu:de;nt:i! isc!r:i.tti?",
+        "q_id": 548
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Tro,va il co.gnom:e deg,li st'udenti ch:e attua;lmente v.i;von.o nello sta!to d!ella C;ar'oli!n,a d:el Nor.d ma non si sono re,gist;r'ati in n!ess!un pr:ogram!m'a di l.au?r;e'a,.",
+        "q_id": 549
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu'ali' so:n:o il cognome degli st'u;d!ent!i ch.e viv.o!no ne,ll!a Car;olin;a del Nord m!a non si' s?on'o reg!istrat;i i:n pr!ogr.ammi, di! lau.rea?",
+        "q_id": 550
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Mos:t.ra l'a? d'ata e; l:'ID de;lla t:ra'scri,zione con alm'eno 2 risul!tati del: corso.",
+        "q_id": 551
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q,u!a;l è. la data e l'ID d'ella trascr;i.zion,e! con a,lm:e?n,o 2 c!o!rsi elen;cati?",
+        "q_id": 552
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual è il n'umero; di te;lefo'no de:ll'u,omo; c:o.n i?l nom!e Timmothy, e il; cog'nome Wa:rd?",
+        "q_id": 553
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu;a?l è il nume;ro di cell.ula?re dello s?tu?d!ent;e' di nome! Timmothy? Ward;?",
+        "q_id": 554
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Ch;i: è il primo stud!e:nte' a regi.stra.r;s:i?E?le;n,ca il no.me?, i.l secondo nome. e il c:ognome.",
+        "q_id": 555
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual è i!l? p.rimo, il cent:ro e' i!l' cogn!ome del? primo! st;udente a, regi.strar'si,?",
+        "q_id": 556
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Chi è il p,rimo d:i,plomato del,la! scuo,la?E.le.nc!a il nome', il seco;ndo nome e i?l cogno:me:.",
+        "q_id": 557
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu,al, è il pr:imo!, i,l. medi.o e il cogno?me: de.l' pri,mo diploma,to' della scuo:la?",
+        "q_id": 558
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Il qual.e indiriz,zo perm.anente? è diver:so d'al? suo in.diriz;zo att,ual,e?E,l.en.ca i;l s;uo nome..",
+        "q_id": 559
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual è; il pr,i!mo nome de!ll.o studente, il cu:i i;ndir'iz:zo; p'ermanent'e è diver:so da q;uel!l!o a.tt!ua!l?e?",
+        "q_id": 560
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qua,le in.diriz:zo c?ontien:e i.l maggi;or n'umero di s:t,u'denti at'tual;me'n!te?El!e.n.ca l'ID indiri'z'z;o e tutt:e le rig!he.",
+        "q_id": 561
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu;a!l è. l'I:D, la r;iga 1 e l.a riga 2 dell'i,n.dir'izz'o! c.on il. maggior num!ero di; student,i!?",
+        "q_id": 562
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "I:n me?dia, qu;ando s.o;no st?ate; stampate le? tra.scrizion'i?",
+        "q_id": 563
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q!ual è la data d:i trascrizio;ne me.di.a!?",
+        "q_id": 564
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q'ua;ndo v;ie,n,e rilasciata: la: pri.ma t'rascr?i?zion?e?E,l,enc'a la data e i de;ttagli.",
+        "q_id": 565
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual è la p:r;ima data di un,a ve;rs'ione tr!a?scritta e. q'u,ali: dett!a!g?li puoi! dir!mi.?",
+        "q_id": 566
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qua'nt:e tra?scrizion!i v,eng.ono r'i!lasciat?e?",
+        "q_id": 567
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Q?u?an.te; trascriz.ioni! sono elenc?ate?",
+        "q_id": 568
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual è. l'ult.ima data d!i ri'las!cio d?ella tr:ascr'i:zione?",
+        "q_id": 569
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quan'do è s?t?ata rilas:c!i?a,t!a l'ultima? tr.asc:rizione?",
+        "q_id": 570
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quant'e, vol.t:e' al; mass:imo p'u;ò essere' un r.isult,at;o d;i; isc.rizion!e, al c,o?rso in d?iverse tr?asc;riz:i;oni?Mostra: anche l'ID di iscrizi,one al co,rso.",
+        "q_id": 571
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qua?l è il nu!m;er!o ma?ss,i!mo! di volte i!n cui un corso vi;ene? v;isualizza!to; in? di'verse t,ra:s?crizio.n;i e qual è l'ID, di i,scrizione' di quel corso.?",
+        "q_id": 572
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "M!os.tr?a l;a da.ta della t;rascrizio;ne c?he mostra il minim.o n!umero di r.isul!t;a?t,i, elenc:a anc?he l'ID;.",
+        "q_id": 573
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu.al è? la d.a?ta e l'ID dell?a tra?scrizi!one c?on? i!l min:imo n:umer;o di risultati?",
+        "q_id": 574
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Trov,a. il semestre i;n cu;i si son,o. iscrit?t,i sia? gli; s'tudenti ma'estr;i che gl!i. stud.enti di la;urea..",
+        "q_id": 575
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual è' l'ID del semest!r'e? c,he ha regi'strato sia' maes?t,ri ch;e s?tu;denti d,i lau,rea?",
+        "q_id": 576
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quanti. ind:irizzi: div,ersi viv.on.o gli stu,de!nt'i. attua.lme?nte;?",
+        "q_id": 577
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu'al:i sono, i! di,v'ersi i!ndiriz'zi che h'ann'o st;udent?i ch!e v'ivono lì!?",
+        "q_id": 578
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Elenca tut;ti i dettagli! de'g,l;i? s'tud'e.nti; i'n ord'ine lessicografi;co inverti,to.",
+        "q_id": 579
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quali altr'i dett.agli puoi pa.rlarmi de;gli stud,enti in or?dine? a'l,f.ab;et;ico? inv:ers:o'?",
+        "q_id": 580
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "D,es:cr?ivi la sezione h.",
+        "q_id": 581
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qua?l è la de?sc!r;izio?ne, per la se!z.ion,e ch,i:amata H?",
+        "q_id": 582
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Trova, il nome d,e:gli s,tudenti che viv!ono! permane?n:temen:t.e nel p.aese Ha!iti o; hanno i,l, numer,o di c,ellu;la;re 09700166582.",
+        "q_id": 583
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qu;ali sono i primi? n.omi de,gli. s'tu?de?n:ti che: vivon'o ad Ha'iti p,er,ma'n:ent.emente o h,anno il numero di ce'llul!are 09700166582?",
+        "q_id": 584
+    },
+    {
+        "db_id": "tvshow",
+        "question": "El,e?nc?a' il ti!t?ol'o di tut:ti i cart?oni; anima'ti i.n ordi!ne. alfabetico.",
+        "q_id": 585
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu:ali sono i, ti'to;li dei c:ar,t!oni ordinati: in ordin:e; alfabeti!co:?",
+        "q_id": 586
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Elen:ca tu?t;ti i cartoni animat,i di;r,etti' da \"Ben Jo.nes\".",
+        "q_id": 587
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Quali s!ono! i; n!omi di t.utti i ca;r!to,ni diret!t:i da B'e;n Jo,nes?",
+        "q_id": 588
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q!uanti c!ar.t'on;i sono sta!ti sc?ritti d:a \"Joseph? Kuh.r\"?",
+        "q_id": 589
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua:l! è! il numero di cart!one sc?ri:tte; d.a? Josep.h Kuhr?",
+        "q_id": 590
+    },
+    {
+        "db_id": "tvshow",
+        "question": "E'lenca? tu!tti i tito'l!i d,e.i carto,ni a:nim!at:i e i loro r!egisti; ord'inat!i co.n l,a l?o:ro data aerea",
+        "q_id": 591
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è i!l n!om'e e' i registi d.i: tutt:i: i cart;oni c?he so'no! ordina:ti per. data aere?a?",
+        "q_id": 592
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Ele;nca il titolo di: tu.tt;i i ca.rton;i a;nima;t'i dire!tti da? \"Ben Jones.\" o? \"Bra!n'don V?ietti;\".",
+        "q_id": 593
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu'al:i. so;no i t:it?o!li. di t:ut.ti i c.a;rtoni dirett?i da Ben Jones o Bran'don Viett;i!?",
+        "q_id": 594
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Quale p,a,e:se ha la mag.g:ior par;te de;i canali TV!?Elenca: il p:ae.se: e il num:ero d?i can'ali TV che ha,.",
+        "q_id": 595
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è? i:l p;a?ese co?n il m;ag.gio.r: nume;ro di cana:li, TV e, quanti: hann!o?",
+        "q_id": 596
+    },
+    {
+        "db_id": "tvshow",
+        "question": "El!enca i,l numero! di nomi! e c!onten.uti di, serie diversi ne;ll:a: tabella dei cana?l?i T?V.",
+        "q_id": 597
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua:nte s'erie e c'ontenuti d;i:v.er,s.i: son!o! elencat.i nella tabel;la dei can,ali TV.?",
+        "q_id": 598
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua;l è il co:ntenuto de;l can,ale' TV con il nom;e seria.l?e \"Sky R:adio?\"?",
+        "q_id": 599
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q,ual è i.l c'ont,enuto d:e,lla Serie S;ky! Radio,?",
+        "q_id": 600
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua'l; è l'opzione pa?cc;hetto: d.el c'an?ale TV con nome ser'i'al.e \"S:ky; Radio'\"?",
+        "q_id": 601
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q,uali so,no le opzioni d!i pacchetto d,ei c;anali TV i cui n'om!i de:ll:e s.erie so,no Sky Radi?o!?",
+        "q_id": 602
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu;an,ti c:an'al;i TV ch!e usano. l'i,n'gl,ese lin,guistico?",
+        "q_id": 603
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Quanti cana?li TV u:s:ano! l,a l:in.gua: ing'lese?",
+        "q_id": 604
+    },
+    {
+        "db_id": "tvshow",
+        "question": "El'e!nca il lin,guagg:io uti'liz,zato me,no numero? di cana'l!e; TV.L;i:ngua' di, e:lenco e nu;me;r!o! di ca,nale TV.",
+        "q_id": 605
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua.l!i s?ono le lingue util;iz.z'ate dal' mi,nimo' numero d:i ca'nal.i TV! e q,uan?ti c:anal?i: lo! us'ano?",
+        "q_id": 606
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Elenca' og'n.i li'ng:ua e: il numero di canali: TV? us?an'do:l!a.",
+        "q_id": 607
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Pe.r ogni lingua', e'l:en:ca i;l nume;ro di can'al:i TV che lo u'ti:lizz'a,no;.",
+        "q_id": 608
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu.al è i;l canal!e TV! c,he m;o!s?tra il: cartone a!nimat'o? \"Th!e! Rise of the Bl,u:e Beetle!\"?Elen'ca i:l' nome del;la s'erie: del; canale TV..",
+        "q_id": 609
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua,l è il nome. della' serie d!el: c!anale TV, c!h,e mo;s?t;ra il carto:ne' an:imato \"Th?e Ri.se of t!he Bl'ue Beet,le\"?",
+        "q_id": 610
+    },
+    {
+        "db_id": "tvshow",
+        "question": "E.len,ca; il tito;lo d?i tut!t,i i! c.artoni animati' mo?strat!i sul canale T.V! con? il; n'ome' dell?a ser;ie \"Sky' Radi'o\".",
+        "q_id": 611
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu:al? è? il? titol:o di tutti! i? cartools ch;e s'i, trovano: sul cana!le TV, con i.l n?om:e del,la; ser:ie \"Sky? Radio.\"?",
+        "q_id": 612
+    },
+    {
+        "db_id": "tvshow",
+        "question": "E,lenc:a l'e,piso'd:io d'i t!utte le! s?erie TV o;rdi;nate p,e,r valutazione.",
+        "q_id": 613
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q?u:ali son,o tutti' gli epi'so!d.i ordinat;i dal'le v?aluta.zio!ni,?",
+        "q_id": 614
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Elenca, le prime; 3 serie TV? d.i val:u:tazio!ne pi!ù. alta.El'e.n;ca l'epi;s.odio de;lla s!erie T,V e, l;a v;al?ut!a,zione.",
+        "q_id": 615
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q:u?ali sono i 3 e:pisod:i più' a,pprezz.a!t.i nell:a ta.bell.a delle serie TV e; quali e:ra.no' q'uell:e v:a;lut?a'zio;ni?",
+        "q_id": 616
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è: la qu?o.ta; m.i.nima e massi,m!a delle s,erie TV;?",
+        "q_id": 617
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu:al è la; quo?ta m.assima e minima per. l'a serie TV?",
+        "q_id": 618
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è. la da,ta a.er:ea della ser;ie TV con l?'e'pisodio \"A L:o!ve? o;f? A Lif?etim.e\"?",
+        "q_id": 619
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua.ndo! è; stato tr,as'me'sso l''e:pisodio \"A Love of, A L'i.fet,ime\"?",
+        "q_id": 620
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu.a?l è il g?ra;d!o settima;nale di serie TV con l'e:p.isodio \"A L;ove? of A Li?f!eti;me\"?",
+        "q_id": 621
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è il ran;g:o setti:man?ale' p!er l'e?pis;od:io \"A Lov!e of A Lifetime\"?",
+        "q_id": 622
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è il canale T!V della s;er,ie T'V con l'episo'di,o; \"A Love of! A L:if?e,t;ime\"?Elenca il nome? dell!a s:erie d:el canale TV.",
+        "q_id": 623
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è il nome; della? s;er,i'e. che ha l'epi!s:odio \"A! Lov'e o,f A! Li.fetime\"?",
+        "q_id": 624
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Elenca l?'ep.i?s!odio di: All? T'V Series: mostrato su TV Channel; con il nome del?l'a? s.erie \"Sky Ra,di:o;\".",
+        "q_id": 625
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è l;'epis'odio p?er l;a! se;ri,e, T:V chiam'ata \"Sky R.adio\"?",
+        "q_id": 626
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Tr,ova i.l numero di c?a;rton;i diretti da! c,i.ascu!no: dei d.ir;ettor'i elen:cati.",
+        "q_id": 627
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q:uanti carto?n:i hanno cr'eato ogn?i r'eg?ista?",
+        "q_id": 628
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Tr;ova il co:dice di' p'roduzi,one e i?l; canale del car.to;n,e a'n;imato in; o?nda più re;cente!.",
+        "q_id": 629
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è i.l cod.ic'e di produzione e! il ca;nale del? cartone. ani?mat?o; pi!ù' recente'?",
+        "q_id": 630
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Tro:va la sc'elta del; pac?ch!etto e il? n;o!m?e. della? serie del canale? T?V con TV' ad alt,a d:efiniz!ion!e.",
+        "q_id": 631
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qua!li sono le, op?z.io?n,i del pacchetto e il' no?me della seri;e p,er il canale TV: che s?upport.a T'V? ad a.lt;a def?inizione?",
+        "q_id": 632
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu;ali can,a,l,i, T.V de;i paesi s,tanno gioca,nd,o un cart'on.e animato. scr.i!t:to da T:odd Casey?",
+        "q_id": 633
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu;a.li so:n.o. i pae'si ch,e han;no! carto:ni an;imati in: T.V che son!o st,ati scri't:t.i da Todd Casey?",
+        "q_id": 634
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual;i can;ali TV dei; paesi no:n; gi.ocano al;c;u,n c;a'rtone animato: scri!tto d?a T!odd Casey?",
+        "q_id": 635
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Quali s,ono i p.ae,s'i ch!e no.n su.onano i cart,on:i anima.ti sc.ritt!i da Tod;d Casey?",
+        "q_id": 636
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Tr;ov,a il nome dell;a, se?rie e. il p,a,e?se del c.an;al.e te?l.evisi'vo ch:e suo;na alc!uni ca;r.toni d!iretti da Be!n Jones e Mic:ha:el. Cha.ng?",
+        "q_id": 637
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual è: i'l no.me de.ll!a serie e il p:a'es:e di! t'utti i ca:na,li TV che suonan;o i: cartoni; animati dirett,i, d!a B'e;n? Jones e. ca!r?to.ni a;n;imati dirett,i da Mich'ae.l Chang,?",
+        "q_id": 638
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Trov.a il rappo?rto. pixel e l!a nazi!on'e' d'e.i cana?li TV che. n!o?n us.a;no l'inglese.",
+        "q_id": 639
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Q:ua'l è il ra.pporto p.ixel. e il pae.se d!i origine per tutt?i i can?a?li TV che. no'n usan;o l'ing;lese;?",
+        "q_id": 640
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Trova! I!D dei' can'al:i TV c'h'e da;i. paesi in cui. hanno pi!ù di d;ue cana;li T.V.",
+        "q_id": 641
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual!i s;o'no. gli I?D d:i? tutti i ca:nal.i TV che hanno più di 2 ca.n;ali T,V?",
+        "q_id": 642
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Tro:v;a, l'ID dei canali TV? che! non suonan;o; al.cun ca?r;ton!e a;ni'mato; dirett,o! da Be,n Jone;s.",
+        "q_id": 643
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Quali s;o.n,o gli ID d'ei c?a?n.ali T?V c,he no,n hann.o c.artoni anima,ti' diretti d,a Be;n Jo'nes;?",
+        "q_id": 644
+    },
+    {
+        "db_id": "tvshow",
+        "question": "T!rova! l'opzion'e p:acchett'o del: ca,n'a:le: TV che? non? ha alcun carto,n!e' a'nima;to dir.e?tto; da: B?en Jones.",
+        "q_id": 645
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qu'ali' sono? le, op!zio?ni di p?a,cc;he;tto di! tu.tti i can:al;i T.V che no'n suonano! ca!rto?ni an;ima.ti dire.tti da; Ben Jones??",
+        "q_id": 646
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu!anti giocat:ori di; po?k;er ci! son!o?",
+        "q_id": 647
+    },
+    {
+        "db_id": "poker_player",
+        "question": "C.onta il n!umero d.i gioca!t?or;i. di, poker.",
+        "q_id": 648
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Elenca i gua,d:agni dei gioc:at:ori di poker in? ordin!e decr?esc,ent?e.",
+        "q_id": 649
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu.a!li sono i guadagni! d;ei g,i;oca:t.ori? di pok.er, ordinato d,i s:ce!ndere per va.l.o?r.e?",
+        "q_id": 650
+    },
+    {
+        "db_id": "poker_player",
+        "question": "E?l:enca le; t'a?bell;e' fina;l.i r,ealizz;a.te e le mi:gl!i:ori finitu:re dei gioc;atori di pok.er.",
+        "q_id": 651
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Quali sono i t!avoli fi?n,a,l'i rea'liz'zat,i e le: mig?l.i,ori fi,n.itur,e per tutt,i i giocato;ri di po?ke'r'?",
+        "q_id": 652
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Q,u'al è il gua.dag;n.o medio? dei g.io'ca'to:ri d.i poker?",
+        "q_id": 653
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Res.t.ituisce i guad,a?gn!i medi in, tutti i giocato'ri di po'ke;r.",
+        "q_id": 654
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu;al; è il rango, d!i de:naro del gio!cato!re. di poker con! i guada;gni; più, alt!i?",
+        "q_id": 655
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R,es?ti:tuisce il g;rado' d,i dena!ro d'el giocatore! c'on i m:aggiori gu!adagn:i.",
+        "q_id": 656
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Q;ual è il num'ero; mas:simo di: ta?be'lle. finali realizza:te: tra i' gi?oca!tori, di poke.r co!n gua,dagni i;nf:erio'ri a 200000?",
+        "q_id": 657
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Rest?ituisce i ta.vol.i: fi.nal?i massimi. r:ealizzat,i su t:utti i gio?cato,ri di po.ker, che h,ann,o guadag,ni infe!ri'o,ri a 200000.",
+        "q_id": 658
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Q?ua.li sono i, nom'i: dei giocat'ori! d.i. poker?",
+        "q_id": 659
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R'esti.t,uis!c:e i no'mi di, tutti i gio,cato'ri di p:oke!r,.",
+        "q_id": 660
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Quali s:o:no i nomi d?ei gi?oc:atori d.i; po:k'er' i c;ui guad:agni sono superio:r'i a 300000?",
+        "q_id": 661
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Dai i no?mi? d:ei gioc;ato.ri di poker che ha?nn?o guadagn!i supe;r?io;ri a; 300000.",
+        "q_id": 662
+    },
+    {
+        "db_id": "poker_player",
+        "question": "E?len?ca i! n;om?i! dei gi!ocator'i di poker o.rdinati da!ll'e tabe!lle; fin!ali' r:ealizz,ate: in ordin,e' crescent:e.",
+        "q_id": 663
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Q:ual:i sono i n;om;i dei! g,ioca.t,ori di p:oker, ordin,ati ascendenti dal nume;ro di tabelle! fin'ali ch?e. ha,nn,o f!atto?",
+        "q_id": 664
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu'al, è. la dat:a di nasci,ta: de:l gi!ocato.re di po;ker c!on! i gua'da;gni p:iù ba,ssi??",
+        "q_id": 665
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R?estituisce' la da.ta d!i nascita de!l gioca;to're di, poke.r; con i. guadag,n?i p,iù bass;i.",
+        "q_id": 666
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Q!ua,l è? i.l rango di den?a;ro del, giocato?r:e, di poker, più alto?",
+        "q_id": 667
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R!estitui:sce il gr!ado: d:i d!en!a.ro del gioc.a,to're di poker. c'on la! massima a'lt'ezza.",
+        "q_id": 668
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qual; è. il guadagn,o medio dei gioca't:ori d,i pok.er! con alte!z,za su:per?io!r!e a! 200?",
+        "q_id": 669
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Dai gua,dagni; medi, di g'ioc.at:or?i, di po;ker che: son:o più alt!i di 200.",
+        "q_id": 670
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu;ali! son;o. i nom.i dei gioca'tori? di po!ker in or;dine decres.cente' d?i. gu'ad:agn!i?",
+        "q_id": 671
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R;e?s;tit,uisce i nom'i dei gioca?to?r?i? d:i pok;er o.rdina,ti con i loro! g;uadagni discend?e!nt'i.",
+        "q_id": 672
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Q.u:ali sono le diver'se nazionali;tà delle! per?son:e. e il nu:mer:o, co;rrisp.ondente. di pers.on;e, d'i o;gni na!z!io;ne?",
+        "q_id": 673
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Quan:t;e per?sone ci s.ono d.i: ogni naz;ion?alit;à?",
+        "q_id": 674
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Qu,al: è la? n!azionalità, più comune del;l!e pe.r?sone?",
+        "q_id": 675
+    },
+    {
+        "db_id": "poker_player",
+        "question": "D?ai la. na'ziona!li?t:à p,iù: comun?e in t'utte! le persone!.",
+        "q_id": 676
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Quali, sono l?e nazionalità c;o.n;divi!se da a.lme.no d;ue per:s?o'ne?",
+        "q_id": 677
+    },
+    {
+        "db_id": "poker_player",
+        "question": "R;est:itu;isce le na,z:ional!it:à p.er le, qua;li ci, sono due o: più pers?one.",
+        "q_id": 678
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Ele;n.c.a i nomi. e: le d!ate di nascita: dell;e pe!rsone? in ordine a'lf:ab;e'tico; ascen:den?te d:i nome:.",
+        "q_id": 679
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Quali sono i nomi! e le' dat.e di n'a.scita del.le p'ersone, ord.ina?t,e con. i! loro no!m;i in ordi:n?e alfab?eti:co?",
+        "q_id": 680
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Mostra n?o!m'i: d,i person;e! la, c,u'i naz!ionalità n!on è \"Russ:ia\".",
+        "q_id": 681
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Q,ual:i s?ono i n.omi d'el:le pe.rsone ch,e non v'en:gon;o! dalla Russ,ia?",
+        "q_id": 682
+    },
+    {
+        "db_id": "poker_player",
+        "question": "E'l;e?nca i nom;i del!l.e person.e! che. non son.o! giocatori d.i p!o'ker.",
+        "q_id": 683
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Quali sono: i n,omi d.ell;e pers;o'ne; che non! gi!oc;ano a poker?",
+        "q_id": 684
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Quante n:az'iona,lità d.i?stinte ci! s:ono?",
+        "q_id": 685
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Con!ta il numer!o di, diver!se n'a;zion'alit?à.",
+        "q_id": 686
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qua?n?ti stati ci son:o?",
+        "q_id": 687
+    },
+    {
+        "db_id": "voter_1",
+        "question": "E'lenca i numeri e: i nomi? dei conc:orrenti, ord!in'ati, dal nome d:e,l con'c!o!rrent?e d;isc?e;nd:e,nte!.",
+        "q_id": 688
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Elenc.a? g!li. I?D v!oti, i numeri. di telef;ono, e gli? stati di; t'utti i vot?i.",
+        "q_id": 689
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu?a?li so!no i val'o:ri: m,as.sim.i e! minimi dei codic:i di ar:e'a?",
+        "q_id": 690
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Q,ual? è l'ultima dat.a cr,eat;a d;ai vo?ti dall;o stat;o' \"CA'\"?",
+        "q_id": 691
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Quali son'o i! nomi d,e?i! concorrenti i c'ui n'omi, non sono \"Je!ss;ie a par't:i?re\"",
+        "q_id": 692
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Quali son!o; gli st!ati dis!tin?ti e' crear;e t,em;po di. t!utti i vo!t:i?",
+        "q_id": 693
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qua'li sono i nume?ri d?ei' con'cor'r:ent?i e? i nom;i. d:ei con,c,o?r:renti; che hanno avuto alm,eno due vot?i?",
+        "q_id": 694
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Di! t?utti i conc?o,r:rent:i ch;e? s!ono st:at!i vo;tati, qu?a;l è il n'umero de.l co,nco.rr;ente e il no'me de?l: co!ncorrent.e che ha o?t:te;nu!to il m.inimo vo,to?",
+        "q_id": 695
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Quali s'o.no il num,ero di vot,i. dello s.tato \"NY?\" o! \"CA\"?",
+        "q_id": 696
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu;anti conc,orren;ti non son:o st:ati vo,t;a,ti,?",
+        "q_id": 697
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qual è, il? codice d;i a're?a in c;ui ha vo;t:ato il: maggi;or n:umero di el.et:t!ori?",
+        "q_id": 698
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Qu!ali s,o'n!o. le date! di c're!azione!, gl?i sta't!i: e i numeri! di t!e?lef.on,o dei voti che? er;an;o per il concorrente c:hi'am.at!o: \"Taba?tha Gehlin'g\"?",
+        "q_id": 699
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Elen!c.a i cod;ici di' area i'n: c.u'i gl,i' el'e:tt,or:i h:a;nno votato sia per; il c'oncor?ren.t!e \"Taba'tha Gehling\" si:a p,er il co.ncorrente \"Kelly Claus:s\".",
+        "q_id": 700
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Rest?it;uis!c!e i nomi dei c'on!c?orr!e'nti i cui n;om!i con;tengon'o l:a. so.t.to.stringa \"Al\".",
+        "q_id": 701
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua,li? so;no i nomi d'i tutti i; paes'i: che! son.o diventati ind.ipe:nde.n,ti' dop.o il 1950?",
+        "q_id": 702
+    },
+    {
+        "db_id": "world_1",
+        "question": "Dai i n?omi d,e!ll:e naz'io?ni; che: furo'no fondat'e, dopo il 1950.",
+        "q_id": 703
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q,uanti, p,aesi hanno una repu!b;b;lica c:o;m!e f!orm:a di govern!o?",
+        "q_id": 704
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quanti: p,aesi hanno go!ve:rni che sono' re;p'ubblic;h?e,?",
+        "q_id": 705
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è l.a sup.er!ficie t'o,tale d?ei p:aesi: n.ella' regione d.ei? C?araib!i?",
+        "q_id": 706
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu!ant;a su'pe.rf;i;cie si coprono? i p!aes:i nei Ca:raibi'?",
+        "q_id": 707
+    },
+    {
+        "db_id": "world_1",
+        "question": "I'n q,uale co.ntin?ente si trov?a. A;nguil?la!?",
+        "q_id": 708
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è i;l nome d:el continen,t;e a c;ui ap;pa'rti.e:ne? Anguilla?",
+        "q_id": 709
+    },
+    {
+        "db_id": "world_1",
+        "question": "In quale r!egion?e si t'r?ova; l!a città d,i. K?abu,l?",
+        "q_id": 710
+    },
+    {
+        "db_id": "world_1",
+        "question": "In: che regione! s;i trova K,abul??",
+        "q_id": 711
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua:l:e l;i'ngua è la più pop!ol,are in Aruba?",
+        "q_id": 712
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quale l?ingu;a; s!i, parl'a preval.entemente i;n Aru;b:a?",
+        "q_id": 713
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali sono le aspet;t;a,ti.ve di popola.zi!o:n;e, e v.i!ta in Brasile??",
+        "q_id": 714
+    },
+    {
+        "db_id": "world_1",
+        "question": "Dammi la popolazi,o,n,e del Br,asile e l!e asp:etta.t?i?v:e di? vi,t;a.",
+        "q_id": 715
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua?li sono la regio:ne e; l;a pop?o!lazione; d,el!l'Angola?",
+        "q_id": 716
+    },
+    {
+        "db_id": "world_1",
+        "question": "A qua;le regi:one. appartiene l,'A.ngola e, q;u:al è la s:u.a; popolazio,ne?",
+        "q_id": 717
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q'ual è l'a;spe?ttativ;a di vi:ta: media prev'i!sta: p:er i p,aesi ne'lla reg.ione? del;l'A.fric?a c;entrale?",
+        "q_id": 718
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua:nto dura l,'a?sp!etta!ti'va: di! vita m,ed!ia' d;elle pe?r!sone i?n Afri:ca central?e?",
+        "q_id": 719
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è il no!me del pa:ese che h;a' la pi.ù br!ev!e! aspetta.t,i'v,a; di' vita in: Asia?",
+        "q_id": 720
+    },
+    {
+        "db_id": "world_1",
+        "question": "D!ai il; nome d,el paese in Asi.a c'on la pi:ù; bas.s:a aspettativa' d,i v!i.ta.",
+        "q_id": 721
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua,l è l?a popolazi,o'n?e totale e il massim.o PIL in? A'sia.?",
+        "q_id": 722
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quan,te pe?r.sone' v:ivono i!n Asia e qual: è il PIL' più, grande tra lo'ro?",
+        "q_id": 723
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua.l è l'a:spetta.tiva d!i' vi;t,a me,d:ia ne'i paesi african.i? ch?e sono r!e!pub:bli:che?",
+        "q_id": 724
+    },
+    {
+        "db_id": "world_1",
+        "question": "Dare l'asp:ettativa d:i v:it'a: media. p'er? i paes'i, i,n Afr.ica qua;li sono le re:p;ubblic.he?",
+        "q_id": 725
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q;u:al è la superficie' tot,ale: dei con!ti!n,enti A.si;a e E'uro,p,a'?",
+        "q_id": 726
+    },
+    {
+        "db_id": "world_1",
+        "question": "Da!re la su;perfi:cie totale. c;operta d!a. p,ae'si i,n A?sia o in: Europa.",
+        "q_id": 727
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quante. persone v!iv?ono nel dis;tre,tto di: Ge'l.derla?nd??",
+        "q_id": 728
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua?l; è la popo;lazione' t;o,t:a:le del, di;s!tretto, di Gel'derla?nd?",
+        "q_id": 729
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è il, P:I,L medio e, la: po:polaz?ione. to:tale in tutt:e l,e naz:i?on?i il cui gove!r!n?o è il t!erritorio? degli S;tati Un:iti,?",
+        "q_id": 730
+    },
+    {
+        "db_id": "world_1",
+        "question": "Dar:e i,l PI'L! medio e la po'polazi'one tota'le di na'zioni c!he s:ono? consi.derati te,rritori stat:u.nit?ens?i.",
+        "q_id": 731
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua:nte? lingue un,ich;e sono pa,r.l,at'e nel mon'd.o?",
+        "q_id": 732
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua;l, è il; n,umer!o di lingue dis;tin?te us?ate in: t,utto il. mondo!?",
+        "q_id": 733
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quant'i tipi di! go;verni s?ono i.n Afr,ica?",
+        "q_id": 734
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu,an,t,e dive.rse form!e d'i! governi ci s?o;no in A!fri,ca?",
+        "q_id": 735
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua;l, è i:l nu;m'ero. totale di lingu;e utilizzat,e i,n, Ar?uba?",
+        "q_id": 736
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q?uant,e lingue si; p!ar.la in. Aru;b.a?",
+        "q_id": 737
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quante lingu,e ufficial!i h,a l''Af:ghani.s!tan?",
+        "q_id": 738
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q.u,ante lin!gu:e uf'f!ic:ial,i si pa:rla in Afgha,nis;tan?",
+        "q_id": 739
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual? è il nome d:el pae!se che p!arla' il maggior n:umer;o di li;ngue:?",
+        "q_id": 740
+    },
+    {
+        "db_id": "world_1",
+        "question": "D;ai il no'me de!ll?a nazione che; us.a; la più gran;d:e quan!tità d?i lin.gue.",
+        "q_id": 741
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q'u'ale c.o:nt;inen,te ha le lingue; più d!iverse.?",
+        "q_id": 742
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu?a.le co:ntin,ente parla' più l.ingue'?",
+        "q_id": 743
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu'anti paes;i pa!rl;an;o sia ingles;e che o!lan:d;ese?",
+        "q_id": 744
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q?ua,l è il nu.mero di' n,azioni ch!e us?an!o l:'ingle:se' e l'olande!se'?",
+        "q_id": 745
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual,i sono i n.omi d'elle nazio?n?i par,lano sia ingles.e, che fra?n;cese'?",
+        "q_id": 746
+    },
+    {
+        "db_id": "world_1",
+        "question": "Da,i' i nomi d?el;le na!zioni c!he. parl;ano si!a i!ngl.ese c;he f;ranc,ese!.",
+        "q_id": 747
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q,uali so:no' i; nomi de.lle naz:i.o.ni, in cui ingl:e;s?i e f.ranc,e,si sono ling?u:e u?ffici?al!i?",
+        "q_id": 748
+    },
+    {
+        "db_id": "world_1",
+        "question": "Dai i no?mi, dei paesi; co:n ingles!e, e france;se come lingu,e u:f?fi:ciali.",
+        "q_id": 749
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua,l. è il nu;mero di co.nti:ne;nti di?st;i!n?ti in; cui si parla c?inese?",
+        "q_id": 750
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu.a,n,ti con?tinenti p'arlan;o cinese?",
+        "q_id": 751
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q'ual.i sono le r?egioni che us'ano l'in,g:les.e o l'oland?ese?",
+        "q_id": 752
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual?i re:gio:ni parla.no oland:ese? o! ingle,se,?",
+        "q_id": 753
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q!uali so'no. i p!aes.i i,n cui l,'ingles,e o l'o;lande!se: è la lingua uffic?ia:le?",
+        "q_id": 754
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali' pa,esi. han;n,o: inglese o olande:se come. l.ingua uffic?ia.le?",
+        "q_id": 755
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua?le. ling?ua è la p:iù? po.pola?re: nel, con'tine?n:te as?iatico?",
+        "q_id": 756
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è! la lin.gua che viene, u:tilizza;t!a, dal m'agg,io?r nu:mer'o di nazio?ni! a?s'iat?i.che?",
+        "q_id": 757
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q'uali? ling'ue s,ono pa.rlat?e? da un solo pae!se nei? g:ove.rn:i dell;a Rep!ubbli.ca?",
+        "q_id": 758
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q.ua:l;i lingu?e: ve'ngono utili'zzate s'olo da un s;ingol!o pa;ese co.n un: g!ov.er;no del?l!a Re:pubbl:ica?",
+        "q_id": 759
+    },
+    {
+        "db_id": "world_1",
+        "question": "Trova. la ci,t,tà con la p.opolaz.ione; più g:ran.d?e che usa l'i?n.g.lese.",
+        "q_id": 760
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua.l è la città più po'po.l'are che pa'rl.a ing!l,e;se!?",
+        "q_id": 761
+    },
+    {
+        "db_id": "world_1",
+        "question": "Tro!va il nome, la p'opol?azi,on.e e la lung'hez.za de?lla vita a?ttesa; de;l paese' asia'ti,co con la p;i.ù: gran!de; ar.e;a?",
+        "q_id": 762
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu.ali, sono il! no!me, la pop:ol!azi,on'e: e l'a.sp.et'tat'iva di vita del più gr.ande paese as;iati!co? pe:r; terra?",
+        "q_id": 763
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q.ua.l è l;'a,spettati;va! d:i, vi!ta? media nei' pa:e!si in cu.i! l'ingl!ese; no;n è, la li!ngua uff:iciale?",
+        "q_id": 764
+    },
+    {
+        "db_id": "world_1",
+        "question": "Da?i. l;a catti?va aspett?a,tiv!a' d'i vita de?i. p'aesi in c?ui l'i:n:glese n'o;n è la lingua uff.iciale.",
+        "q_id": 765
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è i,l? n,ume!ro! totale di p:erso.n;e che v;i'von,o n,ell?e n?az!ion,i che non usano. l,'inglese?",
+        "q_id": 766
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quante persone viv!o,no' i,n; p.a:esi che. non pa.rla.no in,glese?",
+        "q_id": 767
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è la lingua u.ff.ici'ale parlata nel p?aese il c'u.i c:apo di? stat.o! è Be,atr'i?x?",
+        "q_id": 768
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu.al è la lingua uff?ic;i:ale u!sat.a n,el paese! il no?me del' cu.i, capo d!i sta?to è Bea't:r.ix.",
+        "q_id": 769
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è il numer!o to.tale? di' lingue; uff!ic;ial;i un!i;ch?e? p;arlate; nei pae;si ch,e si fondono p,rima del, 1930?",
+        "q_id": 770
+    },
+    {
+        "db_id": "world_1",
+        "question": "Per i paes,i fo'n,dati pri;ma del 1930, qual è i;l n:u.mero; t'otale di lin!g,ue! uffi!cial,i d?is'tinte?",
+        "q_id": 771
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali sono i paesi, che hann'o una. superfi!cie, mag!gio?re di; qu:a.lsi!asi p.aes!e i!n Europa?",
+        "q_id": 772
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali paesi; hann?o un.'are'a m'ag'g!iore di! q:uella d.i; qual.si,asi! paes'e in E:ur!opa?",
+        "q_id": 773
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q'u.ali' sono i paes.i a.fricani che h?ann.o un;a; popolazio:ne: m.eno di qua!ls!ias:i pae'se in Asia!?",
+        "q_id": 774
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali p:ae?si' africani ha'nn'o? una pop.ola'zione p.iù? piccola: di qu;e:lla' d'i qu;alsi'a,si pa.ese i;n Asia?",
+        "q_id": 775
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu;ali paesi asiatici. ha?n?n!o una? p.opolazione p'iù g;ra?n,de' di qua!ls:iasi paes.e in Af:r?i?ca?",
+        "q_id": 776
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu;ali s,ono i? p.a.esi, a!si.at.i:c'i che hanno u:n!a p:opolazione! più? grande' di quel!la di qualsiasi! paese in Afr.ica?",
+        "q_id": 777
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu?ali sono' i; co:dici n,azion!a,li per i paesi c,he n:on parl;an:o in!g:les.e?",
+        "q_id": 778
+    },
+    {
+        "db_id": "world_1",
+        "question": "R:es'tituis;ce. i c.odi,ci di ca!mpa!g:na per i pa,esi! ch.e' non parla!no in'glese;.",
+        "q_id": 779
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali sono. i. co:d'ici? n,azio'nali: dei' p,aesi in cu;i l,e' p.e!rsone usano l?ingue div!e:rse da!l.l'ingle'se?",
+        "q_id": 780
+    },
+    {
+        "db_id": "world_1",
+        "question": "D,ai i codici, del pa:ese pe'r i pa,es.i? in c,ui l.e pe.rs:on!e p,arl?ano lin:gue c!h:e n?on sono ingle:si.",
+        "q_id": 781
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali so;no i: cod,ici dei paes:i. che non parlano ingl?e,s'e e; le: cui forme govern:ati?ve non. s!ono re!p:ubb:l:ic:h!e?",
+        "q_id": 782
+    },
+    {
+        "db_id": "world_1",
+        "question": "Res?ti;t:u'is.ci i codici dei p:aesi che non! parla.no ingl:ese e no:n hanno rep'u!b:bli?che pe;r i: gove,rni?.",
+        "q_id": 783
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q'u,a!li città sono? nei paesi? eu.rop:e:i in, cui l,'i,ngl!ese non è: la lingua u.ffic!ia'le?",
+        "q_id": 784
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q'u!ali s'o;no i no!mi delle città i!n? Europa? p?er le q,ua.li; l?'i!ng.le?se no:n è la lingua ufficia:le?",
+        "q_id": 785
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu:al!i città u?n;ich.e: sono nei paesi asiatici in cu,i! è la li.ng?u'a u:fficia.le?",
+        "q_id": 786
+    },
+    {
+        "db_id": "world_1",
+        "question": "Restituisci i di've;rsi no;mi delle ci?t;tà ch:e; s!o.no' i:n A:sia; e pe?r le qu.ali il cin;es!e è! la lingua ufficial.e.",
+        "q_id": 787
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è! i,l: nome, l'a;nn.o; di! ind.ipende;nza e, la. superf,i.ci?e! d;el; paese co:n la popolazion.e p:iù: picc;ola?",
+        "q_id": 788
+    },
+    {
+        "db_id": "world_1",
+        "question": "Da,i: il no'me', l'anno di, indipend!enza e? la su.perficie del' pae.s:e c.he ha? la pop;olazi'o!ne pi!ù bassa.",
+        "q_id": 789
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual.i! sono la p;opol'az!ione, il. nom;e; e i,l le:ader del paese co?n l!'a.rea più gra:nde:?",
+        "q_id": 790
+    },
+    {
+        "db_id": "world_1",
+        "question": "Dai il: n.ome, l!a po.polazio:ne e il c'ap?o di st?ato per il' paes?e che. ha la più gr?an?de area'.",
+        "q_id": 791
+    },
+    {
+        "db_id": "world_1",
+        "question": "Restituis?ce il nome d.el? paese e' il num'ero di lingue. parl'a?t.e per ogni? pa;es;e; ch'e parla al,m;en;o; 3 lingue.",
+        "q_id": 792
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali son.o i no.m:i? dei paesi che par'l!a.no? più d;i; 2 lingue e quan:t!e lingue parl!an?o.?",
+        "q_id": 793
+    },
+    {
+        "db_id": "world_1",
+        "question": "T!rova il; numero: di ci?tt?à in' ogn.i d.is;trett?o la' cui popol!a,zione è magg?iore dell,a p!o'pol:azion:e m!edia delle ci't?tà!?",
+        "q_id": 794
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quante città in o.g;ni dist:re?tt?o hann:o u'na? popo'lazione al di sop!ra. d:ella popol?az,ione me,dia i,n: tutte le c:ittà?",
+        "q_id": 795
+    },
+    {
+        "db_id": "world_1",
+        "question": "Tr?ov!a i:l' nome del modulo del, gov?erno? e la p;op:olaz,ione tota'le per, og?n;i form.a d;e?l gover:n;o la? c:ui? aspettativa di vita media è pi?ù lunga di 72.",
+        "q_id": 796
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q:u!ali. sono l?e diver;s!e forme del govern?o e qu:a'l è la pop:ol;azio;ne total!e di! ciascun'o per le forme g?ove.rna,tive che? hanno un:'as:pet!tati'va d:i vita, m.edi!a supe!rio're a, 72?",
+        "q_id": 797
+    },
+    {
+        "db_id": "world_1",
+        "question": "T'r,ova? l'asp:ettat,iva; di v.ita media e? l,a pop:olazione t;ota'l.e p?e'r ogni c.on.t!ine,nte, in cui l'aspettati:v!a di vit,a m.edia è infer?i:ore a 72?",
+        "q_id": 798
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q'uali' sono! i d.ivers.i c:ontinent.i e l;a popol,az!i'one to.ta.l'e! e l'aspettat'iva di vita me:di;a: c?orrisponde;nte a' ci,ascuno, p!e:r! i conti?ne.n;t:i che hanno? u?n'aspett:at'iva di vi!t?a med!ia inferior,e a 72?",
+        "q_id": 799
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual,i sono i; n!o'mi e l:e a!ree dei pa.es.i con le prime 5 ar'e:e più grandi:?",
+        "q_id": 800
+    },
+    {
+        "db_id": "world_1",
+        "question": "R,e;stit.u:is.ci i: nomi e le aree superf:i.cia'l!i d:ei 5 paesi? più grandi.",
+        "q_id": 801
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q,ua,l:i sono i, no,mi dei p'aesi con le pri?m:e 3 pop:olaz?ioni più g'randi.?",
+        "q_id": 802
+    },
+    {
+        "db_id": "world_1",
+        "question": "Re,stitu'is!ci i no'mi dei 3 paesi più p!o'p;olat?i.",
+        "q_id": 803
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu,al?i sono i nomi de?ll;e nazioni: con le 3 popola,zio;ni pi!ù bas;se?",
+        "q_id": 804
+    },
+    {
+        "db_id": "world_1",
+        "question": "Re's.t;ituisce i n'omi d!e:i 3 pa,esi c'on il mi,nor num'er,o: di persone.",
+        "q_id": 805
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua?nti paes!i sono! in Asia;?",
+        "q_id": 806
+    },
+    {
+        "db_id": "world_1",
+        "question": "Co:nta il! n?ume?ro di pa?e.si in Asi'a.",
+        "q_id": 807
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q:uali so!n;o i nomi dei pae,s;i c.he si trov.a:no n'el con.tinente, europe'o e hanno u!na: po.pol!az?ione: di 80000?",
+        "q_id": 808
+    },
+    {
+        "db_id": "world_1",
+        "question": "D:a'i i nomi, d'e'i paesi in Europa e, hanno? un,a p?opol:azione pari? a; 80000.",
+        "q_id": 809
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual è la po:po?la'zione, totale, e l:'ar.ea m'ed'ia dei! pae:si! nel conti!nente d,el: Nord Am.eri'ca l:a c;ui ar.ea' è più; g:rande di' 3000?",
+        "q_id": 810
+    },
+    {
+        "db_id": "world_1",
+        "question": "Forn,i;re! la pop'o;laz!ione to:tale e la: supe!rfi:cie: m?edi'a cor.ri!spondente ai pa!e'si del Nord A:mer!ica che han:no u;na s:up'e.rficie s'uper!ior?e: a 3000.",
+        "q_id": 811
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qua?li s,ono le? città la cui po?p?o;l?azi;one è t?r?a il 160000 e il 900000?",
+        "q_id": 812
+    },
+    {
+        "db_id": "world_1",
+        "question": "Re,s:t;itu.isce i n.omi delle c:ittà che han'n!o una popolazione tra; i.l 160000 e il 900000.",
+        "q_id": 813
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quale l,ing.ua è p?a:rl,at.a da,l maggior n'umero di p;aesi?",
+        "q_id": 814
+    },
+    {
+        "db_id": "world_1",
+        "question": "Dai la: l!ingua par!l,a?ta nel,la m;agg;io?r, parte dei p,aesi.",
+        "q_id": 815
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q!ual è la. lingu:a p.a:rl.a.ta dalla più g'r;a.nde perce.ntuale; di per.sone: i!n ogni' p.aese?",
+        "q_id": 816
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qu.al'i so:no i codi?ci: n?azionali dei di,v?ersi pae?si: e quali son?o l;e li?n,gu;e parlate. da'lla pi:ù gra,nde; pe?rcen't:u,ale di persone' per? c'iascun!o,?",
+        "q_id": 817
+    },
+    {
+        "db_id": "world_1",
+        "question": "Qual! è il, numero t:ota!le d!i paes;i in c?ui: lo, spag.no!l;o è pa,r?la?t'o dal;la più grande? perce!ntuale d.i: pe!rsone?",
+        "q_id": 818
+    },
+    {
+        "db_id": "world_1",
+        "question": "C'onta il n?umero di p;aes.i. per i? q'u:ali l.o s.pagno.lo è la li:n;gua: prevalen,teme.nt?e parlat?a.",
+        "q_id": 819
+    },
+    {
+        "db_id": "world_1",
+        "question": "Q,uali so!n;o i c?od;ici dei p?aesi i.n cu:i; l,o s?pa?gnolo è' parlat?o dall;a più? grande perc.entu'ale di p,ersone?",
+        "q_id": 820
+    },
+    {
+        "db_id": "world_1",
+        "question": "R:est?i,t!uisce i c:odic'i dei pae;si pe?r i quali; l'o s;pagnolo è la lingu.a pre:va,lentemente; parlat?a:.",
+        "q_id": 821
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Quant?i co,nduttori ci son'o?",
+        "q_id": 822
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Conta il? n:umero d.i, condutto?ri.",
+        "q_id": 823
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Elenca i; n:omi; d,ei co.ndut.tori in! ord;in!e di età: cr,escent;e.",
+        "q_id": 824
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Quali sono, i no.mi de'i. con.dutto.ri, o:rdina't'i pe?r et:à?",
+        "q_id": 825
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qual!i s;ono i nom'i dei c!on;d!utt;ori le? cui nazio!n'al,i?tà non sono \"USA\"?",
+        "q_id": 826
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Re!st,i:tuis;ci i nomi de,i co'ndutto'ri' ch,e' n'on hanno la nazi:onal.it?à \"USA\".",
+        "q_id": 827
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Quali' sono, l?e case! di's!cogr!afic:he delle or?c!hestre i;n; or!d?in:e d?e'crescente d'i' anni' i!n cu:i sono state, fondate?",
+        "q_id": 828
+    },
+    {
+        "db_id": "orchestra",
+        "question": "R!est;itu!i:sce le case disco:gra'fiche' de;lle or,chestre, o:r,dinate scendendo n;egli a!nni i?n: c!ui furon.o fo;nd?a?te.",
+        "q_id": 829
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Q?ual è la freque;nza, media de.g:l.i spett;ac?oli?",
+        "q_id": 830
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Restit!uis,ce la f?r!eq:uenza medi.a: in: tutti gli spett;ac.ol,i.",
+        "q_id": 831
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qua,l;i s!on?o la q,u:ota m?a?ssima e mi;nim!a di spetta,coli il cu,i tipo no'n è \"in d?ir,etta in; dir'e:tt'a\".",
+        "q_id": 832
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Rest'itu,isce, le; az.ion.i; massime e m'i.n'ime per' s;p!etta!coli che no'n han'no il tipo \"in: diretta,\".",
+        "q_id": 833
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Quante nazionali't.à diverse ha'n'n'o i: c.o;ndu'tt?ori?",
+        "q_id": 834
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Cont,are! il' numero di d'i'verse n!azi?o?n;alit,à dei condut?tori?.",
+        "q_id": 835
+    },
+    {
+        "db_id": "orchestra",
+        "question": "El:e;nca i? nomi de.i c:ondu?t,tor'i in ordine; decres'cente d;i an!ni di lavor?o.",
+        "q_id": 836
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Quali sono i; nomi! d?e'i co.ndu'ttori!, ordinat:i scen'dendo p:er il nu:mero! d'i ann,i? che h:an,no la.vora!to:?",
+        "q_id": 837
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Elenca i.l nome: del' diret.tor;e; co,n la ma;g:gior pa;rte d!egli ann;i di l?avoro.",
+        "q_id": 838
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qua.l è il n:ome de!l diret?to,r:e che! ha? lavo:rato: il mag.g!ior numero, di anni?",
+        "q_id": 839
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Most,ra i no:mi de;i. cond,utt!o;ri e delle orch,e;stre che' ha,nno condott'o.",
+        "q_id": 840
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Q?uali; s?on;o i nomi dei condutt.or,i e? le c;or.rispon.dent;i orchestre che hanno co:ndo:t!to??",
+        "q_id": 841
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Mostra; i nomi de,i condu,tt?or!i; c'he h'a;n'no condotto pi:ù di u:na or:chestre.",
+        "q_id": 842
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu,ali so,no i no!mi d?e!i co,ndut?tori che; hanno c?o?ndotto in: pi'ù: di? un'or:chestra?",
+        "q_id": 843
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Mostra il nome d.el' con;du?tt;ore che! h.a co!n:do,tto i:l? ma;g?gior num,ero di o,rchestre:.",
+        "q_id": 844
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qual; è il n:ome; del! d'irettore che ha con,dott!o' pi;ù orches?tr;e?",
+        "q_id": 845
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Si p,rega di! mos?trare il no'me del? conduttor'e ch?e ha: condot;to o!r!ch'estre f!onda.te d.o'po i?l 2008.",
+        "q_id": 846
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Quali s'ono i nom.i dei condutt'or?i ch?e hanno; condo?t,to o'r'che:stre fon:date dop.o l'a!nn,o 2008?",
+        "q_id": 847
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Si pre.ga di mos,trare le div;e?rse compagn,i:e dis'c?o,grafi;ch;e e i?l num!e!ro corrispondente di' orche?s:tr:e.",
+        "q_id": 848
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Quante: o!rches!tre ge'sti,s;ce o.gn.i casa d!iscog!rafica'?",
+        "q_id": 849
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Si pre.ga d!i most!rare; i fo!rmati di r,ec;or:d delle o!r;che,s'tre, in: ordine di c?onteggio a!scend,ente!.",
+        "q_id": 850
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qual.i. sono i princ,i.pali fo,rma;t'i? di! record di! o.rchest,r'e, ordinati p'er la lo,ro! fre:quen.za?",
+        "q_id": 851
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Elen;care la, casa disc?og!rafica; condi,visa, dal m,agg'ior nume;ro; d.i orch:est're.",
+        "q_id": 852
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qual è la c:asa di:sco:gr!afic?a utilizzat'a: dal maggio.r n:umer;o di o?rches?tre;?",
+        "q_id": 853
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Ele?nc,a i nomi delle? orchestre c'he no'n ha.nn!o prest:azi:oni.",
+        "q_id": 854
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Qu'a'li sono; le orc.hestre. che! non hanno e?s'i'bizioni?",
+        "q_id": 855
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Mostra l:e ca?se di:scografic,h!e co:ndivi?se da Orchestre? f,ond.at.e p!r?ima d!el. 2003 e dopo il 2003.",
+        "q_id": 856
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Quali so?no l'e' case dis?c,o.grafiche: che vengono utilizza;te d.a e.n.trambe l;e, o?rchest:re, f!ondate pr?i:ma d!el 2003 e qu?e.lle f?ondat,e dopo, il: 2003?",
+        "q_id": 857
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Tr?o.va i'l numero: d:i, or,ch'estre? il cui formato rec?ord è \"CD,\" o \"D!VD!\".",
+        "q_id": 858
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Co;nt?are il numero di o?r:ch.estre ch?e: han.n.o: CD o DVD come for,mato, reco'rd.",
+        "q_id": 859
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Mostra gl?i anni in cui! ven!go;no, f;ond.ate, orchestr'e c,he. ha:nno d;ato p,iù di u,na p!erf;o:rma'nce.",
+        "q_id": 860
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Quali? sono; gl:i anni d,i' fon.dazio!n:e per le or.c,hest,r!e ch?e: h?ann,o avut!o più di u?na si?ngol!a per!for?mance?",
+        "q_id": 861
+    },
+    {
+        "db_id": "network_1",
+        "question": "Quanti liceal'i ci, s.on,o?",
+        "q_id": 862
+    },
+    {
+        "db_id": "network_1",
+        "question": "Co?nta il! n,umero di lic.ei.",
+        "q_id": 863
+    },
+    {
+        "db_id": "network_1",
+        "question": "Most:ra i, nomi e i: voti di o!g!n;i lic,eo.",
+        "q_id": 864
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qua?li s:ono! i n'o;mi e i voti per og.ni l'ice?o.?",
+        "q_id": 865
+    },
+    {
+        "db_id": "network_1",
+        "question": "M.ostra' tu'tti i. g?radi. dei licei.",
+        "q_id": 866
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qual è' i'l grado di og.ni li,ce?ale.?",
+        "q_id": 867
+    },
+    {
+        "db_id": "network_1",
+        "question": "I?n? che grado è Kyle;?",
+        "q_id": 868
+    },
+    {
+        "db_id": "network_1",
+        "question": "Re?st?ituis.c,e il voto per il lic!eo di nome K,yl'e.",
+        "q_id": 869
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mos:tra i no,mi di tutt,i i lice;i di grad!o 10.",
+        "q_id": 870
+    },
+    {
+        "db_id": "network_1",
+        "question": "Quali sono' i n?omi' d'i t,utti i li.c!ei di grad;o 10?",
+        "q_id": 871
+    },
+    {
+        "db_id": "network_1",
+        "question": "M.ostr:a l'I;D del li.ceo di; no,me Kyle!.",
+        "q_id": 872
+    },
+    {
+        "db_id": "network_1",
+        "question": "Co's'è l'ID d'i' Kyle?",
+        "q_id": 873
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qua.nti l,iceali c,i so;no i,n g'ra:do 9 o? 10?",
+        "q_id": 874
+    },
+    {
+        "db_id": "network_1",
+        "question": "Conta;re il. numer.o d'i liceali n.ei g,rad.i 9 o: 10.",
+        "q_id": 875
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mostra il nu?mero di; lic;eali per og:n;i grado!.",
+        "q_id": 876
+    },
+    {
+        "db_id": "network_1",
+        "question": "Q;uan,ti l'icei: ci s'ono i.n ogni g!rad'o?",
+        "q_id": 877
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qua?le voto ha. più licea,l.i?",
+        "q_id": 878
+    },
+    {
+        "db_id": "network_1",
+        "question": "R,estitu?i,s.ce il. vo,to c.he ha il magg.i.or n.umero d.i liceali.",
+        "q_id": 879
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mostrami? tut'ti i voti! c'he h;anno? alm?en;o 4 stu.den:ti?.",
+        "q_id": 880
+    },
+    {
+        "db_id": "network_1",
+        "question": "Quali vo,ti ha,n.no 4 o? più l?icei?",
+        "q_id": 881
+    },
+    {
+        "db_id": "network_1",
+        "question": "Most:ra. gli I.D stud'ent,i e il nu;mero di? amici co:r?ris;po.nden;ti a cias:cuno!.",
+        "q_id": 882
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu;anti' amici h,a ogni s?tuden;te?",
+        "q_id": 883
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mo;st:ra i! n?omi degl'i s?tu:de.n?ti d,e.lle scu,o;l!e superi.or.i e il loro co,rris.p:ondente n,um,ero di a:mici.",
+        "q_id": 884
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qua.li! sono i no.m,i de?i l:icei e quanti? amic;i' hanno; cia.scu:no??",
+        "q_id": 885
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qual è i'l n;ome del li?ceo che ha i,l maggi!or n?u?mero di: am.ici?",
+        "q_id": 886
+    },
+    {
+        "db_id": "network_1",
+        "question": "Re:s;titui!sc.i il nome' dello st,udente? de;lle scu;ole! su:pe.rio?ri co'n la: maggior, par,te degli am?ici..",
+        "q_id": 887
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mostr?a i nomi d,ei; l'ic;ei che han,no al:meno 3 ami,c?i.",
+        "q_id": 888
+    },
+    {
+        "db_id": "network_1",
+        "question": "Quali so,no i nomi. dei l:i:c?eali che han.no, 3 o' più amici?",
+        "q_id": 889
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mostra i nom?i d?i tu;tt!i gli ami.ci d.el li;ceo K.yl!e.",
+        "q_id": 890
+    },
+    {
+        "db_id": "network_1",
+        "question": "Restituisce i nomi deg:li! amici! dello: stud,en:te. d,e:l l.i'ce.o Kyle.",
+        "q_id": 891
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qua?n?ti? a?mici ha lo studente! del l.ic;eo Kyl,e'?",
+        "q_id": 892
+    },
+    {
+        "db_id": "network_1",
+        "question": "C;o!nta il! numer'o di amici? che Ky,le h!a.",
+        "q_id": 893
+    },
+    {
+        "db_id": "network_1",
+        "question": "M!o!stra I!D d'i' tu,tt?i gli studenti ch'e non! ha:nno! amic;i.",
+        "q_id": 894
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qua'li! so,n;o gli ID degli stud'enti del:le s,cu:ol'e s?u'periori: che non h!an,n,o? ami?ci?",
+        "q_id": 895
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mo:stra! nomi di tu!tti: gl.i stud,en,ti d?elle sc:uole su;p!eriori che n,on; h;ann?o amici.",
+        "q_id": 896
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu?ali sono i nomi de?gl!i: stude.nti' ch!e no!n ha?nno ami;ci!?",
+        "q_id": 897
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mos:tra, gl!i ID d?ei li;ce,i che ha.nno amici e. son:o' anche a!pprez,za'ti da qu,alc'un; altro.",
+        "q_id": 898
+    },
+    {
+        "db_id": "network_1",
+        "question": "Quali sono: gl:i I;D' d:e:gli, stud!enti: che h,anno entrambi amici e a?ppr'ezza;ti?",
+        "q_id": 899
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mos!tra il. nome' di t!utti; gli s?tud:enti ch!e ha;nno d.egli: amici e' anc;he per? qu,alcun a'l'tr?o.",
+        "q_id": 900
+    },
+    {
+        "db_id": "network_1",
+        "question": "Q?ual'i; s,o?no i nomi: dei l,icea!li; che h,anno e.ntr!ambi a?m'ici e che sono apprez?zati?",
+        "q_id": 901
+    },
+    {
+        "db_id": "network_1",
+        "question": "Con!t?a i.l, nu'mero di Mi, piace per ogni ID: stu.de?nte.",
+        "q_id": 902
+    },
+    {
+        "db_id": "network_1",
+        "question": "Quant!i m!i; piace? corris.pondono a? ciascun ID, stude:nt;e?",
+        "q_id": 903
+    },
+    {
+        "db_id": "network_1",
+        "question": "M.ostra i' nomi? d?ei l?i:c;e.ali; che han;n.o Mi p!iac'e e un! num,ero di Mi piace per; cia'scuno.",
+        "q_id": 904
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu:ali sono, i' n!o.m.i dei: lic:eal.i c,he h.anno pi;acciono e quanti mi piac.e ognu;no di c.iascun'o?",
+        "q_id": 905
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qua'l è' il nome d?el liceo c?he ha il magg?ior n.umero; di! Mi piac;e?",
+        "q_id": 906
+    },
+    {
+        "db_id": "network_1",
+        "question": "D;ai il nome d!el.lo s.tudente con. p;i,ù: Mi p?iace.",
+        "q_id": 907
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mo;s.tra i n:omi deg.l!i s;tudenti c:he hanno alme;no 2 M!i piace.",
+        "q_id": 908
+    },
+    {
+        "db_id": "network_1",
+        "question": "Q.u'ali so;n:o i no:mi d'egli st,u:denti ch;e' hanno 2 o più M'i p?ia.c?e?",
+        "q_id": 909
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mostra i nomi degl'i st,udent.i, che hanno u.n: vo?to, superiore a 5 e ha.nno, almen;o 2 amici.",
+        "q_id": 910
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qual!i; son,o? i nomi; d?ei' liceali c?he han;no u;n voto di! o.lt:re 5 e hann'o 2 o più amici?",
+        "q_id": 911
+    },
+    {
+        "db_id": "network_1",
+        "question": "Quant:i mi' piace h.a? Kyl'e?",
+        "q_id": 912
+    },
+    {
+        "db_id": "network_1",
+        "question": "R!e.stituis!c'e i!l n?um?ero! di Mi piace? che il li?ceo di n,o!m:e Ky.le ha.",
+        "q_id": 913
+    },
+    {
+        "db_id": "network_1",
+        "question": "T!rova; il grado medio' d.i tutti g?li stud!enti! c'he hanno deg'l:i ami?ci..",
+        "q_id": 914
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qual, è il gra!do medio di, stude!nti? ch,e h!ann!o amic'i?",
+        "q_id": 915
+    },
+    {
+        "db_id": "network_1",
+        "question": "T.r:ov;a il. grado' mi:n,imo di stud?e;nt!i? che no'n hann:o amici.",
+        "q_id": 916
+    },
+    {
+        "db_id": "network_1",
+        "question": "Qu'al è il grad,o più? ba.sso di stu:denti' c:he' no,n ha:nno ami;ci?",
+        "q_id": 917
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu?al'i s?tati: hanno s.ia p:ropr.ietari c!he p:r!o:fessionisti ch'e v,iv,o:no lì?",
+        "q_id": 918
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Trova g.li. stat?i in cui vivono? sia p:r;o.prie?tari che pr!of'e?ssion,is'ti.",
+        "q_id": 919
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qual è? l'età? me!dia' dei can!i c;h;e ha'nno attrav;er,sat.o tr;attame?n't,i?",
+        "q_id": 920
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Tro'va l'età media? dei ca:ni c.h;e. han,no at:t.raversa:to; tra;t?tamen!ti.",
+        "q_id": 921
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu'a.l,i prof:e!s?si:o,nisti: vivono ne.llo s;tato d?ell'India;na o hanno fat'to cu.re su più di 2 tr?a:tt.amen'ti?Elenc,a il su,o. ID, cogn'ome e! telefo!no c,ellu.l:ar'e.",
+        "q_id": 922
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Trova l:'ID, i!l; cogno!me e: i?l? cell'ula:re dei professio:nis!t.i c!he vivono nel.l;o stato dell'In,d'ia'n;a o, hanno e:s,egui'to pi?ù, di d!ue tratt:ament,i.",
+        "q_id": 923
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali! cani no'n so.no' costati. al loro p.ropr,ietario più di 1000 p?e;r il: tra;t!t;am:ento!?El.enca? i! nomi dei cani.",
+        "q_id": 924
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali sono: i! nomi d,e:i can!i: per i quali i;l p,r.oprietario non ha. s:p.e?so più di 1000 per: il tr.at:tamen!to?",
+        "q_id": 925
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali nomi son!o us:a;ti? p;er, pr.ofess!ionist;i, o' pr?oprietari m!a non sono u.sati com!e nomi d:i; cani?",
+        "q_id": 926
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Tr?ova: i nomi c.he veng;ono utili'zzati per pr:o;f.es;s.io'nist:i o propr.i'e!tar'i m,a non: sono usa't?i; come! n!omi di cani.",
+        "q_id": 927
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q.ual?e profe;ssi'onista non, h:a op,e;r:ato a?l.cu'n tratt?amen.to sui can,i?Elen,ca l'ID, il ruo?lo ed e -mail d;el p!rofes's!ionista.",
+        "q_id": 928
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Dam;mi: l'ID, il r?uo!lo' ed e -m:ai:l d?e,i, profession;isti ch!e no!n hann'o: ese.guito? al!cu:n. trattam.ento; sui ca.ni;.",
+        "q_id": 929
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua?l.e pr!opri'etar'io po;ssiede? il magg!ior n.um.e'ro' d'i ca'ni?Ele'nca l,'ID prop.r!ieta:r!io, il nome e i?l cog,no;me.",
+        "q_id": 930
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Re,stituis!ce l'ID proprietari.o, il nome e i?l cognome del p:rop;ri?etario: ch!e ha i!l mag;gi'or? nume;ro! di c;a;ni.",
+        "q_id": 931
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qual,i, prof?essi.onist;i hann;o fatto al!meno' due t!ratta:men.t,i?Elen?c'a l'ID, i!l ruo?lo' e il nome del professio!nista..",
+        "q_id": 932
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali sono l'ID, il r:uo,lo e il: nome d;ei pr:o.fes.sionist?i che h;anno ese'guit?o? du?e! o più tr'atta!m:en'ti?",
+        "q_id": 933
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qual è il n:ome dell:a. razza con i;l' mag;g:ior; nume.ro di can.i??",
+        "q_id": 934
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qual,e raz;za h,a.n.no più; c.ani?D,am:mi. il nome della; raz:za.",
+        "q_id": 935
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu:ale p;ro.prie:ta,rio? ha pa'gato p:er i.l m!a'ggior num:er?o d;i? tra?ttament?i su.i suo;i ca.ni?Ele'nca l!'I,D proprie?ta,rio e il! cog:nome.",
+        "q_id": 936
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "D?im;mi l'I?D p,r,o'prietario e i;l cognome! del; p'ro.pr.ietar!i?o che ha spe.s'o d?i più' per i, tra!ttamenti dei suo!i' ca.ni.",
+        "q_id": 937
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu!al è la! desc?r:i!zio.n?e del tipo di. tratt.a!ment,o che costa meno? de.n!aro in total:e?",
+        "q_id": 938
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Da,mmi l.a des;c,r;izi;o,n?e del t.ipo di tratta.me,nt?o il: cui. costo tota'le è il' più bass.o.",
+        "q_id": 939
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quale prop!rietari,o ha! p,aga?to la più grand,e quantità d.i de'n;aro' in total?e per i lo;r.o c:ani.?Mostra l'ID. p,rop;rietario. e i?l c:odice p;os'tal?e.",
+        "q_id": 940
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "T'ro'v'a l:'ID propri;etar?io e il cod.ice. pos!t,al,e d,el: propr?ieta,rio che hanno speso più' d,e:n,aro' in totale per i! suoi' can:i.",
+        "q_id": 941
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu:a,li p;ro!f!ess!io,n.isti; han?n'o. fatto al:men:o due tipi di tratt.a:men?ti?Elenca l'ID prof;essional,e e il? c,ellular?e.",
+        "q_id": 942
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Trova l!'ID e' i?l; telefono, cellula!re; dei professi'oni's'ti? che gest?iscono due o' più tipi' di, t.r:at'tamen,ti!.",
+        "q_id": 943
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu:a:li! so.n!o i!l nome e il c.ognome: d:ei profe.ssio;nisti che hanno fa't,to! cure con c.os?to i!nferio're: alla m,edia?",
+        "q_id": 944
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali professionis'ti han'no gest,ito un t.r'a'ttam!ent;o che costa m:eno, d'ella m'edi:a?Dam.m:i i. l;oro: n;om,i e cognomi.",
+        "q_id": 945
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "E!len'ca l:a d!a.ta di ogni, tratt,am!ento, insie'me al nome' del pro!fe;ss:io'nista' che lo ha ges.tit!o.",
+        "q_id": 946
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali? sono la d.ata e i,l: nome del profes'sio?nis.ta o:p!e'ra!t,i!vo di ogni' tratta,men'to?",
+        "q_id": 947
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "El.en:care i!l c,osto di c.i:ascun tratta?m:e'n;to e la corr.ispondente d!escriz;io:ne del t,ipo di tra?tta:me,nt,o.",
+        "q_id": 948
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu'ali s;ono la desc.ri;zione de.l: ti'po di c;os:t!o! e d'e?l trattam,ento? d!i ogni: tr!atta.mento?",
+        "q_id": 949
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "El.enca il? nom'e di! o'gni pr?opr.ietario, il: cog.nome, e le dimensioni de:l suo pe?r! il su:o: c'ane.",
+        "q_id": 950
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu'a'li s?o.no il: nome;, il! c,ognome e: le: d.imensioni del lo,ro; cane?",
+        "q_id": 951
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Elenca le c,oppie d,e?l! nom,e del p'r.o'pri.e:tario e il no,me de:i cani.",
+        "q_id": 952
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qual?i! sono i,l nom,e di ogn?i propr;i.etari?o' e il nome d?ei; loro can:i?",
+        "q_id": 953
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "E;lenc;a i n,omi! d.e;i c!a:ni d'el,la r?a;zza più rara e le da?t:e! di trattamen.to.",
+        "q_id": 954
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali cani. s,ono del'la r!azz:a p:iù rara?Mostra i lor.o nomi e l;e date d.e'l t.r:atta!men?to.",
+        "q_id": 955
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q;u!al'i cani sono! di prop;rietà di, qual.cu?no: che v'ive in Vir'gini,a?Elenca. i;l n'ome? del p:roprie?tario e il no,m,e del cane!.",
+        "q_id": 956
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Trov!a i! no?mi dei no,mi dei pro.pri!e!tari' ch!e vi!v!on'o! in' Virgin.ia e i nomi, d?ei! cani? che po,ssiedono.",
+        "q_id": 957
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q;ua?li sono: l:a data, in arri;v.o; e la dat;a in par;t;enza d!ei ca,ni che: ha,nno! s?ubit.o! un! tr,attamento?",
+        "q_id": 958
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Trova la data i!n, a;r!r!iv:o' e la data di partenz.a d:ei cani; che h?a?n;no, rice'vu?to un? tratta;men.to.",
+        "q_id": 959
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "E:le:n'c?a' il cog:nom?e del pr!oprietario c;he? p.ossied;e il ca'ne? più gi?o'vane.",
+        "q_id": 960
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "C.hi po'ssi!ede il: cane p.i,ù g,iovane?Dammi, il suo cognome..",
+        "q_id": 961
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "E'l:e!nca; le e -m.ail dei professio?nist.i che viv?o'n?o n:ell;o stato? del,le Hawa;ii o! nello s!tato d;el Wi!sc,on'sin.",
+        "q_id": 962
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali so!no l'e! e' -m?ai;l dei pr!ofes,sion?isti? che v!i,v,ono ne;l!lo s,t:ato de?lle; Haw'aii o. nello sta!to! d,el Wisconsin?",
+        "q_id": 963
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q;uali s,o;no la data in arrivo e la dat;a in part'enza di, tut't?i i; cani;?",
+        "q_id": 964
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Ele.nca l.a d'at,a di? arr:ivo e la dat.a d:i p,artenza' pe:r tu.t:ti i ca;ni.",
+        "q_id": 965
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q.ua;nti c'ani hanno' attra:v'ersat,o tratt:a'm?enti?",
+        "q_id": 966
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Conta! il numero' di? cani c,he han'no attrav;e?r:s:ato un trattam,e;nto'.",
+        "q_id": 967
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quanti pr.ofessio'nis,ti h?anno' e,s'egu,ito un trattam,ento p,er. i cani.?",
+        "q_id": 968
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Tr.ova i?l n!umer:o. di profess.i:onisti' ch:e h;an.no m.ai trat:tato i cani.",
+        "q_id": 969
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali profess,i!on,isti v,ivo!n.o, i?n una città? conten,ente. la so.ttostring:a \"We?s,t;\"?Ele:nc:a i!l su.o: ruol.o, strada, ci:t?tà e stat:o.",
+        "q_id": 970
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Tr,o:va i!l! ru?o:lo, s.trad:a, città e stato de?i pr;ofes,sionisti che vi:vono i:n una c;i't.t,à che. c'onti.ene la sott:ost!r!inga' \"West\".",
+        "q_id": 971
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali prop:ri;eta'ri! v,i?vono nell.o st?a!to il c!ui; nom:e; co?nt;ie!n:e l:a sottostringa \"N'orth\"?Elenca il suo nome:, co'g;n!ome e!d e; -m!ail.",
+        "q_id": 972
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Resti?t.ui.sce il! n!om,e, il. cognome e l'e -ma,il dei p.rop?r?i'eta;ri c'he v;ivono! i?n uno stato il cui nome cont.i?e'ne la? s;ottostringa \"North\".",
+        "q_id": 973
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q!uan:t;i ca!n,i h,a:nno un'età inferiore a?l?l;a me;dia?",
+        "q_id": 974
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Cont,a? il n!umer,o di c?a'n,i di: età, infe.riore a!l;la; media.",
+        "q_id": 975
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua,nt:o cos;t;a il tratta?m?ento pi'ù rec.en'te?",
+        "q_id": 976
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Mostrami! il; c:osto d;el t;r.att?a:ment:o eseguito' pi?ù recent;eme;n!te.",
+        "q_id": 977
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q,u,an,ti c?ani non hanno. at;traver,s!ato alcun t.rattam:e'nt.o?",
+        "q_id": 978
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Di'm?mi? il nu:mer'o di ca;ni che non hanno. ric?e:vut.o: alc:un t'rattamento.",
+        "q_id": 979
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua?n?ti? proprieta;ri: te:mporaneam?e;nt?e non hanno cani?",
+        "q_id": 980
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "T'rova i?l: nume!r'o di proprie.t!ari c,he non p!o!s:siedon.o; cani in quest:o mom.ent?o.",
+        "q_id": 981
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua;nti pro?fe,s,si!on;is.ti non hanno o'pera'to al,cu:n trattamen!t?o s;ui can:i?",
+        "q_id": 982
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Trova il' nume:ro, di: prof!essionist!i c,he no!n ha!nno tr'at;t.ato al?cun cani.",
+        "q_id": 983
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Elenc;a il nome d;el ca'n,e, l'età e' il pe!so dei? cani c;he. so;no s.tati abba!ndonati?1 sta per. s!ì e 0 sta p,er; il, no.",
+        "q_id": 984
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu:ali sono il nome! d!el ca?ne, l.'età e. i;l peso de.i c'ani: ch?e son:o sta,ti abb!and.on:ati?Si noti che 1 st;a per sì e 0 sta. pe?r no. n:el!le! ta!b.elle.",
+        "q_id": 985
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qual? è l;'età med.ia di? tutti! i c?ani?",
+        "q_id": 986
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "C:a?l'co.l'a l'età me,di:a d:i: tutti i cani.",
+        "q_id": 987
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qual; è l'età? de'l; c!ane più antic.o?",
+        "q_id": 988
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Dim!m:i l!'età del cane più antic.o,.",
+        "q_id": 989
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qua'nto cos?ta o:gni tipo; di a:ddebito?E?lenc?are; s'ia il t'ipo di add,e;b.ito ch'e l'i;mpor?to..",
+        "q_id": 990
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "E'le!n.ca o;gni tipo di ad.deb.ito, e il suo impor:to.",
+        "q_id": 991
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Q;u!an:to? costa il' tipo di adde,bito pi;ù cos?tos.o?",
+        "q_id": 992
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu!a.l è l'a: q'uant!ità d:i: a,ddebito. del ti?po di add,e!b'it.o p;iù costoso?",
+        "q_id": 993
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Elenca l?'e -mail, il; te!lefono cellul.are e; il telef;on'o di? c?a.s.a: di tutti. i; pro;fes:sion.isti.",
+        "q_id": 994
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu,ali s?on?o l'e -mail', il tel:efono c.el?lu'lare e. il te?le?fono: a. casa di, ogni pr:ofess,i!o.nis,ta?",
+        "q_id": 995
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qu;ali son?o tutte l:e! possi.bili combina'z;ion:i di t'ip?o di razza? e d;i,m;e,nsioni?",
+        "q_id": 996
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Tr.ova le di:stinte; comb!inazioni di t?i.po: d,i ra.zza e tipo di d,im'ensio,n?e per i ca'ni..",
+        "q_id": 997
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Elen.ca. i?l nome d!i tutti i, p:r:ofess'ionisti! insie.me all,a des'cri;z;ione del; tra?tt!amento c?h.e hanno! fatto.",
+        "q_id": 998
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali son?o il nome; e la d!e:scr,izi!one di ogn:i pr:o.fe.s;sionista; del tr?atta,m!ento che ha:nno e;segu.ito?",
+        "q_id": 999
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu:a;n'ti canta.nti. ci so:no?",
+        "q_id": 1000
+    },
+    {
+        "db_id": "singer",
+        "question": "Qual è. il conte:ggio dei c?an;tanti'?",
+        "q_id": 1001
+    },
+    {
+        "db_id": "singer",
+        "question": "Ele!nc,a: i!l nome dei c?ant!an.ti nell'o.rd!in;e: ascendente del patri?m!oni;o netto.",
+        "q_id": 1002
+    },
+    {
+        "db_id": "singer",
+        "question": "Qua'li sono i: nomi dei c;an,t!a'nti. ordinat?i d?a.l pa:trimo!nio n.e.tto ascend.e.nte?",
+        "q_id": 1003
+    },
+    {
+        "db_id": "singer",
+        "question": "Qua,li. sono' l'anno d:i nasc;ita e' la cittadin;a.nza' dei c!ant:anti?",
+        "q_id": 1004
+    },
+    {
+        "db_id": "singer",
+        "question": "Q:uali s.ono: gl'i anni' di? n:asci?ta; e la c?itta:dinan;za dei: ca!ntanti?",
+        "q_id": 1005
+    },
+    {
+        "db_id": "singer",
+        "question": "El,en;ca i.l n?om!e! di c?antant:i la c?ui ci?tta!d'in,anza non è \"F!rancia\".",
+        "q_id": 1006
+    },
+    {
+        "db_id": "singer",
+        "question": "Q:uali' sono i. no.mi, dei c.an'ta:nti che non! sono! ci,tt;adini; francesi?",
+        "q_id": 1007
+    },
+    {
+        "db_id": "singer",
+        "question": "Mo's!tra i,l n,ome di c!antan;ti il ​​cui a?nno di nascita! è 1948 o 1949?",
+        "q_id": 1008
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu!ali s,ono i nom.i dei c.antant?i: i! cu!i ann:i di n,asci'ta sono 1948 o 1949?",
+        "q_id": 1009
+    },
+    {
+        "db_id": "singer",
+        "question": "Qual è il nome, d;el cantante: con' i'l, più, grande p'atri;m!o;nio ne:tto?",
+        "q_id": 1010
+    },
+    {
+        "db_id": "singer",
+        "question": "Qual è il n:om.e del c!an:tan!te; che vale di, p,iù?",
+        "q_id": 1011
+    },
+    {
+        "db_id": "singer",
+        "question": "Mo.stra? diverse citt;a;dinan:za, di ca.nta.nti e il numero di can'tanti: di ogn;i' cittadi'n,a'nz,a.",
+        "q_id": 1012
+    },
+    {
+        "db_id": "singer",
+        "question": "P.er ogni cittadin,an.za, q?uan:t'i can.tanti. pr!ovengono d;a, quel paes;e?",
+        "q_id": 1013
+    },
+    {
+        "db_id": "singer",
+        "question": "Per fav.ore!, mostra la ci.t?tadin:an?z!a più comu?ne dei cant;anti!.",
+        "q_id": 1014
+    },
+    {
+        "db_id": "singer",
+        "question": "Qual è la cit!tadi'nanza del cant;a'n'te più; c.omu'ne?",
+        "q_id": 1015
+    },
+    {
+        "db_id": "singer",
+        "question": "Mo,s:t,ra diverse citt;a:din?i e il pat'r'imonio! n;etto ma:ss'imo di cantan:ti: di, og!ni ci'ttadi?nanza.",
+        "q_id": 1016
+    },
+    {
+        "db_id": "singer",
+        "question": "Per og;ni, c:ittadinanza,, qua?l è il patrim.oni!o netto m:a!ssi,mo;?",
+        "q_id": 1017
+    },
+    {
+        "db_id": "singer",
+        "question": "Mostra ti.toli di' c'anzoni e n:om!i d?i can't:ant,i.",
+        "q_id": 1018
+    },
+    {
+        "db_id": "singer",
+        "question": "Quali so:n;o i t;itoli del,le canzoni; e i n:omi d'e'i c,ant'an.ti??",
+        "q_id": 1019
+    },
+    {
+        "db_id": "singer",
+        "question": "Mostra nom.i di;s.tint'i d'i ca?nt,anti; c!he, hann,o canzoni con! vendit'e più d;i 300000.",
+        "q_id": 1020
+    },
+    {
+        "db_id": "singer",
+        "question": "Quali s'ono; i dive!rsi n'o'mi dei cantanti c,h!e hanno v;e.n,di!te più di 300000?",
+        "q_id": 1021
+    },
+    {
+        "db_id": "singer",
+        "question": "Mostra? i nomi d,ei ca:ntanti ch'e' h,an'n?o più' di una can;z:one.",
+        "q_id": 1022
+    },
+    {
+        "db_id": "singer",
+        "question": "Qu,a'li: son,o i no:mi dei can'ta;nti! che ha'nno più. d'i una canzo:ne?",
+        "q_id": 1023
+    },
+    {
+        "db_id": "singer",
+        "question": "M'ost?r:a i n.omi? dei! can't:anti' e l:e vendite tot.ali del?le: loro c.anzoni.",
+        "q_id": 1024
+    },
+    {
+        "db_id": "singer",
+        "question": "Per' il nom!e di ogni cantante., qua.li; so'no! le v!endit,e to,tali' p.er le loro c'a?nzoni?",
+        "q_id": 1025
+    },
+    {
+        "db_id": "singer",
+        "question": "Ele;nc'a il n!ome, di cantanti che' non h,ann,o a!lcuna. can?zone.",
+        "q_id": 1026
+    },
+    {
+        "db_id": "singer",
+        "question": "Q:u:a!l è il; n,ome di ogni peccato. che non ha? alcuna c:a;n'zon:e!?",
+        "q_id": 1027
+    },
+    {
+        "db_id": "singer",
+        "question": "M!ostra la citt;adinan'za: condi:visa dai. c,antanti: con l,'anno di n;as:c?ita prima d:e:l 1945 e, d'o.po! i:l 1955.",
+        "q_id": 1028
+    },
+    {
+        "db_id": "singer",
+        "question": "Qua:li sono, le' c:it?tadini che? sono: cond?i.vise d!a!i canta;nt,i co,n. un anno d.i na!sci't.a p,rima del 1945 e dop;o? il 1955?",
+        "q_id": 1029
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "Quant?e fun:z'i.ona?lità dispon.ibili ci s?ono in t!o't:ale?",
+        "q_id": 1030
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "Qual, è il n!o,me, d.el tip,o di funzi:o?n:alità di Feature Ai;rcon?",
+        "q_id": 1031
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "Mostr,a le descriz!ion'i! dei t;i!pi di. proprietà dell.e pr,o,prietà appartenen.ti, a quel! co!d;ic.e.",
+        "q_id": 1032
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "Qu;ali sono i nom!i d?elle, proprietà che: s;o!no; c?as,e o; appar:tame'n:t:i c!on più di 1 camera?",
+        "q_id": 1033
+    }
+]

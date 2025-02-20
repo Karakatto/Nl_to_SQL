@@ -1,0 +1,5172 @@
+[
+    {
+        "db_id": "concert_singer",
+        "question": "qUANtI cAnTANTI ABBiAMo?",
+        "q_id": 0
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUAL è Il nuMErO TOtALE DI CANTANTI?",
+        "q_id": 1
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "nOME SPETTACoLO, PAeSe, ETà peR tUTTi I CANTAnTI ORDiNaTI pER ETà dAL pIÙ VECCHio AL Più GIOVANE.",
+        "q_id": 2
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "QUALi SoNO I NOMI, I pAESI E le eTÀ pER oGNI cAnTANTe IN OrDINE dI EtÀ DiSCeNdENTE?",
+        "q_id": 3
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "QUAL È L'ETà MEDIa, MIniMA E MAssIMa di TUtTI I CANTANTI DAlLA FRANCIA?",
+        "q_id": 4
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUAl è l'ETÀ MeDia, MINIMA E mASsiMA PER TUtTI I CANTANTi FRAnCESi?",
+        "q_id": 5
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "mOStRA IL NOME E L'AnNO DI uSCIta dELLa cAnZOnE DEL CANTANtE piÙ GIoVANe.",
+        "q_id": 6
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "quAlI SoNo I NOMI E GLI ANNi DI USCITA PER TuTTe LE cANZONI DEL CANtaNTe PIù GIOvaNE?",
+        "q_id": 7
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUALi SONo TUTTI paeSI DiSTiNtI da CUI PROVeNGoNo i CANtANTI dI ETÀ SuPERiORE AI 20 AnnI?",
+        "q_id": 8
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUALI soNo I DiVeRSI PaESI CON caNTANti DI ETà SUPerIORe AI 20 ANNI?",
+        "q_id": 9
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "mOSTRA TutTi i pAEsI E IL nUmerO Di caNTANTI IN OgNI PAESE.",
+        "q_id": 10
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUANTI cANTANtI SONO DA ognI PAEse?",
+        "q_id": 11
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "ELenCa tUtTI i NoMI DeLLE CANzONi DI CAnTAnTI AL DI SOPRa DELL'eTÀ MEDIA.",
+        "q_id": 12
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "quALI SONO TuTTi i nOmI DellE CANzoNI DEI CanTANTI pIÙ vECChI DELLa MEDIA?",
+        "q_id": 13
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "mOStRa POSIZiONe E NOmE pER TUtTI gLI sTAdI cON uNA CApACITÀ TRA 5000 E 10000.",
+        "q_id": 14
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUALI SONo LE POSIZiONI e I NOMI DI TUttE LE STaZIONI cON CaPacItà TrA 5000 e 10000?",
+        "q_id": 15
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUAL È La MaSSIMA CAPaCITÀ E LA MeDiA di tUTTI GLI StaDI?",
+        "q_id": 16
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUAli SONO LE cAPACITÀ MEDiE E maSsIMe PEr tUTTi GlI STAdI?",
+        "q_id": 17
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUAL è IL NOme E La CaPACITÀ DeLlO STADIo cON La PIù ALtA fReQUENZA MEDIA?",
+        "q_id": 18
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "quAl È iL NOME E La cAPACITÀ DELlo STAdiO CON lA PIÙ ALTA fReQUENZa MeDIA?",
+        "q_id": 19
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUAnTI CONceRTI Ci soNO nELL'ANNO 2014 o 2015?",
+        "q_id": 20
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUANTI COnCERTi SI SOnO VERIFICAti nEl 2014 O nEL 2015?",
+        "q_id": 21
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "mOStRA IL noME dElLo sTADIO e Il NUmErO DI coNCERtI IN OGNI sTADIO.",
+        "q_id": 22
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "peR oGnI STADIO, quANTI CONCeRTI sUONANo LÌ?",
+        "q_id": 23
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "MOSTRA IL NOMe E LA CaPACiTà DElLo STADIO COn lA MAgGIoR PArTE DEI COnCERTI NELl'aNNO 2014 o dOPO.",
+        "q_id": 24
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUAl È il NoME E LA caPACItÀ dELLO STAdIO CON Il mAGgIOR NUMeRO Di CONCErTI DOPO Il 2013?",
+        "q_id": 25
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "IN cHE ANNO hA La MAGGiOR PARTe DeI CONceRTi?",
+        "q_id": 26
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUaL è L'ANNO CHE hA AvUTO IL MAGGiOR nuMeRo DI CONCERTi?",
+        "q_id": 27
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "mOsTRA I nOMI dELLO STADIo SENzA ALcUN CoNcErTO.",
+        "q_id": 28
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qualI SONO i nOmI dEGLi STADI SENZA COncERtI?",
+        "q_id": 29
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "mOSTRA PAESI dA CUI pROVENGOnO UN CAnTANTE dI ETà SuPERIORE AI 40 ANNI e un cAnTANte iNFERIORE a 30.",
+        "q_id": 30
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "mOStRA NoMI PER TutTI GLI STADI AD eCCEzIONE DEGLI STaDI CHE HANNO uN cOnCeRtO NelL'anno 2014.",
+        "q_id": 31
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUALI SoNO I NOmi dI TUttI gLI sTADi CHE NoN HaNnO AVUtO UN CONCERTO NEL 2014?",
+        "q_id": 32
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "MOSTRa iL NOME E IL TEMA PEr TUTTi i CoNCERti E IL NUMerO Di CANTaNTi IN oGNI CONCERTo.",
+        "q_id": 33
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "QUALI SOnO i NOMI, I TeMI E IL nUMErO dI CANTAnTI PeR OGni cONCeRTO?",
+        "q_id": 34
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "eLeNcA I Nomi DEi CANTAnTI E IL nuMERo dI cONCERti PER oGNI CANTAnTE.",
+        "q_id": 35
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "QuALI sONO i nOMi DEI cANTANtI E il NUMeRO dI CONCERTI PEr OGNI PERsoNa?",
+        "q_id": 36
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "eLEnCA TUTtI i NomI DEI caNTANTI In CONcERtI nElL'ANNO 2014.",
+        "q_id": 37
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "QUALi SonO I nOMI dEi CANTANtI CHE SI SONo ESIbiTI IN UN CoNceRTO NEL 2014?",
+        "q_id": 38
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUAL È IL NoME e lA NAZiOnE Del cANTANTe CHE HANNo UNA CaNZOnE cHE HA \"EHi\" nEl SUo noME?",
+        "q_id": 39
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUAl È iL NoMe E IL PaESE Di orIGInE DI OGNi CaNTAntE CHE hA UNA CANzONE cON LA pARoLa \"HEY\" nEl SUO TItOLO?",
+        "q_id": 40
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "TROvA iL NOME E La POSIZIONE dEGLI StaDI CHe SONO AVVeNuTi ALCUNi COnCERtI NEGLI aNnI DeL 2014 E Del 2015.",
+        "q_id": 41
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUaLi SoNO I NOMI E LE PoSiZIoNI DEGLI stADI Che HANNO AVUTO CoNCERTi CHE SI SONO VERIFiCaTi SIa NEl 2014 ChE nEl 2015?",
+        "q_id": 42
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "tROvA il NUMeRO DI CONCerTI cHE È AVvEnuTO NElLO StADIo COn lA MAsSImA CAPaCItÀ.",
+        "q_id": 43
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "qUalI SoNO IL NUMERO DI COnCERTI AvVENUTI NeLLO STAdio con lA PIÙ GrAnDE CApACItÀ?",
+        "q_id": 44
+    },
+    {
+        "db_id": "pets_1",
+        "question": "TROVA IL numERO DI ANIMaLI DOMESTiCi IL CUI pESO È pIÙ pESANTe dI 10.",
+        "q_id": 45
+    },
+    {
+        "db_id": "pets_1",
+        "question": "qUANtI ANiMALI DoMESticI HanNO UN pESo MAgGIORE Di 10?",
+        "q_id": 46
+    },
+    {
+        "db_id": "pets_1",
+        "question": "trOVA il PESO DEL CANe PIÙ GIoVaNe.",
+        "q_id": 47
+    },
+    {
+        "db_id": "pets_1",
+        "question": "QUAnTO pESA iL CANE PIÙ GioVANE?",
+        "q_id": 48
+    },
+    {
+        "db_id": "pets_1",
+        "question": "tROVA IL PESO MASsImO PeR OGNI TIPO DI anIMaLE dOmESTIco.eLencA Il PESO mASSIMO E Il TIPo DI aNIMAlE DOMEsTIcO.",
+        "q_id": 49
+    },
+    {
+        "db_id": "pets_1",
+        "question": "eLENCA Il PESO MaSSIMO e Il tIPO pER OGnI tIPO Di ANImALe DOMESTICo.",
+        "q_id": 50
+    },
+    {
+        "db_id": "pets_1",
+        "question": "trOVA IL nUmERO DI aNIMALI DOMestICI DI PrOpriETÀ DI STUDENtI DI EtÀ sUPERIORe AI 20 aNNI.",
+        "q_id": 51
+    },
+    {
+        "db_id": "pets_1",
+        "question": "quAnTi AnIMAlI DOmESTICI SONO DI PROPrIeTÀ Di STudENTI che HANNO UN'ETÀ SUPeRIORe A 20?",
+        "q_id": 52
+    },
+    {
+        "db_id": "pets_1",
+        "question": "tRovA IL NuMERO Di ANimalI DoMESTICI chE SoNO AlLEVATI DA STUDeNTESSe (CON SeSSO f).",
+        "q_id": 53
+    },
+    {
+        "db_id": "pets_1",
+        "question": "qUaNTI ANIMALI dOMESTiCI sONo AllevATI DA sTUDENTEsSE?",
+        "q_id": 54
+    },
+    {
+        "db_id": "pets_1",
+        "question": "trOVA Il NUMERo di tIPI DIStINtI DI aNImALI DOMESTIcI.",
+        "q_id": 55
+    },
+    {
+        "db_id": "pets_1",
+        "question": "qUANTI DIVerSI TIPI Di aniMAlI DOMESTICI CI Sono?",
+        "q_id": 56
+    },
+    {
+        "db_id": "pets_1",
+        "question": "trOVA Il nOme DEGlI STUDeNTI chE HANNO UN AnIMalE DOMeSTICO PER GaTTI O CanI.",
+        "q_id": 57
+    },
+    {
+        "db_id": "pets_1",
+        "question": "QuALI SonO I PRIMI NoMI DI oGNI StUDenTE CHE hA un GATto O UN CanE COME aNIMALE doMeSTiCO?",
+        "q_id": 58
+    },
+    {
+        "db_id": "pets_1",
+        "question": "TROVa Il NOME dI STUdeNTI CHe HAnNO AnIMAli DOMESTICi sIa DI gATtI ChE DI CANe.",
+        "q_id": 59
+    },
+    {
+        "db_id": "pets_1",
+        "question": "quALI SONo I NOmi DeGLi STUDENTi CHE HAnnO sIA GAtTI ChE CaNI Come aNImALI DOMEStICI?",
+        "q_id": 60
+    },
+    {
+        "db_id": "pets_1",
+        "question": "trOVA iL MAgGIOrE E L'eTÀ DEglI STUDeNTI CHE NOn HANnO UN AnImaLe DoMEsTICO.",
+        "q_id": 61
+    },
+    {
+        "db_id": "pets_1",
+        "question": "qUALe MAGGIoRE è oGNI STuDenTE cHE NON POsSIEDe UN GaTtO COMe ANIMALe DoMEsTiCo, e ANCHE QUANTI ANnI HaNNO?",
+        "q_id": 62
+    },
+    {
+        "db_id": "pets_1",
+        "question": "TROva L'iD DEGLI StUdeNTI ChE NON hANnO un ANIMALE DOMEStIcO.",
+        "q_id": 63
+    },
+    {
+        "db_id": "pets_1",
+        "question": "QUALI SONO GlI iD DeGli sTUDeNTi ChE NON PoSSiEDoNO i GATTi cOmE ANiMALI DOmESTiCI?",
+        "q_id": 64
+    },
+    {
+        "db_id": "pets_1",
+        "question": "TROvA IL nOME e L'ETÀ DEGLI STUDENTI cHE HANNO uN CANe MA NoN haNNO uN gATTO COME AnIMAle DOMESTiCo.",
+        "q_id": 65
+    },
+    {
+        "db_id": "pets_1",
+        "question": "quaL è Il NoME DI OGNi STUDENtE CHe hA Un cANE MA NOn HA UN gATTO?",
+        "q_id": 66
+    },
+    {
+        "db_id": "pets_1",
+        "question": "tROVA Il TIPO E iL PEso dELL'AnImALE pIÙ GIovANE.",
+        "q_id": 67
+    },
+    {
+        "db_id": "pets_1",
+        "question": "CHE TiPO DI anIMALe DOMeStICO È L'ANIMAlE pIÙ GIoVANE E QuaNTO Pesa?",
+        "q_id": 68
+    },
+    {
+        "db_id": "pets_1",
+        "question": "TROvA L'id E IL pesO DI TuTti GLI ANImALi DOmEsTICI lA cUI ETÀ È PiÙ VECcHia DI 1.",
+        "q_id": 69
+    },
+    {
+        "db_id": "pets_1",
+        "question": "QUAL È L'id E Il PESo dI OgNi AnIMAlE DOMESTico cHE HA PIù DI 1?",
+        "q_id": 70
+    },
+    {
+        "db_id": "pets_1",
+        "question": "tROVA L'ETÀ mEdIa E MaSSImA PeR OGNI TIPO DI anIMaLe dOmEstICO.",
+        "q_id": 71
+    },
+    {
+        "db_id": "pets_1",
+        "question": "qUaL È l'eTÀ MEDIA e MaSsIMa PER oGNi TipO DI ANiMALE DOMEsTicO?",
+        "q_id": 72
+    },
+    {
+        "db_id": "pets_1",
+        "question": "trOVA IL PESO MedIO pER CiASCuN TIPO DI AnIMALe doMEStICo.",
+        "q_id": 73
+    },
+    {
+        "db_id": "pets_1",
+        "question": "quAl è IL PESO MEDiO PER OGnI TIPO DI ANIMAlE DOmEsTICo?",
+        "q_id": 74
+    },
+    {
+        "db_id": "pets_1",
+        "question": "trOVA IL NOME e l'ETÀ DeGlI STUDENTI Che haNNO UN aniMAlE DOmESTICo.",
+        "q_id": 75
+    },
+    {
+        "db_id": "pets_1",
+        "question": "QuALI SONo I dIVeRSI NOmI e SECOLI DeGlI StuDenTi CHe HaNNO ANIMALI dOMEsTiCI?",
+        "q_id": 76
+    },
+    {
+        "db_id": "pets_1",
+        "question": "tRoVA L'id DelL'aNIMALe Di pRoPRIEtÀ dI sTUDEnT Il CUi COGnOME È \"sMITH\".",
+        "q_id": 77
+    },
+    {
+        "db_id": "pets_1",
+        "question": "QuAL È L'id DelL'ANImALe DI pROpRIETÀ dElLO sTuDENte IL CUI COGNOMe È \"sMItH\"?",
+        "q_id": 78
+    },
+    {
+        "db_id": "pets_1",
+        "question": "tROVA IL nUMeRO DI ANImAlI DOmEsTICi PeR OgNi STUDENTE cHE HA UN DocuMeNTO DI IDeNTITà cOn anImaLI doMeSTICI E STUDENTE.",
+        "q_id": 79
+    },
+    {
+        "db_id": "pets_1",
+        "question": "pER GLI STUDENTI cHE HaNNO ANIMalI DomesTICI, qUANTI AnImALi DomeSTiCI HA oGNI STUDENtE?eLEncA I LORO id INveCE dI NOmI.",
+        "q_id": 80
+    },
+    {
+        "db_id": "pets_1",
+        "question": "trOVa IL NOME E Il gENERE DELLO sTuDenTe ChE haNNO PIÙ DI UN ANIMALE DoMESTICO.",
+        "q_id": 81
+    },
+    {
+        "db_id": "pets_1",
+        "question": "QUaL è Il nOME E IL gENERe Di TUTtI GlI STuDENTi Che HAnNO PIÙ Di Un ANImAle DOMESTICO?",
+        "q_id": 82
+    },
+    {
+        "db_id": "pets_1",
+        "question": "TROVa IL cogNOMe DElLo STUDENtE CHE Ha uN GATTo CHE Ha 3 aNNI.",
+        "q_id": 83
+    },
+    {
+        "db_id": "pets_1",
+        "question": "qUAL È IL COGNoME dELLo sTuDENTE CHe Ha UN GaTto CHE HA 3 aNnI?",
+        "q_id": 84
+    },
+    {
+        "db_id": "pets_1",
+        "question": "tROVa L'eTÀ MEdIA DeGli StudeNTI CHE NON HANNO ALCUn aNImAlE DoMeSTICO.",
+        "q_id": 85
+    },
+    {
+        "db_id": "pets_1",
+        "question": "qUAL È l'etÀ MEDIA PER TuTTI GLI STUdEnTI chE nON POsSIedONO ANiMAli DOMEStICI?",
+        "q_id": 86
+    },
+    {
+        "db_id": "car_1",
+        "question": "QuANtI coNTINENtI CI sONO?",
+        "q_id": 87
+    },
+    {
+        "db_id": "car_1",
+        "question": "quAL È Il nUMerO DI CONTInEnTI?",
+        "q_id": 88
+    },
+    {
+        "db_id": "car_1",
+        "question": "quANTi PAEsi Ha OGNI CoNTINENTE?eLEnCA L'Id cONTInEnTE, IL NomE DEL contINENTE E IL NUMERo DI pAESI.",
+        "q_id": 89
+    },
+    {
+        "db_id": "car_1",
+        "question": "pER OGNI cOntINENTE, ELeNCA IL sUo id, IL NOMe E qUaNTI pAEsI hA?",
+        "q_id": 90
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUANtI pAESI sONO eLeNCATi?",
+        "q_id": 91
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUANTi PAEsI ESistONO?",
+        "q_id": 92
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUAnTI MODeLLI PRODUCe OgNi PrODUTTORE AUTOmoBIlIstICO?ELEnCO nOME COMPLeto, id E NUMERo.",
+        "q_id": 93
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUaL È il NOME COmPLETo dI oGnI PRODUTTORE dI auTo, INSIeME Al SUO Id e A QuAnTI MOdELLi PRODUCE?",
+        "q_id": 94
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUALe MoDELlO DELL'AUto Ha La PoTENZA MINIma?",
+        "q_id": 95
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUAL È iL mODELLo DELL'AUTo COn lA più PICCOLA QUANtITÀ DI POtEnZa?",
+        "q_id": 96
+    },
+    {
+        "db_id": "car_1",
+        "question": "tROVA IL mODELlO deLL'AUTO Il cuI PESO È AL dI SOTTo dEl PESO MeDIo.",
+        "q_id": 97
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUaL È IL mODELLO PER L'aUTO CON UN pEsO InFERIORe ALla meDIA?",
+        "q_id": 98
+    },
+    {
+        "db_id": "car_1",
+        "question": "tROVA IL NOME DEI ProDUTTORI ChE haNNO ProDotTO ALcUnE aUTo NeLL'AnNO 1970?",
+        "q_id": 99
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUal è iL NOmE DeI DIVERsI PRoDUTTORI DI autOMOBIlI ChE HANNO PRoDOTTO uN'AUto nEL 1970?",
+        "q_id": 100
+    },
+    {
+        "db_id": "car_1",
+        "question": "troVA iL TEMPO DI MARCA E PROdUZIONE dELLe AUTo PROdOTTe NeL PrIMO anNo?",
+        "q_id": 101
+    },
+    {
+        "db_id": "car_1",
+        "question": "quAL è IL PrODUtToRe dI cArR pRODoTTO NEL pRiMO AnNO E In CHE aNNO È StATo?",
+        "q_id": 102
+    },
+    {
+        "db_id": "car_1",
+        "question": "quALI mODElLI DI AUTo DISTiNTE SoNo pRODoTTI DoPO IL 1980?",
+        "q_id": 103
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUALI SONO I DIVerSi mODELLI PER LE CARtE prODOtTE DOPo IL 1980?",
+        "q_id": 104
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUANTI pROduTTORi Di AUTOMOBILI cI SONO IN oGNI CONtINENTE?ELeNCA IL NoME DEl COnTiNenTe E IL COnTeGGIO.",
+        "q_id": 105
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUAL È IL NOME DI oGni cONTiNENTe E QUANTi PROdUTtOri Di auTOMOBILi Ci SONo IN oGNUno?",
+        "q_id": 106
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUalE Dei PAESI HA LA MAGGIOr PaRTe DEI prOduTToRI DI AUToMOBILI?ElENCA Il NOME DEl pAEsE.",
+        "q_id": 107
+    },
+    {
+        "db_id": "car_1",
+        "question": "quAL È Il NOME DEL PAeSE cON LA MAGgIOr PArTE DEi PRODUTtoRI di AuTOMOBilI?",
+        "q_id": 108
+    },
+    {
+        "db_id": "car_1",
+        "question": "quAnTi mODelLi DI AUTO SoNO pRodOTTI Da oGNI pRODUtTORE?ElENcA SOLO iL CONTEGGIo E Il NOME cOMPLETO DEL prODUTTORE.",
+        "q_id": 109
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUaL è IL nUMERo DI MOdELLi dI AUTO CHE SoNO PRODOTTI da OGNI proDUTTOrE E QuAL è L'id e il nOME CoMPleTO DI OGNI PROduTTORE?",
+        "q_id": 110
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUAL è L'ACCELERAZiOnE dElL'AUtO mAKInG amc hORNET SpoRTaBOUt (Sw)?",
+        "q_id": 111
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUaNTo aCCElERA L'AUTO CHE reNDE amC HORNET spORTaBOUt (sw)?",
+        "q_id": 112
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUANTi PRODUttOri dI AUtOmoBILI CI sONO iN fRANCIA?",
+        "q_id": 113
+    },
+    {
+        "db_id": "car_1",
+        "question": "quAL È IL NUMERo DI PROduTtori di cURe IN fRANCIA?",
+        "q_id": 114
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUANTI mODELLI DI aUTO sONo pRoDoTTI NEGLi sTaTi uNIti?",
+        "q_id": 115
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUAL È iL COnTEgGIo DEI MOdELli dI AuTO pRODoTTI NEGLI sTATI unIti?",
+        "q_id": 116
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUAl è Le mIGLIA MEDIe PER GALlONe (MPG) DElLE AUTO COn 4 CIlINDRI?",
+        "q_id": 117
+    },
+    {
+        "db_id": "car_1",
+        "question": "quAL È le MIGliA MEDIE per gALLOnE DI tUTTE Le CaRTE CON 4 CILINDRI?",
+        "q_id": 118
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUAL È IL PESO PIù PICcOlo DELL'aUTo PRoDOTTA cON 8 ciLInDRI NeL 1974?",
+        "q_id": 119
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUAL è IL PEsO MInImO dELL'AUto cON 8 CILInDRi PrODOTTI nEl 1974?",
+        "q_id": 120
+    },
+    {
+        "db_id": "car_1",
+        "question": "COSA soNo TUTTI I PRODUTTORI E I mODellI?",
+        "q_id": 121
+    },
+    {
+        "db_id": "car_1",
+        "question": "COsA SoNO I PRodUTTORi E I MODELLi?",
+        "q_id": 122
+    },
+    {
+        "db_id": "car_1",
+        "question": "CosA HAnNO I PAESI CHe HANNO ALmENO Un PRODuTtOrE di AUto?nOME eLENCO E Id.",
+        "q_id": 123
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUaLI SONo i NoMi e GLi id DI TutTi I PAESi cON aLMENO UN proDUTToRE AUTOMOBILIsTICO?",
+        "q_id": 124
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUAL È Il NUMeRO DELLe aUtO coN POTeNZA PIÙ DI 150?",
+        "q_id": 125
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUAL è IL NuMERO di AUtO Con UNA pOTENZA suPERIORE A 150?",
+        "q_id": 126
+    },
+    {
+        "db_id": "car_1",
+        "question": "QuAL È IL PESO MEDIo DELle auTO OGni ANNO?",
+        "q_id": 127
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUAl È IL PESO medIO E L'AnNO pER OGnI ANNO?",
+        "q_id": 128
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUALI PAESI iN EuropA hANNO ALMENO 3 cASe AUTOmoBIlISTIChE?",
+        "q_id": 129
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUaLI SONO I NOMi dI TUTtI I paEsi EuROpEI CoN ALmENO 3 PRODuTTORi?",
+        "q_id": 130
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUAL è LA POTEnZA MASsImA E LA MArCA DEI moDElLI DI AUtO CON 3 CIlindRI?",
+        "q_id": 131
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUAL È LA pIÙ GraNdE QUANtITÀ DI POTeNza PER I MODELli COn 3 CIlInDRi E ChE COsA È?",
+        "q_id": 132
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUaLe MODEllo cOnSENTE DI RISPARMIare PIÙ BEnZINA?vaLe A DIRE, AvERE lE MIGLIA mAsSiME PEr GaLLoNE.",
+        "q_id": 133
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUAL È IL MODELLO dI auTo CON IL mPg piÙ ALtO?",
+        "q_id": 134
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUAL È LA pOTENZa MEdIA DELlE AutO pRiMA dEL 1980?",
+        "q_id": 135
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUAl È LA POTENzA mEDiA PER TUTTe lE aUTO pRODOTTE PRiMA DEL 1980?",
+        "q_id": 136
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUAl È L'edIsPL MEDiO DELLE AUTo DEL mODELLo vOLVo?",
+        "q_id": 137
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUAl è L'ediSpl MEDIO pEr TUTtI I vOLVOs?",
+        "q_id": 138
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUAl È L'ACcELERAZIONE MASSiMa PeR IL DIVERSO NumERO dI cILinDrI?",
+        "q_id": 139
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUAl È L'ACCELERAZIOnE mASsIMA pEr tuTTI I DIVERsI CILInDRI?",
+        "q_id": 140
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUALE mODELLO hA lA PIÙ VERSIONE (mAKe) DELlE aUTO?",
+        "q_id": 141
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUALe MODELLO Ha LE vERsIOni PIÙ diVERSE?",
+        "q_id": 142
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUANTE AUTO HAnNO pIÙ DI 4 CILIndrI?",
+        "q_id": 143
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUAL È iL nUMeRO dI aUto CoN PiÙ DI 4 CiLINDRI?",
+        "q_id": 144
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUANtE AUto SoNo STatE PROdOTTE NeL 1980?",
+        "q_id": 145
+    },
+    {
+        "db_id": "car_1",
+        "question": "neL 1980, QuaNTE autO sONO STATe rEALIzZAtE?",
+        "q_id": 146
+    },
+    {
+        "db_id": "car_1",
+        "question": "quANTI MOdelLI DI AUTO SoNo StATi PRODOTTI DAL pROdUTtORE cOn NOME cOMPlETO aMErICaN mOTOr COMpANY?",
+        "q_id": 147
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUAl è Il nuMERo Di MoDElLI DI AUTomoBILI CREatI DAlLA COMpAGNIA AUToMObILISTIcA AMERiCANA?",
+        "q_id": 148
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUaLi PRODUTTOrI hANNo prOGEtTaTO pIÙ DI 3 MODeLLI DI aUTO?eLENCA Il nOMe COMPlEto E l'id.",
+        "q_id": 149
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUALi SONO i noMI E GLI iD DI TutTI I PRoDuTTorI CON PIÙ DI 3 MoDelLI?",
+        "q_id": 150
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUALi MoDELLi DISTInTiVI SONo pRODOTTI DAL pRODUTTorE COn iL noMe CoMPLETo dI moTORI GENERALI O PeSanO PIÙ DI 3500?",
+        "q_id": 151
+    },
+    {
+        "db_id": "car_1",
+        "question": "quAlI SoNO I dIvErSI MODELLI CReATI DAi MOTORI GENERALI DEL maKER cAr O PesavAno PIÙ dI 3500?",
+        "q_id": 152
+    },
+    {
+        "db_id": "car_1",
+        "question": "iN QUAlI anNi vENIVANO PRODOtte Le AuTO chE PESAVANO noN MENO dI 3000 e nON PiÙ DI 4000?",
+        "q_id": 153
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUAli SONo GLI anNI DIVErSI IN CUI c'ERaNO AUTO PRoDOTTe cHE PesaVANO MENO Di 4000 E AnCHE aUTO CHE PeSAvANO PIÙ DI 3000?",
+        "q_id": 154
+    },
+    {
+        "db_id": "car_1",
+        "question": "QUAL È La pOTENZa DELL'AUTo coN L'aCCELERAzIOnE PIÙ GRAnDE?",
+        "q_id": 155
+    },
+    {
+        "db_id": "car_1",
+        "question": "quAl È LA POTENza DElL'AuTO CON IL PiÙ GraNDE ACCEleRAZiONe?",
+        "q_id": 156
+    },
+    {
+        "db_id": "car_1",
+        "question": "PEr IL MODeLLO VoLVO, quANtI cILINDrI Ha L'AUTo CoN IL MeNO ACCELERaTO?",
+        "q_id": 157
+    },
+    {
+        "db_id": "car_1",
+        "question": "peR UN MODELLO voLVo, QUaNtI CILINDrI ha La VERsioNE COn MeNO aCcELERaTO?",
+        "q_id": 158
+    },
+    {
+        "db_id": "car_1",
+        "question": "quANte AUTO HANno UN ACCElERATo PIÙ GRANDe DELL'AUtO CoN LA pOtenZa pIÙ GrANDE?",
+        "q_id": 159
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUAL È iL nUMeRo DI AUTo con uN ACceLERATO MAgGIORE DI QUElLo CON Più POTENZA?",
+        "q_id": 160
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUAnTi PaeSI HANnO PIÙ dI 2 ProDUTTORI DI aUTo?",
+        "q_id": 161
+    },
+    {
+        "db_id": "car_1",
+        "question": "quaL È IL NuMERO DI PAeSI CON PIÙ DI 2 PRODUTtoRI DI AUtoMOBiLI?",
+        "q_id": 162
+    },
+    {
+        "db_id": "car_1",
+        "question": "quaNTE AUTO HANNO OLTRe 6 CilInDrI?",
+        "q_id": 163
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUAL è IL NUMERO Di aUtO CoN OLTRE 6 cILINdRi?",
+        "q_id": 164
+    },
+    {
+        "db_id": "car_1",
+        "question": "pEr Le AUTO CON 4 CILiNDRi, quALe moDELLO HA LA POtENzA PIÙ GRANDe?",
+        "q_id": 165
+    },
+    {
+        "db_id": "car_1",
+        "question": "pER tUTTe LE AUTO A 4 cIlINdrI, QUALe MODeLLO hA PiÙ cAvALlI?",
+        "q_id": 166
+    },
+    {
+        "db_id": "car_1",
+        "question": "tra Le AUTO CON pOTeNZa PIù cHe Più BASSA, QuaLI NoN haNNO PIÙ Di 3 CiliNDRI?ELENCA LA mACCHINA pER CALArE E FAI Il NoME.",
+        "q_id": 167
+    },
+    {
+        "db_id": "car_1",
+        "question": "tRA lE AUTO CHe NON hANNO lA POTEnZa MINIMA, QuALI SONO I dOcUMeNTI dI RENDiMeNTO E nOMI DI TUTTi QuELlI COn MeNo dI 4 cILINDrI?",
+        "q_id": 168
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUAl È LE MIGlIA MASSime peR GALLOnE DELl'AUTO cON 8 CILINdRI O pRODoTTE PRiMa DEL 1980?",
+        "q_id": 169
+    },
+    {
+        "db_id": "car_1",
+        "question": "quaL È IL MassIMo MPG DELLE AUTO COn 8 CiLINdRI o ChE SoNo STaTI ProDOTtI PrIMA DEL 1980?",
+        "q_id": 170
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUALi ModellI SONO PIÙ LEGGERi Di 3500 MA NoN COSTrUIti DALLA \"FORD MOtOR cOMPAny\"?",
+        "q_id": 171
+    },
+    {
+        "db_id": "car_1",
+        "question": "QuaLI SOno I DIVERSI MODELLI PIÙ LEGGErI DI 3500 MA NON SOnO StATI CosTRUITI DalLA foRd MoToR comPANY?",
+        "q_id": 172
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUaLI sONO IL nomE DEI PAeSi IN CUi NON ESiSTE un SOLo PrOdUTTOrE DI AUTO?",
+        "q_id": 173
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUALi SONO I nOMi dEI PaESi SEnzA PRoDUTTOrI DI aUTOMoBIlI?",
+        "q_id": 174
+    },
+    {
+        "db_id": "car_1",
+        "question": "quAli sONO I prODUTtORI dI AUTO CHe pROdUCoNO ALmENO 2 mODELLI e Più DI 3 PrODUtTORi dI AUTO?eLeNCa L'id E iL CrEATORE.",
+        "q_id": 175
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUALi SoNo gLi Id E I PrOdUTToRI DI TUTTI I pRodUTtORI di auTOMOBILI cHe ProDUCONo aLMeNO 2 MODELlI e PRODUCoNO pIÙ DI 3 AUTO?",
+        "q_id": 176
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUALI SONO L'Id E I noMI DEI PAESi CHe HaNNO pIÙ Di 3 PRoDUTTORI dI AuTomOBiLI O PROdUCONo iL MODeLLo \"fIaT\"?",
+        "q_id": 177
+    },
+    {
+        "db_id": "car_1",
+        "question": "qUALi SONO GLI Id E I NOmI DI tUtTI I PAESI Che HaNNO PIÙ DI 3 PRODutTOrI DI AuTo o PrODUcONo UN mOdElLO FiaT?",
+        "q_id": 178
+    },
+    {
+        "db_id": "flight_2",
+        "question": "a QUAlE PAESE ApPArtIENE \"jETblUe AIRWAyS\" DELLA COMPAGnIa aEReA?",
+        "q_id": 179
+    },
+    {
+        "db_id": "flight_2",
+        "question": "cON QUaLE paESe È AfFIlIaTo jETbLue aIRWAYS?",
+        "q_id": 180
+    },
+    {
+        "db_id": "flight_2",
+        "question": "QUAL È L'ABBREVIAZIOnE dElLA coMpAGNIA AeREA \"jETblUE AIrWaYs\"?",
+        "q_id": 181
+    },
+    {
+        "db_id": "flight_2",
+        "question": "QUALE ABbrEVIAzIONE cORRIspONDe a jeTbLUE aIRWaYS?",
+        "q_id": 182
+    },
+    {
+        "db_id": "flight_2",
+        "question": "eLEncA TuTti I NOMI DeLLE cOmPAgNiE AEREE E LE LORO ABbREviAziONi In \"usA\".",
+        "q_id": 183
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUAlI sONO I NoMi DELLE COMpAGnIE AeREE E Le aBBRevIAziOnI pER LE CoMPaGNiE AEREE NeGLI sTATI uNITI?",
+        "q_id": 184
+    },
+    {
+        "db_id": "flight_2",
+        "question": "ELeNCA IL CodICe DELL'AeROPORTO e Il NOMe NElLA CITTà DI aNTHONY.",
+        "q_id": 185
+    },
+    {
+        "db_id": "flight_2",
+        "question": "dAI IL COdICE DelL'AEROPorTO E IL NomE dELL'AErOPORTO CoRRISPonDENTe AllA CITtÀ aNthONY.",
+        "q_id": 186
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUANte COMpaGNiE AEREE abBIaMO?",
+        "q_id": 187
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUAL È IL NUMeRo tOTAlE DI COmPAgNiE aEREE?",
+        "q_id": 188
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUaNTI AErOPOrti ABBIAMo?",
+        "q_id": 189
+    },
+    {
+        "db_id": "flight_2",
+        "question": "rEstITUisCE Il NUMeRo DI AEROPORtI.",
+        "q_id": 190
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUAnTi VoLI aBBIAMO?",
+        "q_id": 191
+    },
+    {
+        "db_id": "flight_2",
+        "question": "rEStiTUISCE il NUMeRO dI VoLi.",
+        "q_id": 192
+    },
+    {
+        "db_id": "flight_2",
+        "question": "QUALe CompAGNIa AERea HA L'ABBreVIaZiONE \"UAL\"?",
+        "q_id": 193
+    },
+    {
+        "db_id": "flight_2",
+        "question": "dAI alLA COMPAgNIa AEREA cON abbReVIAZIONe 'UAl'.",
+        "q_id": 194
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUANTE cOMPAGnIe AEREE soNo dAGLI stATI uNITi?",
+        "q_id": 195
+    },
+    {
+        "db_id": "flight_2",
+        "question": "rEStItUISCE Il NuMERO DI COmPagNIE AeRee NegLI sTATI UNITI.",
+        "q_id": 196
+    },
+    {
+        "db_id": "flight_2",
+        "question": "iN qUaLe CIttÀ e PAESE È l'AEROPoRTO DI alTOn?",
+        "q_id": 197
+    },
+    {
+        "db_id": "flight_2",
+        "question": "dai LA CITTÀ e Il PAeSE PER l'AEROPoRtO di aLtON.",
+        "q_id": 198
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUAl È IL NOME DELl'AEROPORtO PER l'AErOPORTo \"ako\"?",
+        "q_id": 199
+    },
+    {
+        "db_id": "flight_2",
+        "question": "ResTITUiSCE IL NoME DELL'AErOPoRtO COn Il CODIcE \"aKO\".",
+        "q_id": 200
+    },
+    {
+        "db_id": "flight_2",
+        "question": "CoSA SONo I NoMI DeGLi AeROPORTi A ciTy \"aBERDEEN\"?",
+        "q_id": 201
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUAli sOnO I nOmi DEgLI AEROpoRTI DI aBERDEEN?",
+        "q_id": 202
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUANtI Voli pARtONO DA \"Apg\"?",
+        "q_id": 203
+    },
+    {
+        "db_id": "flight_2",
+        "question": "coNTa IL NUmErO di VOLI IN PaRTEnzA DA \"aPg\".",
+        "q_id": 204
+    },
+    {
+        "db_id": "flight_2",
+        "question": "QUANTI VoLI hANNO DEStInaTiON aTO?",
+        "q_id": 205
+    },
+    {
+        "db_id": "flight_2",
+        "question": "COntA Il NUMeRo DI vOLI IN aTo.",
+        "q_id": 206
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUaNtI vOLI ParTONO DA ciTY AbERdEEN?",
+        "q_id": 207
+    },
+    {
+        "db_id": "flight_2",
+        "question": "rEsTiTuISCE IL NUmERo DI vOLI IN PaRtENzA dA abERDEEN.",
+        "q_id": 208
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUANTI VOLi In ARRIVO A aBeRdEEN cIty?",
+        "q_id": 209
+    },
+    {
+        "db_id": "flight_2",
+        "question": "reSTITuIScE IL nUMErO Di VOLI IN ARriVO AD aBerDEEN.",
+        "q_id": 210
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUaNTI vOli PARTONO dA CITy \"ABerDeEN\" E HAI lA cITtÀ DI DEStINAZiONe \"ASHLEY\"?",
+        "q_id": 211
+    },
+    {
+        "db_id": "flight_2",
+        "question": "quAnti vOLI VOLaNO DA ABERDEEN Ad aSHLEY?",
+        "q_id": 212
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUANTI voLI HA \"JETBlUE aIRWAyS\" DeLLa CompaGnIA AEReA?",
+        "q_id": 213
+    },
+    {
+        "db_id": "flight_2",
+        "question": "dAI IL NUMERo DI VoLI JEtblUe AiRwAYs.",
+        "q_id": 214
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUANTi vOLI \"unITED aIRLiNES\" VANNO ALL'aEropORTO \"asy\"?",
+        "q_id": 215
+    },
+    {
+        "db_id": "flight_2",
+        "question": "coNTA iL nUMERO DI VOLI DeLLA unITeD aiRLiNeS CHE ARRIVANO alL'aEROPOrtO asy.",
+        "q_id": 216
+    },
+    {
+        "db_id": "flight_2",
+        "question": "quaNtI vOlI \"uNITED aIRlINES\" PARtoNO DAlL'AeROpORTO \"aHd\"?",
+        "q_id": 217
+    },
+    {
+        "db_id": "flight_2",
+        "question": "reSTITUiScE Il nuMerO DI VolI DELLA uNiTED AIRLINES IN pArTENZA DAlL'AEroPOrto ahd.",
+        "q_id": 218
+    },
+    {
+        "db_id": "flight_2",
+        "question": "QUANTi VoLI DELLA unITED aiRlInes VANno IN CITTÀ \"aBERDeEN\"?",
+        "q_id": 219
+    },
+    {
+        "db_id": "flight_2",
+        "question": "coNTA IL NUMEro di VOLI dELLa uNIteD AIRlinES CHE ARRIvANO AD abeRdEEN.",
+        "q_id": 220
+    },
+    {
+        "db_id": "flight_2",
+        "question": "QUAlE CItTà Ha lA MAGGIOR pArTE DEI VOLI IN ARRIVo?",
+        "q_id": 221
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUAlE CITtà Ha L'AErOPORto dI DESTiNAZIoNE PIÙ FrEqUENTE?",
+        "q_id": 222
+    },
+    {
+        "db_id": "flight_2",
+        "question": "quAlE CitTà HA lA MAgGIoR pArTE DeI VoLI In PARTENZA?",
+        "q_id": 223
+    },
+    {
+        "db_id": "flight_2",
+        "question": "quALe CITTÀ È L'AeROpoRTO DI FOnTE PiÙ FreQUeNtE?",
+        "q_id": 224
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUAL è il CoDICe DELl'AeROPORtO CHE Ha IL MagGIOr NUMERO Di vOlI?",
+        "q_id": 225
+    },
+    {
+        "db_id": "flight_2",
+        "question": "quAL È IL CODICE DeLl'AeRoPORtO dELL'AeROpoRTO con Il MAGGiOr NUMERO DI VoLi?",
+        "q_id": 226
+    },
+    {
+        "db_id": "flight_2",
+        "question": "QUaL È IL cODICe DELl'AERoPOrtO CHE HA MENO nUmERO DI Voli?",
+        "q_id": 227
+    },
+    {
+        "db_id": "flight_2",
+        "question": "DAI IL cODICE DeLL'AEROPoRtO CON i mInIMi VoLI.",
+        "q_id": 228
+    },
+    {
+        "db_id": "flight_2",
+        "question": "QUAlE COMPAGnIA AEREA HA lA MAGGIoR PARTE dEi VOli?",
+        "q_id": 229
+    },
+    {
+        "db_id": "flight_2",
+        "question": "QUAlE cOMPAGNIA AERea SERVe IL MaGgIOR NUMERO Di vOLi?",
+        "q_id": 230
+    },
+    {
+        "db_id": "flight_2",
+        "question": "tROVA L'AbbrEVIAZIOnE e il PAesE DeLLA CoMPAGNIA aEreA CHE HA MenO numERo DI VOLI?",
+        "q_id": 231
+    },
+    {
+        "db_id": "flight_2",
+        "question": "quAl È L'AbbREViaZIONE DI aIRiLNE HA IL MInOR NUMeRo DI VOLi E In cHE pAESE SI TROva?",
+        "q_id": 232
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUALI sONO lE CoMpAGNIe AERee CHE HAnnO uN vOLO iN PARTENZA DAlL'AeROPORTO \"Ahd\"?",
+        "q_id": 233
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUALI COMPAgNiE AErEE HANNo UN VOLO CoN L'AEROpORtO Di ORIGiNE Ahd?",
+        "q_id": 234
+    },
+    {
+        "db_id": "flight_2",
+        "question": "QUaLi SOno lE COMpAgnIE AeReE CHE haNNO VOLI CHe ArRIVANO aLL'aEROPoRTO \"aHd\"?",
+        "q_id": 235
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUAlI COMpaGNiE aErEe haNNO UN VOLO COn l'AEROpORTO Di DESTINAzIOnE Ahd?",
+        "q_id": 236
+    },
+    {
+        "db_id": "flight_2",
+        "question": "tROVA tuTTe LE CoMPAGNIe AEREE CHe HanNo vOlI da ENTRAMBI GLI AEROPorTI \"apG\" E \"Cvo\".",
+        "q_id": 237
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUaLi cOmPAGNIe AEREE HANNO VOLi iN PARteNZA DAGlI AeROPORTi aPG E Cvo?",
+        "q_id": 238
+    },
+    {
+        "db_id": "flight_2",
+        "question": "tRovA TuTTe lE COMPAGNIE AeREE CHE HaNNO VOLi DALL'aEROPORtO \"cvO\" Ma NOn dA \"apg\".",
+        "q_id": 239
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUALI COmPAGNiE AEreE HAnNO PartENze DA cvo ma NON DagLI aEROPORTI apG?",
+        "q_id": 240
+    },
+    {
+        "db_id": "flight_2",
+        "question": "TROVA tuTTE LE COMPaGnIE aEREE ChE HANnO ALMENo 10 vOLi.",
+        "q_id": 241
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUAlI COMPAgNIE AeREe HAnno ALMENO 10 VOLi?",
+        "q_id": 242
+    },
+    {
+        "db_id": "flight_2",
+        "question": "tROvA TUTtE lE COmPaGNiE AErEE CHE HANnO MeNo dI 200 VOLI.",
+        "q_id": 243
+    },
+    {
+        "db_id": "flight_2",
+        "question": "quALi COMPAgNiE AEREE hAnNO MEnO Di 200 VOLi?",
+        "q_id": 244
+    },
+    {
+        "db_id": "flight_2",
+        "question": "QUalI SONO I NUMeRI DI VOLO DELlA cOMPAGNIa aEReA \"unITeD airLINES\"?",
+        "q_id": 245
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUALI nUMErI DI VOLO CoRRIsPonDONO Ai vOLi dELLA UNITED airLInES?",
+        "q_id": 246
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUALI SONO I nUMErI dI VOlO DI vOlI iN PARteNZa daLL'AErOPORTO \"Apg\"?",
+        "q_id": 247
+    },
+    {
+        "db_id": "flight_2",
+        "question": "dAI IL nUMERO Di VolI di VOLi IN paRTeNzA Da apg.",
+        "q_id": 248
+    },
+    {
+        "db_id": "flight_2",
+        "question": "QUALi SOnO I NuMERi DI voLO DI VOLi CHE ArRIVANO aLL'AEROPOrTO \"aPg\"?",
+        "q_id": 249
+    },
+    {
+        "db_id": "flight_2",
+        "question": "daI IL nUMerO DI VOLO dI VOLI cHE ATTeRRAno ad apg.",
+        "q_id": 250
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUALI SONo iL NUmERO DI VOlI DI VOLi In PaRtENZa DALlA CIttÀ \"aBeRdEEN\"?",
+        "q_id": 251
+    },
+    {
+        "db_id": "flight_2",
+        "question": "daI il NuMeRo DI VoLI dI VOLi IN PaRTENZa DA ABERDEEN.",
+        "q_id": 252
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUALI SoNO IL NUMERo DI voLi Di vOLI cHE ArrIVANO A CiTY \"aBERDEEN\"?",
+        "q_id": 253
+    },
+    {
+        "db_id": "flight_2",
+        "question": "dAI iL NUmErO DI VOLI DI vOLI iN ArRIVO aD ABErDEEN.",
+        "q_id": 254
+    },
+    {
+        "db_id": "flight_2",
+        "question": "TROVa Il NUmErO Di VOlI cHE aTteRrANO NELlA CITTÀ Di aBERdEEN O aBILEnE.",
+        "q_id": 255
+    },
+    {
+        "db_id": "flight_2",
+        "question": "QUANTI voLI AtTERRANo AD abERdEEn O abILENE?",
+        "q_id": 256
+    },
+    {
+        "db_id": "flight_2",
+        "question": "tRovA IL NOme DEGLI AEROPorTI ChE NOn HaNnO AlCUN VoLO DEnTRO E fUoRI.",
+        "q_id": 257
+    },
+    {
+        "db_id": "flight_2",
+        "question": "qUaLI AeroPOrTI NON HaNNO VoLI In PArTEnzA O IN ARRiVO?",
+        "q_id": 258
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "qUANtI DIPeNdENTi CI SoNo?",
+        "q_id": 259
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "cONTa IL nuMeRO DI diPeNDENTI",
+        "q_id": 260
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "ORdinA I NOMi DEi DIpENdeNTI PER LA LORO ETà IN ORDInE cresCENTE.",
+        "q_id": 261
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "eLENCa I NoMI DEI dIPEnDENTI E oRdINA in oRDINE CResCEnTe Di ETÀ.",
+        "q_id": 262
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "quAl È IL NumERo Di DiPENDENtI DI OGNi CITtÀ?",
+        "q_id": 263
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "cONTA IL nUMEro Di DiPENdEnTI PeR OGNI cItTÀ.",
+        "q_id": 264
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "dA QUaLI cItTÀ prOVENgoNO PIÙ DI UN DipEnDENTE DI ETÀ INFeRIorE Ai 30 ANNI?",
+        "q_id": 265
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "TRoVA LE CITTà Che HaNNO piÙ Di Un DIPENDENtE Di ETÀ INFErIORe AI 30 ANnI.",
+        "q_id": 266
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "tROVA Il NuMErO DI NEgOZi iN ogNI PoSIZIONE.",
+        "q_id": 267
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "QUaNTI NegOZi CI SONO IN OGNI POsIZIOnE?",
+        "q_id": 268
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "tROVA IL nOMe DEL DIREtTORe E IL DISTRETTo DeL neGoZIO iL Cui NUMErO DI PrODoTTI È Il PIÙ gRanDE.",
+        "q_id": 269
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "qUAli SONO iL nOmE MANaGER E IL DISTReTTO dEL nEgOZio Che VENDE iL MAGGIOR NUMERO dI PROdoTtI?",
+        "q_id": 270
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "trOVA IL NUMerO MINiMo E MASSIMo DI PROdOTTI Di TuTTI I NeGOZi.",
+        "q_id": 271
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "qUALI sONO iL NuMERo MINiMo e MASsIMO DI PRoDoTTI In TUtti i nEGOzI?",
+        "q_id": 272
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "RESTitUISCE IL NomE, LA POSIzIoNE e IL dIStRETTO DI TUtTI i NEGOZI In ORDINE dECresCENTe DI NUMERO Di pRODOttI.",
+        "q_id": 273
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "oRDiNa tUTTI i nEgOzI PER NUmErO DI PROdoTTi iN ORDINE DECrESCENTe E ReSTitUiSCI IL nOmE, LA POsIzIONE e IL dIStRETtO DI OGNi NEGOZiO.",
+        "q_id": 274
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "TROvA I NOmI DEI nEGoZI I CUI pRoDottI nUMERICi sONO PIÙ DEl NUmeRo mEDIO dI PRODoTTI.",
+        "q_id": 275
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "qUaLi pRoDOTtI NuMERICI DEi NeGoZI sonO AL DI SOPRA DELLA MEdIA?DaMMI I NomI DeL NEGOZiO.",
+        "q_id": 276
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "tROvA iL NOmE dEL DIPEnDEntE A cUi È sTATO asSEGNaTO IL MAGGIOR NumErO DI VoLTE NellA VaLUTAZIOne.",
+        "q_id": 277
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "QUAlE DipenDENTE HA rICEVUTO IL MAGGIOR NUMErO dI pREMI NeLLE VALUtaZIONI?dAMmI iL nOme dEl DIPEndEnTE.",
+        "q_id": 278
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "trOvA Il NOmE DEL DiPENDeNTE CHE hA otTENUTO Il BONUs UNA VoltA PiÙ AlTO.",
+        "q_id": 279
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "qUaLE DiPeNdeNtE HA rICEVuTO IL BonUS PIÙ GranDe?dAmMI IL NOME DEL DiPENDENtE.",
+        "q_id": 280
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "TROVA i NoMI DEi DiPENdENTi CHE NON HAnNO mAI VinTO ALcUN PREMIo nELLA VAlUtAZIonE.",
+        "q_id": 281
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "qUALI SonO I NOMI dEi dIPenDENTI CHE nON HANNO MAI RICevUTO AlcUNA VAlUtaZIONE?",
+        "q_id": 282
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "qUAL è IL NOMe DEL NegOZio chE STa ASSUMENDo IL MAgGIOR NuMero DI DIPENdenTi?",
+        "q_id": 283
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "QUaLe NEgOZIO HA IL MAGgIor NUMErO DI DiPeNDENti?dAMMI Il NOmE dEl NEGOZiO.",
+        "q_id": 284
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "tROVA IL NOmE dei negOZI CHE NOn ASsuMoNO ALcUn dIPENDENTE.",
+        "q_id": 285
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "QuALI nEGOZI fUNZionANO SENZA DIPENdENTI?trOvA I noMI dEL NEGOZio",
+        "q_id": 286
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "tROVA IL NuMeRO DI DipeNdENTI ASSunTI In OGnI nEGOZIO;MosTRA ANChe Il NOME DEl NEGoZIO.",
+        "q_id": 287
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "pER OGNI NEgOZiO, RESTItUiSCE iL NUMErO di DIPeNDeNTI CHe LaVoRANo LÌ E IL NOmE DEl NEGOZio.",
+        "q_id": 288
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "cosA VIENE DaTO IL boNuS TOTAle iN TutTE LE VaLUTAZIOnI?",
+        "q_id": 289
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "TROVa lA QUAnTITÀ TOtAlE Di BONuS INDICATO IN tUTTE Le ValutAzIonI.",
+        "q_id": 290
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "dAmMI TUtte lE INfORMAZiONI SulL'ASSUNZiONE.",
+        "q_id": 291
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "qUAl è TUtTe Le InFoRMAzioNI SULL'ASSUNZIoNE?",
+        "q_id": 292
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "qUaLe DiSTRETTO HA ENtRAMBI I NeGOZI CON MENo DI 3000 PROdOtTi E NegozI CON oLTRE 10000 prODOtTI?",
+        "q_id": 293
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "TROVA I DISTretTI In CUI CI SoNO ENtRAMbI I nEgOzI cHE vendOnO MENO DI 3000 PRODOTTI E NEGOZI CHE VENDONO PIù dI 10000 prODoTTi.",
+        "q_id": 294
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "QuANTE DivERSE pOSIZIONI dEI NegOZI cI sONO?",
+        "q_id": 295
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "cONtArE IL NUMero DI POSIzIoNi DiSTiNTE DEi NeGOZI.",
+        "q_id": 296
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "quaNTI docUMENTi ABBIAMO?",
+        "q_id": 297
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "COnTa il NUMERO DI dOCumENTI.",
+        "q_id": 298
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "eLeNCa iD DOCUMENti, NOmI di DOcUMENTi E DESCRIzIONi dI dOCUMeNTI pER tUTTI i DoCUMenTI.",
+        "q_id": 299
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUAlI SOnO gLI id, I NOMI E lE DeScRIZIoNI PER TuTTi I DoCUmeNtI?",
+        "q_id": 300
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUaL È iL noME dEl DOCUMEnTo E L'iD MoDELLO PEr IL DOCUMeNTo CoN DEscRIZioNE CON LA LettERA \"w\"?",
+        "q_id": 301
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "rEStITUISCI I NOMI e GLI id mODello PER DOCUMENTI ChE CoNTengONo La leTTErA W NELLA LOrO DESCRIZIoNE.",
+        "q_id": 302
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "QUal È L'id DEL DOCUmENTO, l'ID MODELLO E LA DEsCRIZIONE pEr Il DocUMENTo DEnOmINatO \"roBBIN cV\"?",
+        "q_id": 303
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "rESTITUIscI l'Id DOcUMENTO, L'Id MoDELLo e LA DeScRIzioNE pER IL DOCUMEnTO cON Il NOMe rOBbiN cv.",
+        "q_id": 304
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUANTI MoDElLi DIVERSi uTIlIZzaNO TUTTI I DOCuMEnTI?",
+        "q_id": 305
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "CoNTaRe iL nUMERO dI DIVERSI MoDElLi UTILIZZATI pER I DOCUmeNtI.",
+        "q_id": 306
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUANTI dOCUMeNTi UtIlIZZAnO iL MoDElLo COn IL cODICE DI TIPO \"pPt\"?",
+        "q_id": 307
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "cONTA IL NUMErO DI DOCUmeNtI cHE UtiLIZZANo iL TipO dI mODeLLO ppt.",
+        "q_id": 308
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "MoSTRa TUTtI Gli iD MODELlO E iL nuMEro DI DOCuMENTI UsANdO CIASCUn MOdELLo.",
+        "q_id": 309
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUALi SoNo TutTI I DIVErSI Id MOdeLLI UTIliZzATI PeR i DOCUmeNti E QUAnTE VOlTE SONO STATI UtILIZZATi cIASCUnO DI ESsi?",
+        "q_id": 310
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUAL È il CODIcE iD e tiPO PER IL mODElLO UTILIZZAto dAL mAGgiOr NUmERO DI DOCUmENTI?",
+        "q_id": 311
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "rESTituIScI L'id E iL TIPO DI COdIce DEL mODeLLO UTIlIZZaTo PeR IL MagGIOR NUMERO dI DOCumENTi.",
+        "q_id": 312
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "mOSTRA Id pER tUTTI I MODELLi UTILIzzATI DA pIÙ di un DoCUMENTO.",
+        "q_id": 313
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUAlI Sono GLI id MODElLO dI QUALSIAsI mODElLO uTILizzATO IN pIÙ dI uN sIngOLO doCUMENTO?",
+        "q_id": 314
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "mOSTRa Id PEr TUTTI i MODeLlI NOn uTILiZZATi da NeSSuN DOCUmEnTO.",
+        "q_id": 315
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUAlI sONO GLi Id PeR I MoDELLI CHE NON vENgONO UTiLIZZATi IN AlCUn DoCUMENTO?",
+        "q_id": 316
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUaNTI MODELLI abBiAMO?",
+        "q_id": 317
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "cONTa IL NuMERO DI moDElLI.",
+        "q_id": 318
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "mOStRA Id MOdELLO, NUMERI DI VERSIONE e CODIcI Di TipO MoDelLO PeR tuTtI I MoDElLI.",
+        "q_id": 319
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "quALI SoNo GLI Id, I nUMeRI DI VERSIONE E I CODICI Di TIpO pER Ogni modELLO?",
+        "q_id": 320
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "MOSTrA TUTTI i coDICi dI TIPO MODeLLO DiSTINtI PeR TUTtI I MODELLI.",
+        "q_id": 321
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "quaLI SonO I dIvErSi CoDIcI DI TIPO MODELLO?",
+        "q_id": 322
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUALI SonO gLI id DEi mODelLI COn CODIcE tIPO ModElLO pp o ppt?",
+        "q_id": 323
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "rESTITuISCi glI iD DEI MODELlI CHE HANNo iL CoDIcE pp O ppT.",
+        "q_id": 324
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "quaNtI mODeLLI hANNO CoDICE DI TIPO MODelLO cV?",
+        "q_id": 325
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "coNTaRE IL nuMERO DI MoDELLI DeL TIpO cv.",
+        "q_id": 326
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "quAl È Il NumErO DI VeRSIONE E IL TiPO dI tIPO di MODElLO PER IL MODEllO COn NUMERO dI VERSIONE PIÙ tArDI DI 5?",
+        "q_id": 327
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "rEStiTUiSCi i NUMERI DI VeRSIoNE E I CODicI Di TIPO modeLLo DEI MODElLI CoN un NuMERO DI VERsioNE sUPERIORe A 5.",
+        "q_id": 328
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "mOStRA TUTtI i codICI DI tipO MODeLLO e IL NUmERO DI MoDElLI peR CIASCUNO.",
+        "q_id": 329
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUAlI SONO I dIVERSI CODicI DI TIPo MOdEllO E QUAnTI ModELLI CORrISPOnDonO a CiASCunO?",
+        "q_id": 330
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "QUALE CodiCe DI TIpO MoDELLO HA LA MAGgIOr pARTE dEi MOdElLI?",
+        "q_id": 331
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "rEStituISCi IL CoDIcE TiPo del TIPO DI MODELLo A CUi ApPArTIEnE LA MAGGiOR paRTE DEI MODEllI.",
+        "q_id": 332
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "mOsTRA TUtTI I CODIcI DI tIPO MoDELlO con MENO dI TRE mODelLI.",
+        "q_id": 333
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "QuALi SONO I cODICI dei TIPI DI moDEllI cHE HANNo MeNO dI 3 mODELLI?",
+        "q_id": 334
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "quaL È IL NUMERO DI VErsIoNe PiÙ PICCOLo E iL CodiCE DEL TIpo DI MOdElLO?",
+        "q_id": 335
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "REStITUIsCi IL NUmErO DI VeRsIONE PiÙ BASSO, INsIEmE AL cODiCe TIPO moDeLLO COrRISPONdENTE.",
+        "q_id": 336
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "quAL È iL CODICE DI TIPo mODeLLO dEl MODElLo uTILiZZaTO DAl DocuMEnTo CON Il NOME \"bASE dATI\"?",
+        "q_id": 337
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "rESTItUiscI iL cODIcE TIPo moDELLo DEL MODeLLo uTILIZZATo DA UN DoCumENTO DEnomINATO BAse DI DATI.",
+        "q_id": 338
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "mOSTRa TUtTI I NOmI DEI DoCuMeNTI uSaNDo mODELLI cON cODicE TIpO MoDelLO bk.",
+        "q_id": 339
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUAlI SoNo I NOMI DEi dOcUMenTI CHE UTIlIZZaNO I MoDELLi coN IL COdICE bk?",
+        "q_id": 340
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "MOStRA TUTTI i CODICI dI TIPO MoDEllO e Il NuMERO Di DOCUMENtI USANDo ciASCUn TIPO.",
+        "q_id": 341
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUAlI SoNO I DIVErSI cODICI DI tIpO moDELLO E QUaNTI DOCuMeNTi USANO OGNi tIPO?",
+        "q_id": 342
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUAlE CODiCE di TIPO moDelLO VIEnE UTiLIZZaTO DALlA MAgGIOR PARTe DeL NuMErO DI DOCUMEntI?",
+        "q_id": 343
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "rESTitUIsci Il CODICE DeL TIpo dI MODELLO cHe VIENE pIÙ cOMuNeMENTE USatO nEi DOCuMENTI.",
+        "q_id": 344
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "MOSTRA TUTTi I CODiCI dI TIPo ModELLo CHE NoN SOnO UTiLIzzATi dA NESsUN DoCUMENTO.",
+        "q_id": 345
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUaLI SONO I cODICI DEi TIPI DI mOdELlI CHE Non veNGOnO utIlIzzATi PeR NEsSUN DOCUMENTo?",
+        "q_id": 346
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "mOstRA tUtTI i cODIcI E LE DeSCriZIoNI DeL TIpO DI MODELLO.",
+        "q_id": 347
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "quALI sONO I CoDICi di TiPO E LE DEsCRIZIONI PEr tUtTi I tIPi DI MODElLI?",
+        "q_id": 348
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUAL È Le DEsCrIzIONI DEL TIPO Di mODELLO PEr IL CoDIcE TIPO \"AnNUnCIo\".",
+        "q_id": 349
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "REStITuIsCI IL TIPO Di mODELlO DESCRIZiOnE DEL tiPO DI MODELLO COn l'AnNUNCIO deL CoDiCE.",
+        "q_id": 350
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUal È IL CODICE tiPO MODELlO PeR iL TIPO Di MODELLO DEscRiZIONE \"lIBrO\".",
+        "q_id": 351
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "rESTITUIScI iL cOdICE TipO DEL tIPO Di MODELlo cON IL \"lIBRO\" DELlA deScRIZIONe.",
+        "q_id": 352
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "QUaLI SONO LE DEscRIZIonI DEL TIPo dI MoDElLI DiSTINTE per I MOdELLI MAI UTILIzZATI DA UN doCUMeNTO?",
+        "q_id": 353
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "rESTITUISCe LE dIVERSE DEsCRIZiONI PeR I moDELLI CHE soNo STATI utiLIZzATI In UN dOcUMeNTo.",
+        "q_id": 354
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUALI SOno gLI id MODELLO CON tIPO DI moDeLLO dESCrIzIONE del TipO \"pREsENTAZIoNE\".",
+        "q_id": 355
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "rESTITUISCI gLI Id coRrISPonDEnTi Ai MODELlI cOn LA DESCRIzIoNE \"pReseNTAZiONE\".",
+        "q_id": 356
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUAnTi pARagRAFI IN TOTalE?",
+        "q_id": 357
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "cOnTare IL NuMERO dI PARAGRafI.",
+        "q_id": 358
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "quaNTi PARAGRAFI PER iL DOCUmeNto cON IL noME \"sUMMER sHOW\"?",
+        "q_id": 359
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "cONTA iL nUMErO Di PaRaGRAfI NEl DOCuMENtO CHiAmATo \"sUmMER SHOW\".",
+        "q_id": 360
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "mOsTrA I DETTAGli deL pARAGrAFO pEr IL PARagrAFO CON IL TESto \"cOREA\".",
+        "q_id": 361
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUaLI SONO I DETTaGLI PeR IL PARAGrafo Che INCLuDE Il TESTO \"cORea\"?",
+        "q_id": 362
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "mOStRa TUTtI glI Id E TEStI DI PARAGRAFO pER IL dOCuMEnTo CON iL NoME \"wELcoMe TO ny\".",
+        "q_id": 363
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "QuaLi SONO GLi id e I TEsTI DEi PaRAGRAFI Nel dOCuMENTO INTiToLATO \"WeLCoME TO nY\"?",
+        "q_id": 364
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "mOSTRa tuTtI I TEstI DI PARAGRAFO PER IL DOCuMeNTO \"rECeNsiONI DEI cLIENTI\".",
+        "q_id": 365
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "quAlI SONo I tESTI di PaRAGrAfO PEr IL DOCUmENtO Con iL NOME \"RECENSIONI DEi CLiENTI\"?",
+        "q_id": 366
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "mOStRA tuTTi GLI id DOCUmENTI E IL NUmERO di PARAGRAFI IN CIASCUN DoCUmENto.oRdINe PER DOcuMeNTO id.",
+        "q_id": 367
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "rESTItUisCI I DIVErSi iD dEL DOCUMENTO INSiEmE aL nUMERO DI pARAGRAFI CORRIsPoNDEntI A cIASCuNO, oRDiNAto pER Id.",
+        "q_id": 368
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "mOsTRA TUTTI GLi id DoCUMEnTI, I NOmI E IL nUmERO DI PARAGRaFi IN cIAsCun doCUMenTo.",
+        "q_id": 369
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "QUALI SOnO GLI id E i NOMI dI cIASCun DOCUMENTO, NONCHé IL NuMERO dI PaRagRAfi in CiASCUNO?",
+        "q_id": 370
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "eLenCA TUtTi GLi iD DOCuMENtI cON ALMENO DUE pAraGRAFI.",
+        "q_id": 371
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUaLi SONO GlI iD DEI DoCUMENTi CHE hANNO 2 O PIÙ parAGrAFi?",
+        "q_id": 372
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "quAL è L'id DOCUmENTO e IL NOME CoN Il mAGGIOR nUMERo dI PaRAGRAFI?",
+        "q_id": 373
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "rESTItUIsCI l'id E iL NOME dEl DOcuMENTo cON iL MAGgiOR NUMeRO Di PARAGrAFi.",
+        "q_id": 374
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUAL è L'id DOCuMENTO con IL mINoR NUMERO dI PArAGRaFI?",
+        "q_id": 375
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "rESTITuiSCi L'id DEL DOCuMeNTo cON iL MINOR NUMerO DI PARAgRAFI.",
+        "q_id": 376
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "quAl è L'id dOcUmENTo CON 1 A 2 pARAgRAfI?",
+        "q_id": 377
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "DARe GLi Id DEI DOCUMEnTI CHe hANNO TRA unO e DUe PARaGRaFi.",
+        "q_id": 378
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "mosTrA l'id DOCUMENTO Con IL TEStO DI pARAgRAFO \"BRASILE\" E \"IrLANda\".",
+        "q_id": 379
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "qUALI soNO GLI iD dEI dOCUMENTI CHe COntENGONO Il TesTO DI ParAGRAfo \"bRaSILE\" E \"IRLANDA\"?",
+        "q_id": 380
+    },
+    {
+        "db_id": "course_teach",
+        "question": "qUANtI INsEGNaNTi CI SonO?",
+        "q_id": 381
+    },
+    {
+        "db_id": "course_teach",
+        "question": "QuAl È Il cONTEGGiO TOTAlE DEGlI InSeGNANTI?",
+        "q_id": 382
+    },
+    {
+        "db_id": "course_teach",
+        "question": "eLEncA I NOMI dEGlI InSEGNAnTI In OrdiNE dI ETÀ CReScENTe.",
+        "q_id": 383
+    },
+    {
+        "db_id": "course_teach",
+        "question": "qUaLI SoNO I nOMI DEGLI INSeGNAnTI ORDINAtI DALL'etÀ aSCeNdENte?",
+        "q_id": 384
+    },
+    {
+        "db_id": "course_teach",
+        "question": "qUAlI SOnO l'EtÀ E LA CiTTÀ NATAle DEgLI iNSEgNANTI?",
+        "q_id": 385
+    },
+    {
+        "db_id": "course_teach",
+        "question": "qUAL È L'Età E LA CITtà nAtALE di OgnI InSEGnANTE?",
+        "q_id": 386
+    },
+    {
+        "db_id": "course_teach",
+        "question": "eLEnCA IL NOMe DeGLI InsEGNANTI LA cUi cITTÀ naTALE Non È `` lIttlE lEVER uRBan diSTRICT ''.",
+        "q_id": 387
+    },
+    {
+        "db_id": "course_teach",
+        "question": "qUALI sONo I nOmI DegLI iNSEGNanTi La CUI CITTÀ natALE NOn È `` LiTtLE lEVer uRBAn dIsTRICT ''?",
+        "q_id": 388
+    },
+    {
+        "db_id": "course_teach",
+        "question": "MOsTRA Il NOmE DI InSEGNANTI dI etÀ COMPREsA TRa 32 O 33?",
+        "q_id": 389
+    },
+    {
+        "db_id": "course_teach",
+        "question": "QUALI SONO i NOmI DEGLI inSEGnAnTI chE HAnNO 32 O 33 aNNi?",
+        "q_id": 390
+    },
+    {
+        "db_id": "course_teach",
+        "question": "qUAL È LA CITtÀ NATALe DELL'InSEGNANTE PIù GiOvAnE?",
+        "q_id": 391
+    },
+    {
+        "db_id": "course_teach",
+        "question": "dA DOVE vIENE L'INsEGNaNTE Più GIOVanE?",
+        "q_id": 392
+    },
+    {
+        "db_id": "course_teach",
+        "question": "mOSTRA diVeRSE CITtà DI iNsEgNANTI E IL nuMERo di INSEGnAnTI dI OGnI CitTà NATALE.",
+        "q_id": 393
+    },
+    {
+        "db_id": "course_teach",
+        "question": "peR OGNI cITTà NATALe, QuaNTi INsEGNaNTI CI SOnO?",
+        "q_id": 394
+    },
+    {
+        "db_id": "course_teach",
+        "question": "eLENCA lA cITTÀ NAtaLE PIÙ ComUnE dEGlI iNSEGNaNtI.",
+        "q_id": 395
+    },
+    {
+        "db_id": "course_teach",
+        "question": "qUALI SoNO Le CITtÀ PIù COMUnI Per GLI InSEGnaNTI?",
+        "q_id": 396
+    },
+    {
+        "db_id": "course_teach",
+        "question": "mOSTRA LE CITtÀ DELLe CITTÀ ConDIVise DA ALMENo DuE INsEGnAnti.",
+        "q_id": 397
+    },
+    {
+        "db_id": "course_teach",
+        "question": "da COSA PROVEnGONO lE CItTÀ DA cUI prOVEnGONO AlMENO dUE iNSEgNAntI?",
+        "q_id": 398
+    },
+    {
+        "db_id": "course_teach",
+        "question": "MOSTRA I NOMI deGlI INSEGnANtI E dEI CORSI cHE sonO ORGaNiZZAtI PeR INSEGNaRE.",
+        "q_id": 399
+    },
+    {
+        "db_id": "course_teach",
+        "question": "QUAL È IL NOME di ogNI InSEGnANTE e QuALE CORSO InSeGNANo?",
+        "q_id": 400
+    },
+    {
+        "db_id": "course_teach",
+        "question": "moSTRa i noMi dEGLI INSEGnAnTI E DEI CORSi CHe sONO ORGaNiZzAti pEr INSEgNARE IN UN orDINe ALFAbETiCo ASCENdENTE DeL NOME DELL'InSEGNAnTE.",
+        "q_id": 401
+    },
+    {
+        "db_id": "course_teach",
+        "question": "qUALI SONO I NoMI DeGLi iNSEGnANTi E DEI CoRSI cHe INSEgNANO neLL'oRdINe alFAbETiCO aScENDENTE CON iL NOME DELL'InSEGnANTE?",
+        "q_id": 402
+    },
+    {
+        "db_id": "course_teach",
+        "question": "mOsTRA Il NOMe DeLL'INSeGNANtE PEr Il COrSO di MATeMATIcA.",
+        "q_id": 403
+    },
+    {
+        "db_id": "course_teach",
+        "question": "quALI SOnO I NOmI dELLE PeRSONE cHE INSEGNANo cOrSI DI MATeMaTICa?",
+        "q_id": 404
+    },
+    {
+        "db_id": "course_teach",
+        "question": "moSTRa I NOMI DEGlI inSeGNANTI e Il NUMErO dI CoRSI CHe INsEGnANO.",
+        "q_id": 405
+    },
+    {
+        "db_id": "course_teach",
+        "question": "qUALi SONO I NoMI deGLI insEGNANTI E QuANTI cORSi INSEGNanO?",
+        "q_id": 406
+    },
+    {
+        "db_id": "course_teach",
+        "question": "mOSTra NOMI Di INseGNANTi ChE INSEGnaNO ALMENo dUE CORSi.",
+        "q_id": 407
+    },
+    {
+        "db_id": "course_teach",
+        "question": "QuALI sOno i NOMI DeGLI INSEGnAnTi CHe INSeGNANO ALMENO duE COrSI?",
+        "q_id": 408
+    },
+    {
+        "db_id": "course_teach",
+        "question": "eleNcA I NoMI DEGLI INseGnAntI CHE nON SONo sTATI ORGaNIZZATi per INsEGNARE CORSI.",
+        "q_id": 409
+    },
+    {
+        "db_id": "course_teach",
+        "question": "QuALi SOno I NOmi DEGLi inSEGNANTi I CUI CORSi NON SoNO sTATi ORGAnIzZAtI?",
+        "q_id": 410
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "quANti VISiTAToRi dI ETà INFeRIORE AI 30 ANnI CI SoNO?",
+        "q_id": 411
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "TROVa i NOMi DeI VIsITATORI IL CUI LIVELLO dI iSCriZIOnE è SUpERIORE a 4 E OrDINA I RISulTATi DAL LIVELLo dA aLTO A BAsSO.",
+        "q_id": 412
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "quAL È L'EtÀ MEDIA DEI VISItaTORi IL CUi LIvellO Di IScRiZIONE NoN È SUPERioRE A 4?",
+        "q_id": 413
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "TROVA Il NoMe E IL LIVELlo Di ABbONAMEnTO dEI VISITaTORI iL CUI lIVELlO DI IsCRIZIONE È sUPERIORe A 4 E orDiNA Per LA lORO ETÀ dA VECCHIO A giOvani.",
+        "q_id": 414
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "trOVA L'iD e iL nOMe dEl MUSEo CHe hA IL mAggIOR NuMERo DI MEMbRI DELLO STAfF?",
+        "q_id": 415
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "tRoVA IL NuMERO MEDio dI pErSONAle CHE LaVoRA Per I MUSEi APERTi PRImA DEL 2009.",
+        "q_id": 416
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "quALI SONO L'ANnO dI APeRTURA e IL nUMERO dEL pERSONAle DEL muSeo DEl mUSeO Di pLAZA?",
+        "q_id": 417
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "TROVA I NOmI DEI MUsei CHe HANNO piÙ pERSONALE RIsPEtTO al nuMerO MINIMO Di tUTTI I MUSEi APERTi DOPO IL 2010.",
+        "q_id": 418
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "tROVa L'iD, Il NOMe E l'Età PER I VISiTaTORI cHE hANNO vISITATO alCuNI MUsEi PIÙ DI UNA VOLTA.",
+        "q_id": 419
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "qualI SonO l'Id, IL NOME E iL LIVeLLO DI ISCRIziONE DEi vIsITAtorI CHE haNnO SPESO LA PiÙ GranDE QUANTiTà dI DENARO In TOTALE IN TuttI I BIgLIEtTI PER Il MUSEO?",
+        "q_id": 420
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "qUALi SONo l'iD E IL nOME DEL MUSEO VISITATo lA MaggIoR pARTE DEllE VoLtE?",
+        "q_id": 421
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "quaL È IL NoMe DEL MUSeO cHe NOn AvEVA aNCORa VIsITATORI?",
+        "q_id": 422
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "tROVA iL nomE E l'eTÀ dEl VIsiTAToRE CHe HANnO aCQUISTATO IL MAGgiOR NUMeRo DI BIGLIETTI CONtEmPoRAnEaMENtE.",
+        "q_id": 423
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "QUALI SoNO iL nUmERO MeDIO E mAsSIMO Di BIGlIETTi acQUISTaTI IN TUTTE lE VISITe?",
+        "q_id": 424
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "quAl È LA SpEsA TotALE DEL BIGliETTO DeI ViSITaTORI iL cUI lIVElLO DI isCRIZIOnE È 1?",
+        "q_id": 425
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "quAL È iL NOME deL VISItAtORE CHE ha VisITATO SIa UN mUSEO aPERtO PRIMA DEl 2009 E UN MuSEO APErTO DOpo IL 2011?",
+        "q_id": 426
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "TrOvA iL NuMERO Di VIsItAtOri ChE NOn HANNO VISiTATO ALCuN MUSEo APErTO dOPO iL 2010.",
+        "q_id": 427
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "quANTi MUSEI SONO STati APErTi dOPO Il 2013 O PrIMA DEL 2008?",
+        "q_id": 428
+    },
+    {
+        "db_id": "wta_1",
+        "question": "trOVA IL NuMerO TOTALE DI giOcATORI.",
+        "q_id": 429
+    },
+    {
+        "db_id": "wta_1",
+        "question": "QUANTi GioCATORI Ci SONo?",
+        "q_id": 430
+    },
+    {
+        "db_id": "wta_1",
+        "question": "trOVA iL NUmERO TOtALE Di COrRISpOnDEnZE.",
+        "q_id": 431
+    },
+    {
+        "db_id": "wta_1",
+        "question": "CONtA Il nUMERO DI PaRTITE.",
+        "q_id": 432
+    },
+    {
+        "db_id": "wta_1",
+        "question": "eLeNCA IL nOME E La DATA Di NASCiTA Di tuTTi I GIOCAtORI dEL PAESE cOn cODE uSa.",
+        "q_id": 433
+    },
+    {
+        "db_id": "wta_1",
+        "question": "QUALI sONo I NoMI e LE DaTE DI NaSCitA DEi GIOCATORI dEGLI sTATI uniTi?",
+        "q_id": 434
+    },
+    {
+        "db_id": "wta_1",
+        "question": "tROva L'ETÀ MEdIA DEI pERDENtI E DEI ViNcITORI DI TuTTe lE pARtIte.",
+        "q_id": 435
+    },
+    {
+        "db_id": "wta_1",
+        "question": "qUaLI sOno L'ETà MedIA DEI PERDENTI E dEI viNcITORI ATtraVeRsO LE PARTiTE?",
+        "q_id": 436
+    },
+    {
+        "db_id": "wta_1",
+        "question": "tROVA Il GRADo MEdIO DI VINCItOrI in tUtTe lE PARTITE.",
+        "q_id": 437
+    },
+    {
+        "db_id": "wta_1",
+        "question": "qUaL È IL grADO mEdIO PER I vINCitORI in TUTtE LE PaRTITE?",
+        "q_id": 438
+    },
+    {
+        "db_id": "wta_1",
+        "question": "TrOVA IL PIù AlTO GRADo DI PErdENTI IN tuTTE LE pARTiTe.",
+        "q_id": 439
+    },
+    {
+        "db_id": "wta_1",
+        "question": "qUAL È il mIGLiOR GrADo DI PeRDENTI In TUTte Le PARTiTE?",
+        "q_id": 440
+    },
+    {
+        "db_id": "wta_1",
+        "question": "trOvA iL NUMERo DI CODiCI NAZIoNALI DIstINti DI TUTTI I GioCaToRI.",
+        "q_id": 441
+    },
+    {
+        "db_id": "wta_1",
+        "question": "da QuAnTI pAESI DIsTInTI PrOVENGoNO I gIOCAtORi?",
+        "q_id": 442
+    },
+    {
+        "db_id": "wta_1",
+        "question": "tROVA IL NUmeRO DI DIStInTI NoME Di pErdENTI.",
+        "q_id": 443
+    },
+    {
+        "db_id": "wta_1",
+        "question": "qUANTI nOMi DI PERDeNTI diVErsi CI SONO?",
+        "q_id": 444
+    },
+    {
+        "db_id": "wta_1",
+        "question": "TROVA iL NoME dEL TORNeo CHE Ha PIÙ DI 10 PARTItE.",
+        "q_id": 445
+    },
+    {
+        "db_id": "wta_1",
+        "question": "qUALI SoNO I NOMI DEI tOrNEI ChE hANNO più DI 10 parTITe?",
+        "q_id": 446
+    },
+    {
+        "db_id": "wta_1",
+        "question": "eLENcA I NOmI dI TuTTI i vInCITOrI CHE HaNNO GiOcATo SIA NeL 2013 CHE NEL 2016.",
+        "q_id": 447
+    },
+    {
+        "db_id": "wta_1",
+        "question": "QuALI SONO I NOMI dEI GioCATorI cHE HANnO VINTO SIA NEl 2013 CHE NEl 2016?",
+        "q_id": 448
+    },
+    {
+        "db_id": "wta_1",
+        "question": "ELENCA Il nuMeRO DI TUTTE LE paRTiTE CHE HANNO gIOCATo NEglI ANni 2013 o 2016.",
+        "q_id": 449
+    },
+    {
+        "db_id": "wta_1",
+        "question": "QUAntE PARtITE SOnO sTATE GIOCatE NEL 2013 O Nel 2016?",
+        "q_id": 450
+    },
+    {
+        "db_id": "wta_1",
+        "question": "quALi sONO Il CoDiCE DI CampAgNa e IL NOMe DEI GiOCaTORI ChE HANNO VInTO sIa nEI CAMPIONATI wta deL TORNEo CHE AuSTRALIANi OPeN?",
+        "q_id": 451
+    },
+    {
+        "db_id": "wta_1",
+        "question": "qUALi SONO I NOMI E I COdICI DI cAMPAGNA pER I GiOCaTOrI CHe HAnno VInTO sIA I CAMPIonATI wTa ChE GLI aUStrALian OpEn?",
+        "q_id": 452
+    },
+    {
+        "db_id": "wta_1",
+        "question": "TRoVa Il NOME E IL cODICE DI CAMPAgNA dEL GIoCATOrE piÙ ANZIANO.",
+        "q_id": 453
+    },
+    {
+        "db_id": "wta_1",
+        "question": "quaL È IL NOme e IL cODICE DI CAMPAGNA deL GiOcAtoRE PIÙ ANZIANo?",
+        "q_id": 454
+    },
+    {
+        "db_id": "wta_1",
+        "question": "eLENCA IL NOmE E IL coGNOME DI TUTTI I gIocAtoRI nELL'ORDINE dI NASCiTA.",
+        "q_id": 455
+    },
+    {
+        "db_id": "wta_1",
+        "question": "qUAlI SONO I nOMI cOMPLETi dI TUtTi I GIoCaToRI, ORDINaTi pER dATa dI NASCiTA?",
+        "q_id": 456
+    },
+    {
+        "db_id": "wta_1",
+        "question": "eLENcA iL nOme e IL cogNOME DI TuTTI I GiOcAToRI CHE SONO rIMASTI / l NeLLa DATA DI nASCITA.",
+        "q_id": 457
+    },
+    {
+        "db_id": "wta_1",
+        "question": "QuAlI soNO I NOMi COMpLETI DI tUTtI I GIOcATORi A SIniSTRA, iN ORdinE DI naSCITA?",
+        "q_id": 458
+    },
+    {
+        "db_id": "wta_1",
+        "question": "tROVa IL nOME E IL COdIcE Di cAMPAGNA dEl gioCATore ChE HA FAtTO IL MaGGIOR NUmERo Di TOUR.",
+        "q_id": 459
+    },
+    {
+        "db_id": "wta_1",
+        "question": "QUaL È IL NOMe E Il CODIce di CAMPagNA dEl giOCATORE CON IL MAGGIoR nUMeRO DI tOUR?",
+        "q_id": 460
+    },
+    {
+        "db_id": "wta_1",
+        "question": "trOVA L'anNO ChE HA iL MAGgiOR NUMERO Di PArtITE.",
+        "q_id": 461
+    },
+    {
+        "db_id": "wta_1",
+        "question": "iN qUALE AnNo Ha AVutO IL MAGGiOR NUmErO DI PArTITE?",
+        "q_id": 462
+    },
+    {
+        "db_id": "wta_1",
+        "question": "trOVA IL NOME E I Punti DI RANGo DEl VINCITORE chE HA VINtO iL MAGGIOr NumeRo DI vOLtE.",
+        "q_id": 463
+    },
+    {
+        "db_id": "wta_1",
+        "question": "qUAL È IL NOME dEL vINCITORe CHE hA VINto Il mAGGIor nUMERO dI PARtITe E QUANTI puNTI DI RAnGO Ha queSTO GIOCATOrE?",
+        "q_id": 464
+    },
+    {
+        "db_id": "wta_1",
+        "question": "tROVa IL NOme dEl ViNCiTORe CHE HA I PUNTi pIÙ ALTI E Ha partECIpATO AL TOrnEO APERtO AUSTRALIaNO.",
+        "q_id": 465
+    },
+    {
+        "db_id": "wta_1",
+        "question": "qUaL È Il NOME dEl VIncITORE CON I pUNTI PIù DI RANGo cHE HANNO parTECipAto Al tORnEO aUSTraLIAN oPEN?",
+        "q_id": 466
+    },
+    {
+        "db_id": "wta_1",
+        "question": "TRoVA I NOMI DEL PERDeNTE E DeL vINcITORE CHE hANNo GIoCaTO NELlA pARtITA cOn un MaGGIOR NUMERO DI mINUTi.",
+        "q_id": 467
+    },
+    {
+        "db_id": "wta_1",
+        "question": "QuALI sOnO I NOMI dEL ViNcITorE E DEL PERdENtE CHE HaNnO GIOCATO NEllA PARTitA PIÙ LunGa?",
+        "q_id": 468
+    },
+    {
+        "db_id": "wta_1",
+        "question": "tROVA LA CLaSsIFiCA mEDiA pER OGNI GIOCATOre E IL lOro NOME.",
+        "q_id": 469
+    },
+    {
+        "db_id": "wta_1",
+        "question": "QUALI SOno i PRIMi NOmI DI TuTTI I gIOCAtORI E lE LORO ClaSsIFIChE MEDIE?",
+        "q_id": 470
+    },
+    {
+        "db_id": "wta_1",
+        "question": "trOVA I PUNTI Di CLaSSIFiCaZIOnE ToTALE PER oGNI GiOcATOre E IL LorO NomE.",
+        "q_id": 471
+    },
+    {
+        "db_id": "wta_1",
+        "question": "qUALi SOnO i PrIMI NOMi dI tUtTI I GIocATorI E I LOrO PUnTI Di ClASSIfIcaZIONE TOTaLe?",
+        "q_id": 472
+    },
+    {
+        "db_id": "wta_1",
+        "question": "trOVA Il NUMERO DI GIoCatori pER OGNI PAESe.",
+        "q_id": 473
+    },
+    {
+        "db_id": "wta_1",
+        "question": "qUanTi GIOCATORi SONo da OGnI PAESE?",
+        "q_id": 474
+    },
+    {
+        "db_id": "wta_1",
+        "question": "TROVa IL cODICE DEL PAeSE DOVE HA il maggIOR NUMErO Di GIOCaTORI.",
+        "q_id": 475
+    },
+    {
+        "db_id": "wta_1",
+        "question": "qUAL È Il cODICE DEl pAeSE CON lA MaGgIoR PArte dEI GIOcAToRI?",
+        "q_id": 476
+    },
+    {
+        "db_id": "wta_1",
+        "question": "trOVA i CODiCI DEi PAESi CHE HANnO piÙ DI 50 GIOCaTORi.",
+        "q_id": 477
+    },
+    {
+        "db_id": "wta_1",
+        "question": "qUAlI sONO i CODIcI DEI PAEsI con PIÙ DI 50 GIOcatORI?",
+        "q_id": 478
+    },
+    {
+        "db_id": "wta_1",
+        "question": "trOVA IL NuMERo ToTALE Di TOUR pER oGNI DATA Di clASSifICAZIoNE.",
+        "q_id": 479
+    },
+    {
+        "db_id": "wta_1",
+        "question": "QuANTI TOUR TotALI C'ErANO PER oGnI DAta DI CLASSIFICaZIoNE?",
+        "q_id": 480
+    },
+    {
+        "db_id": "wta_1",
+        "question": "troVA IL NUmErO dI PARTITE CHe è AVVenUTO OGNi ANNO.",
+        "q_id": 481
+    },
+    {
+        "db_id": "wta_1",
+        "question": "QuANte PARTITe VENIvANO GiOCAtE oGNI AnNO?",
+        "q_id": 482
+    },
+    {
+        "db_id": "wta_1",
+        "question": "trOVA il noME E Il GRaDO DEi 3 vINCitORI pIÙ GIOVAni IN TUTTE lE PARTiTe.",
+        "q_id": 483
+    },
+    {
+        "db_id": "wta_1",
+        "question": "quALi SONO i NOmI e I RAnGHi DEi TrE PIÙ GiOVANI VINCItorI In TUTTe lE PARTITE?",
+        "q_id": 484
+    },
+    {
+        "db_id": "wta_1",
+        "question": "quAnTI VInCiTORi DIVeRSI HaNnO PARTECiPaTO ENTRAmBI Ai CAMpIONATI wtA E SONO sTaTi mANCIno?",
+        "q_id": 485
+    },
+    {
+        "db_id": "wta_1",
+        "question": "tROVA IL nUmERO DI VINCITORi DelLA mANo SINIsTRA CHE hANnO PARTECIpAto Ai CampIOnATi wta.",
+        "q_id": 486
+    },
+    {
+        "db_id": "wta_1",
+        "question": "tRovA IL NOmE, Il CODicE dEL PAEsE E LA DAtA DI NaSCITa dEL vInCItoRe CHE hA I PunTI PIÙ ALtI IN TuTTE lE PARTITe.",
+        "q_id": 487
+    },
+    {
+        "db_id": "wta_1",
+        "question": "qUAL È IL NOME, Il CODICE Di CAmpAGNA E la DATA Di NaSCITa DeL gIOcATORE cON I puNTi DI cLaSSifIcaZIonE pIÙ VIncITORI IN tUTTE LE PARtITE?",
+        "q_id": 488
+    },
+    {
+        "db_id": "wta_1",
+        "question": "tROvA il NUMERO DI GIOCATORI peR OgNI TIPO di mANO.",
+        "q_id": 489
+    },
+    {
+        "db_id": "wta_1",
+        "question": "QUAnTI gIOCAToRI cI sOnO PeR OGNI TipO dI MANO?",
+        "q_id": 490
+    },
+    {
+        "db_id": "battle_death",
+        "question": "qUANTE NAVI HaNNo fInito PER ESSeRe \"CATTurATe\"?",
+        "q_id": 491
+    },
+    {
+        "db_id": "battle_death",
+        "question": "elEnCA Il NOME E Il tONNeLLAgGIO ORDInATi DA IN oRdiNE aLFaBETIcO dIScEnDENTE PeR I NOMI.",
+        "q_id": 492
+    },
+    {
+        "db_id": "battle_death",
+        "question": "eLeNCa IL noMe, LA DaTA E IL RiSULtATO DI OGnI BAtTAGLIa.",
+        "q_id": 493
+    },
+    {
+        "db_id": "battle_death",
+        "question": "QUaL È iL BIlANCIo DELLE viTTIME MASsimO E MInIMO CAUSATO oGNi vOLTA?",
+        "q_id": 494
+    },
+    {
+        "db_id": "battle_death",
+        "question": "qUaL è Il NUMERO mEdIO DI LesIONI CaUSATE OGnI VOlTA?",
+        "q_id": 495
+    },
+    {
+        "db_id": "battle_death",
+        "question": "qUALI Sono LE SITUaZIONI DI mORte E LESIONI CaUsATe dALlA NAve CoN TONNELLaGGIo \"T\"?",
+        "q_id": 496
+    },
+    {
+        "db_id": "battle_death",
+        "question": "qUaLI SONO Il NOMe E I RISULtATI dELLE BatTAgliE QuAnDO Il ComANDANTe BULgARO noN È \"BORIL\"",
+        "q_id": 497
+    },
+    {
+        "db_id": "battle_death",
+        "question": "qUALI SOnO i DIvERSI id E nOMi DELLE BATTaGLIE CHE HAnno PERSO QUALSIAsi Tipo DI tiPo \"BRIg\"?",
+        "q_id": 498
+    },
+    {
+        "db_id": "battle_death",
+        "question": "qUALI SONO GLI id E i NOMI DELle BatTAGLIE CHe HANnO PORTATo A PIÙ DI 10 pERsOne UccISE IN toTale.",
+        "q_id": 499
+    },
+    {
+        "db_id": "battle_death",
+        "question": "qUAl È L'iD e IL NOmE DELLA NAVE cHE HANNO CAUsATO la MagGIOr PARTE DelLe LesIONI TotAli?",
+        "q_id": 500
+    },
+    {
+        "db_id": "battle_death",
+        "question": "QUALI sONO I nOMI Di bATTaglIA DIStINTi CHe SONO TRA iL cOMANdANTE BULgARo \"kALOYAN\" e Il COMAnDaNte LAtINO \"baLDWIN i\"?",
+        "q_id": 501
+    },
+    {
+        "db_id": "battle_death",
+        "question": "qUANTI RISultaTi dIVERSI CI soNO peR LE BaTtAGLIE?",
+        "q_id": 502
+    },
+    {
+        "db_id": "battle_death",
+        "question": "QUANTE BaTTAGLIe NON hAnNo PErSO LA NaVE cOn Il TOnNELLaGGIO \"225\"?",
+        "q_id": 503
+    },
+    {
+        "db_id": "battle_death",
+        "question": "eLENCA IL NOME e LA DatA dELLA BATTAGlIA ChE HA pERSo LA NAVE cHiaMATA \"leTtiCE\" E lA NAvE CHiaMAta \"Hms AtALANTA\"",
+        "q_id": 504
+    },
+    {
+        "db_id": "battle_death",
+        "question": "mOStRA NOMI, RIsUlTATI E COMANDanTI bULGaRI DELlE batTAGlIe seNzA NaVi pERSE NEL \"CaNalE DI iNGLESE\".",
+        "q_id": 505
+    },
+    {
+        "db_id": "battle_death",
+        "question": "quaLI SOno LE nOTE dEGLI eVEnTI di MORTe CHE Ha LA SoTTOSTRINGA \"EST\"?",
+        "q_id": 506
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "cOsA SONo TuTTi gLI iNDIRIZzI TrA CUI lA RIgA 1 E LA rIgA 2?",
+        "q_id": 507
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QuAL È LA PRIMA e lA SeCONDA rIGA PeR TUTti gLI INDirIZZI?",
+        "q_id": 508
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUANTI coRsi IN tOTAle SONO ELeNcATI?",
+        "q_id": 509
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "quaNTI coRSI CI SOno?",
+        "q_id": 510
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "COME VIENE DEsCRITto iL CORSO Di maTEmatICA?",
+        "q_id": 511
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QuALI SONO le desCRIZiOnI pER TUTtI I CORSI DI MATEMaTiCA?",
+        "q_id": 512
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QuAL È il codICE POSTALE DElL'InDIRIZzo NEL pORT CHELsEA dELLA cIttÀ?",
+        "q_id": 513
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QUAL È IL CODICe POSTALE pER poRt cHElSEA?",
+        "q_id": 514
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QUALE DIpARtimENTO OfFRE IL MAGGIoR NUMERO di grADI?ELeNCO NOMe DEL dIPARTIMENto e id.",
+        "q_id": 515
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qual È IL NomE E l'id DEl DipARtImENTO cON Il MAgGIOr NUMERO DI GRADI?",
+        "q_id": 516
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUANTi DIPARTIMeNTI oFfrONo QuALChE LaUrEA?",
+        "q_id": 517
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUaNTI DIpArTIMEnTI DIVERSi OffroNo GRADI?",
+        "q_id": 518
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "quANTI NoMI DI laUREa DIVERSI SoNO OFFErti?",
+        "q_id": 519
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUAnTI GradI diVeRsI SONO OFFERTI?",
+        "q_id": 520
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QUaNtI gRADi OFfRE IL DIpARtIMEnTO DI iNGEGNERiA?",
+        "q_id": 521
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QUAnTI GRADi hA IL diPaRTiMENTO dI INGEgNERIA?",
+        "q_id": 522
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QUaLI SONo I NoMI e LE DeSCRIZIoNI DI TuTTE Le SEZIONI?",
+        "q_id": 523
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUalI SOno I nOMI e LE DESCRiZIONi PeR TuTTE LE SEZIoNI?",
+        "q_id": 524
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUaLI sONO I NomI E L'ID DEI cOrSi CHE HANNO al MassIMO 2 SEzIONI?",
+        "q_id": 525
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUALI sonO I nOmI E GLI Id DI OgNI CORSO COn MENO dI 2 SEzIONI?",
+        "q_id": 526
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "eLEnCa IL SEZioNe_NAME IN OrDINE LEsSiCoGrAFIcO INVERtITO.",
+        "q_id": 527
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUAlI SoNO I NoMi DElLE SeZIOnI IN ORDINe alfABEtICO INVeRSO?",
+        "q_id": 528
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "quAl È IL SEmeStRE IN CUI LA mAggIOR PaRtE DEGLi STUDEnTI sI È REGISTRATa?moSTRA siA Il NoME CHE L'Id.",
+        "q_id": 529
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "pER OGNI SeMeSTrE, quAl È Il NOME E l'id Di QUELLO con IL mAGgIOR NumERO DI stUDENTI ReGIsTrATI?",
+        "q_id": 530
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUAl è la DEScRIzIoNE DEL dIPARTiMENTO IL Cui nOME hA LA SOTTOsTRinGa IL COmPUTER?",
+        "q_id": 531
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QUAL È LA DeSCRiZIONE DEl DipartIMENTo PER CHI IL cUI NOmE HA La pArOLA COMpuTER?",
+        "q_id": 532
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "cHI sONO ISCriTTI IN pROGRAMMI DI 2 GRadI IN UN SEMEstRE?elENCa IL NOme, IL secONDO NomE e iL COgnOME e L'id.",
+        "q_id": 533
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "quALI sOnO I PRIMI, MEdI E COGnOMI, INSIEME AGLi ID, DI TUTTI gLi STuDeNTI ChE sI SONo IsCRITTI a PrOGrAMmI dI 2 GRADI In un seMESTRE?",
+        "q_id": 534
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "chi È ISCRITTO A UN PROGrAMmA Di LAURea?eLEnCA iL noMe, IL SECONDO NOME, iL CoGnOMe.",
+        "q_id": 535
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUALi SONo I PRIMI, mEdI E COgNOMi peR TUTTI ISCRITTI A UN PrOgRAMMa DI LAurEA?",
+        "q_id": 536
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "TROVA IL TipO DI PROGRAMmA In Cui È ISCrITTO LA MAGGIor PARte DEl NUmeRo Di STUDENtI?",
+        "q_id": 537
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QUAL È IL NOme DI siNtESI CHE hA IL MaGGIoR NuMErO DI STUDENTi ISCRitTi?",
+        "q_id": 538
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "trOvA IL PrOGRAMmA IN CUI LA MAGgIOR PARTE dEglI STuDENTI È IsCRiTTa. elENCA sIA L'iD Che iL riEpILoGO.",
+        "q_id": 539
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "quAL è L'id DeL PrOGRaMMA e iL RIEPILOGO dELla LAurEA cHe HA LA mAGgiOR pARTe DEGLI StuDENTI ISCRIttI?",
+        "q_id": 540
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUALe StUDENTE si è iScRITTO PER lA MAGGIOR PARTE DEllE VOLTe IN QUALsIasI PrOGRAMMA?eLEncA L'iD, Il NOMe, Il SECOnDO nOMe, iL COgNOMe, iL numeRO dI ISCRiZIoNI e id sTUdeNTE.",
+        "q_id": 541
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUaL È IL PRIMO, MEDIO e cOGnOME, INSIeME ALL'Id e Al NumerO DI iSCrIZiOnI, PER LO STUDEnTe cHE SI È ISCRiTtO dI PiÙ IN QuALsIaSI prOgRAMMA?",
+        "q_id": 542
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qualI SemESTRi NON hANNO uNO sTuDeNTe ISCRiTtO?eLENCa iL NOme DEL SEMESTRE.",
+        "q_id": 543
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUal è Il NOME DEL SEMESTRE SENZA sTUDeNTi ISCRitTI?",
+        "q_id": 544
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUALI sONO TuTti I nOMI DEI CORSi DEI CORSI CHe HaNnO mai iSCrITTO GLi STUdENtI?",
+        "q_id": 545
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QUalI SonO I nOmI DI TUTtI I coRsI CHE HANnO ALCUNI STUDenTI iSCRITtI?",
+        "q_id": 546
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUAL È Il NOMe DeL COrsO CON La mAGGIOr PARTe DELLe IScRizIONi?",
+        "q_id": 547
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUAL È iL nOME dEL cORsO CON LA MAgGIoR paRTE DEGLI STuDENTI IsCRItTi?",
+        "q_id": 548
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "TrOVA IL cOgNOMe DEGLI STUDENTI CHE ATTUALMenTe VIvONO NELlO STaTO DELLa caROLinA DEL NORd Ma Non Si sONO REGIstrATI IN NEssuN PrOGrAmmA dI LAUReA.",
+        "q_id": 549
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUALI SOnO iL cOGNOME deGlI STUDENtI cHE ViVOnO NELLA cARolINA DEL nORD Ma NON SI SONo rEGiStRatI IN PROGRamMI DI laUREA?",
+        "q_id": 550
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "mOSTRA LA DATA e L'id DElLa TRaSCRiZIOnE CoN AlMEnO 2 RISuLTATi DeL cORso.",
+        "q_id": 551
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUaL È La DAta E L'Id DELla TRASCRIZIONE CoN AlMENo 2 CoRSi ELENcATI?",
+        "q_id": 552
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUaL È IL nUMErO Di TELEfONO DeLL'UOMo CON IL noMe tIMMotHY e IL COgNOMe wARd?",
+        "q_id": 553
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QUaL è iL NUMERO DI CELLULArE DELLO StUDENte DI NOmE tiMMotHy waRD?",
+        "q_id": 554
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "cHI È Il PrIMO STUDENte A ReGISTRARsI?eLEnCA Il NoME, IL sECONDO NOme E iL COGNOmE.",
+        "q_id": 555
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QUAl È IL PRIMO, IL cenTrO E Il cOgNOME DEL PRIMO sTUdENTe A ReGIStraRSI?",
+        "q_id": 556
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "chi È IL pRIMO DIPLOmATO DELLA sCUOLA?eLEncA IL NoME, IL sECOnDO NomE E IL cogNOME.",
+        "q_id": 557
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUAL È Il PrIMO, Il meDiO E IL CoGNOME DeL PrIMo DIpLoMAtO DELLA SCUOlA?",
+        "q_id": 558
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "iL QUALe iNDIrIZZO pERMANENTE È DIvErsO DAL SUO InDIRiZZO aTTUaLE?ELEnCA il SuO NOME.",
+        "q_id": 559
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QUAL è Il pRimO NOME DELLo STUDEnTE IL cui iNDIRiZzO PERMANENte È dIveRSO Da QUELlO ATTuALE?",
+        "q_id": 560
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUALe iNDIRIZZO CONtIENE iL maGGIOR nUmeRO DI STUDeNTi AttUALMENTE?elENcA l'iD iNdIRIZzO E TUtTE LE RIGHE.",
+        "q_id": 561
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QUaL È l'Id, lA RIGa 1 e LA RIgA 2 DELL'INDIRIZZo CoN IL maGGIOR NUMEro DI StuDEnTi?",
+        "q_id": 562
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "In mEDIA, qUANDO SONO STATE StaMPaTE LE tRAsCRIzIOnI?",
+        "q_id": 563
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUAl È lA DATa dI tRAsCRIZIOnE mEDIa?",
+        "q_id": 564
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QUANDo VIeNE RiLaSCiATA LA PrIMA TRAsCRIZIoNe?eLEnCA La DATA E I dETTAGlI.",
+        "q_id": 565
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUAL È La PrIMA DATA Di UNA VERSIoNE tRAsCrITtA e quAlI DeTTAGlI pUOI DIRMI?",
+        "q_id": 566
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUAnTE TRAsCrizIoNI vENGoNo RILAScIATE?",
+        "q_id": 567
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUANTE TRASCRIZIoNi SONO eLencaTE?",
+        "q_id": 568
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUal È L'uLTIMa DATA DI RILasCIo DELLa TRAsCrIZiONE?",
+        "q_id": 569
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUANDO è sTAtA RILaSCIaTA L'uLTIMA TRAScRIZioNE?",
+        "q_id": 570
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUaNTE VOlTE AL masSImO PuÒ eSSERe uN RisUlTATO DI iscrIZIONe aL cORSO IN DiVERsE tRASCRIZIONI?mOSTrA aNCHE l'iD DI IScRIZiONE AL CORSO.",
+        "q_id": 571
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUal è iL NUMERO maSsIMO DI VOLTE IN cUI uN COrSo ViENE viSUalIzZatO IN DIVERsE TraScriZIONI E QUAL È L'id DI IsCRIZIONE DI QUEL CORso?",
+        "q_id": 572
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "MoSTRA LA DATA dELLA trAsCRIZioNE cHE MOSTRa Il mINIMO nuMERo DI RISUlTAtI, ELEnCA aNCHE L'id.",
+        "q_id": 573
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUAL è LA DAtA E l'iD DELLa TRaSCRIzIONE con IL MINIMO nUMerO DI RiSULTAtI?",
+        "q_id": 574
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "tROvA IL SEmESTrE IN CuI SI SONo iScRIttI SIA GLI STuDENtI MAESTrI ChE GLI stuDENtI DI LauRea.",
+        "q_id": 575
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "quAL è l'id deL sEMESTRE CHE HA rEgISTRATo SiA MaESTRI CHE StUdENTi dI LAURea?",
+        "q_id": 576
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "quANTi INDiRIZZI DIveRSI vIVoNO GlI sTUDenTI aTTuALMENTE?",
+        "q_id": 577
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QUALI SONo I dIVERsI INDIRIZZI che hANNO STuDENTI che VIvoNo LÌ?",
+        "q_id": 578
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "ELENCa TutTI I dEtTaGLI DEgLI STudENTI iN ORDiNE LesSICOGRaFIcO INVErTITo.",
+        "q_id": 579
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "qUAlI ALTRI DeTtAGLI PuOi PArLARMI DEGlI stUDENTi IN ORDINe ALFABeTICo InVeRSO?",
+        "q_id": 580
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "deSCrIVI LA SEzIOne H.",
+        "q_id": 581
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "quAL È LA dESCRiZIONe pER lA SEziONE cHIAMATa H?",
+        "q_id": 582
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "tROVA IL nOME DEGli sTUdENTI CHE VivonO PErMANENTEmeNTe nEl PAeSE hAIti O HAnNO IL NUMERO DI CELLUlARE 09700166582.",
+        "q_id": 583
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "QUaLI Sono I pRIMI NOMI DEGLI sTUDEnTI chE ViVONO aD hAiTi PERMAnENteMENTe o hANNo Il NUMERO Di CELlULArE 09700166582?",
+        "q_id": 584
+    },
+    {
+        "db_id": "tvshow",
+        "question": "ELENca il TIToLO DI tUTTI I CArTOnI ANIMATI IN ORdiNE alfABETICo.",
+        "q_id": 585
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUALi sOnO I TItOLI DEI CaRtonI ORDInATi IN ORdInE ALFAbETICO?",
+        "q_id": 586
+    },
+    {
+        "db_id": "tvshow",
+        "question": "ELEnCA TUttI I CARTOnI ANImaTI DirETTI DA \"bEN jONES\".",
+        "q_id": 587
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUALI SoNO i NoMI DI tUtTI i CARTONI DIREtTI da BEN jOnEs?",
+        "q_id": 588
+    },
+    {
+        "db_id": "tvshow",
+        "question": "QUAntI CARtONI sOno STATi SCRiTTI Da \"jOsEPh kUHR\"?",
+        "q_id": 589
+    },
+    {
+        "db_id": "tvshow",
+        "question": "quAl È IL NUMERO Di CaRTONE sCrITTE da jOsEpH KuHr?",
+        "q_id": 590
+    },
+    {
+        "db_id": "tvshow",
+        "question": "elENCA TUTTI I TIToLi dEI CARTONI ANImATi E I LORo REGISTI ORdinatI cON LA LOrO DAtA aERea",
+        "q_id": 591
+    },
+    {
+        "db_id": "tvshow",
+        "question": "QUAL è IL NOME E I reGISTi DI tUTTI i CARTOni CHE sOnO ORdInaTi PEr DATA AerEA?",
+        "q_id": 592
+    },
+    {
+        "db_id": "tvshow",
+        "question": "eLeNCA IL TITOLO Di TUTtI i CaRtoni anImATI DIRETTI DA \"bEN jONeS\" O \"brANDoN vIETTI\".",
+        "q_id": 593
+    },
+    {
+        "db_id": "tvshow",
+        "question": "QUALi SoNo I TiTOLI Di tUTTI I cArtONi DIReTtI DA bEn joNES O brAnDON vIETTI?",
+        "q_id": 594
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUALE PAeSE hA LA MAGgiOr PARTE dEi cANALI tv?eLEncA IL pAESE e Il nUMeRO di cAnALI tV CHE Ha.",
+        "q_id": 595
+    },
+    {
+        "db_id": "tvshow",
+        "question": "quAl è IL PaEsE cON IL MAgGIOr NumERO DI CANaLI tv E QUANtI HANnO?",
+        "q_id": 596
+    },
+    {
+        "db_id": "tvshow",
+        "question": "eLEnCA IL NUMERo DI nOMI E ContEnUTI Di SERIe DIVErSI NELLA TABELlA deI cAnALI tV.",
+        "q_id": 597
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUanTE SERIe E CONTENuTI DIVERSI SoNO elEnCATI NellA tABElLA DEI CAnALI tv?",
+        "q_id": 598
+    },
+    {
+        "db_id": "tvshow",
+        "question": "quAL È IL CoNtENUTO DEL CaNAle tv CON Il NOME sERiAlE \"SKY RaDiO\"?",
+        "q_id": 599
+    },
+    {
+        "db_id": "tvshow",
+        "question": "quAL È IL coNTenUTO dELlA SERIe sKY rAdIO?",
+        "q_id": 600
+    },
+    {
+        "db_id": "tvshow",
+        "question": "quaL È L'OPZIoNE PAcCHETTo dEL CANALE tV CON NOmE sEriALE \"skY rADIo\"?",
+        "q_id": 601
+    },
+    {
+        "db_id": "tvshow",
+        "question": "quALI SONO LE OpziOnI Di PACCHETTO DeI caNALi Tv I cUI NOMI DelLE serIE SONO sKY rADIO?",
+        "q_id": 602
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUANti canALi tv ChE USANO L'INGlESE lINGUISTIcO?",
+        "q_id": 603
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUANtI cANAlI tv USANO la lINguA INGlEsE?",
+        "q_id": 604
+    },
+    {
+        "db_id": "tvshow",
+        "question": "eLEnca Il LInGUAGGIO UTiLIZzATO MeNo NumerO DI CaNALE tv.LINGUa DI EleNCO E nUMERO DI CANaLE tv.",
+        "q_id": 605
+    },
+    {
+        "db_id": "tvshow",
+        "question": "QuaLi sOnO LE lINGUe UtilIZZATE DAL MiNIMO nUMERO DI CaNAlI Tv E QUANtI CANaLI lO USANO?",
+        "q_id": 606
+    },
+    {
+        "db_id": "tvshow",
+        "question": "eLENCa OGNI liNGUa E Il nUMErO DI CANALI TV USaNDoLA.",
+        "q_id": 607
+    },
+    {
+        "db_id": "tvshow",
+        "question": "pER oGNI LingUA, ElENCA IL nUMERO DI CAnALi tv cHE LO utILIZZaNO.",
+        "q_id": 608
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUaL È IL CANaLE tv cHE MoStrA iL CARTOnE ANIMATO \"the rIsE OF tHE BLUE bEETLe!\"?eLEnCa iL nOME DeLLA SeRIE DEL cANALe tv.",
+        "q_id": 609
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUAL È Il NomE DelLA SeRie DEL CANALE tv CHE MOStRA iL CaRtONE ANImatO \"tHE rISE OF tHE blUE BEeTLE\"?",
+        "q_id": 610
+    },
+    {
+        "db_id": "tvshow",
+        "question": "eleNCA IL TitoLO dI TuTTI I CaRTONI ANIMATI mOStRAti SUL CANALe tV Con Il NOMe dELlA SERie \"sKY rAdIO\".",
+        "q_id": 611
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUAL è Il TITOlO di TutTi I CARTOoLs CHE sI tROVANO SUl CaNAlE Tv CON IL nOME DELLA sERIE \"sKY raDio\"?",
+        "q_id": 612
+    },
+    {
+        "db_id": "tvshow",
+        "question": "ELENCA L'EPISODIO Di TuTTE lE SErIE tv oRDInaTE PEr vAlUTAzIONE.",
+        "q_id": 613
+    },
+    {
+        "db_id": "tvshow",
+        "question": "quALi SONO TUTTI GLI ePisoDi oRDINATI DaLlE VaLUTAzIONI?",
+        "q_id": 614
+    },
+    {
+        "db_id": "tvshow",
+        "question": "eLENcA LE PRIME 3 SErIE tV di vALUTAZIONE Più ALta.ELENCA L'EpISODiO DELlA SeRIe tv E LA VaLUTAZIOnE.",
+        "q_id": 615
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUaLI sONO I 3 EpISoDi PIÙ APPreZZaTI NELLA TabELLA DELLe sErIE tv E QUaLi ERANO qUELlE vAluTAZIONi?",
+        "q_id": 616
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUal È LA QUOta MIniMa E MaSSIMA DeLLE sERIE tv?",
+        "q_id": 617
+    },
+    {
+        "db_id": "tvshow",
+        "question": "QUAL è La QuOTA MaSSIMA e MINimA PER LA SERIe tv?",
+        "q_id": 618
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUaL È lA DATA AEREA DeLLA sERIE Tv cOn l'epISOdiO \"a lOvE Of a lIFeTiME\"?",
+        "q_id": 619
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUANDO È sTAtO TRAsMESso l'ePISODIo \"a lOVE oF A lIFETImE\"?",
+        "q_id": 620
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUaL È Il GRAdO SeTTIMANaLE DI SERIE tV cOn l'EPIsODiO \"a lOVE OF a lIFeTIme\"?",
+        "q_id": 621
+    },
+    {
+        "db_id": "tvshow",
+        "question": "QUAL è iL rANGO SEttIMANaLE Per L'EPISODIO \"A lOVE OF a LIFEtiME\"?",
+        "q_id": 622
+    },
+    {
+        "db_id": "tvshow",
+        "question": "QUAL è IL CANALE tv DElLA SERiE tV cON L'EPISOdIO \"A lOVE oF a lIFeTimE\"?eLENCA Il NOME DeLLA SERie dEL cAnAle tv.",
+        "q_id": 623
+    },
+    {
+        "db_id": "tvshow",
+        "question": "QuAl È IL NOME DElLA SeRIE CHE HA l'EpISODIO \"a lOvE OF a LIFeTImE\"?",
+        "q_id": 624
+    },
+    {
+        "db_id": "tvshow",
+        "question": "eLENCA L'epISODIO DI alL tV sERiES MoSTrATO SU tV chANNEL cON IL NOME dEllA SERIe \"SkY rADIO\".",
+        "q_id": 625
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUal è l'EPISoDIO PeR LA sErIE TV CHIAMATA \"skY rADIO\"?",
+        "q_id": 626
+    },
+    {
+        "db_id": "tvshow",
+        "question": "tROVa IL nUMERO DI CArtoNI DiRetTI dA cIASCUNO deI DiRETTORI ELEncAtI.",
+        "q_id": 627
+    },
+    {
+        "db_id": "tvshow",
+        "question": "quANtI CArtONI HaNNO CReaTo oGNi REGISTA?",
+        "q_id": 628
+    },
+    {
+        "db_id": "tvshow",
+        "question": "tROVA IL CODICe DI PRoduZiONE E IL cANAlE DEL cArtONE ANIMATO IN OndA PIÙ recenTe.",
+        "q_id": 629
+    },
+    {
+        "db_id": "tvshow",
+        "question": "QuAl È IL cODICE DI prODUZIoNE E IL CANALE DEl carToNE aNImATO pIù RECeNtE?",
+        "q_id": 630
+    },
+    {
+        "db_id": "tvshow",
+        "question": "TROVA lA SCElTA DEl PAcCHEtTO e IL NOme delLA SeRIe DEl CaNALe tv CON tv Ad ALTA DEFiNIzIONE.",
+        "q_id": 631
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUALi SonO Le oPZIOnI DEL PACCHeTTO E IL NOME DELLA sErIE PER Il CaNAlE Tv ChE SuPPORTA Tv aD AlTA DEfINIZIOne?",
+        "q_id": 632
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUALi CANALI Tv DEI PAEsi sTaNNO GIOCanDO UN CarTOnE ANiMaTO SCRITTo DA TOdD cAsEY?",
+        "q_id": 633
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUaLI SoNO I pAESi ChE HANNO cARTONI ANImAti IN tv CHE SONO sTATI ScRitTI DA tODD CAsEY?",
+        "q_id": 634
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUali CANALI tV DeI PAEsI NON GIOCANO alCuN CaRTONE ANimaTO sCRIttO da tODd cASEY?",
+        "q_id": 635
+    },
+    {
+        "db_id": "tvshow",
+        "question": "quALi sONO I pAEsI CHE NOn SUONAnO I CARTONI aNIMATI sCRItti DA TOdD CaSEY?",
+        "q_id": 636
+    },
+    {
+        "db_id": "tvshow",
+        "question": "tROVA IL nOMe dElLA SeRie E IL PAESE DEL CANALe TELeVisiVO CHE SUONA ALCuNi cArTONi diRETTI DA Ben JOnES e MICHAEL cHANG?",
+        "q_id": 637
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUAl È Il NOME DEllA SERIE E IL pAESE dI tUTti I CaNaLI tv che SUONAnO I CARtoNI aNIMaTi DIREtti DA bEN jONEs E CARTONI ANiMAtI DIRETTI DA mIcHaEL chaNG?",
+        "q_id": 638
+    },
+    {
+        "db_id": "tvshow",
+        "question": "TROvA IL RAPpoRTO PIXEl e lA NAZiONE DEi cANAlI tV CHe NON USAnO L'iNGLESe.",
+        "q_id": 639
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUAl È IL rApPoRTO PIXEL E IL pAESe DI OrIGiNE pEr tuTtI I cANaLI tv Che NON USANO L'IngLESE?",
+        "q_id": 640
+    },
+    {
+        "db_id": "tvshow",
+        "question": "tROVA Id DEI cAnALi tV cHE Dai PAESI iN CUI HANnO pIÙ DI DUe cANALI Tv.",
+        "q_id": 641
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUALI SOnO gLI Id DI tutTi i CANALI tv CHE HANNO pIù DI 2 CANaLI Tv?",
+        "q_id": 642
+    },
+    {
+        "db_id": "tvshow",
+        "question": "tROVa l'id dEI cANALi tv ChE NoN SuonANO ALCUN caRtOne ANIMaTO DIreTTO DA bEN jONES.",
+        "q_id": 643
+    },
+    {
+        "db_id": "tvshow",
+        "question": "quALI SONo GLI id DEI CANALI tV cHe NON HANNO CARTONI anImATI DiRETTI Da ben JONeS?",
+        "q_id": 644
+    },
+    {
+        "db_id": "tvshow",
+        "question": "tROVa L'opZIOnE PacChEtTO dEl cAnALe tv CHE NoN HA aLCUN CARToNE ANImaTO dIRETtO DA bEN jONES.",
+        "q_id": 645
+    },
+    {
+        "db_id": "tvshow",
+        "question": "qUALi SONo LE OpzIONI dI pACCHeTTO dI TUTTi I CANALI tv chE NON SUOnaNo CARTonI aNIMaTI DIReTtI da beN jOnes?",
+        "q_id": 646
+    },
+    {
+        "db_id": "poker_player",
+        "question": "qUAnTI GIocaToRI DI POKER cI SONO?",
+        "q_id": 647
+    },
+    {
+        "db_id": "poker_player",
+        "question": "COnTA iL NUMERo DI GIoCATORI dI pokER.",
+        "q_id": 648
+    },
+    {
+        "db_id": "poker_player",
+        "question": "elENCA I guaDAgNi dEI GIOCATOrI dI POkeR In ORDInE DECrESCENTE.",
+        "q_id": 649
+    },
+    {
+        "db_id": "poker_player",
+        "question": "QUALI SOno I GUAdAGNI dEI GIoCAtORi Di POKER, oRDiNAtO DI sCeNDERe PER VALoRe?",
+        "q_id": 650
+    },
+    {
+        "db_id": "poker_player",
+        "question": "eLeNcA LE TAbELLE FINAlI REaLIZzaTE E LE MIglIORI fInItURE dEI GiocAtORI Di PokER.",
+        "q_id": 651
+    },
+    {
+        "db_id": "poker_player",
+        "question": "qUaLi SoNO I tAVoLI FINALi REALIZZaTI E LE MIGLioRI FInITurE PER tuTTI i GIOCAtORi Di pOKER?",
+        "q_id": 652
+    },
+    {
+        "db_id": "poker_player",
+        "question": "qUal È IL GuADAGNO MEdiO DEI gIOCAtoRI DI poKER?",
+        "q_id": 653
+    },
+    {
+        "db_id": "poker_player",
+        "question": "ReSTiTUISCE I GUaDagNi mEDI IN TUTTI I gIoCaTORi Di POKER.",
+        "q_id": 654
+    },
+    {
+        "db_id": "poker_player",
+        "question": "qUAL È IL RANGO DI DENaRO del GIoCAtorE dI pOKER COn i GUADagNi PIÙ aLTI?",
+        "q_id": 655
+    },
+    {
+        "db_id": "poker_player",
+        "question": "reSTItUisCE IL GRADO dI DENARO DEL gIoCATOrE Con I mAGGioRi GUADaGNi.",
+        "q_id": 656
+    },
+    {
+        "db_id": "poker_player",
+        "question": "quAL è IL NUMERO mAsSIMO DI tABELlE FInALi ReALIZZATE TRa I GIOcaTORI DI PokEr CON GuADAGNI InFeRiORI a 200000?",
+        "q_id": 657
+    },
+    {
+        "db_id": "poker_player",
+        "question": "REStITUIScE I TAVOLi FInaLI MAsSIMI RealIzZATI SU TUtTi I giOCATORI Di POKeR CHE HANNO GUaDagNI InFERioRI A 200000.",
+        "q_id": 658
+    },
+    {
+        "db_id": "poker_player",
+        "question": "qUALI sONo i nOmi DEI GIOCAtORI dI POKER?",
+        "q_id": 659
+    },
+    {
+        "db_id": "poker_player",
+        "question": "reStITuiSCE i NOmI DI TUTTI I GIoCaToRI DI PoKeR.",
+        "q_id": 660
+    },
+    {
+        "db_id": "poker_player",
+        "question": "QUaLI SONO I NoMI DEI GIOCATORI Di POKEr I cUi GuADAgNi SONO suPErIORI a 300000?",
+        "q_id": 661
+    },
+    {
+        "db_id": "poker_player",
+        "question": "DAI I NoMI deI gIoCAToRI DI PoKER CHE HANNO GuADAgnI sUPERIORI A 300000.",
+        "q_id": 662
+    },
+    {
+        "db_id": "poker_player",
+        "question": "ELeNCA I NoMI Dei GiOCATOrI di POKer ORDINAtI DALLe TAbeLLE FinALI REALIZZAtE IN ORDiNe CREsCeNTE.",
+        "q_id": 663
+    },
+    {
+        "db_id": "poker_player",
+        "question": "qUaLI sOnO I NOMI DEI GiOCATORI dI pOKeR, oRDINAtI aSCENDENTI DAL NumERO DI tABElLe fiNAlI cHE HAnNo FATTO?",
+        "q_id": 664
+    },
+    {
+        "db_id": "poker_player",
+        "question": "quAL È LA DAtA dI NaSCITA DEL gIoCATorE Di poKER CON I GuaDAGnI PIù BASSi?",
+        "q_id": 665
+    },
+    {
+        "db_id": "poker_player",
+        "question": "rESTItUISce LA DaTA DI nasCIta DEl GIOCATORE DI PoKER CON I GuADAgNI PIù BasSI.",
+        "q_id": 666
+    },
+    {
+        "db_id": "poker_player",
+        "question": "qUAL È iL RANGO Di dENArO DeL GIOCATOrE DI PokER PiÙ ALTO?",
+        "q_id": 667
+    },
+    {
+        "db_id": "poker_player",
+        "question": "RESTITUiSce iL GRADO dI dEnarO DeL GIOCAtORE dI PokER coN LA MASsIMA ALTEZZA.",
+        "q_id": 668
+    },
+    {
+        "db_id": "poker_player",
+        "question": "qUAL è iL GuADaGNO MEDIO DEI GIOcAtori DI POKeR CON aLTEzzA SUPeRioRe A 200?",
+        "q_id": 669
+    },
+    {
+        "db_id": "poker_player",
+        "question": "dAI GUaDAGNi MEDI DI gIOCaTORi di PokEr CHE SoNo piÙ ALTI DI 200.",
+        "q_id": 670
+    },
+    {
+        "db_id": "poker_player",
+        "question": "qUAli SONO I nOMI dEI gioCAtoRI DI PoKeR IN ORDINe DECrESCEntE DI GUADAgNI?",
+        "q_id": 671
+    },
+    {
+        "db_id": "poker_player",
+        "question": "ReStITUIScE I nomI DEI GIOCATORi Di POkeR ORDINaTi CON i LORO GUADAGNI DIsCEnDEnTi.",
+        "q_id": 672
+    },
+    {
+        "db_id": "poker_player",
+        "question": "qUali SONO lE DiVErSE NAZIONALiTÀ dELLe PERSONe E Il nUMERo cORRiSPoNdentE Di PERSONE DI OGNi NaZIoNE?",
+        "q_id": 673
+    },
+    {
+        "db_id": "poker_player",
+        "question": "QuANTe PERSONE CI SONo DI OGNI NaZiONALitÀ?",
+        "q_id": 674
+    },
+    {
+        "db_id": "poker_player",
+        "question": "qUAl è lA NAZiONAlItà PIù CoMUNE DELLE pERSOnE?",
+        "q_id": 675
+    },
+    {
+        "db_id": "poker_player",
+        "question": "daI LA NAZIONALITà pIÙ COmUNe In TuTTe Le pERsOnE.",
+        "q_id": 676
+    },
+    {
+        "db_id": "poker_player",
+        "question": "QUalI SoNO LE nAZIOnAlITÀ CONDIVISe Da alMENO DUE PerSONE?",
+        "q_id": 677
+    },
+    {
+        "db_id": "poker_player",
+        "question": "rESTItUISCE LE NAzionaLITà PER LE quaLI CI SONO DUE O PIÙ PErSoNe.",
+        "q_id": 678
+    },
+    {
+        "db_id": "poker_player",
+        "question": "eLENCa I nOMI e Le dATE Di NASCIta DELLE PErSONe In ORDINE ALFaBeTICo ASCENDENtE DI NOMe.",
+        "q_id": 679
+    },
+    {
+        "db_id": "poker_player",
+        "question": "qUALI SONO I nOMI E LE daTe DI NASCITA deLLE pERsoNE, oRDINATE COn I loRo NOMi In oRdinE ALFABeTICO?",
+        "q_id": 680
+    },
+    {
+        "db_id": "poker_player",
+        "question": "moSTrA NOMI dI pERsONE LA cUI NazionAlITÀ NON è \"RUSSIA\".",
+        "q_id": 681
+    },
+    {
+        "db_id": "poker_player",
+        "question": "qUaLI SONO I noMI dELLE PERSONE CHE non vENGONo DALLA RUSSiA?",
+        "q_id": 682
+    },
+    {
+        "db_id": "poker_player",
+        "question": "elENcA I NOMI DElLE PERSOnE che NoN sonO GIoCATORI dI POKER.",
+        "q_id": 683
+    },
+    {
+        "db_id": "poker_player",
+        "question": "qUalI SONO I NOMI DellE persONe CHE NoN GIOCANO A PoKeR?",
+        "q_id": 684
+    },
+    {
+        "db_id": "poker_player",
+        "question": "qUAnTe NAZIONALITÀ DistIntE CI SONO?",
+        "q_id": 685
+    },
+    {
+        "db_id": "poker_player",
+        "question": "cOntA il nuMERO DI DIVErSE nAZIONaLITÀ.",
+        "q_id": 686
+    },
+    {
+        "db_id": "voter_1",
+        "question": "quANTI StATI CI SONo?",
+        "q_id": 687
+    },
+    {
+        "db_id": "voter_1",
+        "question": "eleNcA I NUMERi E I NOmI DeI cONCORrENTI, ORdINAti dAl NOMe DEL cONcORRENTE DIScEnDENTE.",
+        "q_id": 688
+    },
+    {
+        "db_id": "voter_1",
+        "question": "eLEnCA GLi id VOtI, i NUMErI dI TeLEFONO e gLi STATI DI tUttI i VOTI.",
+        "q_id": 689
+    },
+    {
+        "db_id": "voter_1",
+        "question": "qUaLI sONO I vaLORI mASSiMi E MINIMI DeI coDICI DI AReA?",
+        "q_id": 690
+    },
+    {
+        "db_id": "voter_1",
+        "question": "qUAL È L'ULTIMA DatA CReaTA dAI VOTI DAllO StatO \"ca\"?",
+        "q_id": 691
+    },
+    {
+        "db_id": "voter_1",
+        "question": "QuALi SONO i NOMI dEI COncORRENTI I CUi nOMi NON SONO \"jESSIe A PaRTIRE\"",
+        "q_id": 692
+    },
+    {
+        "db_id": "voter_1",
+        "question": "qUAlI SONo gLI STATi DISTiNTI E CREArE TeMPO Di TUtTi I VotI?",
+        "q_id": 693
+    },
+    {
+        "db_id": "voter_1",
+        "question": "qUALI sOno I NUMErI DEI ConCOrRENtI e i NOMI DEi CONCOrRENTi chE HANNo AVuTo ALMEnO DUe vOTi?",
+        "q_id": 694
+    },
+    {
+        "db_id": "voter_1",
+        "question": "DI TUTTI I CONCOrRENTI cHE SoNO STATI VotATi, qUal È IL nUMErO del COnCORReNTE E IL NOME deL CONCORRENtE ChE HA oTTenuTO IL mINIMO VoTO?",
+        "q_id": 695
+    },
+    {
+        "db_id": "voter_1",
+        "question": "qUALI SonO IL NUmeRo Di VOTI dELLO STATo \"ny\" O \"ca\"?",
+        "q_id": 696
+    },
+    {
+        "db_id": "voter_1",
+        "question": "qUANtI coNCORRenTI NOn SoNO stATI VOTATi?",
+        "q_id": 697
+    },
+    {
+        "db_id": "voter_1",
+        "question": "QUAL È IL coDICE DI ArEA iN cUi Ha voTATO IL MagGiOR nUMeRO DI ELETToRI?",
+        "q_id": 698
+    },
+    {
+        "db_id": "voter_1",
+        "question": "qUALI Sono Le DaTE DI CReAZIONE, Gli stATI e i NUmERI DI TELEFOnO DEI vOTI chE ERANO PER il CONCoRRENtE CHiamATo \"tABAthA gEHLINg\"?",
+        "q_id": 699
+    },
+    {
+        "db_id": "voter_1",
+        "question": "ELEnCa i cODICI DI AREA iN CUI GLI ELeTTORi haNNO vOTATO sIA PER IL coNcORReNTe \"taBATHa gEhLING\" SIa PER Il cONCoRRENTE \"kElLy CLAUSS\".",
+        "q_id": 700
+    },
+    {
+        "db_id": "voter_1",
+        "question": "rEstiTUISCe I NOMI DEi CONCOrRENTI I cuI NOmi CONTENGOnO LA SOTtosTrInGA \"AL\".",
+        "q_id": 701
+    },
+    {
+        "db_id": "world_1",
+        "question": "QuALI SoNO I NOMI Di TUTTI i paESI cHE SOnO DIVENTatI INDIpENdeNTI dOPO IL 1950?",
+        "q_id": 702
+    },
+    {
+        "db_id": "world_1",
+        "question": "dai I noMI DELLE NAzIONI che FuRONo FONDatE DOPO iL 1950.",
+        "q_id": 703
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUANTI paESi HANNO UNA REPUBBlICA CoME FoRma DI GoveRNo?",
+        "q_id": 704
+    },
+    {
+        "db_id": "world_1",
+        "question": "QuANTI PAesI HANNO GOVErNI CHE soNO RepUbBLIChE?",
+        "q_id": 705
+    },
+    {
+        "db_id": "world_1",
+        "question": "QUaL È la sUpErFICiE TOTALE DEI PAeSI NELLA REgionE dEI cARAIBI?",
+        "q_id": 706
+    },
+    {
+        "db_id": "world_1",
+        "question": "quANTA SUpERFICiE SI COPRONo I paEsi NEi caRAIBI?",
+        "q_id": 707
+    },
+    {
+        "db_id": "world_1",
+        "question": "iN QUAle CoNtINEntE SI TROvA aNGUiLLa?",
+        "q_id": 708
+    },
+    {
+        "db_id": "world_1",
+        "question": "quAl È IL NOME DEl CONTInENTE A CUI ApPArTIEnE aNgUiLla?",
+        "q_id": 709
+    },
+    {
+        "db_id": "world_1",
+        "question": "iN QUaLE REgIone Si TROVa lA CITTÀ Di KABUL?",
+        "q_id": 710
+    },
+    {
+        "db_id": "world_1",
+        "question": "IN ChE REGiONe Si TROVA KABuL?",
+        "q_id": 711
+    },
+    {
+        "db_id": "world_1",
+        "question": "QUALE LINgUA È LA PiÙ POPoLAre IN aRuBA?",
+        "q_id": 712
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAlE LiNGUA SI PArLA pREVaLEntEMeNtE In aRuBA?",
+        "q_id": 713
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUALI SoNO Le aSpETtAtIVE DI pOpOLAZiOnE E vITA iN bRaSILE?",
+        "q_id": 714
+    },
+    {
+        "db_id": "world_1",
+        "question": "DamMI LA pOPOlaZIONE DeL braSIlE e LE AsPETTATIvE DI VITa.",
+        "q_id": 715
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUALi SONO La REgiONE E LA pOPOLAZIOne delL'ANGOLA?",
+        "q_id": 716
+    },
+    {
+        "db_id": "world_1",
+        "question": "A QuALE REGiOne APParTIENE L'aNGOlA E QUaL È La SuA PoPOLaZiONE?",
+        "q_id": 717
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAL È L'AsPETTaTiVA di VItA MEdiA pREVIStA Per i PAEsi NeLLA REGIONE DElL'aFrICA ceNTRALE?",
+        "q_id": 718
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUANTO duRa l'AsPETTATIVa di VitA MeDIA dELLE PERsONE IN aFRICA CEntRALe?",
+        "q_id": 719
+    },
+    {
+        "db_id": "world_1",
+        "question": "QUAL È iL noME DEL paESE CHE HA LA pIù brEvE ASPEtTATIVa DI ViTa IN aSIa?",
+        "q_id": 720
+    },
+    {
+        "db_id": "world_1",
+        "question": "DaI IL NOME DeL pAESE iN asiA cOn LA PIÙ BASSa ASPETtATiVA DI ViTA.",
+        "q_id": 721
+    },
+    {
+        "db_id": "world_1",
+        "question": "qual È LA POpOlAZIoNe TOTaLE E IL MAssIMO pIl In AsIA?",
+        "q_id": 722
+    },
+    {
+        "db_id": "world_1",
+        "question": "quANTE PErSONe VIVOnO In asiA E QuAl È iL pil PiÙ GRaNDE TrA LORO?",
+        "q_id": 723
+    },
+    {
+        "db_id": "world_1",
+        "question": "QUAL è L'AsPETTATIVA DI ViTA meDIA NEI pAESI AFrICANi CHE sONO REpubbLICHE?",
+        "q_id": 724
+    },
+    {
+        "db_id": "world_1",
+        "question": "dARE l'AsPeTTATiVA Di VItA meDIA PeR I PaeSi In aFRIca QUAlI SONO LE REPUBBLICHE?",
+        "q_id": 725
+    },
+    {
+        "db_id": "world_1",
+        "question": "QUal È lA supERfICIe TOTALE DEI CONTINENtI asIA E EUROpA?",
+        "q_id": 726
+    },
+    {
+        "db_id": "world_1",
+        "question": "DarE la sUPERFICIE TOTAlE CopERtA DA pAESi IN aSIA O in EUROPA.",
+        "q_id": 727
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAnTE PeRSONE vIVONO nel DIStRETtO DI geLDERLANd?",
+        "q_id": 728
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAl È La POPOLazIoNE tOtAle DEL DIStRETTo DI geLDERLaND?",
+        "q_id": 729
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUaL è Il piL MEDIo E La POPOLAZiONE totALE IN TUTtE LE nAZIoNI iL cUi GOVeRnO è IL tERRITORIO DEGlI STATI unITI?",
+        "q_id": 730
+    },
+    {
+        "db_id": "world_1",
+        "question": "dARE iL pil MEDiO E LA poPoLAZIONe ToTALe dI NaZIONI ChE SONO cOnSidERAti TeRRiTORI STATuNiTENSI.",
+        "q_id": 731
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUANTE LINgUe uNIChe sONO PARLATE NEL moNDo?",
+        "q_id": 732
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAL È IL NuMEro dI LINGUE DisTinTE uSATE IN TuTTO IL MONdo?",
+        "q_id": 733
+    },
+    {
+        "db_id": "world_1",
+        "question": "QUANTI tIPI Di GOVerNi SONo IN aFRIcA?",
+        "q_id": 734
+    },
+    {
+        "db_id": "world_1",
+        "question": "QUANtE dIVERSE foRME DI GOVERNI Ci soNO IN aFRiCA?",
+        "q_id": 735
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUaL È iL NUmERO TOTALE DI LiNguE uTILIZZATE in aRUba?",
+        "q_id": 736
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAnTE LINguE SI PARLA IN aRubA?",
+        "q_id": 737
+    },
+    {
+        "db_id": "world_1",
+        "question": "quANTe LinGUE UFFiCIALi HA l'aFGHANIsTaN?",
+        "q_id": 738
+    },
+    {
+        "db_id": "world_1",
+        "question": "quANTE LInGUE UFfICIAlI Si pARlA IN aFGHANISTAN?",
+        "q_id": 739
+    },
+    {
+        "db_id": "world_1",
+        "question": "QUAl è IL nOME del pAEse CHE PARLA Il MAgGIOR NUMERO Di LINGUE?",
+        "q_id": 740
+    },
+    {
+        "db_id": "world_1",
+        "question": "dAI IL noME DELLA NAzIoNE cHe USA LA pIÙ GRAnDE QUaNTITÀ di lINGue.",
+        "q_id": 741
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUALE cONTiNEnTe hA LE LINGUE PiÙ DIVeRSE?",
+        "q_id": 742
+    },
+    {
+        "db_id": "world_1",
+        "question": "quALe CONTinEnTe PARLa PIÙ LInGUE?",
+        "q_id": 743
+    },
+    {
+        "db_id": "world_1",
+        "question": "QUANTI pAESi ParLaNO Sia iNgLESE ChE OLANDEsE?",
+        "q_id": 744
+    },
+    {
+        "db_id": "world_1",
+        "question": "quAL È IL NUmERO di NAZIOnI CHe USANO L'iNgLEsE E L'OLAnDESE?",
+        "q_id": 745
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUalI SONO I NOMi DELLe NAZIONI paRlANO SIA iNGLesE cHe FRanCESE?",
+        "q_id": 746
+    },
+    {
+        "db_id": "world_1",
+        "question": "DaI I NOMi DELlE NAzIoNI CHE PArLAnO SIa iNgLESE CHE FraNCESE.",
+        "q_id": 747
+    },
+    {
+        "db_id": "world_1",
+        "question": "quALI SOnO I nOMI DELLE NaZIoNI IN CUI iNGlesi E FRANCEsI SONO LINgUE UFFiCiALi?",
+        "q_id": 748
+    },
+    {
+        "db_id": "world_1",
+        "question": "dAi I NOMI dEi PAESi CON INGLEsE E fRAnCEsE coME LINgUE UFFICIALI.",
+        "q_id": 749
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUaL È Il NUmERO DI COnTINeNTI DiSTiNTI In CuI SI pArLA CIneSE?",
+        "q_id": 750
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAnTI CONTInEnTi PARLAnO CiNeSE?",
+        "q_id": 751
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUALI SONO LE REGIoNI cHE UsaNO l'INGlESe O L'oLANDesE?",
+        "q_id": 752
+    },
+    {
+        "db_id": "world_1",
+        "question": "quAlI REGIONI pArLaNO OLANdeSE o INGLESe?",
+        "q_id": 753
+    },
+    {
+        "db_id": "world_1",
+        "question": "QuaLI SoNo I PaeSi iN CuI L'InGLeSE O L'OLaNDESE È LA LINGUA UFfICIALE?",
+        "q_id": 754
+    },
+    {
+        "db_id": "world_1",
+        "question": "quALI pAeSi HANNO INGlESE O OLanDESE COmE LiNGUA uFFIcIALE?",
+        "q_id": 755
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAlE liNGuA È La pIÙ pOPOLARE NEL cOnTINENTE AsiaTICO?",
+        "q_id": 756
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAl è LA LINGUA CHE VIenE UtIlIZZaTA dAL MAgGiOR NuMERO dI nAZIOni aSIATICHE?",
+        "q_id": 757
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUaLi lINGUE SOnO PARLaTE Da uN SOLO pAESE NEI GovERNi DELLA rEPUBBLiCa?",
+        "q_id": 758
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAli LInGUe VENGOnO UTILiZZATe sOlo DA Un sINGOlO PAESE CON UN GoVERNo DelLA rEpUBBlICA?",
+        "q_id": 759
+    },
+    {
+        "db_id": "world_1",
+        "question": "tROvA LA ciTtÀ CoN La POPOLAZiONE PiÙ gRaNDE CHE uSA l'INGLESe.",
+        "q_id": 760
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAl È LA CITTÀ pIÙ poPoLARE ChE PArLa INGLESe?",
+        "q_id": 761
+    },
+    {
+        "db_id": "world_1",
+        "question": "tROva IL nOme, lA POPOLaZIOnE E La LUNGHEZZA dELlA viTA ATTESA dEl PAESE aSIATICO CoN LA PIù GRanDE arEA?",
+        "q_id": 762
+    },
+    {
+        "db_id": "world_1",
+        "question": "quaLI SoNO IL nomE, LA POPOLAZIonE E L'ASPEtTaTIVA di VItA DEL PiÙ GRANDe paESE ASIATICO PER TerRA?",
+        "q_id": 763
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAL È L'ASPETTATiva DI VitA MEDIa NEI paEsI In CUI L'iNGlEse NOn È lA LINGuA UFFiCiAlE?",
+        "q_id": 764
+    },
+    {
+        "db_id": "world_1",
+        "question": "daI LA cATTIVa ASpetTATIVA Di ViTa DEI PaESI In CuI L'INGLESE nOn è lA lINGuA UFFICIALE.",
+        "q_id": 765
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAL È iL NUMERo TOTAlE dI pERSONE CHE vIVONO NElLE NaZiOni CHE NON USAnO L'IngLESE?",
+        "q_id": 766
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAnTe pErSONE VIvoNO iN PAESi CHE nON PARlAnO INgLESe?",
+        "q_id": 767
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAl È LA lInGuA UFfIciALE pARLATA NeL PAESE Il CUi CAPo Di StaTO È bEATriX?",
+        "q_id": 768
+    },
+    {
+        "db_id": "world_1",
+        "question": "quAl È LA LInGuA UffICIALe usATa NEL PaESE IL NOME DEl cUI CAPo DI STaTO È beATrIX.",
+        "q_id": 769
+    },
+    {
+        "db_id": "world_1",
+        "question": "quAL È il NUMeRO ToTaLe DI LINGUe UFFIcIalI UNICHE pArLAtE NEI PAESI ChE SI FOnDONO pRIma DeL 1930?",
+        "q_id": 770
+    },
+    {
+        "db_id": "world_1",
+        "question": "pER i PAESI FondAtI PRiMa dEL 1930, qUAL è IL NUMeRO TOTALE Di LINgUE UFFICiALI DiSTINTE?",
+        "q_id": 771
+    },
+    {
+        "db_id": "world_1",
+        "question": "quALI SOno i PAESI CHe HANNO UNA sUpERfICiE MAGGIORE dI QualSIAsI paESE IN euROpA?",
+        "q_id": 772
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAli PaESI HaNNO uN'AreA MAGGIOre Di QUELLA DI quALsIASI PAESE iN EUROPa?",
+        "q_id": 773
+    },
+    {
+        "db_id": "world_1",
+        "question": "QUAlI SOno i PAESi AFricaNI CHE hANNO Una POpOLAZIONE MENO DI qUAlSIAsI PAeSE IN asiA?",
+        "q_id": 774
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUaLI PAESI AFRICANI HANNo uNa POpoLAZIoNE pIù PICCOLA DI QuelLA DI quALSIAsI pAEsE iN AsIA?",
+        "q_id": 775
+    },
+    {
+        "db_id": "world_1",
+        "question": "QuALi PaESi ASIATicI HaNNO UNA pOpOLaZiONe PIÙ GrANDe DI QUALsIASi PAESE In aFRiCa?",
+        "q_id": 776
+    },
+    {
+        "db_id": "world_1",
+        "question": "quaLI SOnO I PAeSI ASiAtICI chE hAnNO UNA POPOLaZIOnE PiÙ GraNDE DI QUellA Di QuAlSIASI PAESE iN aFrIcA?",
+        "q_id": 777
+    },
+    {
+        "db_id": "world_1",
+        "question": "QUALI SoNO I codICi NAZIONaLI PER I paESI cHE NOn PArLANO InGlESE?",
+        "q_id": 778
+    },
+    {
+        "db_id": "world_1",
+        "question": "rEstItuISCE i coDIcI DI CAMPaGnA PeR I PAESi CHe NOn PARLANO iNGLESE.",
+        "q_id": 779
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUALI SONo I CODICI naziONALi DEI PAESi iN CUI Le PERsONe UsANO liNGUe DIVeRsE DALL'InGLESe?",
+        "q_id": 780
+    },
+    {
+        "db_id": "world_1",
+        "question": "dai I coDiCI DeL pAESE pER i paESI IN CUI LE pErSonE PARLAnO LINGUE ChE NON sONO INGLeSI.",
+        "q_id": 781
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUALI SOnO I CODIci dEi PAESI ChE NON PArLANO INGLeSE e le Cui FORmE GoVERNaTivE NON SONO RepUBbLICHE?",
+        "q_id": 782
+    },
+    {
+        "db_id": "world_1",
+        "question": "rESTITuISCI I CodiCI DEi PaESI chE nON PaRLAnO iNGlESE E NON HAnNO REPuBBlIChe PEr i GOVERnI.",
+        "q_id": 783
+    },
+    {
+        "db_id": "world_1",
+        "question": "quaLI CITTÀ SONO nEI PAEsI EUROPEI IN CUI l'inGLEsE noN è La LiNGUA UfFICIaLE?",
+        "q_id": 784
+    },
+    {
+        "db_id": "world_1",
+        "question": "quALI SoNO I NOMI DELLE CItTÀ In eUROPA PER LE qUALi L'INGlEse NON È LA LiNgua ufficIALE?",
+        "q_id": 785
+    },
+    {
+        "db_id": "world_1",
+        "question": "QUaLI CiTTÀ UNIcHE SONO NEi PaeSi ASiaTICI IN CUI è LA LINgUA UffIcIALE?",
+        "q_id": 786
+    },
+    {
+        "db_id": "world_1",
+        "question": "reStITUISCI i DIVerSi nOMI DELLE CITTÀ CHe sOnO In ASIA e PEr LE quALI IL CInEsE È LA liNGUa UFFICIALe.",
+        "q_id": 787
+    },
+    {
+        "db_id": "world_1",
+        "question": "QUAL È iL NOME, L'AnNO Di INdIPENDENzA E LA sUPERFICIE DEl PAESE coN LA PoPOlaZIoNE pIÙ PICcolA?",
+        "q_id": 788
+    },
+    {
+        "db_id": "world_1",
+        "question": "dAI Il NOMe, L'ANnO Di INdIPEnDENZa E La SuPERFiCIE DeL PAESe chE HA LA PoPOLAzIONE Più bASSa.",
+        "q_id": 789
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUALI soNo LA POPOLAZIONE, il Nome e iL lEADER DEL pAeSE cOn L'AREA PIÙ GRAnDE?",
+        "q_id": 790
+    },
+    {
+        "db_id": "world_1",
+        "question": "DAI Il NoME, La popoLAZIONe E IL cApO Di StAtO PER IL PAESE CHE HA LA PiÙ GrANDE ArEA.",
+        "q_id": 791
+    },
+    {
+        "db_id": "world_1",
+        "question": "rEstITUISCE IL nOME Del PAEsE e IL NuMeRO DI LINgUE PaRlAtE PER oGnI PAesE CHe PArLA ALMENO 3 LINgUe.",
+        "q_id": 792
+    },
+    {
+        "db_id": "world_1",
+        "question": "QuAlI SonO i NoMI dEI pAESI ChE PARLANO Più DI 2 LINgUE E QuANTE LINGuE PARLANO?",
+        "q_id": 793
+    },
+    {
+        "db_id": "world_1",
+        "question": "TrOvA iL NUMERO Di CitTÀ IN OGNI dIsTReTTO LA Cui PoPOLAZIONE è MAGGioRE DeLLA pOPOLaZiONe MeDIa DElLE ciTTÀ?",
+        "q_id": 794
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUANTe cIttÀ In OGNI dIsTReTTO HANnO UNA POPOlAZioNE AL dI SOPRA DELLa PoPOLazIONE meDIA iN TuTTE LE CItTÀ?",
+        "q_id": 795
+    },
+    {
+        "db_id": "world_1",
+        "question": "tROVA il NOME DEL MODULO DEl GOVErnO E LA POPOlAziOne TOTALE PER OgNI foRmA DEL gOverNO lA CUI ASPETTATIVA DI VITA MEDIa è piÙ LUnGA dI 72.",
+        "q_id": 796
+    },
+    {
+        "db_id": "world_1",
+        "question": "qualI SONO LE DIVERSE FORME DeL GOvERNO E qUAl È lA POPoLaZIOne ToTalE DI CIaSCUNo PeR LE FOrME GOvErNATIVE CHE HANNO UN'ASPETTAtiVA DI VIta MediA suPeRIorE a 72?",
+        "q_id": 797
+    },
+    {
+        "db_id": "world_1",
+        "question": "tROva L'ASPeTTAtIVA DI VITA MEdIA E LA PoPOLazIoNe tOTALe PER oGNI cONTINEnTE IN Cui l'ASPEtTATIVa DI ViTa MEDIA è iNFEriORE A 72?",
+        "q_id": 798
+    },
+    {
+        "db_id": "world_1",
+        "question": "QUALI SONO I DIveRSi cONTINEntI E lA POPolAZIONE ToTALE e l'AspETTATIVA DI VItA mEDIA CoRRIsPoNDENTE A CIAsCuNO, PER I coNTiNENTI CHE HaNnO UN'ASPEttAtiVa DI VIta mEDIa iNfERIoRE A 72?",
+        "q_id": 799
+    },
+    {
+        "db_id": "world_1",
+        "question": "QUalI SOno I noMI E LE AREE DEI PAEsI CON LE pRiMe 5 AREE PiÙ GRandI?",
+        "q_id": 800
+    },
+    {
+        "db_id": "world_1",
+        "question": "rEStiTUISci i NoMI E LE AREE SUPERFiCIALI dEI 5 PAESI pIÙ GRAnDI.",
+        "q_id": 801
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUALi SONo I NOMi dei PAeSI CON Le PRImE 3 POpOLAZIONI PiÙ grANDI?",
+        "q_id": 802
+    },
+    {
+        "db_id": "world_1",
+        "question": "rESTiTUISCI i noMI DEI 3 PAESI PiÙ POPOlAti.",
+        "q_id": 803
+    },
+    {
+        "db_id": "world_1",
+        "question": "quALI SOnO I NOMi dELle NAZioNI Con LE 3 POPOlAZiONI PIÙ BasSE?",
+        "q_id": 804
+    },
+    {
+        "db_id": "world_1",
+        "question": "ReSTITUIScE i NoMI DEI 3 PAEsI cON iL MINOR nUMERO DI PERsoNe.",
+        "q_id": 805
+    },
+    {
+        "db_id": "world_1",
+        "question": "quAnTi pAESi SONO IN asIA?",
+        "q_id": 806
+    },
+    {
+        "db_id": "world_1",
+        "question": "cONTa IL NuMEro dI PAESi iN aSIA.",
+        "q_id": 807
+    },
+    {
+        "db_id": "world_1",
+        "question": "quaLI SONO I NOMI DEI pAESI CHE SI tRoVANO NEL cOnTInEnTe EuROPEO e HAnnO UNa PoPoLazIoNE DI 80000?",
+        "q_id": 808
+    },
+    {
+        "db_id": "world_1",
+        "question": "dAI I NoMi deI PAEsi In eUROPA e HaNNo UNA POpOLAzIONE PArI A 80000.",
+        "q_id": 809
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUaL È LA pOPOLAZiOnE ToTALE E L'aREA MEdIA DEI PAESI NeL CONtiNEntE DEl NoRd AmeRiCA LA CUi AREA È PIÙ GrAnDE Di 3000?",
+        "q_id": 810
+    },
+    {
+        "db_id": "world_1",
+        "question": "foRNirE La POPOLAzIOnE ToTAlE E LA SUPerFicIE MeDiA cORRISPonDENTE AI PAESI DeL nORD aMERIca ChE hAnNO uNA SuPERFICie SUPERIORE A 3000.",
+        "q_id": 811
+    },
+    {
+        "db_id": "world_1",
+        "question": "quALI sONO LE CITTÀ la CUI pOpOLAZIoNe È TRa IL 160000 E IL 900000?",
+        "q_id": 812
+    },
+    {
+        "db_id": "world_1",
+        "question": "rESTitUISCE I NomI DELLE CiTTÀ CHE hANNO UNA POPOLAzIONe TrA IL 160000 E iL 900000.",
+        "q_id": 813
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUaLe LiNGUa È PArlATa DAL MagGIoR NUmERO DI PAESI?",
+        "q_id": 814
+    },
+    {
+        "db_id": "world_1",
+        "question": "DAi La LInGUA PARLaTA NELLA MAGgIOr pARTE DEI paeSI.",
+        "q_id": 815
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUaL è LA liNgUa PARlATa DALLA più gRANDE PERCENTUALE Di PERSonE In OGNI PaESE?",
+        "q_id": 816
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAlI SoNO I CODICi NAzIOnAlI DEI DIVeRSI PaeSI E quALI SOnO Le liNgUE PArLAtE DaLLa PIÙ GraNdE PERCeNTUaLE DI pErSONE PER CIASCUnO?",
+        "q_id": 817
+    },
+    {
+        "db_id": "world_1",
+        "question": "qUAL è IL NUmERO toTALE di PAEsI iN CuI LO SpaGNOlO È PARLAtO DALLA PIÙ GrAnDE perCeNTUALE Di PErSONe?",
+        "q_id": 818
+    },
+    {
+        "db_id": "world_1",
+        "question": "cONTA IL nuMERO DI PAeSi pER I qUALi LO SPAGNoLo È LA LIngUA pReVALeNtEMENTE PaRLaTA.",
+        "q_id": 819
+    },
+    {
+        "db_id": "world_1",
+        "question": "quAlI sONO I CoDICI DEI pAESi IN CUi LO SPaGNolO è parLAtO DALLA PIù grAnDE PERCeNTUaLE DI pERSoNE?",
+        "q_id": 820
+    },
+    {
+        "db_id": "world_1",
+        "question": "RESTiTUISCE I CODICI DeI pAESI pER I QUALI Lo spaGnOLO è LA LiNgUA PREVALEnTEMeNtE PArLAtA.",
+        "q_id": 821
+    },
+    {
+        "db_id": "orchestra",
+        "question": "quANTi cONDUTToRI CI soNO?",
+        "q_id": 822
+    },
+    {
+        "db_id": "orchestra",
+        "question": "CoNTA iL nUMeRO Di CONDuTTORI.",
+        "q_id": 823
+    },
+    {
+        "db_id": "orchestra",
+        "question": "eLEnCA I NOmI dEI CONDutTORI In ORDiNE DI Età CrEsCENtE.",
+        "q_id": 824
+    },
+    {
+        "db_id": "orchestra",
+        "question": "QUALi SONO I NoMI DEI CONDuTToRi, ORdiNaTI PEr ETÀ?",
+        "q_id": 825
+    },
+    {
+        "db_id": "orchestra",
+        "question": "quAlI sONO I nOMI DEI COndUtTORI Le CUI NAzIONaLItÀ NON SoNO \"uSa\"?",
+        "q_id": 826
+    },
+    {
+        "db_id": "orchestra",
+        "question": "rEsTITUIScI I nOMi DeI CONDUTTORI che NON HaNNO LA nAZIONALità \"uSa\".",
+        "q_id": 827
+    },
+    {
+        "db_id": "orchestra",
+        "question": "quaLi SOnO lE caSE DISCoGrAFiCHE dELLE ORChESTRE IN ORDINE DECREsCENtE DI AnNi In cui sONO StATE FONDATE?",
+        "q_id": 828
+    },
+    {
+        "db_id": "orchestra",
+        "question": "RESTITuiSCE LE casE DiscOGrAfICHE dELLE ORChESTRE, ORDiNAtE SCENDEndO NEGLI ANNI IN CUI FUrONO FoNDaTE.",
+        "q_id": 829
+    },
+    {
+        "db_id": "orchestra",
+        "question": "quAL è LA FReQUenZa mEDIa DEGLI SPETtACoLI?",
+        "q_id": 830
+    },
+    {
+        "db_id": "orchestra",
+        "question": "rEstITUiSCe LA FREQUEnZA MEdIA In tUtTI gLI sPETtACOLI.",
+        "q_id": 831
+    },
+    {
+        "db_id": "orchestra",
+        "question": "qUaLI SONo La QUOTA mASSIMA e MIniMA DI SPETTACOli IL CuI TIpo NON è \"IN DIRETTA in dIReTTA\".",
+        "q_id": 832
+    },
+    {
+        "db_id": "orchestra",
+        "question": "rESTITuIscE lE AZIONi MASsIME E mINIMe PeR SPETTACOLI CHE non HANNO IL tiPO \"iN DIrEtTA\".",
+        "q_id": 833
+    },
+    {
+        "db_id": "orchestra",
+        "question": "qUaNte NAZIoNALITÀ DIVeRSE HANNO I cOndUTToRi?",
+        "q_id": 834
+    },
+    {
+        "db_id": "orchestra",
+        "question": "cONtARE Il nuMERO DI DivERsE NAZIONALItÀ dEI CONdUTTorI.",
+        "q_id": 835
+    },
+    {
+        "db_id": "orchestra",
+        "question": "ELENcA I NOMI DEI cONDUTTOrI iN OrDiNE DECrESceNtE di ANNI DI laVORO.",
+        "q_id": 836
+    },
+    {
+        "db_id": "orchestra",
+        "question": "qUAli SONO I nOMI DEi coNDUTtORI, ORDINATI SCENDeNDo PEr iL NUMERO DI ANnI Che HannO LAvoRAtO?",
+        "q_id": 837
+    },
+    {
+        "db_id": "orchestra",
+        "question": "eLeNCA IL nOME DEL DirEtToRE CoN LA MAGGIOR PArtE dEGLI ANNI dI LaVORO.",
+        "q_id": 838
+    },
+    {
+        "db_id": "orchestra",
+        "question": "QUaL È IL NOmE DeL DIRetTORe Che HA LAVORaTO IL MagGIor NUMERO dI ANNI?",
+        "q_id": 839
+    },
+    {
+        "db_id": "orchestra",
+        "question": "mOStRA I NOMi DEi cONDUTtOrI E DELLe ORCHESTRE CHE HaNNO COndOtTo.",
+        "q_id": 840
+    },
+    {
+        "db_id": "orchestra",
+        "question": "qUALI SONO I NoMI dEI CONduTTOrI E Le COrrISpONDentI oRCheStRE ChE HANNo ConDOTTO?",
+        "q_id": 841
+    },
+    {
+        "db_id": "orchestra",
+        "question": "mOSTRa i nOMI DEI CONDuTTORI cHE HANNo CONDOTTO PIù DI UNA OrCHestRE.",
+        "q_id": 842
+    },
+    {
+        "db_id": "orchestra",
+        "question": "QuALI sOnO I nOMi DEI COndUtTORI cHE HAnNO cONDOTTO in PIÙ DI Un'ORchEsTRA?",
+        "q_id": 843
+    },
+    {
+        "db_id": "orchestra",
+        "question": "mOSTRA IL NOME dEl cONDuTTOrE Che Ha ConDoTTO IL mAGGIOR NUMeRo DI OrCHEStrE.",
+        "q_id": 844
+    },
+    {
+        "db_id": "orchestra",
+        "question": "qUAL è il nOmE DEL DIrEtTORE cHE HA COnDOTtO pIÙ ORCHESTRe?",
+        "q_id": 845
+    },
+    {
+        "db_id": "orchestra",
+        "question": "sI pReGA DI mOSTRARE iL NOME DeL CONDUtTOre cHE Ha CoNDOtTO OrcHEStRE FONdaTE Dopo IL 2008.",
+        "q_id": 846
+    },
+    {
+        "db_id": "orchestra",
+        "question": "QUALI SONo I nOMI DeI cONDUTTORI cHE HAnno CondoTTO ORChEstRe FONDATE DopO L'anNO 2008?",
+        "q_id": 847
+    },
+    {
+        "db_id": "orchestra",
+        "question": "sI pREGA DI MOSTRARE Le DIVERsE COMpAGnIE DIScOgRaFIChE e IL nuMErO CORrISPOndENTE dI OrCHESTrE.",
+        "q_id": 848
+    },
+    {
+        "db_id": "orchestra",
+        "question": "quANTE OrCHEsTRE gEstISCE ognI CASa DIsCOGRAFICa?",
+        "q_id": 849
+    },
+    {
+        "db_id": "orchestra",
+        "question": "si PReGA di mOSTRaRE I fORMATI Di rECOrD DelLE ORCHESTRE IN OrDiNe dI CONTEGGIo AscENDeNtE.",
+        "q_id": 850
+    },
+    {
+        "db_id": "orchestra",
+        "question": "qUAlI SONO I PrINCipAlI FoRMATI DI rECORD DI ORcHESTRE, OrDinATI peR LA LOrO FReQuENZA?",
+        "q_id": 851
+    },
+    {
+        "db_id": "orchestra",
+        "question": "eLENCARE LA cASa dIsCOGRaFICA COndiViSA DAL mAGGioR NuMeRo DI oRCHESTRE.",
+        "q_id": 852
+    },
+    {
+        "db_id": "orchestra",
+        "question": "QUAl È La CASA DIScoGRAfica UTILIZZATA DAL mAGGIoR NUMeRO dI OrCHEStRE?",
+        "q_id": 853
+    },
+    {
+        "db_id": "orchestra",
+        "question": "eLENCA I NOmi DeLLE orChEStRE CHE NON haNNO preSTAZIONI.",
+        "q_id": 854
+    },
+    {
+        "db_id": "orchestra",
+        "question": "QUALI sOno LE ORCHesTRE CHE NON HANNO esiBIZIOnI?",
+        "q_id": 855
+    },
+    {
+        "db_id": "orchestra",
+        "question": "mOStRa LE CAse DISCoGRAFIche CONDIViSE DA oRchESTrE FONDATe pRIMa DEL 2003 E DOPO IL 2003.",
+        "q_id": 856
+    },
+    {
+        "db_id": "orchestra",
+        "question": "qUAlI SoNo LE CASE DiSCOGrAFIChE ChE VeNgONO UTIlIZZaTe dA eNTRAMBE lE ORCHESTrE FOnDaTE PRIMA DEl 2003 E QUELLe foNDATe DoPO IL 2003?",
+        "q_id": 857
+    },
+    {
+        "db_id": "orchestra",
+        "question": "tROVA IL nUMERO Di oRCHESTRE IL cuI FOrMATO RECoRd è \"cD\" O \"dVD\".",
+        "q_id": 858
+    },
+    {
+        "db_id": "orchestra",
+        "question": "COnTARE iL NUmERO DI ORCHESTRe ChE HANnO CD o dVd cOME FORMATO RecoRD.",
+        "q_id": 859
+    },
+    {
+        "db_id": "orchestra",
+        "question": "mOSTRa GLI ANNI IN CUI vENgONo FoNdATe OrCHeSTRE CHe haNnO DATO PIÙ DI Una PeRFOrMancE.",
+        "q_id": 860
+    },
+    {
+        "db_id": "orchestra",
+        "question": "qUALi SONO GLI AnNI DI FoNDAZIOne pER lE ORCheSTrE ChE hANNO AVUTO piÙ dI UnA SINGOLA PERfOrManCE?",
+        "q_id": 861
+    },
+    {
+        "db_id": "network_1",
+        "question": "quaNti LICEALI CI SONo?",
+        "q_id": 862
+    },
+    {
+        "db_id": "network_1",
+        "question": "CONTA iL nuMERO Di LICEI.",
+        "q_id": 863
+    },
+    {
+        "db_id": "network_1",
+        "question": "MOSTRa I NOMi E I VOTi Di OGNI lICEO.",
+        "q_id": 864
+    },
+    {
+        "db_id": "network_1",
+        "question": "qUaLI sONO I NOMI E i vOTI PER OGnI LIcEo?",
+        "q_id": 865
+    },
+    {
+        "db_id": "network_1",
+        "question": "mOSTRA TUTTi i GRADi dEI liCEI.",
+        "q_id": 866
+    },
+    {
+        "db_id": "network_1",
+        "question": "quaL È Il GRADO DI oGNI LIcEALe?",
+        "q_id": 867
+    },
+    {
+        "db_id": "network_1",
+        "question": "iN cHE GRADO è KYLE?",
+        "q_id": 868
+    },
+    {
+        "db_id": "network_1",
+        "question": "resTITUisCE Il VOTO pER IL LICEO dI nOME kyLE.",
+        "q_id": 869
+    },
+    {
+        "db_id": "network_1",
+        "question": "MOSTRA I nOMI dI TUTtI I LiCEi Di GRADO 10.",
+        "q_id": 870
+    },
+    {
+        "db_id": "network_1",
+        "question": "quALI SOnO I NoMI DI TUTti I LicEi DI GRaDo 10?",
+        "q_id": 871
+    },
+    {
+        "db_id": "network_1",
+        "question": "mOSTRa l'id DEL LiceO DI NOMe kYlE.",
+        "q_id": 872
+    },
+    {
+        "db_id": "network_1",
+        "question": "coS'È L'id Di kyLe?",
+        "q_id": 873
+    },
+    {
+        "db_id": "network_1",
+        "question": "QuAnTI lICeALi cI SOnO IN GRADO 9 O 10?",
+        "q_id": 874
+    },
+    {
+        "db_id": "network_1",
+        "question": "conTAre IL NUmERO Di LICEALI NEI GRaDI 9 o 10.",
+        "q_id": 875
+    },
+    {
+        "db_id": "network_1",
+        "question": "mOSTRa Il NuMero DI LiceALI PER OGnI GRADO.",
+        "q_id": 876
+    },
+    {
+        "db_id": "network_1",
+        "question": "qUANTI LiCEI cI SonO iN OGnI GrADO?",
+        "q_id": 877
+    },
+    {
+        "db_id": "network_1",
+        "question": "qUALE VOtO HA PIÙ LicEaLi?",
+        "q_id": 878
+    },
+    {
+        "db_id": "network_1",
+        "question": "rEStITuISCE iL VOTo CHE HA IL MagGIOr NUmeRo Di LICeAlI.",
+        "q_id": 879
+    },
+    {
+        "db_id": "network_1",
+        "question": "moSTRAmI tUTti I VOtI CHE HannO aLMENO 4 STUDENTi.",
+        "q_id": 880
+    },
+    {
+        "db_id": "network_1",
+        "question": "QUaLI VOTI HAnNO 4 O pIù lIcEI?",
+        "q_id": 881
+    },
+    {
+        "db_id": "network_1",
+        "question": "mosTRA gli id STUDeNtI E IL NUmERO DI aMICI COrRiSpOnDeNTi A cIASCUNo.",
+        "q_id": 882
+    },
+    {
+        "db_id": "network_1",
+        "question": "QUANTI amICI Ha oGNi STUDENTE?",
+        "q_id": 883
+    },
+    {
+        "db_id": "network_1",
+        "question": "MoStRA I NOMi DEgLI STUDEnTI DELlE SCUoLe SuPeRiOri E IL LoRO CORRISpONDENTE NUMErO DI amICI.",
+        "q_id": 884
+    },
+    {
+        "db_id": "network_1",
+        "question": "QuALI SoNO i NOMi DEI LICEI E QUaNTI AMICI HaNNO CiasCUnO?",
+        "q_id": 885
+    },
+    {
+        "db_id": "network_1",
+        "question": "QUAL È iL NOme DeL LIcEo cHE hA Il MaGGIOr NUMERO DI AMICI?",
+        "q_id": 886
+    },
+    {
+        "db_id": "network_1",
+        "question": "rEsTITUISCI IL NOME DeLLO STUdeNTe DElle sCuoLe suPERIORI CON LA MAGGIOr paRTE deglI aMICI.",
+        "q_id": 887
+    },
+    {
+        "db_id": "network_1",
+        "question": "mOStRA i noMI DEI LICeI CHE HANNO ALMENo 3 AMIcI.",
+        "q_id": 888
+    },
+    {
+        "db_id": "network_1",
+        "question": "qUALI SOno I NoMI dEI lIceALI ChE HANNO 3 O PIÙ AmICi?",
+        "q_id": 889
+    },
+    {
+        "db_id": "network_1",
+        "question": "mOstRA I NOMi DI tUTtI gLi AmICI DEL lIcEO kyLE.",
+        "q_id": 890
+    },
+    {
+        "db_id": "network_1",
+        "question": "REStITUIsCe I noMI DEGLI amICi DELlO sTuDENTE DEL lICEO kYlE.",
+        "q_id": 891
+    },
+    {
+        "db_id": "network_1",
+        "question": "qUANtI aMicI HA Lo StUDeNTe DEL LICeO kYLE?",
+        "q_id": 892
+    },
+    {
+        "db_id": "network_1",
+        "question": "cOnTA IL NuMERO Di amICI ChE kYLE ha.",
+        "q_id": 893
+    },
+    {
+        "db_id": "network_1",
+        "question": "mOsTRA id DI tuTtI gLI StUDENTI chE NON HAnnO AMIcI.",
+        "q_id": 894
+    },
+    {
+        "db_id": "network_1",
+        "question": "QUALI sONO GLI id DEGLI stUDEnTI dELLE ScuOLe sUpERIOrI CHe NON haNNO AMICi?",
+        "q_id": 895
+    },
+    {
+        "db_id": "network_1",
+        "question": "mOsTRA NOMI di TUTTI GLI STuDEntI dElle SCuOLE SUPERIORI CHe nON HANnO AMiCi.",
+        "q_id": 896
+    },
+    {
+        "db_id": "network_1",
+        "question": "QUaLI SoNo I nOMI dEgLI sTuDEnTI ChE NON HANNo AMIcI?",
+        "q_id": 897
+    },
+    {
+        "db_id": "network_1",
+        "question": "mOStrA Gli id dEI LIcEI CHE HaNno aMIcI E SoNO ANCHe aPPREzZATI DA QUALcuN ALTRO.",
+        "q_id": 898
+    },
+    {
+        "db_id": "network_1",
+        "question": "qUALI SoNO GlI id DEGLi STUDEnTI CHE HaNNO ENtRAMBI AmIci E AppREzZaTI?",
+        "q_id": 899
+    },
+    {
+        "db_id": "network_1",
+        "question": "moSTRA il nOME DI TUTti gLI STUDenTi CHE HANnO DeGLI AmiCi E ANCHE PEr QuALcUN ALTRO.",
+        "q_id": 900
+    },
+    {
+        "db_id": "network_1",
+        "question": "qUAlI sONo I NOmI DeI LICeAli CHe hANnO ENtRAMbI AMiCi E CHE sONO APPREzZATI?",
+        "q_id": 901
+    },
+    {
+        "db_id": "network_1",
+        "question": "CoNTA Il NUMERO dI mI PIaCE PER oGnI Id stUDENTE.",
+        "q_id": 902
+    },
+    {
+        "db_id": "network_1",
+        "question": "QuaNTI Mi pIACE CORrISPONDonO A CiAScUN Id STUDENTe?",
+        "q_id": 903
+    },
+    {
+        "db_id": "network_1",
+        "question": "moStra i NOMi DeI LIcEAli CHe HANNO mI PIACe E uN NumERO dI mI pIACE PER CIASCUNo.",
+        "q_id": 904
+    },
+    {
+        "db_id": "network_1",
+        "question": "qUaLi sONo I NOMI DEi LiCEAlI CHe HANnO PIaCCiONo E quAnTI MI PIAcE OgNUNO DI CIASCuNO?",
+        "q_id": 905
+    },
+    {
+        "db_id": "network_1",
+        "question": "QUAL è il NOmE dEL LiCEO chE HA IL MAGGIOR NUMERO dI mI pIAce?",
+        "q_id": 906
+    },
+    {
+        "db_id": "network_1",
+        "question": "daI Il NOmE DEllO STUDeNTE CON PIÙ mI PIAcE.",
+        "q_id": 907
+    },
+    {
+        "db_id": "network_1",
+        "question": "MoStRa I nomI dEgLI STUdENTI CHE HANNO ALMENo 2 mI PIACE.",
+        "q_id": 908
+    },
+    {
+        "db_id": "network_1",
+        "question": "quAlI soNo i NOMI DEgLI STUDENTi ChE HANNo 2 O PIÙ MI PIACE?",
+        "q_id": 909
+    },
+    {
+        "db_id": "network_1",
+        "question": "moSTRA I nomi degLi STUdENtI CHE hANNO Un VoTO SUPERiORE a 5 E HAnNO ALmENO 2 AMICI.",
+        "q_id": 910
+    },
+    {
+        "db_id": "network_1",
+        "question": "quALI SOnO I NOMI DEI LICEALi CHE HaNnO Un vOTO di olTRE 5 e HANNO 2 o pIù AMIcI?",
+        "q_id": 911
+    },
+    {
+        "db_id": "network_1",
+        "question": "quaNTi mI PIAce HA kYLE?",
+        "q_id": 912
+    },
+    {
+        "db_id": "network_1",
+        "question": "ReStiTUIScE IL NUMEro DI mI pIACE CHE IL lIcEO DI NOME KYLE Ha.",
+        "q_id": 913
+    },
+    {
+        "db_id": "network_1",
+        "question": "tRoVA iL gRADo mediO DI TUttI GLi STUDeNTI ChE HANNO DEGLI AMIcI.",
+        "q_id": 914
+    },
+    {
+        "db_id": "network_1",
+        "question": "quAL è il GRaDO MEDIO DI StuDENTi CHE hANNO amICi?",
+        "q_id": 915
+    },
+    {
+        "db_id": "network_1",
+        "question": "trOvA IL grADO MINIMo DI StuDeNTI CHE Non HANNO aMicI.",
+        "q_id": 916
+    },
+    {
+        "db_id": "network_1",
+        "question": "QUAl È IL GrADO PIù BAssO DI sTUDENTI CHE noN hANno AMIcI?",
+        "q_id": 917
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUALi STaTI HANNO SIA PROPRIEtARi CHE PrOFEsSIONiSti ChE vIVOnO lÌ?",
+        "q_id": 918
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "TROVA gLI STAtI IN CUI VIVOno sIA PrOPRieTARI ChE pROFESsIONiStI.",
+        "q_id": 919
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUAL è L'ETÀ meDIA DeI CAni CHE hANNO atTRAVErSAtO tRATTaMeNTI?",
+        "q_id": 920
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "tROvA L'eTÀ MEdIA DEi CANI CHE HAnNO aTtRAVeRsaTO tRatTAMENTI.",
+        "q_id": 921
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUalI PROFESsiONIStI VIVONO NELLO StATO DElL'iNdIAnA O HAnNO fATTO cUre Su piÙ DI 2 trATTaMeNtI?eleNCA IL SUO id, CoGNOME E TELeFONO CELLUlARE.",
+        "q_id": 922
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "tROVA l'iD, IL COGNomE E IL cElLULARE DEI PrOFESSIOniSTI CHE vIVONo NELLO sTaTo DElL'inDIANA O HaNno ESEGUITo pIÙ Di dUE TraTTAMENtI.",
+        "q_id": 923
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUALI CANi NON SoNO cOSTaTi aL LORO PrOpRIETARIO PIÙ dI 1000 PEr IL tRaTTaMEnTO?eLENcA I NOMI DEI CaNi.",
+        "q_id": 924
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "quAli sonO I nOMi dEI cANI PER I qUaLI IL pROpRIETaRIO NON HA SPESO PIù DI 1000 PeR IL TrATtAMEnTO?",
+        "q_id": 925
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "quALI NOMI SoNo uSaTI PEr PRoFESsIONiSTI O PROprIETARI MA NOn SONo usaTI COMe NOmI dI cANI?",
+        "q_id": 926
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "tROVA I NOMI CHE VENgoNO utiLIZZAti pER PrOFESSIoNIsti O pROPRIEtARI ma NOn SOnO USATI COME NoMi DI CANi.",
+        "q_id": 927
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "QuaLE PROFESSIONISta NON HA OPeRATO ALCUn trATTamENtO SUi CAnI?eLeNca l'id, iL RUOLO Ed E -mAIL DeL PrOFESsioNiSTA.",
+        "q_id": 928
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "DAMMi L'id, IL RUOlO Ed E -mAIL Dei ProFeSsioNIsTI CHE NON HAnNO EsEGUITO ALcUN TrATTaMENTO sUI cANI.",
+        "q_id": 929
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "QUALE PROPriETaRIO POSSieDE IL MAgGIOR NuMErO DI CAnI?ELENcA L'ID prOPRIETARiO, Il NOME E IL COGNOMe.",
+        "q_id": 930
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "ReSTITuISCe L'id PrOPRIeTARIo, iL NomE E IL COgnOME DEl PROPRIETARIo ChE HA IL MAggiOR NUMeRO DI CANI.",
+        "q_id": 931
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUALi ProFeSSIOnIsTi hAnNO FATTO ALmENO DUE TRATTAMENTI?ELeNCA l'Id, il RUOlO E IL NoMe DeL PROFEsSIOnIStA.",
+        "q_id": 932
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUALI SoNO l'id, IL RUoLo E il NOMe deI PROfESSIoNiSTI CHE HAnno ESEGuITO DUe O PiÙ TRatTAmENTI?",
+        "q_id": 933
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "quaL È IL NOmE DELLA RAZzA CON iL MaGGioR NUMERO di CANI?",
+        "q_id": 934
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "QUaLE rAZZA hanNo PIÙ CANI?dAMMI IL NoME DeLlA rAzZA.",
+        "q_id": 935
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "quALE PRoPRIETARiO hA paGAtO pER Il MAGGIOR NUMERO di tRatTaMeNTi Sui SUOi CANI?eLENCa L'id pROPRIETARIO E IL cOGNOME.",
+        "q_id": 936
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "dIMMI l'iD PrOPrIEtArIO e IL COGNoME dEL pROprIETARIO CHe Ha SPEsO DI PIÙ PEr I TRATTamEnTI DEI SuOI CANI.",
+        "q_id": 937
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "quAL È lA DESCRIZIOnE DEl TIPO Di TRAttaMEnTO ChE cOSTA MENO DENaRO In ToTALE?",
+        "q_id": 938
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "dAmMI la DESCrIZIONE DEL tIPO dI TRATtaMEnTO IL CuI COstO totALe È IL PIÙ BAsSO.",
+        "q_id": 939
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "QuALe PrOPRiEtARIO HA PAGATO LA PiÙ GRAnDE QUaNTItÀ DI DeNaRO IN TOTALe PeR I lorO CAnI?MOSTRa L'id pROPRiETaRIO e Il CODicE POSTALE.",
+        "q_id": 940
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "tRoVA l'id pROpRIeTarIO E il CODICE POSTALe DEl PRoPRIETArio CHE HaNnO SPESO pIÙ DeNaRO iN TOTALe Per I SUOI CANI.",
+        "q_id": 941
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUALI PROFEssiONiSTi HaNNO FATTo ALMENO dUe TIPi DI TraTTAmENTI?eLEnCa l'id PRoFEssionALE E IL CELlULARE.",
+        "q_id": 942
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "tROvA L'id E IL TELEFOnO cElLUlARE DEI PROFESSIonISTI ChE GEsTIsCONO DUe o PIÙ TIpi Di TraTTAmENtI.",
+        "q_id": 943
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "quALI SONO iL NOME e il CoGNOmE DEI PROFEsSIoniSTI ChE hANnO FATTO CUrE CoN COSto iNFEriORE ALLA mEDia?",
+        "q_id": 944
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUaLI PROFeSsIONIstI HaNNO GesTITo UN tRATTamEnto CHE cOstA MENO DelLA mEDiA?dAMMI I LoRO NOMi E COGnOmI.",
+        "q_id": 945
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "eLENCA LA DATA DI OGni tRATTaMENtO, INSIEME AL nOMe DEL ProFEsSIOnISTa ChE LO Ha gEStITo.",
+        "q_id": 946
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUaLi SONO LA DATA E IL noME DeL PRoFeSSionISTa oPeRATivO DI OGNI TRATTAMENTO?",
+        "q_id": 947
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "elENcARE iL cOSTO DI CIAsCUN TRATtAMeNto E La CorRISPOndentE DESCRIZiONE DeL TIPO DI TRATTAMeNTO.",
+        "q_id": 948
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "QuaLI SONO La DEScRIZIOnE DeL TIPO DI COSTO E DEL TRATtAMentO DI OGNi TRatTAmENto?",
+        "q_id": 949
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "eleNCA IL NOME DI OgNi PRoPRiEtArIo, IL COGNOMe e Le DIMENSIoNI DEL sUO PER IL SuO CANE.",
+        "q_id": 950
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "quAli SOnO Il NOME, IL COGNOME E LE dimENSIOni DeL LORO CANE?",
+        "q_id": 951
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "eLeNCa LE CoPPIE DEL NOmE DeL PROPRIETAriO E iL NOME DeI caNI.",
+        "q_id": 952
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUaLi sONO iL NOMe dI OgNI PrOPRiEtaRIO E IL NOmE DEi LORO CANI?",
+        "q_id": 953
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "eLEncA I NOmI DEI CanI DeLLA rAZZA PIù rArA E LE DATE Di tRaTtameNTO.",
+        "q_id": 954
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "QUALI CANI SoNO DelLA RAZZA PIù RArA?mOStRA I lORO nOMI E LE DaTe DEL TRATtAMeNto.",
+        "q_id": 955
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUaLi CANI sONO DI PROPRIETÀ dI QUALCuno CHe vIVE IN viRgINIa?eLENca IL NOMe DEL PROPRiETARIO e il noMe DEL CAne.",
+        "q_id": 956
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "tROVa I NOmI DeI NOMI dEi PROPrIeTaRI cHE ViVONo iN vIRGinia E I NoMI deI CaNI CHE POSSIEDONO.",
+        "q_id": 957
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "QUALI SONO La DatA IN aRRiVo E LA dAtA IN PaRtENZA DEi CaNI ChE HAnNO SUBIto UN TrATTAmENTO?",
+        "q_id": 958
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "tRoVA lA DatA IN ARRIvO e la DAtA DI ParTEnZa dEI CANI CHE HANNO RiCEVUto UN TrATTAMENTO.",
+        "q_id": 959
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "elENCA IL COGNOMe DEl PROPRIetaRIO ChE pOsSIEDe IL CaNe pIÙ GIoVANE.",
+        "q_id": 960
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "CHI POSSIEDE il CANE PIÙ GIOvanE?dAMmI il SUO COGNomE.",
+        "q_id": 961
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "eLENCA Le e -mAiL DEI PROfESSIONISTI CHE vIvONO NELLo STAtO DELlE hAWAII O NelLO STATO dEL WIscOnsIn.",
+        "q_id": 962
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "QUALI SONO lE E -MAIL DEI PROfESsIoNISti CHE VIVoNo NelLo sTATO DELlE HAWAII O nELLO STATo DEL wisCoNsIN?",
+        "q_id": 963
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUALi SONO LA DaTA In ARriVO E LA dATA In PArteNzA Di TUTTI I CaNI?",
+        "q_id": 964
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "eLEnca LA DATa DI ARRiVO E LA DAtA Di PARTENZa PeR TUTTi i CANI.",
+        "q_id": 965
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUANtI CaNi HaNNO ATTRAVeRSATO trAttAMEnTI?",
+        "q_id": 966
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "COnTA iL nUmERO DI CaNI CHE HAnNO ATTRAVERSATO UN TRATtamENTo.",
+        "q_id": 967
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "QUANTI PROFEssIOnISTI HANNO esEGuItO uN TRATtAmENTO PER I CAnI?",
+        "q_id": 968
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "tROVa IL nuMERO DI pROfEsSIONiSTI cHE HANnO MAi TratTATo I CANI.",
+        "q_id": 969
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUALI pROFEsSIONIsTI VIVoNO In UNA CITTÀ CONTEneNtE la SOtTOsTRInGA \"WeST\"?eLENCA il suO RUoLO, STrADA, CiTtÀ E StATo.",
+        "q_id": 970
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "TrOvA Il RUoLO, STRAdA, CITTà E STAtO deI PrOFESsIONIStI cHE VIVOnO In UNa ciTtÀ ChE cONTIENE LA SoTTOStRINGA \"wEST\".",
+        "q_id": 971
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "QuALI PropRIETARI VIVOnO NeLLO STAtO IL CUI NOME CoNtIenE LA SoTTosTRINGA \"noRTh\"?eLeNCa IL SuO NoME, cOGNOMe eD E -MAIL.",
+        "q_id": 972
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "rESTItUiSCE IL NOME, il coGnOME E L'E -MAIl dEI PROpRiETArI CHE ViVoNO IN UNO StATo IL CUI NOmE CONTiEnE LA SOttoSTRINgA \"NoRtH\".",
+        "q_id": 973
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "quANTI CANI HanNO UN'eTÀ INFEriORe ALLA medIA?",
+        "q_id": 974
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "cONTA Il NuMErO DI CaNi DI eTÀ iNfERIORE aLLA MEDIA.",
+        "q_id": 975
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUANTO coSTA IL TRATtAmeNtO PiÙ rECENtE?",
+        "q_id": 976
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "moStRAMI iL coSto DEL TRATtAmENTO EsEGUITO PIÙ rECeNtEMENTE.",
+        "q_id": 977
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUAntI CANI NOn HAnNo ATTRAVErSATO aLCUn tRattAmENTO?",
+        "q_id": 978
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "dIMMi IL NUMERO Di CANI ChE nOn hANNo RicEvUtO AlcUN TRATtAMEnTO.",
+        "q_id": 979
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "QUANTI PrOPrIETARi TeMPORaNEAMENTE NON hANnO CanI?",
+        "q_id": 980
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "tROvA iL NUMERO Di PROPRIeTARI Che NON PosSIedONO CANi iN qUESTO MOMENTO.",
+        "q_id": 981
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUANti PROfEsSIONiSTI nON HaNNO opERATO ALCUn TraTTAMENtO SUI CAnI?",
+        "q_id": 982
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "tROVA iL NuMERO DI PROFesSIoNISTI CHE NoN hANNo trAtTaTO AlCUN CANi.",
+        "q_id": 983
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "eLeNCa IL nOME DeL cAnE, L'ETÀ E IL PeSO DEI CAnI chE SOnO StaTi AbBANdoNaTI?1 STa PER SÌ E 0 sTA PER IL NO.",
+        "q_id": 984
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "quAlI SONO IL nOME DEL CanE, l'Età E Il PESO DEi CaNI CHE SONo StATI aBBANDONaTI?sI noTI cHE 1 sta PER SÌ E 0 STA pER nO nELlE TABEllE.",
+        "q_id": 985
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUal è L'ETà MEDia dI TuTTI I CANi?",
+        "q_id": 986
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "cAlCOLA L'EtÀ MEdiA DI TUTTi I Cani.",
+        "q_id": 987
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUal è l'ETÀ DeL caNE PIÙ ANTICO?",
+        "q_id": 988
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "dIMmI L'ETÀ dEL CANE pIÙ AntIcO.",
+        "q_id": 989
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUAntO CoSta OGni TIpO DI ADDEBItO?ELENCaRE Sia IL TIPO dI ADDEBiTO ChE L'iMPoRto.",
+        "q_id": 990
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "ElENCA oGNI TIPO DI aDdEbITO E IL sUO ImPORTo.",
+        "q_id": 991
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUaNTo COStA iL TiPO DI ADDeBITo PIù COStoSO?",
+        "q_id": 992
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "QUAL è lA QUANtiTÀ Di ADDEBITO DEL TIPo DI ADDEbiTO PIÙ cOSToSo?",
+        "q_id": 993
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "eLENCA l'E -MaiL, IL tElEfONO CELLuLARE E Il teLeFoNO Di cASa DI TUTTI I PROFESSIONIStI.",
+        "q_id": 994
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUAlI SOno L'E -MAil, IL TElEFONO ceLLULArE e Il TELeFONO A cASA Di OGNI PROFeSsIONISTA?",
+        "q_id": 995
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "QUALi SONO tUTTE lE PosSiBILI COMBInAzIONI DI TIpo DI RaZZa E DIMeNSIonI?",
+        "q_id": 996
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "trovA LE DISTINtE COMbINAZIOni DI TIPo DI RaZZA E TIpO DI dimENSIONE pER i CANi.",
+        "q_id": 997
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "eleNcA iL NOME DI TUTTI i PROFESSIONISTI INSIeMe AlLA dEsCRizIOne DEl TrATTAmenTO CHE HANNO FAtTO.",
+        "q_id": 998
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "qUALI SoNO iL NOmE E LA DESCRIzIone DI OGNI PROfEssIoNISTA DeL TRAtTaMeNTo cHE HANnO eSEGUItO?",
+        "q_id": 999
+    },
+    {
+        "db_id": "singer",
+        "question": "qUANTI cANTanTI Ci SOnO?",
+        "q_id": 1000
+    },
+    {
+        "db_id": "singer",
+        "question": "QuAL È IL COnTeggiO DEI CANTAnTI?",
+        "q_id": 1001
+    },
+    {
+        "db_id": "singer",
+        "question": "ELENCA Il nOME deI CANTANTI NElL'ORDiNE ASCENDeNTe dEl PaTRiMoNIO nETtO.",
+        "q_id": 1002
+    },
+    {
+        "db_id": "singer",
+        "question": "QUAli SOnO I nOmi DEI CANTaNTI ORdINAtI DAL PATRIMONIO nETTo aSceNDENtE?",
+        "q_id": 1003
+    },
+    {
+        "db_id": "singer",
+        "question": "quAlI sONO L'ANno dI NASCITA E La CITtADiNaNZA DEI CANTANtI?",
+        "q_id": 1004
+    },
+    {
+        "db_id": "singer",
+        "question": "quAlI SONo gLI aNNI Di NaScITa E LA cITtADINAnZA Dei CAnTANtI?",
+        "q_id": 1005
+    },
+    {
+        "db_id": "singer",
+        "question": "eLeNcA iL NOMe dI CANtANTI lA CuI CITTADINANzA NoN è \"fRaNCIa\".",
+        "q_id": 1006
+    },
+    {
+        "db_id": "singer",
+        "question": "qUALI sONO I NOMI deI CANTAntI cHe NOn SOnO CiTTADINI FrANceSi?",
+        "q_id": 1007
+    },
+    {
+        "db_id": "singer",
+        "question": "MoSTRA IL NOme DI cANTaNTI Il ​​CUI AnNO DI nASCITA È 1948 O 1949?",
+        "q_id": 1008
+    },
+    {
+        "db_id": "singer",
+        "question": "qUaLI sONO I NOMI DEI CaNTANTi I CUI aNNi DI nASCItA SONo 1948 O 1949?",
+        "q_id": 1009
+    },
+    {
+        "db_id": "singer",
+        "question": "qUAL è Il NoMe DeL CANTANTE cON IL PIù gRANDE PATriMONIO nETTo?",
+        "q_id": 1010
+    },
+    {
+        "db_id": "singer",
+        "question": "quAL È Il NOME DEL cAnTANTE cHE VALE dI PiÙ?",
+        "q_id": 1011
+    },
+    {
+        "db_id": "singer",
+        "question": "mOStRA dIVErSE CITTADINAnZa Di CaNtANTI e IL NumERO dI cANTaNTI DI OGNI CitTADINaNZA.",
+        "q_id": 1012
+    },
+    {
+        "db_id": "singer",
+        "question": "PER oGNI citTaDINaNzA, QuAnTi CANTANTI PROVeNGONo DA QUeL PAESE?",
+        "q_id": 1013
+    },
+    {
+        "db_id": "singer",
+        "question": "pER FAVORE, mOStrA LA CItTADinANZA Più COMuNE DeI cANTANtI.",
+        "q_id": 1014
+    },
+    {
+        "db_id": "singer",
+        "question": "qUaL È lA CitTADINaNZA DEL CANtAnTE PiÙ COMune?",
+        "q_id": 1015
+    },
+    {
+        "db_id": "singer",
+        "question": "mOSTRA DIvERSe CIttADiNI E iL PaTRIMONIo NETTO MaSSIMO DI CANTanTi DI ogNI citTADINANZA.",
+        "q_id": 1016
+    },
+    {
+        "db_id": "singer",
+        "question": "pEr oGnI CITTAdINaNZA, qUAL È IL pAtRIMoNIO NeTTO MASsiMo?",
+        "q_id": 1017
+    },
+    {
+        "db_id": "singer",
+        "question": "mOsTrA TITOLi DI cANzONi E NOmI Di CANTANtI.",
+        "q_id": 1018
+    },
+    {
+        "db_id": "singer",
+        "question": "qUaLI SONO I TIToLI DEllE CANZONI E I nOMI DEi caNTaNTi?",
+        "q_id": 1019
+    },
+    {
+        "db_id": "singer",
+        "question": "MOSTRA nOmI dIStINTI DI caNTaNTi CHE hANNO CAnZoNi CON venDITE PIÙ DI 300000.",
+        "q_id": 1020
+    },
+    {
+        "db_id": "singer",
+        "question": "QUALI SONo I DIveRsi NOMI DeI CaNTANTI cHE hAnnO VENdITe PIÙ DI 300000?",
+        "q_id": 1021
+    },
+    {
+        "db_id": "singer",
+        "question": "mOStrA i NOMI DEi CANTaNTI CHe haNnO PIÙ DI UNa CAnZONe.",
+        "q_id": 1022
+    },
+    {
+        "db_id": "singer",
+        "question": "qUALI SoNO I NOMi DEI CANtANTI cHE hANNo pIÙ di uNA CANzoNE?",
+        "q_id": 1023
+    },
+    {
+        "db_id": "singer",
+        "question": "mOSTRa I NomI DEI CANTAntI E LE VENDITE tOtALI dElle LORO CANzONi.",
+        "q_id": 1024
+    },
+    {
+        "db_id": "singer",
+        "question": "per iL NomE DI Ogni CANTANTE, QUALi SOno LE VENDite TOTaLI pER LE LoRO CANZONI?",
+        "q_id": 1025
+    },
+    {
+        "db_id": "singer",
+        "question": "elENCA IL nOME Di CAntAnTI CHE noN hAnnO ALcUNA cANZOnE.",
+        "q_id": 1026
+    },
+    {
+        "db_id": "singer",
+        "question": "qUAL È il NoMe DI OgNI PECcATO CHE noN Ha AlCuNA CANZoNE?",
+        "q_id": 1027
+    },
+    {
+        "db_id": "singer",
+        "question": "mOStrA LA CITTADINANZA CoNDIViSA DAi CANTAnTI CoN l'ANno DI NASCITA PRIma DeL 1945 E DOpO IL 1955.",
+        "q_id": 1028
+    },
+    {
+        "db_id": "singer",
+        "question": "qUAlI SOnO LE cITtadinI CHE sONo cONDIVISE DaI cANTAnTI CoN uN AnNO DI NASCITA PRIMa DEl 1945 E DOPo IL 1955?",
+        "q_id": 1029
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "QUANTE FuNZIONaliTÀ diSPONIBILi Ci SONO iN TOtALE?",
+        "q_id": 1030
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "qUAL È iL NOME DEl TIpO DI fUnZioNaLITà DI feATURe aiRCoN?",
+        "q_id": 1031
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "mOSTrA LE DESCRIZIoNI DEI tIpI Di pROPRIETà DeLLE PROPrIEtÀ APPArTenenTi A QUEL cOdICE.",
+        "q_id": 1032
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "qUALi SOno I noMi dELLE PROPrIETÀ CHE sONO CAsE O APPARTAmENTi CON PIù DI 1 CamERa?",
+        "q_id": 1033
+    }
+]

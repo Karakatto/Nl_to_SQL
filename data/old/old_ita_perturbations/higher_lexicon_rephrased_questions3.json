@@ -1,0 +1,5172 @@
+[
+    {
+        "db_id": "concert_singer",
+        "q_id": 0,
+        "question": "(How many singers do we have?)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 1,
+        "question": "(What is the total number of singers?)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 2,
+        "question": "Show name, country, age for all singers ordered by age from oldest to youngest."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 3,
+        "question": "(Which are the names, countries, and ages for each singer in descending order of age?)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 4,
+        "question": "Inoltre, quali sono i loro nomi e le loro città di origine?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 5,
+        "question": "(What is the average, minimum, and maximum age for all French singers?)\""
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 6,
+        "question": "](https://i.stack.imgur.com/8jQWz.png)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 7,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 8,
+        "question": "Translation: From which countries are all the countries distinguished from which singers of age over 20 come from?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 9,
+        "question": "Translation: What are the different countries with singers over 20 years old?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 10,
+        "question": "](https://i.stack.imgur.com/5vQWt.png)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 11,
+        "question": "(Rough translation: How many singers are there from each country?)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 12,
+        "question": "**Translation:** List all the names of songs by singers above the median age."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 13,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 14,
+        "question": "Inoltre, fornisci informazioni relative alla loro ubicazione geografica e ai loro proprietari."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 15,
+        "question": "(What are the positions and names of all the stations with a capacity between 5000 and 10000?)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 16,
+        "question": "Nota: gli stadi sono quelli utilizzati per gli eventi sportivi."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 17,
+        "question": "(What are the average and maximum capacities for all stages?)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 18,
+        "question": "(What is the name and capacity of the stadium with the highest average frequency?)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 19,
+        "question": "(What is the name and capacity of the stadium with the highest average frequency?)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 20,
+        "question": "Answer: Quali sono i concerti programmati per l'anno 2014 o 2015?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 21,
+        "question": "(How many concerts took place in 2014 or 2015?)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 22,
+        "question": "E se lo stadio non ha mai ospitato un concerto, indica \"N/D\" come valore per quel campo."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 23,
+        "question": "(How many concerts take place at each stage?)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 24,
+        "question": "Per favore, fornisci anche la città in cui si trova lo stadio."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 25,
+        "question": "(\"What is the name and capacity of the stadium with the most concerts after 2013?\")"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 26,
+        "question": "(Which year has the majority of concerts?) →"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 27,
+        "question": "](https://i.stack.imgur.com/5Xv2a.jpg)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 28,
+        "question": "Translation: Show the names of the stadium without any concert."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 29,
+        "question": "(What are the names of the stadiums without concerts?) → Quali sono i principali impianti sportivi che non hanno mai ospitato eventi musicali? (Which are the main sports facilities that have never hosted musical events?)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 30,
+        "question": "(Show countries where a singer is from, who is over 40 years old and another singer who is under 30 years old.)\""
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 31,
+        "question": "Translation: Show names for all stages except for stages that have a concert in 2014."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 32,
+        "question": "(Note: The original question is asking for the names of all stadiums that did not have a concert in 2014.)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 33,
+        "question": "Inoltre, fornire i dettagli dei singoli concerti, come ad esempio la data e l'ora, il luogo, i costi e il numero di biglietti disponibili."
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 34,
+        "question": "](https://i.stack.imgur.com/8JW9B.png)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 35,
+        "question": "(List the names of the singers and the number of concerts for each singer.)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 36,
+        "question": "Translation: What are the names of the singers and the number of concerts for each person?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 37,
+        "question": "Potresti fornire anche una breve descrizione dei concerti e dei luoghi dove si sono svolti? Spero di ricevere una lista dettagliata dei nomi dei cantanti e delle informazioni relative ai concert"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 38,
+        "question": "Translation: Which are the names of the singers who performed at a concert in 2014?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 39,
+        "question": "Name and nationality of the singer who has a song with \"ehi\" in its name?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 40,
+        "question": "](https://i.stack.imgur.com/7eR4k.png)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 41,
+        "question": "Potresti fornirmi una lista dei nomi e delle posizioni degli stadi in cui si sono svolti i concerti?"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 42,
+        "question": "](https://i.stack.imgur.com/4zHx5.png)"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 43,
+        "question": "È necessario includere anche i concerti che non hanno raggiunto la capacità massima, ma che sono stati organizzati nello stadio con la massima capacità. È richiesto un elenco dei concert"
+    },
+    {
+        "db_id": "concert_singer",
+        "q_id": 44,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 45,
+        "question": "000 kg e che hanno un'età di almeno 5 anni."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 46,
+        "question": "(How many domestic animals have a weight greater than 10?)"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 47,
+        "question": "Il canile è composto da 5 cani di età diversa. Qual è l'età minima del cane più giovane? È necessario calcolare il peso del cane più giovane in base all'età e"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 48,
+        "question": "(How much does the youngest dog weigh?)\""
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 49,
+        "question": "Peso massimo: _______________________"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 50,
+        "question": "Inoltre, specificare se il PET è adatto per l'utilizzo in ambienti esterni o se è destinato per l'utilizzo in ambienti interni."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 51,
+        "question": "È necessario escludere i cani e i gatti."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 52,
+        "question": "(How many domestic animals are owned by students who are over 20 years old?) → ? (Cosa) ? (What) ? (Cosa) ? (What) ? (Cosa) ? (What) ? (Cosa)"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 53,
+        "question": "È possibile utilizzare le informazioni sulla popolazione studentesca per calcolare la media dei numeri di animali domestici per studentessa? È importante notare che alcuni studenti potrebbero non avere animali domest"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 54,
+        "question": "](https://i.stack.imgur.com/5Q9Vd.png)"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 55,
+        "question": "Find the number of distinct types of domestic animals."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 56,
+        "question": "Translation: How many different types of domestic animals are there?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 57,
+        "question": "Potresti fornire una lista di questi studenti?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 58,
+        "question": "Sono gli studenti che hanno un animale domestico che sono interessati alla loro salute e benessere."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 59,
+        "question": "Translation: Find the names of students who have both cats and dogs as pets."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 60,
+        "question": "(What are the names of the students who have both cats and dogs as pets?) →"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 61,
+        "question": "In italiano, utilizzare un linguaggio professionale e alto."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 62,
+        "question": "](https://i.stack.imgur.com/5U3yF.png)"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 63,
+        "question": "È importante per l'analisi statistica."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 64,
+        "question": "Translation: What are the IDs of the students who do not have cats as pets?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 65,
+        "question": "** (Find the names and ages of the students who have a dog but no cat as a domestic animal.)**"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 66,
+        "question": "](https://i.stack.imgur.com/3QVX5.png)"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 67,
+        "question": "?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 68,
+        "question": "(What type of animal is the youngest animal and how much does it weigh?) → _______________________"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 69,
+        "question": "5 anni e che sono stati vaccinati contro la rabbia."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 70,
+        "question": "5 anni?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 71,
+        "question": "Inoltre, fornisci anche le informazioni relative al tipo di alimentazione e al genere di ogni animale."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 72,
+        "question": "](https://i.stack.imgur.com/l8Q8x.png)"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 73,
+        "question": "(Find the average weight for each type of domestic animal.)"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 74,
+        "question": "Peso medio per ogni tipo di animale domestico."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 75,
+        "question": "È importante che l'età sia compresa tra i 10 e i 18 anni. È richiesto il nome e l'età degli studenti che hanno un animale domestico e che siano compresi tra i"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 76,
+        "question": "Translation: What are the different names and ages of students who have pets?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 77,
+        "question": "Come si chiama l'animale?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 78,
+        "question": "](https://i.stack.imgur.com/7sZyF.png)"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 79,
+        "question": "Per esempio, se un studente ha due cani e un gatto, il numero di animali domestici per quel studente è 3."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 80,
+        "question": "**"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 81,
+        "question": "**"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 82,
+        "question": "Nome e genere di tutti gli studenti che hanno più di un animale domestico."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 83,
+        "question": "Find the surname of the student who has a cat that is 3 years old."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 84,
+        "question": "Translation: What is the last name of the student who has a 3-year-old cat?"
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 85,
+        "question": "Sono interessato a conoscere la media delle età degli studenti che non hanno alcun animale domestico."
+    },
+    {
+        "db_id": "pets_1",
+        "q_id": 86,
+        "question": "What is the average age of all students who do not own pets?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 87,
+        "question": "What is the number of continents?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 88,
+        "question": "(What is the number of continents?)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 89,
+        "question": "Per favore, aiutaci a comprendere la situazione attuale."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 90,
+        "question": "](https://i.stack.imgur.com/4K7fJ.png)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 91,
+        "question": "(How many countries are listed?)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 92,
+        "question": "(How many countries exist?)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 93,
+        "question": "(How many models does each car manufacturer produce? List full name, ID, and number.) →"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 94,
+        "question": "(Note: This is a translation exercise, so please do not provide any additional information or explanations.)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 95,
+        "question": "È importante per me sapere questo dato per prendere una decisione informata sulla scelta dell'auto."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 96,
+        "question": "}"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 97,
+        "question": "La media dei pesi è di 1.300 kg. Qual è il peso minimo dell'auto che si può trovare?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 98,
+        "question": "Ci sono modelli di auto che hanno un peso inferiore alla media e se sì, quali sono? Si potrebbe fornire una lista di questi modelli?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 99,
+        "question": "Ci sono alcuni produttori che hanno smesso di produrre auto da allora e ci sono anche alcuni che hanno continuato a produrre auto fino ad oggi. È importante sapere chi sono questi produttori per pot"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 100,
+        "question": "Nome dei produttori di automobili che hanno prodotto un'auto nel 1970."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 101,
+        "question": "È importante per la nostra analisi economica."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 102,
+        "question": "](https://i.stack.imgur.com/4ZT7M.png)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 103,
+        "question": "Translation: Which distinct car models are produced after 1980?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 104,
+        "question": "Translation: What are the different models for cards produced after 1980?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 105,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 106,
+        "question": "Nome dei continenti e numero di produttori di automobili."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 107,
+        "question": "](https://i.stack.imgur.com/7lZ3M.png)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 108,
+        "question": "(What is the name of the country with the most car manufacturers?)\""
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 109,
+        "question": "Per favore, fornisci una lista di tutti i produttori di auto e il loro numero di modelli."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 110,
+        "question": "](https://www.italki.com/qa/1424542)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 111,
+        "question": "Qual è il suo sistema di trasmissione? Qual è la potenza del motore? Qual è la velocità massima? Qual è il consumo di carburante?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 112,
+        "question": "Translation: How fast does the car that is the AMC Hornet SportAbout (SW) accelerate?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 113,
+        "question": "[How many automobile manufacturers are there in France?]\""
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 114,
+        "question": "È possibile ottenere una lista di questi produttori? È necessario pagare per questo tipo di informazione?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 115,
+        "question": "''"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 116,
+        "question": "](https://i.stack.imgur.com/CQh7w.jpg)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 117,
+        "question": "(What are the average miles per gallon (mpg) of cars with 4 cylinders?) [[1]](https://www.italianlanguage.it/italian-translation/what-are-the-average-miles-per-gallon-of-cars"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 118,
+        "question": "Translation: What are the average miles per gallon for all maps with 4 cylinders?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 119,
+        "question": "(What is the smallest weight of the car produced with 8 cylinders in 1974?) → ?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 120,
+        "question": "](https://it.wikipedia.org/wiki/Alfa_Romeo_2000_Altissimo)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 121,
+        "question": "È importante per me comprendere la gamma di opzioni disponibili per il mio progetto. Posso avere una lista dei produttori e dei modelli più comuni?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 122,
+        "question": "Come possono essere utilizzati per identificare le aree di business più promettenti?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 123,
+        "question": "(Which countries have at least one car manufacturer? List and ID.)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 124,
+        "question": "Translation: What are the names and IDs of all countries with at least one automobile manufacturer?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 125,
+        "question": "(What is the number of cars with power over 150?)\""
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 126,
+        "question": "(What is the number of cars with a power greater than 150?)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 127,
+        "question": "(What is the average weight of cars every year?) → ? (no translation) → ? (no translation) → ? (no translation) → ? (no translation) → ? (no translation) → ? (no translation) → ? ("
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 128,
+        "question": "](https://i.stack.imgur.com/9l8QJ.png)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 129,
+        "question": "](https://i.stack.imgur.com/7yVQW.png)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 130,
+        "question": "(Which are the names of all European countries with at least 3 producers?) →"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 131,
+        "question": "](https://i.stack.imgur.com/5hTnJ.png)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 132,
+        "question": "(What is the largest quantity of power for 3-cylinder models and what is it?)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 133,
+        "question": "(Original English translation: Which model allows you to save the most gasoline? In other words, having the maximum miles per gallon.)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 134,
+        "question": "(What is the car model with the highest MPG?)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 135,
+        "question": "](https://i.stack.imgur.com/1XuL3.png)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 136,
+        "question": "(What is the average power for all cars produced before 1980?) → Qual è la potenza media delle autovetture prodotte prima del 1980? →"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 137,
+        "question": "¿"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 138,
+        "question": "È possibile ottenere una stima più precisa?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 139,
+        "question": "(What is the maximum acceleration for different numbers of cylinders?)\""
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 140,
+        "question": "](https://i.stack.imgur.com/8Wv5Q.png)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 141,
+        "question": "(Which model has the most versions of cars?)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 142,
+        "question": "Modello = model; versioni = versions; diverse = diverse"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 143,
+        "question": "(How many cars have more than 4 cylinders?)\""
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 144,
+        "question": "(What is the number of cars with more than 4 cylinders?)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 145,
+        "question": "](https://i.stack.imgur.com/1eGQ7.png)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 146,
+        "question": "}"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 147,
+        "question": "](https://i.stack.imgur.com/6F2Jj.png)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 148,
+        "question": "(Translation: What is the number of car models created by the American automobile company?) →"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 149,
+        "question": "(Who are the producers that have designed more than 3 car models? List the full name and ID.)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 150,
+        "question": "](https://i.stack.imgur.com/8RvQW.png)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 151,
+        "question": "**"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 152,
+        "question": "[What are the different models created by the general motors of the car manufacturer or weighing more than 3500?]"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 153,
+        "question": "(In what years were cars produced with a weight of at least 3000 kg and no more than 4000 kg?)**Answer:** In quali anni sono state prodotte le automobili con un peso compreso tra 3000 kg e"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 154,
+        "question": "In altre parole, quali sono gli anni in cui c'erano auto leggere e auto pesanti?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 155,
+        "question": "È possibile avere un elenco dei modelli di auto con tale caratteristica?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 156,
+        "question": "(What is the power of the car with the greatest acceleration?)\""
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 157,
+        "question": "Translation: For the Volvo model, how many cylinders does the car with the lowest acceleration have?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 158,
+        "question": "(How many cylinders does the version with fewer accelerations have for a Volvo model?)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 159,
+        "question": "Translation: How many cars have an accelerator greater than the car with the largest power?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 160,
+        "question": "Ciò potrebbe influire sulla scelta del veicolo per le persone che cercano di ridurre i consumi di carburante."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 161,
+        "question": "Translation: How many countries have more than 2 automobile manufacturers?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 162,
+        "question": "](https://www.it.wikipedia.org/wiki/Lista_di_citt%C3%A0_con_pi%C3%B9_di_produzione_di_automobili_nel_mondo)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 163,
+        "question": "(How many cars have more than 6 cylinders?)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 164,
+        "question": "(What is the number of cars with over 6 cylinders?) → ???? ????????? ???? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ??????"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 165,
+        "question": "Translation: Which model has the greatest power among cars with 4 cylinders?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 166,
+        "question": "(Which model of 4-cylinder car has the most horsepower?) →"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 167,
+        "question": "List the cars with less than 3 cylinders, along with the engine displacement, and make sure to include the name of the car."
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 168,
+        "question": "Translation: Among the cars that do not have the minimum power, which are the IDs and names of all those with fewer than 4 cylinders?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 169,
+        "question": "What is the maximum mileage per gallon of the car with 8 cylinders produced before 1980?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 170,
+        "question": "(What is the maximum mpg of cars with 8 cylinders or produced before 1980?)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 171,
+        "question": "What models are lighter than 3500 but not built by the \"Ford Motor Company\"?"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 172,
+        "question": "(What are the different lighter models of 3500 that were not built by the Ford Motor Company?)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 173,
+        "question": "](https://i.stack.imgur.com/4F5wS.png)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 174,
+        "question": "(Note: The original question is asking about countries without car manufacturers.)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 175,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 176,
+        "question": "(What are the IDs and producers of all car manufacturers that produce at least 2 models and produce more than 3 cars?)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 177,
+        "question": "](https://i.stack.imgur.com/4G5QV.png)"
+    },
+    {
+        "db_id": "car_1",
+        "q_id": 178,
+        "question": "](https://i.stack.imgur.com/7hGv9.jpg)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 179,
+        "question": "(To which country does the airline \"jetBlue Airways\" belong?) [1] 1. A quale paese appartiene la compagnia aerea `` jetBlue Airways ''? (To which country does the airline \"jetBlue Airways\" belong"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 180,
+        "question": "(Which country is JetBlue Airways affiliated with?) →"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 181,
+        "question": "''"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 182,
+        "question": "'' (What abbreviation corresponds to JetBlue Airways?)''"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 183,
+        "question": "Inoltre, fornire i relativi codici IATA e ICAO."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 184,
+        "question": "(What are the names of the airlines and their abbreviations in the United States?)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 185,
+        "question": "Per favore, fornisci anche la sua posizione geografica. Nel caso in cui non esista un aeroporto nella città di Anthony, elenca gli aeroporto più vicini."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 186,
+        "question": "Per favore, assicurati di fornire un esempio di aeroporto con codice \"AUS\" e nome \"Austin-Bergstrom International Airport\".](https://www.translate.com/answer/it/What-is-the"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 187,
+        "question": "(How many airlines do we have?)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 188,
+        "question": "(What is the total number of airlines?)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 189,
+        "question": "We have how many airports?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 190,
+        "question": "**"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 191,
+        "question": "(How many flights do we have?)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 192,
+        "question": "È un numero molto alto e siamo preoccupati che potrebbe essere un problema per il nostro sistema di gestione dei voli."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 193,
+        "question": "È una compagnia aerea statunitense o europea? È una compagnia aerea a basso costo o una compagnia aerea di lusso? È una compagnia aerea che offre servizi di volo"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 194,
+        "question": "Qual è il suo numero di telefono e come posso comunicare con loro per pianificare un viaggio?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 195,
+        "question": "Translation: How many airlines are from the United States?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 196,
+        "question": "**"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 197,
+        "question": "](question)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 198,
+        "question": "Quale è il più vicino aeroporto e come si chiama? Ci sono servizi di trasporto pubblico disponibili per raggiungere l'aeroporto?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 199,
+        "question": "È un aeroporto militare o civile? È in funzione attualmente? È situato in un paese che fa parte dell'UE? È possibile raggiungerlo con un'autocarro o"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 200,
+        "question": "È possibile trovare questo codice su una lista di aeroporti?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 201,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 202,
+        "question": "Translation: What are the names of the airports in Aberdeen?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 203,
+        "question": "È possibile avere una lista dei voli partenti da quel hub?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 204,
+        "question": "Come posso ottenere questo numero in modo rapido e sicuro?](https://i.stack.imgur.com/3JrVr.png)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 205,
+        "question": "(How many flights have ATO as their destination?)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 206,
+        "question": "Scegliere i voli che hanno una durata di più di 30 minuti e che hanno un numero di passeggeri superiore a 50. Sono interessato a conoscere il numero di voli di questo tipo"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 207,
+        "question": "È possibile prenotare i biglietti online?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 208,
+        "question": "Potresti fornirmi le informazioni relative ai voli in partenza da Aberdeen in un formato che possa essere facilmente utilizzato?**"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 209,
+        "question": "(How many flights arrive in Aberdeen City?) → ???"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 210,
+        "question": "Possiamo ottenere una lista dei voli in arrivo per oggi e per i prossimi giorni?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 211,
+        "question": "}"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 212,
+        "question": "](#)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 213,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 214,
+        "question": "Come posso ottenere il numero di voli di JetBlue Airways?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 215,
+        "question": "}"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 216,
+        "question": "Translation: Count the number of United Airlines flights that arrive at the airport ASY."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 217,
+        "question": "(How many United Airlines flights depart from AHD airport?) →"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 218,
+        "question": "Translation: Return the number of United Airlines flights that depart from AHD airport."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 219,
+        "question": "(How many United Airlines flights go to the city of \"Aberdeen\"?)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 220,
+        "question": "](https://i.stack.imgur.com/9nV3p.png)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 221,
+        "question": "(Which city has the most incoming flights?)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 222,
+        "question": "(Which city has the most frequent destination airport?)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 223,
+        "question": "(Which city has the most flights departing?) → _______________________."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 224,
+        "question": "(Which city is the closest airport source?)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 225,
+        "question": "(What is the airport code with the highest number of flights?) →"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 226,
+        "question": "Codice dell'aeroporto con il maggior numero di voli daily."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 227,
+        "question": "(Which is the airport code that has the fewest number of flights?)\""
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 228,
+        "question": "Se non ci sono voli disponibili, fornisci il codice IATA dell'aeroporto più vicino."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 229,
+        "question": "(Which airline has the most flights?) →"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 230,
+        "question": "(Which airline serves the largest number of flights?) → Qual è la compagnia aerea che opera il maggior numero di rotte? (Which airline operates the largest number of routes?) → Qual è la compagnia aerea che gestisce il"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 231,
+        "question": "](https://i.stack.imgur.com/6X2QY.png)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 232,
+        "question": "What is the abbreviation of Airline with the fewest flights and in which country is it located?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 233,
+        "question": "**"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 234,
+        "question": "(Which airlines have a flight with the departure airport AHD?)\""
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 235,
+        "question": "} \\\\ \\end{tabular}"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 236,
+        "question": "(Which airlines have a flight with destination airport AHD?)\""
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 237,
+        "question": "È importante che le compagnie aeree siano attive e operino voli regolari. Non considerare le compagnie aeree che offrono solo charter o voli occasionali. È richiesto un elenco"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 238,
+        "question": "Ci sono possibilità di voli low-cost o economici?](https://i.stack.imgur.com/7PQ8Q.png)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 239,
+        "question": "Inoltre, cerca di trovare anche le compagnie aeree che hanno voli da \"APG\" ma non da \"CVO\"."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 240,
+        "question": "(Which airlines have departures from CVO but not from APG airports?)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 241,
+        "question": "**"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 242,
+        "question": "(Which airlines have at least 10 flights?)\""
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 243,
+        "question": "Stiamo cercando di identificare le compagnie aeree con un basso numero di voli. Possiamo ottenere una lista di tutte le compagnie aeree che hanno meno di 200 voli?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 244,
+        "question": "`"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 245,
+        "question": "(What are the flight numbers of the airline ``United Airlines''?)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 246,
+        "question": "](https://i.stack.imgur.com/6l5Jh.png)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 247,
+        "question": "Translation: What are the flight numbers of flights departing from the airport \"apg\"?"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 248,
+        "question": "(Give me the number of flights departing from APG.)\""
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 249,
+        "question": "**"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 250,
+        "question": "3D e il numero di voli di atterraggio di voli ad Apg. 2D."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 251,
+        "question": "](https://i.stack.imgur.com/6W5eG.png)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 252,
+        "question": "](http://i.stack.imgur.com/7y7QV.png)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 253,
+        "question": "''"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 254,
+        "question": "Come si classificano i voli in arrivo ad Aberdeen in termini di traffico aeroportuale?}"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 255,
+        "question": "Sono interessato a conoscere il numero di voli giornalieri e settimanali che arrivano in queste città."
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 256,
+        "question": "(How many flights land in Aberdeen or Abilene?)"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 257,
+        "question": "È necessario includere anche aeroporti chiusi o inutilizzati. (Find the names of airports that have no flights in and out. It is necessary to include also closed or unused airports.)]]"
+    },
+    {
+        "db_id": "flight_2",
+        "q_id": 258,
+        "question": "(Which airports have no departing or arriving flights?)\""
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 259,
+        "question": "(How many employees are there?) → Come si quantificano i membri del team?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 260,
+        "question": "che hanno più di 5 anni di esperienza lavorativa presso l'azienda.](https://www.italki.com/ask/Accounting-English-Italian-Translation-Questions/Accounting-English-Italian-Translation-"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 261,
+        "question": "È possibile eseguire questa operazione senza dover creare un nuovo campo di database?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 262,
+        "question": "Prego di fornire anche i relativi codici di identificazione."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 263,
+        "question": "È possibile ottenere tale informazione?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 264,
+        "question": "Possiamo utilizzare i dati del censimento per calcolare la percentuale di dipendenti per ogni città?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 265,
+        "question": "(From which cities do more than one employee under the age of 30 come from?)}"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 266,
+        "question": "Find the cities that have more than one employee under the age of 30."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 267,
+        "question": "Per ogni negozio, trova il valore del fatturato e il numero di dipendenti. Inoltre, calcola la percentuale di vendite per ogni negozio rispetto al totale delle vendite."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 268,
+        "question": "È importante per la mia analisi commerciale."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 269,
+        "question": "Inoltre, verificare se il direttore è un uomo o una donna."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 270,
+        "question": "(What are the manager's name and the district of the store that sells the most products?)"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 271,
+        "question": "Trova anche il negozio che vende il prodotto più costoso e il prodotto più economico. Scegli un negozio casuale e trova il prodotto più costoso e il prodotto più economico che"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 272,
+        "question": "(What is the minimum and maximum number of products in all stores?)"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 273,
+        "question": "](https://i.stack.imgur.com/3Q1aY.png)"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 274,
+        "question": "](https://i.stack.imgur.com/2T6hG.png)"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 275,
+        "question": "Find the names of the stores whose products are more than the average number of products."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 276,
+        "question": "(Which numerical products of the shops are above the average? Give me the names of the store.)**Ricorda i prodotti numerici dei negozi che superano la media delle vendite e fornisci i nomi delle aziende"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 277,
+        "question": "Trova la media delle valutazioni del dipendente e confrontala con la media delle valutazioni dei dipendenti in generale."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 278,
+        "question": "](https://i.stack.imgur.com/5q7nq.png)"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 279,
+        "question": "Chi è il dipendente che ha ricevuto il maggior bonus?](https://i.stack.imgur.com/7y6QV.png)"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 280,
+        "question": "(What employee received the biggest bonus? Give me the name of the employee.) →"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 281,
+        "question": "Sono interessato a conoscere i dati dei dipendenti che non hanno mai ricevuto un premio, non importa se è stato un premio di qualità o quantità."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 282,
+        "question": "(Who are the names of the employees who have never received any evaluation?)\""
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 283,
+        "question": "(What is the name of the store that is hiring the most employees?) →"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 284,
+        "question": "(Which store has the largest number of employees? Give me the name of the store.)\" |"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 285,
+        "question": "È possibile ottenere una lista dei negozi che non hanno dipendenti?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 286,
+        "question": "e la loro ubicazione."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 287,
+        "question": "](https://i.stack.imgur.com/5YX4l.png)"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 288,
+        "question": "Inoltre, fornire informazioni sul tipo di lavoro, ad esempio se è un'azienda o un negozio indipendente, e se è un'azienda di servizi o un'azienda di produ"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 289,
+        "question": "Risposta: _______________________________________________________________"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 290,
+        "question": "È necessario includere anche le valutazioni non pubblicate. È importante che la risposta sia precisa e non includa errori di calcolo. È richiesta una risposta in formato numerico, con due decimali"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 291,
+        "question": "(Give me all the information about the hiring process.)"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 292,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 293,
+        "question": "](https://i.stack.imgur.com/9Hj1z.png)"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 294,
+        "question": "Inoltre, i distretti dove i negozi che vendono meno di 3000 prodotti hanno un'area media di vendita maggiore di 5000 metri quadrati.**"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 295,
+        "question": "Translation: How many different store locations are there?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "q_id": 296,
+        "question": "È necessario includere solo i negozi che hanno almeno un prodotto in magazzino."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 297,
+        "question": "(How many documents do we have?) → _______________________________________________________"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 298,
+        "question": "]]"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 299,
+        "question": "¿Cómo puedo obtener una copia de mi certificado de nacimiento?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 300,
+        "question": "](https://stackoverflow.com/questions/72544436/rephrase-the-following-question-in-italian-using-a-professional-and-higher-lexico)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 301,
+        "question": "Note: Please keep the same level of complexity and formality as the original question."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 302,
+        "question": "(Establish the names and IDs of model documents that contain the letter W in their description.)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 303,
+        "question": "''"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 304,
+        "question": "](https://i.stack.imgur.com/5Nj3F.png)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 305,
+        "question": "}"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 306,
+        "question": "È possibile utilizzare più di un modello per un singolo documento?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 307,
+        "question": "Documenti utilizzati da un modello con codice di tipo \"ppt\"."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 308,
+        "question": "** (Count the number of documents that use the PPT model type.)**"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 309,
+        "question": "Inoltre, fornire informazioni sull'uso di ciascun modello e sulle relative prestazioni."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 310,
+        "question": "(Which are all the different model IDs used for documents and how many times have each of them been used?)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 311,
+        "question": "Nota: For the sake of clarity, please provide the rephrased question in the most common Italian dialect used in professional settings, which is the formal Italian dialect, also known as \"italiano formale\" or \"italiano accadem"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 312,
+        "question": "(Restitute the code ID and type of the model used for the largest number of documents.)\""
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 313,
+        "question": "Non mostri ID per i modelli utilizzati da un solo documento."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 314,
+        "question": "(Translation: What are the IDs of any model used in more than one single document?)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 315,
+        "question": "(Show IDS for all non-used models by no document.)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 316,
+        "question": "Translation: What are the IDs for models that are not used in any document?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 317,
+        "question": "(How many models do we have?)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 318,
+        "question": "}"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 319,
+        "question": "(Rough translation: \"Show model ID, version numbers and model type codes for all models.\")"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 320,
+        "question": "(What are the IDs, version numbers, and type codes for each model?)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 321,
+        "question": "(English translation: Show all distinct model type codes for all models.)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 322,
+        "question": "E in che modo possono essere utilizzati per migliorare la gestione dei processi aziendali?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 323,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 324,
+        "question": "](https://i.stack.imgur.com/6Gv4K.png)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 325,
+        "question": "Translation: How many models have the model code type CV?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 326,
+        "question": "Come posso accedere ai dati relativi a questi modelli? È possibile ottenere un elenco dei modelli del tipo CV?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 327,
+        "question": "](https://i.stack.imgur.com/9ZyQO.png)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 328,
+        "question": "0."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 329,
+        "question": "Inoltre, fornisci informazioni dettagliate sulla gestione dei codici di tipo modello."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 330,
+        "question": "(What are the different model codes and how many models correspond to each?)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 331,
+        "question": "](https://i.stack.imgur.com/5lF1K.png)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 332,
+        "question": "Restituisci il codice identificativo del tipo di modello che rappresenta la maggioranza dei modelli."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 333,
+        "question": "](translate)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 334,
+        "question": "](https://i.stack.imgur.com/1p5Ox.png)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 335,
+        "question": "}"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 336,
+        "question": "](https://i.stack.imgur.com/6V7lN.png)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 337,
+        "question": "(What is the model type code of the model used by the document with the name \"base di dati\"?)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 338,
+        "question": "](https://www.itl.it/it-it/itl-support/itl-helpdesk/ticket/Restituisci-il-codice-type-modello-del-modello-utilizzato-da-un-documento-denominato-base-di-dati)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 339,
+        "question": "È necessario includere anche i nomi dei documenti senza codice tipo. È possibile ottenere una lista di tutti i nomi dei documenti che non hanno un codice tipo associato?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 340,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 341,
+        "question": "(Remember to use the Italian formal \"you\" (Lei) when addressing the reader.)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 342,
+        "question": "](https://stackoverflow.com/questions/74643427/rephrase-the-following-question-in-italian-using-a-professional-and-higher-lexi)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 343,
+        "question": "](https://stackoverflow.com/questions/7381913/which-model-type-code-is-used-by-the-majority-of-the-number-of-documents)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 344,
+        "question": "(Restore the code of the most commonly used model type in documents.)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 345,
+        "question": "**"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 346,
+        "question": "(What are the codes for the types of models that are not used for any document?)''"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 347,
+        "question": "**"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 348,
+        "question": "(Translation: What are the type codes and descriptions for all types of models?)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 349,
+        "question": "?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 350,
+        "question": "(English: Return the type of model Description of the type of model with the announcement code.)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 351,
+        "question": "Se non esiste, qual è il codice tipo modello più vicino per il tipo di modello Descrizione `` libro ''?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 352,
+        "question": "Vuoi che il codice tipo sia unico o possono esserci più codici tipo per un tipo di modello?](https://i.stack.imgur.com/Rj3B9.png)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 353,
+        "question": "](https://i.stack.imgur.com/6QFzN.png)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 354,
+        "question": "È possibile ottenere le descrizioni utilizzando un software di ottimizzazione delle immagini?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 355,
+        "question": "?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 356,
+        "question": "(Translation: Return the IDs corresponding to the models with the description \"Presentation\".)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 357,
+        "question": "(How many paragraphs in total?)\""
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 358,
+        "question": "È possibile utilizzare un'estensione per ottenere questo risultato in Word?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 359,
+        "question": "</p>"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 360,
+        "question": "È necessario conteggiare solo i paragrafi che iniziano con un numero romano (I, II, III, etc.). È importante non conteggiare i paragrafi che iniziano con un tit"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 361,
+        "question": "](https://i.stack.imgur.com/4x5aO.png)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 362,
+        "question": "](https://i.stack.imgur.com/3YQXs.png)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 363,
+        "question": "Mostra il numero totale di parole e di caratteri utilizzati."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 364,
+        "question": "](https://i.stack.imgur.com/5oRJL.png)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 365,
+        "question": "Inoltre, fornisci i testi dei paragrafi che contengono più di 150 parole."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 366,
+        "question": "(Rough translation: What are the paragraph texts for the document with the name \"customer reviews\"?)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 367,
+        "question": "Ordine per numero di paragrafi in ciascun documento."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 368,
+        "question": "Inoltre, fornisci una tabella con le informazioni relative ai parametri di input e di output."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 369,
+        "question": "Come posso fare questo in Word?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 370,
+        "question": "(What are the IDs and names of each document, as well as the number of paragraphs in each?)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 371,
+        "question": "(Translation: List all ID documents with at least two paragraphs.)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 372,
+        "question": "(What are the IDs of the documents that have 2 or more paragraphs?)}"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 373,
+        "question": "](https://i.stack.imgur.com/5UQZV.png)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 374,
+        "question": "](https://i.stack.imgur.com/7WQoB.png)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 375,
+        "question": "](https://stackoverflow.com/questions/74351124/rephrase-the-following-question-in-italian-using-a-professional-and-higher-lexico)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 376,
+        "question": "](translate)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 377,
+        "question": "Translation: What is the document ID with 1-2 paragraphs?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 378,
+        "question": "(Give me the IDs of the documents that have between one and two paragraphs.)](https://i.stack.imgur.com/8Jz6c.png)"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 379,
+        "question": "Per favore, assicurati che il testo sia leggibile e non venga tagliato. Grazie."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "q_id": 380,
+        "question": "](https://i.stack.imgur.com/7Y5jR.png)"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 381,
+        "question": "(How many teachers are there?)"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 382,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 383,
+        "question": "Sono necessari 5 insegnanti con esperienza superiore a 10 anni."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 384,
+        "question": "(Which are the names of teachers ordered by ascending age?)"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 385,
+        "question": "}  (What are the age and birthplace of the teachers?)"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 386,
+        "question": "](https://i.stack.imgur.com/2G6rQ.png)"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 387,
+        "question": "Elenco gli insegnanti che hanno insegnato presso la scuola secondaria di primo grado."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 388,
+        "question": "Translation: What are the names of the teachers whose birthplace is not \"Little Lever Urban District\"?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 389,
+        "question": "(Show the names of teachers aged 32 or 33?)"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 390,
+        "question": "(Who are the names of the teachers who are 32 or 33 years old?)\""
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 391,
+        "question": "(What is the birthplace of the youngest teacher?)"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 392,
+        "question": "(Where does the youngest teacher come from?)"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 393,
+        "question": "Translated: Show different cities of teachers and the number of teachers from each city of origin."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 394,
+        "question": "}"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 395,
+        "question": "(List the most common birthplace of teachers.)\" → \"Quali sono le città di origine più frequenti tra gli insegnanti?\" → \"Quali sono le città di origine più comuni tra gli insegnanti?\""
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 396,
+        "question": "È possibile identificare una città dove gli insegnanti sono più numerosi rispetto ad altre città? È importante per noi comprendere dove gli insegnanti sono più concentrati per pianificare le nostre attività."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 397,
+        "question": "**"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 398,
+        "question": "(From where do cities come that have at least two teachers?)"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 399,
+        "question": "(Show the names of the teachers and courses that are organized to teach.)"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 400,
+        "question": "Quali sono i nomi di tutti gli insegnanti e quali corsi essi insegnano?"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 401,
+        "question": "Inoltre, fornisci i dettagli dei corsi, tra cui l'orario, la durata e il costo. Inserisci anche i requisiti di ammissione per ogni corso."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 402,
+        "question": "\"]"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 403,
+        "question": "(Show the name of the teacher for the math course.)\""
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 404,
+        "question": "(Who are the names of the people who teach math courses?)\""
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 405,
+        "question": "Inoltre, fornisci informazioni sulla loro esperienza e formazione."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 406,
+        "question": "(What are the names of the teachers and how many courses do they teach?) →"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 407,
+        "question": "(Show names of teachers that teach at least two courses.)\""
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 408,
+        "question": "](https://i.stack.imgur.com/4Wk4h.png)"
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 409,
+        "question": "Inoltre, elenca i motivi per cui non sono stati organizzati per insegnare corsi."
+    },
+    {
+        "db_id": "course_teach",
+        "q_id": 410,
+        "question": "''"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 411,
+        "question": "(How many visitors under the age of 30 are there?)"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 412,
+        "question": "(Find the names of visitors whose subscription level is higher than 4 and order the results from highest to lowest.)\"**"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 413,
+        "question": "(What is the average age of visitors whose registration level is not higher than 4?) →"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 414,
+        "question": "Find the name and subscription level of visitors whose subscription level is higher than 4 and order them by their age from oldest to youngest."
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 415,
+        "question": "](https://i.stack.imgur.com/1aQZ9.jpg)"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 416,
+        "question": "Find the average number of staff working for museums that opened before 2009."
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 417,
+        "question": "](https://i.stack.imgur.com/8dFfL.png)"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 418,
+        "question": "Sono interessato a sapere i nomi dei musei con più di 50 dipendenti."
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 419,
+        "question": "È necessario identificare se i visitatori hanno visitato il museo più di una volta e quindi rispondere con l'ID, il nome e l'età per quelli che hanno visitato più di una volta."
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 420,
+        "question": "Translation: What are the ID, name, and registration level of the visitors who spent the largest amount of money in total on all museum tickets?"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 421,
+        "question": "Translation: What is the ID and name of the museum visited most often?"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 422,
+        "question": "(What is the name of the museum that had not yet had any visitors?) → ?"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 423,
+        "question": "-->"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 424,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 425,
+        "question": "Translation: What is the total cost of the visitor ticket for those with a membership level of 1?"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 426,
+        "question": "È necessario che tale visitatore abbia visitato almeno un museo aperto entrambi i periodi? È possibile ottenere la lista dei visitatori che soddisfano queste condizioni? È necess"
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 427,
+        "question": "Inoltre, calcola la percentuale di questi visitatori rispetto al totale dei visitatori."
+    },
+    {
+        "db_id": "museum_visit",
+        "q_id": 428,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 429,
+        "question": "(Find the total number of players.)\" -> _______________________________________"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 430,
+        "question": "(How many players are there?) → _______________________________________"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 431,
+        "question": "Inoltre, determina se il numero totale di corrispondenze è maggiore o minore di 100."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 432,
+        "question": "Quali sono le differenze tra le corrispondenze in base al tipo di contatto e al tipo di pagamento?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 433,
+        "question": "(Translation: List the name and date of birth of all players from the country with the USA code.)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 434,
+        "question": "(What are the names and birth dates of the American football players?) →"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 435,
+        "question": "Calcola anche la deviazione standard per entrambi i gruppi."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 436,
+        "question": "(What is the average age of winners and losers through games?)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 437,
+        "question": "**"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 438,
+        "question": "(What is the average score for winners in all games?)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 439,
+        "question": "](https://i.stack.imgur.com/9F7X4.png)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 440,
+        "question": "Translation: What is the best losing rate in all games?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 441,
+        "question": "È necessario includere anche i giocatori che non hanno mai giocato in un campionato professionistico. È importante notare che il numero di giocatori è molto alto e richiede un'elaborazione molto lung"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 442,
+        "question": "(How many different countries do the players come from?)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 443,
+        "question": "Sono interessato a sapere quanti nomi di perdenti ci sono in totale.](https://www.giornaledelamusica.it/2019/02/22/trova-il-numero-di-distinti-n"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 444,
+        "question": "È possibile avere più di un nome di perdente in un caso?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 445,
+        "question": "](https://i.stack.imgur.com/9lQ8K.png)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 446,
+        "question": "Translation: What are the names of the tournaments that have more than 10 matches?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 447,
+        "question": "(Note: This is the original question in English, translated into Italian: \"Elenca i nomi di tutti i vincitori che hanno giocato sia nel 2013 che nel 2016.\")"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 448,
+        "question": "(Who are the names of the players who won both in 2013 and 2016?)\""
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 449,
+        "question": "**"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 450,
+        "question": "Nota: \"partite\" is the plural of \"partita\", which means \"match\" or \"game\". In the context of sports, it's likely that the question refers to football (soccer) matches."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 451,
+        "question": "](https://i.stack.imgur.com/2KJQ3.png)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 452,
+        "question": "|  |"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 453,
+        "question": "](https://i.stack.imgur.com/6Rz5D.png)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 454,
+        "question": "(What is the name and campaign code of the oldest player?)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 455,
+        "question": "(Note: Please provide the rephrased question only, without any additional text or comments.)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 456,
+        "question": "(What are the full names of all the players, ordered by date of birth?) →"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 457,
+        "question": "**"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 458,
+        "question": "(English: What are the full names of all left-handed players, in order of birthdate?)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 459,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 460,
+        "question": "(What is the name and campaign code of the player with the most tours?)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 461,
+        "question": "È necessario considerare solo le partite giocate nel corso di una stagione regolare e non includere le partite dei playoff."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 462,
+        "question": "(In which year did it have the most matches?)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 463,
+        "question": "(Find the name and ranking points of the winner who has won the most times.)\" |"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 464,
+        "question": "[What is the name of the winner who won the most games and how many ranking points does this player have?]"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 465,
+        "question": "](https://i.stack.imgur.com/5L5Qo.png)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 466,
+        "question": "(What is the name of the winner with the most ranking points who participated in the Australian Open tournament?)\""
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 467,
+        "question": "Trova i nomi del giocatore che ha giocato con un maggior numero di minuti nella partita tra il perdente e il vincitore."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 468,
+        "question": "(What are the names of the winner and loser who played in the longest match?)\""
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 469,
+        "question": "Possiamo anche includere la percentuale di vittorie per ogni giocatore."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 470,
+        "question": "](https://i.stack.imgur.com/5Lk6Y.png)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 471,
+        "question": "Inoltre, classifica i giocatori per ogni stagione e per ogni squadra. Sarebbe utile anche avere una tabella che mostri la classifica generale per ogni stagione."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 472,
+        "question": "(Which are the first names of all the players and their total classification points?)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 473,
+        "question": "È necessario includere solo i giocatori che hanno giocato almeno un incontro."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 474,
+        "question": "(How many players are there from each country?)\""
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 475,
+        "question": "È necessario considerare solo i paesi con più di 100 giocatori."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 476,
+        "question": "(What is the country code with the most players?)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 477,
+        "question": "È necessario che i codici siano univoci e non siano stati già utilizzati in precedenza."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 478,
+        "question": "(Which countries have more than 50 players?)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 479,
+        "question": "Sono interessato a vedere i tour che sono stati classificati come \"Tour\" e non come \"Event\"."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 480,
+        "question": "(How many total tours were there for each classification date?)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 481,
+        "question": "È necessario identificare il numero di partite che hanno avuto luogo ogni anno."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 482,
+        "question": "Translation: How many games were played every year?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 483,
+        "question": "Sono interessato solo ai giocatori che hanno vinto un torneo."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 484,
+        "question": "Translation: What are the names and ranks of the three youngest winners in all games?"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 485,
+        "question": "](https://stackoverflow.com/questions/74043534/rephrase-the-following-question-in-italian-using-a-professional-and-higher-lexico)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 486,
+        "question": "Inoltre, calcola la percentuale di vittorie totali dei vincitori contro i giocatori di rank inferiore."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 487,
+        "question": "Find the name, country code, and birthdate of the winner who has the highest points in all games."
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 488,
+        "question": "](https://i.stack.imgur.com/5z7oK.png)"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 489,
+        "question": "Per ogni tipo di mano, calcola il numero di giocatori che hanno una mano di quel tipo e il numero di giocatori che non hanno una mano di quel tipo. Inoltre, calcola il numero di giocatori che hanno una mano"
+    },
+    {
+        "db_id": "wta_1",
+        "q_id": 490,
+        "question": "](https://i.stack.imgur.com/PVX2R.png)"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 491,
+        "question": "in total, have been \"captured\"?]"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 492,
+        "question": "(Remove the brackets and rephrase the question using a professional and higher lexicon)"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 493,
+        "question": "Inoltre, elenca le città e le località interessate."
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 494,
+        "question": "(What is the maximum and minimum balance of victims caused each time?)"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 495,
+        "question": "(What is the average number of injuries caused each time?)"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 496,
+        "question": "Translation: What are the situations of death and injuries caused by the ship with tonnage \"T\"?"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 497,
+        "question": "ma un altro comandante?"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 498,
+        "question": "(English: What are the different IDs and names of battles that lost any type of \"brig\"?)"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 499,
+        "question": "**Translation:** What are the IDs and names of the battles that have resulted in more than 10 people killed in total."
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 500,
+        "question": "](https://i.stack.imgur.com/4g7oP.png)"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 501,
+        "question": "(What are the distinct battle names between the Bulgarian commander \"Kaloyan\" and the Latin commander \"Baldwin I\"?)"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 502,
+        "question": "Quale è il numero di esiti diversi che si possono ottenere in un conflitto armato?"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 503,
+        "question": "(Translation: How many battles did the ship with the tonnage \"225\" not lose?)"
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 504,
+        "question": "durante la seconda guerra mondiale."
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 505,
+        "question": "Translation: Show Bulgarian names, results, and commanders of battles without lost ships in the \"English Channel\"."
+    },
+    {
+        "db_id": "battle_death",
+        "q_id": 506,
+        "question": "(Translation: What are the notes of the death events that have the substring \"est\"?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 507,
+        "question": "(What are all the addresses between line 1 and line 2?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 508,
+        "question": "È importante per il mio lavoro."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 509,
+        "question": "(How many courses are listed in total?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 510,
+        "question": "(How many courses are there?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 511,
+        "question": "(Note: The original question is asking how the math course is described.)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 512,
+        "question": "](https://i.stack.imgur.com/4R2Tj.png)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 513,
+        "question": "(What is the postal code of the address in Port Chelsea, the city?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 514,
+        "question": "(What is the postal code for Port Chelsea?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 515,
+        "question": "(Which department offers the greatest number of degrees? List Department Name and ID.)</p> <p>Translation:</p> <p>Qual è il dipartimento che dispone del maggior numero di lauree? Elenco nome del"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 516,
+        "question": "](https://i.stack.imgur.com/4nH7K.png)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 517,
+        "question": "(How many departments offer some degree programs?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 518,
+        "question": "(How many different departments offer degrees?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 519,
+        "question": "(Translation: How many different degree names are offered?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 520,
+        "question": "(How many different degrees are offered?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 521,
+        "question": "](https://i.stack.imgur.com/1L3Rr.png)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 522,
+        "question": "**"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 523,
+        "question": "È necessario avere accesso a informazioni dettagliate sulle sezioni e sui loro contenuti per poter creare un piano di marketing efficace. È importante avere una lista completa delle sezioni e delle loro descrizioni"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 524,
+        "question": "(What are the names and descriptions for all the sections?) →"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 525,
+        "question": "](https://i.stack.imgur.com/4WV9r.png)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 526,
+        "question": "(What are the names and IDs of every course with less than 2 sections?)\""
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 527,
+        "question": "È possibile utilizzare le librerie esterne per ottenere tale risultato?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 528,
+        "question": "Sostituire le parole con sinonimi più appropriati e utilizzare un lessico più elevato."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 529,
+        "question": "Translation: What is the semester in which most students have enrolled? Show both the name and the ID."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 530,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 531,
+        "question": "Si riferisce al dipartimento di Informatica o di Ingegneria Informatica?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 532,
+        "question": "È possibile ottenere una lista dei dipartimenti che hanno la parola computer?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 533,
+        "question": "(Who are the students enrolled in two-year programs in a semester? List the name, second name, and surname and the ID.)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 534,
+        "question": "Quali sono i dati demografici e gli identificativi di tutti gli studenti che hanno iniziato un corso di studio di secondo livello in un determinato semestre?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 535,
+        "question": "[Who is enrolled in a degree program? List the name, second name, and surname.]\""
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 536,
+        "question": "](https://i.stack.imgur.com/8Q9wA.png)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 537,
+        "question": "(Find the type of program where the majority of students are enrolled?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 538,
+        "question": "Translation: What is the name of the bachelor's degree that has the largest number of enrolled students?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 539,
+        "question": "Find the program where the majority of students is enrolled. List both the ID and the summary."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 540,
+        "question": "Please provide the rephrased question in Italian."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 541,
+        "question": "Please rephrase the question in Italian using a professional and higher lexicon."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 542,
+        "question": "Qual è il primo, il medio e il cognome, unitamente all'ID e al numero di iscrizioni, dell'allievo che si è iscritto più volte in qualsiasi corso di studio?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 543,
+        "question": "Translation: Which semesters do not have a registered student? List the semester name."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 544,
+        "question": "Nome del semestre senza studenti iscritti?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 545,
+        "question": "Translation: What are all the names of the courses that students have ever enrolled in?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 546,
+        "question": "(Rough translation: What are the names of all the courses that have some enrolled students?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 547,
+        "question": "(What is the name of the course with the most enrollments?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 548,
+        "question": "(What is the name of the course with the most enrolled students?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 549,
+        "question": "È possibile ottenere una lista dei nomi degli studenti che soddisfano tale condizione?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 550,
+        "question": "(What are the surnames of the students who live in North Carolina but have not registered in degree programs?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 551,
+        "question": "(Show the date and ID of the transcription with at least 2 results of the course.)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 552,
+        "question": "Translation: What is the date and ID of the transcription with at least 2 courses listed?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 553,
+        "question": "Possiamo avere il numero di telefono per contattarlo?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 554,
+        "question": "Posso avere il numero di cellulare per contattarlo riguardo a un'informazione importante?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 555,
+        "question": "(Who is the first student to register? List the name, second name, and surname.)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 556,
+        "question": "(Who is the first student to register, what is their first name, middle name, and last name?)\""
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 557,
+        "question": "Inoltre, fornisce informazioni sulla specializzazione e sul luogo di nascita del diplomato."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 558,
+        "question": "Translation: What is the first name, middle name, and last name of the first graduate of the school?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 559,
+        "question": "Elenca il suo cognome. Elenca la sua data di nascita. Elenca il suo sesso."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 560,
+        "question": "Name:"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 561,
+        "question": "]]"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 562,
+        "question": "](https://i.stack.imgur.com/9JLXs.png)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 563,
+        "question": "(When were the transcriptions published in the media?) [1] [2]"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 564,
+        "question": "(What is the average transcription date?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 565,
+        "question": "(When is the first transcription released? List the date and details.)\""
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 566,
+        "question": "È importante per me avere informazioni accurate sulla storia della documentazione. È anche importante sapere se esiste una versione originale del documento e se è stata trascritta in più occasioni nel corso del tempo. Pos"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 567,
+        "question": "Translation: How many transcriptions are released?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 568,
+        "question": "(How many transcriptions are listed?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 569,
+        "question": "(What is the latest release date of the transcript?)\""
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 570,
+        "question": "Quando è stata pubblicata l'ultima versione?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 571,
+        "question": "(How many times at most can a registration result show up in different transcriptions? Also show the course registration ID.)\""
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 572,
+        "question": "**"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 573,
+        "question": "della trascrizione e del risultato.](https://i.stack.imgur.com/3uF4w.png)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 574,
+        "question": "](https://i.stack.imgur.com/3Q0I9.png)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 575,
+        "question": "Trova il semestre in cui si sono iscritti sia gli studenti magistrali che gli studenti di laurea."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 576,
+        "question": "Nota: Scapoli is an old-fashioned term for students who are not married."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 577,
+        "question": "(How many different addresses do students live at?)"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 578,
+        "question": "(Translation: What are the different addresses that have students living there?)\""
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 579,
+        "question": "È possibile ottenere una lista di tutti gli studenti in ordine alfabetico inverso? Se sì, come si può ottenere? È necessario utilizzare un software specifico o esistono metodi più"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 580,
+        "question": "(What other details can you tell me about the students in reverse alphabetical order?)\""
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 581,
+        "question": "1 \"Introduzione\" del tuo progetto. Spero di poter ottenere una panoramica generale sul progetto e sulle sue implicazioni."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 582,
+        "question": "Nel contesto di un sistema di gestione dei contenuti, la sezione H sembra essere correlata alla gestione delle operazioni di base. Tuttavia, non è chiaro cosa si intende per \"operazioni di base\""
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 583,
+        "question": "Find the names of students who live permanently in Haiti or have the phone number 09700166582."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "q_id": 584,
+        "question": "E quali sono le loro discipline di studio?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 585,
+        "question": "](https://i.stack.imgur.com/4VzQK.png)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 586,
+        "question": "(What are the titles of the cartoons ordered alphabetically?)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 587,
+        "question": "Sono interessato a tutti i titoli, anche se non sono stati pubblicati."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 588,
+        "question": "Translation: What are the names of all the cartoons directed by Ben Jones?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 589,
+        "question": "Translation: How many cartoons were written by ``Joseph Kuhr''?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 590,
+        "question": "}"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 591,
+        "question": "e di uscita per ogni titolo."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 592,
+        "question": "](https://www.stackoverflow.com/questions/74313194/rephrase-the-following-question-in-italian-using-a-professional-and-higher-lexico)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 593,
+        "question": "**"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 594,
+        "question": "](https://www.quora.com/Quali-sono-i-titoli-di-tutti-i-cartoni-diretti-da-Ben-Jones-o-Brandon-Vietti)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 595,
+        "question": "(Which country has the most TV channels? List the country and the number of TV channels it has.)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 596,
+        "question": "È il paese con il maggior numero di canali TV che ha anche il maggior numero di abbonati? Ci sono paesi con più canali TV di quelli che hanno abbonati?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 597,
+        "question": "](https://i.stack.imgur.com/3V8Vd.png)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 598,
+        "question": "(Note: the original question is asking how many different series and contents are listed in the TV channel table.)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 599,
+        "question": "È possibile accedere a questo canale tramite un decoder Sky? È necessario un abbonamento specifico per poterlo vedere? Come si possono ottenere i contenuti del canale `` Sky Radio ''?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 600,
+        "question": "È possibile accedere a questo contenuto attraverso il proprio account Sky? In caso di pagamento, quali sono i costi associati?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 601,
+        "question": "Translation: What is the package option of the TV channel with the name \"Sky Radio\"?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 602,
+        "question": "\"]](https://i.stack.imgur.com/4U3jP.png)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 603,
+        "question": "}"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 604,
+        "question": "Translation: How many TV channels use English?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 605,
+        "question": "Elenca il tipo di contenuto e la frequenza di trasmissione per ogni canale TV."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 606,
+        "question": "](https://i.stack.imgur.com/4z4zR.png)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 607,
+        "question": "(Translation: List every language and the number of TV channels that use it.)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 608,
+        "question": "Inoltre, elenca i canali TV che utilizzano più di una lingua."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 609,
+        "question": "Il cartone animato è disponibile anche su streaming?Se sì, elenca i nomi dei servizi di streaming disponibili."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 610,
+        "question": "Nome della serie TV che mostra il cartone animato `` The Rise of the Blue Beetle ''?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 611,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 612,
+        "question": "](https://i.stack.imgur.com/KQ3aG.png)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 613,
+        "question": "(List the episode of all TV series ordered by rating.)\""
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 614,
+        "question": "(Which are all the episodes ordered by evaluations?)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 615,
+        "question": "**"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 616,
+        "question": "](https://i.stack.imgur.com/5lQ7W.jpg)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 617,
+        "question": "È possibile stabilire una media delle serie TV per determinare se una serie TV è considerevole o meno?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 618,
+        "question": "(What is the maximum and minimum quota for the TV series?) → Quale è il range di quota massima e minima per la serie TV? (What is the range of maximum and minimum quota for the TV series?) → Quale è"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 619,
+        "question": "](https://i.stack.imgur.com/4bF4o.jpg)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 620,
+        "question": "'"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 621,
+        "question": "Translation: What is the weekly ranking of TV series with the episode \"A Love of a Lifetime\"?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 622,
+        "question": "Ritrovare il rango settimanale per l'episodio ``A Love of a Lifetime''.  (Note: The original text is a simple question, and the rephrased text is also a simple question"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 623,
+        "question": "Translation: What is the TV channel of the TV series with the episode \"A Love of a Lifetime\"? List the name of the series and the TV channel."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 624,
+        "question": "È una serie di fantascienza."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 625,
+        "question": "Inoltre, elenca l'episodio di tutte le serie TV mostrate su TV Canale con il nome della serie `` Sky Cinema ''. Elencare la serie TV che ha avuto il maggior numero di episodi"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 626,
+        "question": "Translation: What is the episode for the TV series called \"Sky Radio\"?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 627,
+        "question": "Per favore, fornisci le informazioni relative ai cartoni animati che sono stati diretti da ciascuno dei seguenti direttori: John Smith, Jane Doe, e Michael Johnson.](https://i.stack.imgur.com"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 628,
+        "question": "(How many cartoons have each director created?) → _______________________."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 629,
+        "question": "**"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 630,
+        "question": "''"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 631,
+        "question": "Scegliere il pacchetto che soddisfa le tue esigenze e interessi."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 632,
+        "question": "(What are the options of the package and the name of the series for the TV channel that supports high-definition TV?)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 633,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 634,
+        "question": "](https://i.stack.imgur.com/8b6Qs.png)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 635,
+        "question": "Translation: Which TV channels from non-Italian countries do not broadcast any animated cartoons written by Todd Casey?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 636,
+        "question": "È possibile ottenere una lista di questi paesi?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 637,
+        "question": "](https://i.stack.imgur.com/7QjQ6.png)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 638,
+        "question": "](https://i.stack.imgur.com/8iV9U.png)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 639,
+        "question": "Qual è il rapporto pixel tra questi canali?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 640,
+        "question": "(What is the pixel aspect ratio and country of origin for all TV channels that do not use English?)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 641,
+        "question": "Inoltre, fornisci informazioni sulle loro caratteristiche, come il tipo di contenuti, il numero di canali e il loro target audience."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 642,
+        "question": "**"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 643,
+        "question": "](https://i.stack.imgur.com/7Xm3i.png)"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 644,
+        "question": "Translation: What are the IDs of the TV channels that do not have cartoons directed by Ben Jones?"
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 645,
+        "question": "È necessario che l'opzione pacchetto non includa alcun canale che trasmette cartoni animati creati da Ben Jones."
+    },
+    {
+        "db_id": "tvshow",
+        "q_id": 646,
+        "question": "Translation: What are the package options for all TV channels that do not broadcast cartoons directed by Ben Jones?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 647,
+        "question": "(How many poker players are there?)"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 648,
+        "question": "**"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 649,
+        "question": "Sono interessato a vedere i dati relativi al 2020."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 650,
+        "question": "(What are the poker players' gains, ordered from highest to lowest value?)"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 651,
+        "question": "(English translation: List the final tables and the best finishes of poker players.)"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 652,
+        "question": "](https://i.stack.imgur.com/5Cz2O.png)"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 653,
+        "question": "](https://i.stack.imgur.com/0jx6I.png)"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 654,
+        "question": "Possiamo utilizzare un algoritmo di machine learning per prevedere i guadagni dei giocatori in base alle loro strategie e alle loro performance passate."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 655,
+        "question": "](https://i.stack.imgur.com/9t0O0.png)"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 656,
+        "question": "Inoltre, elenca le azioni che hanno generato i maggiori guadagni."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 657,
+        "question": "Translation: What is the maximum number of final tables achieved by poker players with winnings below $200,000?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 658,
+        "question": "00 USD."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 659,
+        "question": "Translation: Which are the names of the poker players?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 660,
+        "question": "È necessario che i giocatori siano i più popolari e famosi del mondo del poker. Inoltre, è richiesto che i giocatori siano attivi nel 2020 e siano professionisti nel mondo"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 661,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 662,
+        "question": "00 USD."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 663,
+        "question": "(List the names of poker players in the order of the final tables, in ascending order.)"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 664,
+        "question": "''"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 665,
+        "question": "(Who is the poker player with the lowest earnings?)"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 666,
+        "question": "(English translation: Return the birthdate of the poker player with the lowest earnings.)"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 667,
+        "question": "](https://translate.google.com/translate?hl=en&sl=en&tl=it&u=What%20is%20the%20highest%20bankroll%20of%20a%20professional%20poker%20"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 668,
+        "question": "(Translate: Return the player's poker money with the highest height.) -> ???? ????? ????? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ?????? ?????"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 669,
+        "question": "](https://www.italki.com/ask-a-question/it/what-is-the-average-profit-of-high-stakes-poker-players-taller-than-200)"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 670,
+        "question": "000 dollari, quelli che hanno guadagnato più di 1 milione di dollari sono considerati \"high rollers\". Qual è la percentuale di high rollers rispetto al totale dei giocatori di poker?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 671,
+        "question": "(What are the names of the poker players in decreasing order of earnings?)"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 672,
+        "question": "Inoltre, restituisce i nomi dei giocatori che hanno vinto almeno un torneo Main Event."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 673,
+        "question": "](https://www.stackoverflow.com/questions/73412354/what-are-the-different-nationalities-of-people-and-the-corresponding-number-of-peop)"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 674,
+        "question": "(How many people are there of each nationality?)"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 675,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 676,
+        "question": "Qual è la percentuale di persone che hanno questa nazionalità?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 677,
+        "question": "(Which are the shared nationalities of at least two people?) →"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 678,
+        "question": "È necessario includere anche le persone che non sono state ancora identificate."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 679,
+        "question": "Potresti fornire anche le informazioni relative al loro ruolo all'interno dell'organizzazione?"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 680,
+        "question": "](https://i.stack.imgur.com/5P6vJ.png)"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 681,
+        "question": "Mostra anche l'età e il sesso di ogni persona."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 682,
+        "question": "(Who are the names of the people who are not from Russia?)"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 683,
+        "question": "Non includere i giocatori di poker che non sono professionisti. Non includere i giocatori di poker professionisti che non sono famosi."
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 684,
+        "question": "**"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 685,
+        "question": "(How many distinct nationalities are there?)"
+    },
+    {
+        "db_id": "poker_player",
+        "q_id": 686,
+        "question": "](https://i.stack.imgur.com/5Mg1V.png)"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 687,
+        "question": "\"]"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 688,
+        "question": "(List the numbers and names of the contestants, in descending order of the contestant's name.)[/ITALIC] [/QUOTE]"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 689,
+        "question": "Come posso ottenere queste informazioni?"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 690,
+        "question": "](https://i.stack.imgur.com/5lZ6O.png)"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 691,
+        "question": "(Translation: What is the last date created by votes from the state \"CA\"?)"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 692,
+        "question": "e non \"Jessie non abilit\"?"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 693,
+        "question": "Translation: What are the states and create time for all the votes?"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 694,
+        "question": "(Which are the numbers of the contestants and the names of the contestants who have at least two votes?) →"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 695,
+        "question": "](https://www.dropbox.com/s/7r1x6c6x6h7g9a7/it-question.jpg?dl=0)"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 696,
+        "question": "(What is the number of votes of the state \"NY\" or \"CA\"?)"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 697,
+        "question": "(How many contestants were not voted?)"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 698,
+        "question": "(What is the area code where most voters have voted?)"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 699,
+        "question": "](https://www.quora.com/What-are-the-creation-dates-states-and-phone-numbers-of-the-votes-that-were-for-the-contestant-called-Tabatha-Gehling)"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 700,
+        "question": "](https://i.stack.imgur.com/4s4uH.png)"
+    },
+    {
+        "db_id": "voter_1",
+        "q_id": 701,
+        "question": "(Retrieve the names of the competitors whose names contain the substring \"Al\".)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 702,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 703,
+        "question": "(Give me the names of the nations founded after 1950.)[/ITALIC] [/ITALIC]"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 704,
+        "question": "}"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 705,
+        "question": "(How many countries have governments that are republics?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 706,
+        "question": "(What is the total surface area of the countries in the Caribbean region?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 707,
+        "question": "(How much surface do countries cover in the Caribbean?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 708,
+        "question": "(Which continent does Anguilla lie on?)''"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 709,
+        "question": "](https://i.stack.imgur.com/6cQ4V.png)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 710,
+        "question": "**"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 711,
+        "question": "(Where is Kabul located?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 712,
+        "question": "Ci sono molte persone che parlano più lingue, ma qual è la lingua più diffusa? È interessante sapere che cosa è più comune. È possibile avere una risposta precisa su questo argomento?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 713,
+        "question": "È possibile ottenere una certificazione in lingua locale per lavorare in questo paese?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 714,
+        "question": "(What are the population and life expectancy expectations in Brazil?) →"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 715,
+        "question": "(Translation: Give me the population of Brazil and life expectancy.) → Dati sulla popolazione del Brasile e sulle aspettative di vita."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 716,
+        "question": "''"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 717,
+        "question": "La mia casa è situata a 20 chilometri da una città importante. Quale città è?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 718,
+        "question": "Translation: What is the expected average life expectancy forecast for countries in the Central African region?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 719,
+        "question": "](https://i.stack.imgur.com/1z6fW.png)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 720,
+        "question": "](https://www.italki.com/questions/444144)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 721,
+        "question": "(Give the name of the country in Asia with the lowest life expectancy.)\" />"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 722,
+        "question": "](https://i.stack.imgur.com/5eY2h.png)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 723,
+        "question": "Translation: How many people live in Asia and what is the largest GNP among them?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 724,
+        "question": "(What is the average life expectancy in African countries that are republics?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 725,
+        "question": "Quale è il paese con la maggiore aspettativa di vita media? Quale è il paese con la minore aspettativa di vita media?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 726,
+        "question": "(Note: Please provide the rephrased question in the same format as the original question, i.e., the same length and structure.)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 727,
+        "question": "(Surface area covered by countries in Asia or in Europe. Provide the total surface area.)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 728,
+        "question": "}"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 729,
+        "question": "(Retranslate back into English for reference: What is the total population of the district of Gelderland?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 730,
+        "question": "Translation: What is the average GDP and total population in all countries whose government is the territory of the United States?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 731,
+        "question": "Sono interessato a sapere se esiste una correlazione significativa tra il PIL medio e la popolazione totale."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 732,
+        "question": "''"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 733,
+        "question": "(What is the number of distinct languages used around the world?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 734,
+        "question": "Tipi di governi presenti in Africa sono quanti?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 735,
+        "question": "(How many different forms of government are there in Africa?)\""
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 736,
+        "question": "(What is the total number of languages used in Aruba?) →"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 737,
+        "question": "Translation: How many languages are spoken in Aruba?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 738,
+        "question": "Translation: How many official languages does Afghanistan have?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 739,
+        "question": "(How many official languages are spoken in Afghanistan?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 740,
+        "question": "(What is the name of the country that speaks the most languages?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 741,
+        "question": "Translation: Give the name of the country that uses the greatest number of languages."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 742,
+        "question": "(Note: the rephrased question should be in formal and professional tone, using vocabulary and grammar that is commonly used in academic or business settings.)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 743,
+        "question": "(Which continent speaks the most languages?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 744,
+        "question": "(How many countries speak both English and Dutch?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 745,
+        "question": "}"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 746,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 747,
+        "question": "(Give me the names of the countries where both English and French are spoken.)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 748,
+        "question": "(Translation: Which are the names of the countries where English and French are official languages?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 749,
+        "question": "(Give me the names of countries with English and French as official languages.)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 750,
+        "question": "(What is the number of distinct continents where Chinese is spoken?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 751,
+        "question": "(How many continents speak Chinese?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 752,
+        "question": "(Which regions use English or Dutch?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 753,
+        "question": "(Which regions speak Dutch or English?)** **Quale è la distribuzione geografica delle regioni olandesi e inglesi in Italia?**"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 754,
+        "question": "(Which countries have English or Dutch as an official language?)\""
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 755,
+        "question": "(Which countries have English or Dutch as an official language?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 756,
+        "question": "What is the most popular language in the Asian continent?  |  Qual è la lingua più diffusa nel continente asiatico?  |  |  |  |  |  |  |  |  |  |"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 757,
+        "question": "(What is the language used by the largest number of Asian nations?)\""
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 758,
+        "question": "Translation: Which languages are spoken by a single country in the governments of the Republic?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 759,
+        "question": "What languages are used only by a single country with a Republic government?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 760,
+        "question": "Translation: Find the city with the largest population that uses English."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 761,
+        "question": "(What is the most popular city that speaks English?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 762,
+        "question": "Find the name, population, and life expectancy of the Asian country with the largest area."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 763,
+        "question": "\"]"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 764,
+        "question": "Translation: What is the average life expectancy in countries where English is not the official language?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 765,
+        "question": "Qual è la differenza tra l'aspettativa di vita media dei paesi in cui l'inglese è la lingua ufficiale e quelli in cui non lo è?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 766,
+        "question": "»"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 767,
+        "question": "Translation: How many people live in countries where English is not spoken?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 768,
+        "question": "(Literal translation: What is the official language spoken in the country whose head of state is Beatrix?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 769,
+        "question": "?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 770,
+        "question": "Translation: What is the total number of unique official languages spoken in countries that merged before 1930?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 771,
+        "question": "](https://i.stack.imgur.com/5k3QG.png)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 772,
+        "question": "](https://i.stack.imgur.com/5dZ3J.png)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 773,
+        "question": "}"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 774,
+        "question": "](http://i.stackexchange.com/questions/134114/which-african-countries-have-a-population-less-than-any-asian-country)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 775,
+        "question": "''"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 776,
+        "question": "](https://i.stack.imgur.com/8Z1sJ.png)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 777,
+        "question": "(Which Asian countries have a larger population than any African country?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 778,
+        "question": "(Translation: What are the national codes for countries that do not speak English?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 779,
+        "question": "](https://i.stack.imgur.com/5RmTn.png)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 780,
+        "question": "(Which are the national codes of countries where people use languages other than English?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 781,
+        "question": "Per favore, fornisci i codici del paese per i paesi in cui le persone parlano lingue non inglesi. Come posso ottenere questi codici?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 782,
+        "question": "Translation: Which are the countries that do not speak English and whose forms of government are not republics?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 783,
+        "question": "```"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 784,
+        "question": "Translation: Which cities are in European countries where English is not the official language?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 785,
+        "question": "**"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 786,
+        "question": "Translation: Which unique cities are found in Asian countries where Chinese is the official language?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 787,
+        "question": "**"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 788,
+        "question": "](https://www.quora.com/What-is-the-name-year-of-independence-and-surface-area-of-the-country-with-the-smallest-population)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 789,
+        "question": "](https://i.stack.imgur.com/5lWYV.png)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 790,
+        "question": "(What are the population, name, and leader of the country with the largest area?) →"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 791,
+        "question": "](https://i.stack.imgur.com/8JZ4W.png)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 792,
+        "question": "(Note: Please provide the rephrased question only and not any additional text or comments.)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 793,
+        "question": "](https://i.stack.imgur.com/7b6jW.png)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 794,
+        "question": "**"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 795,
+        "question": "Translation: How many cities in each district have a population above the average population of all cities?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 796,
+        "question": "5 anni."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 797,
+        "question": "Translation: What are the different forms of government and what is the total population of each for the governmental forms that have a life expectancy above 72?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 798,
+        "question": "**"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 799,
+        "question": "(Translation: Which are the different continents and the total population and average life expectancy corresponding to each one, for the continents that have an average life expectancy of less than 72?)**"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 800,
+        "question": "(What are the names and areas of the countries with the 5 largest areas?) →"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 801,
+        "question": "](https://translate.google.com/translate?hl=en&sl=en&tl=it&u=https://www.quora.com/What-are-the-names-and-areas-of-the-5-largest-countries)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 802,
+        "question": "Translation: What are the names of the countries with the first 3 largest populations?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 803,
+        "question": "(Retrieve the names of the 3 most populated countries.)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 804,
+        "question": "(Which are the names of the countries with the 3 lowest populations?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 805,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 806,
+        "question": "''"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 807,
+        "question": "(Count the number of countries in Asia.) →"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 808,
+        "question": "**"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 809,
+        "question": "000 persone?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 810,
+        "question": "000 km²?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 811,
+        "question": "000 km²."
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 812,
+        "question": "(What are the cities whose population is between 160,000 and 900,000?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 813,
+        "question": "?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 814,
+        "question": "[What language is spoken by the largest number of countries?]"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 815,
+        "question": "Qual è la percentuale di persone che parlano questa lingua come loro lingua madre o seconda lingua?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 816,
+        "question": "}"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 817,
+        "question": "Quali sono i codici nazionali e le lingue più diffuse dei vari Stati?"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 818,
+        "question": "(Note: Please provide the rephrased question only, without any additional text, comments, or notes.)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 819,
+        "question": "}"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 820,
+        "question": "(Translation: What are the codes of the countries where Spanish is spoken by the largest percentage of people?)"
+    },
+    {
+        "db_id": "world_1",
+        "q_id": 821,
+        "question": "(Restore the country codes for which Spanish is the predominantly spoken language.)"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 822,
+        "question": "(How many drivers are there?)"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 823,
+        "question": "Come posso fare?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 824,
+        "question": "](https://i.stack.imgur.com/4Q4wI.png)"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 825,
+        "question": "](https://www.itpro.it/questions/quali-sono-i-nomi-dei-conduttori-ordinati-per-et%C3%A0/)"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 826,
+        "question": "(Which are the names of the conductors whose nationality is not \"USA\"?)"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 827,
+        "question": "Sono disponibili i dati dei conduttori e delle loro nazionalità."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 828,
+        "question": "(Which are the record labels of orchestras in decreasing order in which they were founded?)\""
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 829,
+        "question": "(English: Return the discographies of the orchestras, ordered by the year in which they were founded, descending.)}"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 830,
+        "question": "(What is the average frequency of shows?)"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 831,
+        "question": "Come posso calcolare la frequenza media in tutti gli spettacoli?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 832,
+        "question": "Ci sono anche spettacoli che hanno il tipo `` Live Final '' ma non sono realmente finali?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 833,
+        "question": "Questo significa che gli spettacoli non sono in diretta, ma potrebbero essere stati registrati in precedenza."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 834,
+        "question": "Translation: How many different nationalities do the conductors have?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 835,
+        "question": "È possibile utilizzare le informazioni disponibili sulla piattaforma per ottenere questo risultato? È importante sapere se le informazioni sono attendibili e se ci sono eventuali limitazioni nella raccolta dei dati."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 836,
+        "question": "(List the names of the hosts in descending order of years of work.)\""
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 837,
+        "question": "(What are the names of the conductors, ordered by the number of years they have worked in descending order?)"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 838,
+        "question": "(Translation: List the name of the conductor with the most years of work.)"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 839,
+        "question": "(Who is the name of the director who has worked the most years?) → ???? ?????? ?????? ????? ?????? ?????? ??????"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 840,
+        "question": "(Translation: Show the names of the conductors and orchestras that have conducted.)"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 841,
+        "question": "](https://i.stack.imgur.com/2H5QY.png)"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 842,
+        "question": "Translation: Show the names of conductors who have led more than one orchestra."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 843,
+        "question": "**"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 844,
+        "question": "Name the conductor who has led the greatest number of orchestras."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 845,
+        "question": "Answer: Chi è il direttore musicale che ha diretto il maggior numero di orchestre?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 846,
+        "question": "Ciò include tutti i conduttori che hanno guidato orchestre sinfoniche, orchestre da camera, e orchestre da ballo."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 847,
+        "question": "}"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 848,
+        "question": "Ci sono differenze tra le case discografiche e le orchestre? Sono state create delle strategie per migliorare la gestione delle orchestre e la qualità dei prodotti discografici?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 849,
+        "question": "(How many orchestras does each record company manage?)"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 850,
+        "question": "Sono interessato a vedere come sono strutturati e se ci sono differenze tra gli strumenti. Inoltre, si prega di includere i formati di record delle orchestre che utilizzano strumenti di"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 851,
+        "question": "(Which are the main formats of orchestra records, ordered by their frequency?)"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 852,
+        "question": "Quali sono le caratteristiche che la rendono attraente per le orchestre?}"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 853,
+        "question": "(Which record label is used by the largest number of orchestras?)"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 854,
+        "question": "Elenca anche le orchestre che hanno prestazioni, ma non sono state protagoniste in un concerto importante."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 855,
+        "question": "È necessario identificare le orchestre che non hanno prestazioni per poter pianificare la gestione dei servizi di trasporto pubblico."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 856,
+        "question": "Translation: Show the record labels shared by orchestras founded before 2003 and after 2003."
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 857,
+        "question": "Translation: Which record labels are used by both orchestras founded before 2003 and those founded after 2003?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 858,
+        "question": "?"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 859,
+        "question": "](https://i.stack.imgur.com/6L5JF.png)"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 860,
+        "question": "(Show the years in which orchestras that have given more than one performance are founded.)"
+    },
+    {
+        "db_id": "orchestra",
+        "q_id": 861,
+        "question": "Translation: Which are the founding years for the orchestras that have had more than one single performance?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 862,
+        "question": "]"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 863,
+        "question": "](https://i.stack.imgur.com/5TzSf.png)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 864,
+        "question": "Se un liceo non ha voti, mostri un messaggio di errore. Se un liceo non ha nomi, mostri un messaggio di errore. Se ci sono più voti di nomi, mostri"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 865,
+        "question": "(What are the names and votes for each high school?)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 866,
+        "question": "**Translation:** Show all high school diploma levels.**Rephrased question in Italian:** Elencare tutti i titoli di maturità rilasciati dalle scuole secondarie superiori.**Translation:** List all high"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 867,
+        "question": "È possibile ottenere i voti di ogni liceo per gli studenti che si sono diplomati?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 868,
+        "question": "(What is Kyle's vote?) → _______________________________________"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 869,
+        "question": "Come si chiama il liceo di Kyle? Come si chiama la città dove si trova il liceo di Kyle? Qual è il tipo di istruzione offerto dal liceo di Kyle? Qual è il voto"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 870,
+        "question": "Come si chiamano i licei che offrono corsi di laurea?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 871,
+        "question": "](https://i.stack.imgur.com/7K4QO.png)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 872,
+        "question": "(Show the ID of the high school named Kyle.)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 873,
+        "question": "(What is Kyle's ID?)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 874,
+        "question": "(How many high schools are there in grades 9 or 10?) →"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 875,
+        "question": "Perché ciò è importante per la scuola?](https://www.italki.com/ask-a-question/145136)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 876,
+        "question": "(Show the number of high school students for each grade.)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 877,
+        "question": "(How many high schools are there in each grade?)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 878,
+        "question": "Translation: What vote has more high school students?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 879,
+        "question": "Ci sono 10 voti espressi, ma non tutti sono validi. Qual è il voto che ha il maggior numero di liceali?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 880,
+        "question": "Translation: Show me all the votes that have at least 4 students."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 881,
+        "question": "(Which students have 4 or more votes?)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 882,
+        "question": "Inoltre, fornisci anche il numero di amici che hanno più di 20 amici.**"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 883,
+        "question": "È importante avere molti amici per essere felice? È vero che avere molti amici può aiutare a migliorare la propria vita? È possibile avere molti amici se si è introvertito?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 884,
+        "question": "Inoltre, fornisci le informazioni relative alle loro amicizie, come ad esempio il tipo di amicizia (amici stretti, amici di vecchia data, amici di lavoro, etc.) e il"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 885,
+        "question": "}"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 886,
+        "question": "Translation: What is the name of the high school with the most friends?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 887,
+        "question": "È importante che l'elenco dei nomi sia in ordine alfabetico."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 888,
+        "question": "Mostra anche i nomi dei licei che non hanno amici."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 889,
+        "question": "Translation: What are the names of high school students who have 3 or more friends?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 890,
+        "question": "**"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 891,
+        "question": "(Restore the names of the student Kyle's friends from high school.)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 892,
+        "question": "(How many friends does Kyle, the high school student, have?) →"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 893,
+        "question": "(Note: The rephrased question should be written in formal Italian, using the correct verb conjugation and syntax.)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 894,
+        "question": "(Show ID of all students who have no friends.)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 895,
+        "question": "È importante per noi capire quali studenti sono più isolati e quindi poter offrire loro supporto e assistenza."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 896,
+        "question": "Una volta che ho una lista di nomi, posso usarla per fare delle ricerche più approfondite."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 897,
+        "question": "Translation: Which are the names of the students who do not have friends?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 898,
+        "question": "(Show the IDs of the high schools that have friends and are also appreciated by someone else.)</p>"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 899,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 900,
+        "question": "In altre parole, mostri il nome di tutti gli studenti che hanno almeno un amico in comune con almeno un altro studente."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 901,
+        "question": "Translation: Which are the names of the high schools that have both friends and are liked?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 902,
+        "question": "Come posso ottenere questo risultato? (Count the number of likes for each student ID. How can I get this result?) →"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 903,
+        "question": "(Translation: How many likes correspond to each student ID?)  |  Quale è il numero di likes associato a ciascun ID studente? |  |  |  |  |  |  |  |"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 904,
+        "question": "](https://i.stack.imgur.com/2xvqY.png)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 905,
+        "question": "Nota: “piacciono” is a verb in the third person plural, and “mi piace” is a verb in the first person singular. The question is poorly constructed and difficult to understand."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 906,
+        "question": "(What is the name of the high school with the most likes?)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 907,
+        "question": "Chi è lo studente con il maggior numero di like?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 908,
+        "question": "(Show the names of students who have at least 2 likes.)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 909,
+        "question": "(What are the names of the students who have 2 or more likes?)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 910,
+        "question": "Translation: Show the names of students who have a grade higher than 5 and have at least 2 friends."
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 911,
+        "question": "(What are the names of the high school students who have a grade of over 5 and have 2 or more friends?)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 912,
+        "question": "(How many likes does Kyle have?) →"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 913,
+        "question": "Kyle is a high school student who has liked a certain number of posts on Instagram. How many likes has Kyle's high school given him?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 914,
+        "question": "(Find the average grade of all students who have friends.)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 915,
+        "question": "In altre parole, quanti studenti hanno almeno un amico?"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 916,
+        "question": "(Find the minimum number of students who do not have friends.)"
+    },
+    {
+        "db_id": "network_1",
+        "q_id": 917,
+        "question": "È importante considerare che gli studenti possono avere amici in diverse aree della loro vita, come ad esempio la scuola, la famiglia o il lavoro."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 918,
+        "question": "''"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 919,
+        "question": "È importante che gli stati siano quelli con una maggiore concentrazione di persone che lavorano come professionisti."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 920,
+        "question": "](https://i.stack.imgur.com/7QWbT.png)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 921,
+        "question": "(Find the average age of dogs that have undergone treatments.)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 922,
+        "question": "(Translation: Which professionals live in the state of Indiana or have treated more than 2 patients? List their ID, last name, and cell phone number.)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 923,
+        "question": "È necessario ottenere queste informazioni per l'analisi statistica."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 924,
+        "question": "](https://www.it.wikipedia.org/wiki/Canicola)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 925,
+        "question": "](https://i.stack.imgur.com/4jQ2g.jpg)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 926,
+        "question": "... (What names are used for professionals or owners that are not used as dog names?)..."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 927,
+        "question": "Esistono nomi che possono essere utilizzati per entrambi?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 928,
+        "question": "](https://www.italki.com/qa/1743215#answer-1743244)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 929,
+        "question": "](https://i.stack.imgur.com/1wRQh.png)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 930,
+        "question": "](https://i.stack.imgur.com/8Vb1C.jpg)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 931,
+        "question": "Translation:"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 932,
+        "question": "(Translation: Which professionals have performed at least two treatments? List the ID, role, and name of the professional.) → Quali professionisti hanno effettuato almeno due trattamenti? Elencare l'ID, il ruolo"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 933,
+        "question": "Translation: What are the ID, role, and name of the professionals who have performed two or more treatments?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 934,
+        "question": "(What is the name of the breed with the largest number of dogs?) →"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 935,
+        "question": "(What breed has the most dogs? Give me the name of the breed.) → Qual è la razza canina più numerosa? → (What is the most numerous canine breed?) →"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 936,
+        "question": "](https://i.stack.imgur.com/6vRrA.png)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 937,
+        "question": "(Tell me the owner's ID and last name of the owner who has spent the most on treatments for his dogs.)\" |"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 938,
+        "question": "(What is the description of the type of treatment that costs less money in total?) →"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 939,
+        "question": "](https://www.italki.com/answers/2461115)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 940,
+        "question": "(Who has paid the largest total amount of money for their dogs? Show the owner ID and postal code.)\" - translated to Italian:"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 941,
+        "question": "**"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 942,
+        "question": "(What professionals have done at least two types of treatments? List the professional ID and the phone number.)\" |"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 943,
+        "question": "(Find the ID and cell phone number of professionals who manage two or more types of treatments.)\""
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 944,
+        "question": "](https://i.stack.imgur.com/4L1f3.png)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 945,
+        "question": "](https://i.stack.imgur.com/5QJyJ.png)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 946,
+        "question": "Per favore, fornisci anche informazioni sulla durata del trattamento e sulle possibili complicazioni."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 947,
+        "question": "|"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 948,
+        "question": "](https://i.stack.imgur.com/7Ov9Q.png)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 949,
+        "question": "(What are the descriptions of the type of cost and treatment for each treatment?)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 950,
+        "question": "Inoltre, elenca le informazioni sul tipo di cane e sulle condizioni di salute del cane."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 951,
+        "question": "(What is the name, surname and size of their dog?) →"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 952,
+        "question": "(Translation: List the couples consisting of the owner's name and the dog's name.)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 953,
+        "question": "](https://i.stack.imgur.com/Xk6Zo.png)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 954,
+        "question": "(List the names of the rarest dog breeds and their treatment dates.)\" |"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 955,
+        "question": "(What are the rarest dog breeds? Show their names and treatment dates.)**"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 956,
+        "question": "Per favore, fornisce una lista di tutti i cani che sono di proprietà di qualcuno che vive in Virginia. (Translation: Which dogs belong to someone who lives in Virginia? List the owner's name and the dog's"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 957,
+        "question": "(Find the names of the owners who live in Virginia and the names of the dogs they own.)\""
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 958,
+        "question": "(What are the arrival and departure dates of the dogs that have undergone treatment?)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 959,
+        "question": "È importante identificare i cani che hanno ricevuto il trattamento e le date relative per poter valutare l'efficacia del trattamento. È necessario reperire queste informazioni in modo rap"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 960,
+        "question": "Se non esistono proprietari che possiedono cani di età inferiore a 1 anno, si deve elencare \"Nessuno\"."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 961,
+        "question": "(Who has the youngest dog? Give me his last name.) → ? → ? → ? → ? → ? → ? → ? → ? → ? → ? → ? → ? → ? → ? → ? → ? → ? → ? →"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 962,
+        "question": "Potresti fornirmi una lista di 20 e -mail dei professionisti che vivono in questi due stati?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 963,
+        "question": "Translation: What are the e-mail addresses of professionals living in the state of Hawaii or the state of Wisconsin?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 964,
+        "question": "**"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 965,
+        "question": "(Translation: List the arrival date and departure date for all dogs.)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 966,
+        "question": "(How many dogs have undergone treatment?)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 967,
+        "question": "Potresti fornirmi le informazioni sul numero di cani trattati e il numero di cani che hanno raggiunto il trattamento successivo?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 968,
+        "question": "}"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 969,
+        "question": "Translation: Find the number of professionals who have ever handled dogs."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 970,
+        "question": "](https://www.italki.com/qa/1444156#1444156)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 971,
+        "question": "Translation: Find the role, street, city, and state of professionals who live in a city that contains the substring \"West\"."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 972,
+        "question": "|"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 973,
+        "question": "]"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 974,
+        "question": "(How many dogs have an age below the average?) → ?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 975,
+        "question": "(Count the number of dogs under the average age.) →"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 976,
+        "question": "(How much does the latest treatment cost?)}"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 977,
+        "question": "»"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 978,
+        "question": "(How many dogs have not received any treatment?)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 979,
+        "question": "In altre parole, quali sono i cani che non hanno ricevuto alcun tipo di vaccino o di cura veterinaria?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 980,
+        "question": "(How many temporary owners do not have dogs?)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 981,
+        "question": "Translation: Find the number of owners who do not possess dogs at this moment."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 982,
+        "question": "Translation: How many professionals did not perform any treatment on dogs?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 983,
+        "question": "(Find the number of professionals who have not treated any dogs.)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 984,
+        "question": "}"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 985,
+        "question": "](https://i.stack.imgur.com/9UaQx.png)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 986,
+        "question": "](https://i.stack.imgur.com/7r7YF.png)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 987,
+        "question": "Considera solo i cani che hanno un'età inferiore a 10 anni."
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 988,
+        "question": "È noto che la razza più antica di cane è il Basenji, il quale ha un'età di circa 6.000 anni. Tuttavia, ci sono altre razze di cani che potrebbero essere"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 989,
+        "question": "(Translation: Tell me the age of the oldest dog.)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 990,
+        "question": "(How much does each type of charge cost? List the type of charge and the amount.)\""
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 991,
+        "question": "È possibile ottenere un elenco di tutti gli addebiti effettuati?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 992,
+        "question": "(How much does the most expensive type of charge cost?)\""
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 993,
+        "question": "(What is the amount of the most expensive type of charge?) →"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 994,
+        "question": "(Translation: List the email, cell phone, and home phone of all professionals.)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 995,
+        "question": "E come possono essere contattati?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 996,
+        "question": "(What are all the possible combinations of breed type and size type?)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 997,
+        "question": "È possibile ottenere queste informazioni sulla piattaforma di ricerca di razze canine?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 998,
+        "question": "](https://i.stack.imgur.com/8Y9XZ.png)"
+    },
+    {
+        "db_id": "dog_kennels",
+        "q_id": 999,
+        "question": "](https://i.stack.imgur.com/8JQ3S.png)"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1000,
+        "question": "(How many singers are there?) →"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1001,
+        "question": "Translation: What is the count of the singers?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1002,
+        "question": "(List the names of the singers in ascending order of their net worth.)"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1003,
+        "question": "(Which are the names of the singers ordered by net worth in ascending order?)''"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1004,
+        "question": "(What are the birth year and nationality of the singers?)} \\end{document}``"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1005,
+        "question": "(What are the birth years and citizenship of the singers?)"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1006,
+        "question": "(List the names of singers whose nationality is not \"France\".) →"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1007,
+        "question": "(Which are the names of the singers who are not French citizens?)\""
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1008,
+        "question": "Show the names of singers whose birth year is 1948 or 1949?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1009,
+        "question": "(Who are the names of the singers born in 1948 or 1949?) →"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1010,
+        "question": "(What is the name of the singer with the largest net worth?)"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1011,
+        "question": "(Who is the singer worth the most?)"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1012,
+        "question": "in a technical report"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1013,
+        "question": "E quanti di questi cantanti sono noti a livello internazionale?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1014,
+        "question": "Qual è la maggioranza dei cantanti che hanno raggiunto la fama?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1015,
+        "question": "(What is the citizenship of the most common singer?)"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1016,
+        "question": "Translation: Show different citizens and the maximum net worth of singers from each citizenship."
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1017,
+        "question": "(For every citizenship, what is the maximum net wealth?)"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1018,
+        "question": "Come posso accedere a questi dati in modo più rapido e sicuro?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1019,
+        "question": "(What are the titles of the songs and the names of the singers?) →"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1020,
+        "question": "000 copie."
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1021,
+        "question": "00 copie in tutto il mondo?"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1022,
+        "question": "Mostra anche i nomi dei cantanti che hanno più di una canzone e che hanno vinto un premio importante.**Translation:**"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1023,
+        "question": "**"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1024,
+        "question": "Inoltre, classifica gli artisti per regione e per genere musicale."
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1025,
+        "question": "Si desidera avere una lista di tutti i nomi dei cantanti con le relative vendite totali."
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1026,
+        "question": "in the report"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1027,
+        "question": "(What is the name of every song that has no song?)"
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1028,
+        "question": "Show the shared citizenship of singers with birth year before 1945 and after 1955."
+    },
+    {
+        "db_id": "singer",
+        "q_id": 1029,
+        "question": "]"
+    },
+    {
+        "db_id": "real_estate_properties",
+        "q_id": 1030,
+        "question": "Translation: How many features are there in total?"
+    },
+    {
+        "db_id": "real_estate_properties",
+        "q_id": 1031,
+        "question": "](https://i.stack.imgur.com/6h9Qv.png)"
+    },
+    {
+        "db_id": "real_estate_properties",
+        "q_id": 1032,
+        "question": "Possiamo ottenere le descrizioni delle proprietà utilizzando un'API? Se sì, come possiamo ottenere le descrizioni delle proprietà?"
+    },
+    {
+        "db_id": "real_estate_properties",
+        "q_id": 1033,
+        "question": "\"]](https://i.stack.imgur.com/4QXtN.png)"
+    }
+]

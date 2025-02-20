@@ -1,0 +1,5172 @@
+[
+    {
+        "db_id": "concert_singer",
+        "question": "Quanti cantanti abbiamo?",
+        "q_id": 0
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "cantanti? il numero è totale Qual di",
+        "q_id": 1
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "i giovane. più ordinati cantanti età Nome dal per al per vecchio spettacolo, età tutti più paese,",
+        "q_id": 2
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Quali in età di cantante ogni discendente? paesi ordine età i nomi, e per i sono le",
+        "q_id": 3
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "i dalla l'età tutti minima media, Qual è Francia? cantanti e di massima",
+        "q_id": 4
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "l'età è francesi? e massima media, tutti Qual minima i per cantanti",
+        "q_id": 5
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "del nome della uscita cantante l'anno il canzone Mostra e di giovane. più",
+        "q_id": 6
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "canzoni uscita più i del per di cantante giovane? Quali e le sono nomi tutte gli anni",
+        "q_id": 7
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "paesi anni? di tutti distinti cui ai superiore età 20 da sono i cantanti Quali provengono",
+        "q_id": 8
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "ai Quali 20 sono con i di paesi superiore età diversi cantanti anni?",
+        "q_id": 9
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "numero paese. i tutti di in e cantanti Mostra ogni paesi il",
+        "q_id": 10
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "ogni da paese? sono cantanti Quanti",
+        "q_id": 11
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "media. dell'età delle Elenca al canzoni nomi di i sopra di cantanti tutti",
+        "q_id": 12
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "vecchi media? delle Quali dei più i cantanti tutti nomi della canzoni sono",
+        "q_id": 13
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "posizione 10000. una Mostra con per e e gli tra stadi nome 5000 tutti capacità",
+        "q_id": 14
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "5000 le tra sono nomi Quali le e capacità con e stazioni 10000? di posizioni tutte i",
+        "q_id": 15
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "è tutti e la di media Qual massima la capacità gli stadi?",
+        "q_id": 16
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "stadi? massime le tutti sono gli Quali per medie e capacità",
+        "q_id": 17
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "frequenza stadio e con la capacità più Qual la media? il è dello nome alta",
+        "q_id": 18
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "frequenza Qual la il e è con più media? la stadio capacità alta nome dello",
+        "q_id": 19
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "2014 ci 2015? sono nell'anno Quanti concerti o",
+        "q_id": 20
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "si nel Quanti 2014 2015? verificati o nel concerti sono",
+        "q_id": 21
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "il Mostra nome concerti dello in ogni stadio. di stadio e numero il",
+        "q_id": 22
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "concerti quanti ogni stadio, Per suonano lì?",
+        "q_id": 23
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "dei nell'anno e dello la la 2014 con nome o concerti il maggior parte stadio dopo. Mostra capacità",
+        "q_id": 24
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "dello concerti e stadio di maggior il la con dopo nome è Qual 2013? capacità numero il il",
+        "q_id": 25
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "la che concerti? In maggior anno dei parte ha",
+        "q_id": 26
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "il che di concerti? è maggior Qual numero l'anno ha avuto",
+        "q_id": 27
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "stadio senza i dello nomi alcun concerto. Mostra",
+        "q_id": 28
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "senza Quali degli concerti? nomi stadi sono i",
+        "q_id": 29
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "un inferiore cui da 40 cantante un provengono di a 30. cantante anni età Mostra paesi e superiore ai",
+        "q_id": 30
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Mostra ad 2014. che degli gli nell'anno hanno eccezione stadi concerto nomi per un tutti stadi",
+        "q_id": 31
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "Quali gli sono di nomi avuto hanno concerto che i tutti stadi non 2014? un nel",
+        "q_id": 32
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "ogni il concerto. i per il numero tutti cantanti il di e nome e tema in concerti Mostra",
+        "q_id": 33
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "di il nomi, ogni e i i Quali temi numero cantanti per concerto? sono",
+        "q_id": 34
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "ogni dei e di nomi numero concerti i cantante. per Elenca il cantanti",
+        "q_id": 35
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "numero sono nomi concerti Quali ogni i cantanti di il per e dei persona?",
+        "q_id": 36
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "concerti tutti nell'anno 2014. i Elenca dei nomi in cantanti",
+        "q_id": 37
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "si cantanti che sono esibiti in Quali dei nel nomi 2014? i un concerto sono",
+        "q_id": 38
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "nome nel canzone Qual e una è nome? la il hanno nazione del che \"ehi\" ha suo cantante che",
+        "q_id": 39
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "ha paese origine la di canzone con e il è una nel che il \"hey\" titolo? Qual di suo cantante nome parola ogni",
+        "q_id": 40
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "2014 concerti sono degli avvenuti alcuni che il stadi e del anni la Trova nome negli posizione e 2015. del",
+        "q_id": 41
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "stadi nel si 2014 concerti nel posizioni avuto sia sono le verificati nomi i che sono degli hanno che Quali che e 2015?",
+        "q_id": 42
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "che massima concerti la Trova capacità. il nello avvenuto con di numero stadio è",
+        "q_id": 43
+    },
+    {
+        "db_id": "concert_singer",
+        "question": "il stadio la Quali avvenuti capacità? di grande con nello sono numero più concerti",
+        "q_id": 44
+    },
+    {
+        "db_id": "pets_1",
+        "question": "il di peso pesante domestici animali numero Trova più 10. il cui di è",
+        "q_id": 45
+    },
+    {
+        "db_id": "pets_1",
+        "question": "un peso di Quanti hanno animali maggiore domestici 10?",
+        "q_id": 46
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Trova giovane. il del peso cane più",
+        "q_id": 47
+    },
+    {
+        "db_id": "pets_1",
+        "question": "cane Quanto giovane? più pesa il",
+        "q_id": 48
+    },
+    {
+        "db_id": "pets_1",
+        "question": "animale tipo peso ogni di massimo domestico. di e domestico.Elenca peso animale il Trova per tipo il il massimo",
+        "q_id": 49
+    },
+    {
+        "db_id": "pets_1",
+        "question": "di tipo peso domestico. Elenca il ogni il e per massimo animale tipo",
+        "q_id": 50
+    },
+    {
+        "db_id": "pets_1",
+        "question": "20 di ai Trova anni. superiore di di età studenti proprietà numero domestici il di animali",
+        "q_id": 51
+    },
+    {
+        "db_id": "pets_1",
+        "question": "studenti domestici animali Quanti 20? di che superiore hanno di un'età sono proprietà a",
+        "q_id": 52
+    },
+    {
+        "db_id": "pets_1",
+        "question": "sono numero animali (con studentesse domestici sesso F). Trova di che allevati da il",
+        "q_id": 53
+    },
+    {
+        "db_id": "pets_1",
+        "question": "da allevati studentesse? animali domestici sono Quanti",
+        "q_id": 54
+    },
+    {
+        "db_id": "pets_1",
+        "question": "distinti di di Trova domestici. animali tipi il numero",
+        "q_id": 55
+    },
+    {
+        "db_id": "pets_1",
+        "question": "diversi tipi domestici Quanti di animali ci sono?",
+        "q_id": 56
+    },
+    {
+        "db_id": "pets_1",
+        "question": "hanno per domestico gatti degli studenti che cani. animale o nome Trova il un",
+        "q_id": 57
+    },
+    {
+        "db_id": "pets_1",
+        "question": "ogni o nomi gatto che animale Quali sono domestico? come ha cane un un di studente primi i",
+        "q_id": 58
+    },
+    {
+        "db_id": "pets_1",
+        "question": "studenti nome di hanno che di domestici cane. gatti sia il che animali di Trova",
+        "q_id": 59
+    },
+    {
+        "db_id": "pets_1",
+        "question": "animali che hanno sia cani gatti i sono che degli domestici? Quali come nomi studenti",
+        "q_id": 60
+    },
+    {
+        "db_id": "pets_1",
+        "question": "che e non domestico. l'età studenti animale il Trova un hanno degli maggiore",
+        "q_id": 61
+    },
+    {
+        "db_id": "pets_1",
+        "question": "hanno? animale maggiore possiede anche anni è e ogni quanti gatto studente domestico, non che un come Quale",
+        "q_id": 62
+    },
+    {
+        "db_id": "pets_1",
+        "question": "animale l'ID che degli domestico. studenti non Trova hanno un",
+        "q_id": 63
+    },
+    {
+        "db_id": "pets_1",
+        "question": "che non possiedono domestici? come gli degli i gatti Quali animali sono ID studenti",
+        "q_id": 64
+    },
+    {
+        "db_id": "pets_1",
+        "question": "gatto l'età ma hanno e domestico. Trova degli cane nome un come studenti che non il hanno animale un",
+        "q_id": 65
+    },
+    {
+        "db_id": "pets_1",
+        "question": "studente ha Qual è ha gatto? ogni nome non il cane che di un un ma",
+        "q_id": 66
+    },
+    {
+        "db_id": "pets_1",
+        "question": "il e tipo giovane. più Trova il peso dell'animale",
+        "q_id": 67
+    },
+    {
+        "db_id": "pets_1",
+        "question": "e domestico è più pesa? l'animale di animale quanto Che giovane tipo",
+        "q_id": 68
+    },
+    {
+        "db_id": "pets_1",
+        "question": "è cui domestici 1. il peso vecchia tutti di e gli di più Trova la l'ID età animali",
+        "q_id": 69
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qual ogni che il è ha 1? peso l'ID e animale di domestico di più",
+        "q_id": 70
+    },
+    {
+        "db_id": "pets_1",
+        "question": "ogni di Trova tipo l'età domestico. per massima media animale e",
+        "q_id": 71
+    },
+    {
+        "db_id": "pets_1",
+        "question": "massima domestico? l'età è animale di ogni e per tipo Qual media",
+        "q_id": 72
+    },
+    {
+        "db_id": "pets_1",
+        "question": "medio per Trova animale di peso ciascun domestico. il tipo",
+        "q_id": 73
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qual ogni medio peso è di il animale per domestico? tipo",
+        "q_id": 74
+    },
+    {
+        "db_id": "pets_1",
+        "question": "domestico. un che hanno l'età Trova animale degli studenti e nome il",
+        "q_id": 75
+    },
+    {
+        "db_id": "pets_1",
+        "question": "secoli i studenti domestici? nomi degli sono animali hanno e Quali diversi che",
+        "q_id": 76
+    },
+    {
+        "db_id": "pets_1",
+        "question": "l'ID Trova \"Smith\". di di il dell'animale è cui proprietà Student cognome",
+        "q_id": 77
+    },
+    {
+        "db_id": "pets_1",
+        "question": "Qual l'ID proprietà cui di il dell'animale è dello cognome è studente \"Smith\"?",
+        "q_id": 78
+    },
+    {
+        "db_id": "pets_1",
+        "question": "che numero un e domestici il di ogni documento Trova animali con studente ha domestici studente. animali identità di per",
+        "q_id": 79
+    },
+    {
+        "db_id": "pets_1",
+        "question": "ogni domestici, Per ha invece loro animali quanti i hanno di domestici ID studenti studente?Elenca animali gli che nomi.",
+        "q_id": 80
+    },
+    {
+        "db_id": "pets_1",
+        "question": "un hanno e animale il che domestico. dello studente il più genere Trova di nome",
+        "q_id": 81
+    },
+    {
+        "db_id": "pets_1",
+        "question": "nome studenti che domestico? è di tutti il più il di Qual un gli hanno animale e genere",
+        "q_id": 82
+    },
+    {
+        "db_id": "pets_1",
+        "question": "il anni. dello un 3 che che gatto ha studente ha cognome Trova",
+        "q_id": 83
+    },
+    {
+        "db_id": "pets_1",
+        "question": "che studente che dello Qual ha è 3 gatto un ha anni? cognome il",
+        "q_id": 84
+    },
+    {
+        "db_id": "pets_1",
+        "question": "che media studenti alcun degli non hanno Trova domestico. l'età animale",
+        "q_id": 85
+    },
+    {
+        "db_id": "pets_1",
+        "question": "possiedono è l'età non animali che domestici? per studenti gli Qual media tutti",
+        "q_id": 86
+    },
+    {
+        "db_id": "car_1",
+        "question": "ci Quanti continenti sono?",
+        "q_id": 87
+    },
+    {
+        "db_id": "car_1",
+        "question": "è di numero continenti? il Qual",
+        "q_id": 88
+    },
+    {
+        "db_id": "car_1",
+        "question": "il nome Quanti paesi l'ID e numero ha continente il continente?Elenca continente, paesi. del di ogni",
+        "q_id": 89
+    },
+    {
+        "db_id": "car_1",
+        "question": "Per continente, e il ogni elenca paesi ha? nome il suo ID, quanti",
+        "q_id": 90
+    },
+    {
+        "db_id": "car_1",
+        "question": "paesi Quanti elencati? sono",
+        "q_id": 91
+    },
+    {
+        "db_id": "car_1",
+        "question": "esistono? Quanti paesi",
+        "q_id": 92
+    },
+    {
+        "db_id": "car_1",
+        "question": "ogni automobilistico?Elenco produttore e produce Nome numero. Quanti completo, modelli ID",
+        "q_id": 93
+    },
+    {
+        "db_id": "car_1",
+        "question": "è suo completo di ID al produce? auto, produttore nome insieme a di il Qual ogni e quanti modelli",
+        "q_id": 94
+    },
+    {
+        "db_id": "car_1",
+        "question": "modello dell'auto ha potenza Quale la minima?",
+        "q_id": 95
+    },
+    {
+        "db_id": "car_1",
+        "question": "di il più quantità potenza? la è modello piccola Qual con dell'auto",
+        "q_id": 96
+    },
+    {
+        "db_id": "car_1",
+        "question": "del è peso medio. il dell'auto cui modello al Trova sotto peso di il",
+        "q_id": 97
+    },
+    {
+        "db_id": "car_1",
+        "question": "è l'auto inferiore media? per Qual modello un peso con il alla",
+        "q_id": 98
+    },
+    {
+        "db_id": "car_1",
+        "question": "che prodotto nome nell'anno produttori alcune Trova auto il dei hanno 1970?",
+        "q_id": 99
+    },
+    {
+        "db_id": "car_1",
+        "question": "automobili un'auto prodotto il produttori nel di 1970? diversi nome è Qual che dei hanno",
+        "q_id": 100
+    },
+    {
+        "db_id": "car_1",
+        "question": "tempo Trova anno? auto produzione e il delle marca primo di nel prodotte",
+        "q_id": 101
+    },
+    {
+        "db_id": "car_1",
+        "question": "Carr prodotto produttore nel il Qual stato? anno in primo è anno che e di è",
+        "q_id": 102
+    },
+    {
+        "db_id": "car_1",
+        "question": "modelli dopo 1980? prodotti sono di Quali auto il distinte",
+        "q_id": 103
+    },
+    {
+        "db_id": "car_1",
+        "question": "carte modelli i per diversi dopo Quali prodotte 1980? il le sono",
+        "q_id": 104
+    },
+    {
+        "db_id": "car_1",
+        "question": "sono in il automobili conteggio. nome continente del di continente?Elenca ci Quanti il ogni produttori e",
+        "q_id": 105
+    },
+    {
+        "db_id": "car_1",
+        "question": "sono in nome quanti ogni ci continente di e è di Qual il produttori ognuno? automobili",
+        "q_id": 106
+    },
+    {
+        "db_id": "car_1",
+        "question": "ha del la parte nome produttori Quale maggior il paesi di dei dei paese. automobili?Elenca",
+        "q_id": 107
+    },
+    {
+        "db_id": "car_1",
+        "question": "di Qual maggior la automobili? paese del il parte con produttori dei è nome",
+        "q_id": 108
+    },
+    {
+        "db_id": "car_1",
+        "question": "modelli da del prodotti produttore?Elenca il e Quanti solo completo ogni auto il conteggio di nome produttore. sono",
+        "q_id": 109
+    },
+    {
+        "db_id": "car_1",
+        "question": "che auto sono il qual modelli di da ogni nome è e di e di produttore il l'ID prodotti produttore? ogni Qual completo è numero",
+        "q_id": 110
+    },
+    {
+        "db_id": "car_1",
+        "question": "(SW)? Making l'accelerazione Hornet SportAbout AMC è dell'auto Qual",
+        "q_id": 111
+    },
+    {
+        "db_id": "car_1",
+        "question": "l'auto SportAbout Quanto Hornet rende accelera che AMC (SW)?",
+        "q_id": 112
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quanti di produttori sono automobili Francia? in ci",
+        "q_id": 113
+    },
+    {
+        "db_id": "car_1",
+        "question": "numero di di è in Francia? cure produttori il Qual",
+        "q_id": 114
+    },
+    {
+        "db_id": "car_1",
+        "question": "Uniti? prodotti auto Quanti di modelli sono negli Stati",
+        "q_id": 115
+    },
+    {
+        "db_id": "car_1",
+        "question": "è modelli auto Uniti? il di prodotti dei conteggio Qual Stati negli",
+        "q_id": 116
+    },
+    {
+        "db_id": "car_1",
+        "question": "medie è 4 delle (mpg) gallone per con miglia auto Qual cilindri? le",
+        "q_id": 117
+    },
+    {
+        "db_id": "car_1",
+        "question": "cilindri? medie di gallone Qual tutte carte con miglia per 4 le è le",
+        "q_id": 118
+    },
+    {
+        "db_id": "car_1",
+        "question": "dell'auto Qual con è 1974? 8 prodotta peso il più nel cilindri piccolo",
+        "q_id": 119
+    },
+    {
+        "db_id": "car_1",
+        "question": "1974? il è con prodotti 8 peso nel minimo cilindri Qual dell'auto",
+        "q_id": 120
+    },
+    {
+        "db_id": "car_1",
+        "question": "i tutti e i Cosa produttori modelli? sono",
+        "q_id": 121
+    },
+    {
+        "db_id": "car_1",
+        "question": "i Cosa produttori e i sono modelli?",
+        "q_id": 122
+    },
+    {
+        "db_id": "car_1",
+        "question": "hanno auto?Nome che i e un almeno di Cosa produttore elenco ID. paesi hanno",
+        "q_id": 123
+    },
+    {
+        "db_id": "car_1",
+        "question": "nomi paesi di gli ID tutti i produttore con sono un i e Quali automobilistico? almeno",
+        "q_id": 124
+    },
+    {
+        "db_id": "car_1",
+        "question": "potenza di auto 150? è il Qual delle numero più con",
+        "q_id": 125
+    },
+    {
+        "db_id": "car_1",
+        "question": "150? potenza auto a superiore il numero di con è Qual una",
+        "q_id": 126
+    },
+    {
+        "db_id": "car_1",
+        "question": "il peso delle anno? medio auto Qual ogni è",
+        "q_id": 127
+    },
+    {
+        "db_id": "car_1",
+        "question": "il per l'anno Qual peso e medio è ogni anno?",
+        "q_id": 128
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quali paesi Europa automobilistiche? in 3 hanno almeno case",
+        "q_id": 129
+    },
+    {
+        "db_id": "car_1",
+        "question": "tutti produttori? paesi nomi sono Quali di i almeno 3 con europei i",
+        "q_id": 130
+    },
+    {
+        "db_id": "car_1",
+        "question": "potenza e Qual modelli massima è cilindri? la con dei la marca di 3 auto",
+        "q_id": 131
+    },
+    {
+        "db_id": "car_1",
+        "question": "è di con quantità 3 cilindri per cosa grande modelli la potenza i è? e che Qual più",
+        "q_id": 132
+    },
+    {
+        "db_id": "car_1",
+        "question": "consente Quale le più dire, per massime a modello avere di benzina?Vale miglia gallone. risparmiare",
+        "q_id": 133
+    },
+    {
+        "db_id": "car_1",
+        "question": "con il alto? auto è più modello Qual di MPG il",
+        "q_id": 134
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual delle potenza è prima auto media 1980? la del",
+        "q_id": 135
+    },
+    {
+        "db_id": "car_1",
+        "question": "media del per tutte prima auto prodotte la è potenza 1980? le Qual",
+        "q_id": 136
+    },
+    {
+        "db_id": "car_1",
+        "question": "modello medio Volvo? Qual auto del delle è l'Edispl",
+        "q_id": 137
+    },
+    {
+        "db_id": "car_1",
+        "question": "medio è per Qual l'EDispl i Volvos? tutti",
+        "q_id": 138
+    },
+    {
+        "db_id": "car_1",
+        "question": "di cilindri? l'accelerazione il Qual massima numero diverso è per",
+        "q_id": 139
+    },
+    {
+        "db_id": "car_1",
+        "question": "è tutti massima i cilindri? Qual per l'accelerazione diversi",
+        "q_id": 140
+    },
+    {
+        "db_id": "car_1",
+        "question": "Quale modello auto? delle (make) più ha versione la",
+        "q_id": 141
+    },
+    {
+        "db_id": "car_1",
+        "question": "le Quale diverse? versioni modello più ha",
+        "q_id": 142
+    },
+    {
+        "db_id": "car_1",
+        "question": "auto più cilindri? 4 Quante di hanno",
+        "q_id": 143
+    },
+    {
+        "db_id": "car_1",
+        "question": "di di 4 è Qual auto il cilindri? più con numero",
+        "q_id": 144
+    },
+    {
+        "db_id": "car_1",
+        "question": "nel sono auto state Quante 1980? prodotte",
+        "q_id": 145
+    },
+    {
+        "db_id": "car_1",
+        "question": "sono realizzate? quante Nel 1980, auto state",
+        "q_id": 146
+    },
+    {
+        "db_id": "car_1",
+        "question": "dal sono auto Company? modelli completo con stati American Quanti Motor produttore nome di prodotti",
+        "q_id": 147
+    },
+    {
+        "db_id": "car_1",
+        "question": "automobili modelli automobilistica il creati di è compagnia dalla di americana? Qual numero",
+        "q_id": 148
+    },
+    {
+        "db_id": "car_1",
+        "question": "di 3 progettato l'ID. completo modelli produttori più Quali e nome di auto?Elenca il hanno",
+        "q_id": 149
+    },
+    {
+        "db_id": "car_1",
+        "question": "3 nomi gli produttori i con i e di di ID più Quali modelli? tutti sono",
+        "q_id": 150
+    },
+    {
+        "db_id": "car_1",
+        "question": "distintivi motori produttore di 3500? pesano completo nome dal Quali di con più generali modelli il sono o prodotti",
+        "q_id": 151
+    },
+    {
+        "db_id": "car_1",
+        "question": "creati del modelli motori o 3500? sono diversi generali Maker Car pesavano i Quali più di dai",
+        "q_id": 152
+    },
+    {
+        "db_id": "car_1",
+        "question": "pesavano non anni meno più 4000? le prodotte di venivano di non quali che e auto 3000 In",
+        "q_id": 153
+    },
+    {
+        "db_id": "car_1",
+        "question": "cui gli in prodotte 3000? auto che c'erano anni anche pesavano Quali di che auto di sono e più pesavano 4000 meno diversi",
+        "q_id": 154
+    },
+    {
+        "db_id": "car_1",
+        "question": "Qual dell'auto è con potenza la grande? l'accelerazione più",
+        "q_id": 155
+    },
+    {
+        "db_id": "car_1",
+        "question": "dell'auto con accelerazione? più grande la Qual il potenza è",
+        "q_id": 156
+    },
+    {
+        "db_id": "car_1",
+        "question": "Volvo, con il modello Per cilindri quanti l'auto ha il meno accelerato?",
+        "q_id": 157
+    },
+    {
+        "db_id": "car_1",
+        "question": "ha un Per meno modello con accelerato? quanti Volvo, cilindri la versione",
+        "q_id": 158
+    },
+    {
+        "db_id": "car_1",
+        "question": "più dell'auto più grande accelerato un hanno Quante con grande? auto la potenza",
+        "q_id": 159
+    },
+    {
+        "db_id": "car_1",
+        "question": "con numero quello potenza? con più auto accelerato di maggiore il è un di Qual",
+        "q_id": 160
+    },
+    {
+        "db_id": "car_1",
+        "question": "di di produttori Quanti auto? 2 hanno più paesi",
+        "q_id": 161
+    },
+    {
+        "db_id": "car_1",
+        "question": "produttori con Qual più numero è paesi di di di il 2 automobili?",
+        "q_id": 162
+    },
+    {
+        "db_id": "car_1",
+        "question": "cilindri? hanno oltre auto 6 Quante",
+        "q_id": 163
+    },
+    {
+        "db_id": "car_1",
+        "question": "6 Qual oltre con è di auto cilindri? numero il",
+        "q_id": 164
+    },
+    {
+        "db_id": "car_1",
+        "question": "4 cilindri, la Per grande? più modello ha con auto potenza quale le",
+        "q_id": 165
+    },
+    {
+        "db_id": "car_1",
+        "question": "cavalli? 4 tutte auto le cilindri, ha a quale modello più Per",
+        "q_id": 166
+    },
+    {
+        "db_id": "car_1",
+        "question": "nome. fai più che hanno le bassa, quali e non cilindri?Elenca più macchina potenza la 3 con calare più auto il per Tra di",
+        "q_id": 167
+    },
+    {
+        "db_id": "car_1",
+        "question": "e auto di i che nomi di tutti con 4 Tra potenza meno quelli rendimento la sono minima, non le hanno quali di cilindri? documenti",
+        "q_id": 168
+    },
+    {
+        "db_id": "car_1",
+        "question": "del Qual dell'auto o prodotte 1980? miglia gallone è prima con le massime 8 cilindri per",
+        "q_id": 169
+    },
+    {
+        "db_id": "car_1",
+        "question": "è o delle del 8 che mpg con massimo 1980? stati prodotti cilindri sono auto il Qual prima",
+        "q_id": 170
+    },
+    {
+        "db_id": "car_1",
+        "question": "ma di \"Ford Company\"? modelli dalla Motor sono più costruiti 3500 leggeri non Quali",
+        "q_id": 171
+    },
+    {
+        "db_id": "car_1",
+        "question": "3500 Quali modelli ma Ford i di diversi più costruiti sono Motor non stati sono dalla Company? leggeri",
+        "q_id": 172
+    },
+    {
+        "db_id": "car_1",
+        "question": "solo non sono di un esiste nome produttore paesi il Quali auto? cui in dei",
+        "q_id": 173
+    },
+    {
+        "db_id": "car_1",
+        "question": "dei senza nomi paesi di produttori i Quali sono automobili?",
+        "q_id": 174
+    },
+    {
+        "db_id": "car_1",
+        "question": "sono creatore. auto?Elenca di producono più di che auto di l'ID produttori modelli Quali e il e almeno produttori 3 2 i",
+        "q_id": 175
+    },
+    {
+        "db_id": "car_1",
+        "question": "i auto? 3 2 i di sono e più di produttori gli e almeno di producono produttori che modelli ID Quali automobili tutti producono",
+        "q_id": 176
+    },
+    {
+        "db_id": "car_1",
+        "question": "sono che Quali l'ID dei più e automobili paesi nomi producono i di \"Fiat\"? 3 o modello hanno di il produttori",
+        "q_id": 177
+    },
+    {
+        "db_id": "car_1",
+        "question": "i 3 più nomi gli un produttori paesi Fiat? di hanno di ID Quali e o modello producono auto di che sono tutti i",
+        "q_id": 178
+    },
+    {
+        "db_id": "flight_2",
+        "question": "compagnia paese \"JetBlue Airways\" appartiene quale aerea? A della",
+        "q_id": 179
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Con Airways? quale è paese JetBlue affiliato",
+        "q_id": 180
+    },
+    {
+        "db_id": "flight_2",
+        "question": "\"JetBlue è compagnia Airways\"? Qual della aerea l'abbreviazione",
+        "q_id": 181
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quale a corrisponde Airways? JetBlue abbreviazione",
+        "q_id": 182
+    },
+    {
+        "db_id": "flight_2",
+        "question": "compagnie e nomi \"USA\". i delle tutti le loro aeree abbreviazioni in Elenca",
+        "q_id": 183
+    },
+    {
+        "db_id": "flight_2",
+        "question": "abbreviazioni e sono Stati nomi aeree negli compagnie le i delle compagnie Quali le aeree Uniti? per",
+        "q_id": 184
+    },
+    {
+        "db_id": "flight_2",
+        "question": "dell'aeroporto città nome Elenca Anthony. codice il il nella di e",
+        "q_id": 185
+    },
+    {
+        "db_id": "flight_2",
+        "question": "il corrispondente Anthony. e alla dell'aeroporto città Dai nome dell'aeroporto il codice",
+        "q_id": 186
+    },
+    {
+        "db_id": "flight_2",
+        "question": "abbiamo? aeree compagnie Quante",
+        "q_id": 187
+    },
+    {
+        "db_id": "flight_2",
+        "question": "aeree? è di totale il compagnie numero Qual",
+        "q_id": 188
+    },
+    {
+        "db_id": "flight_2",
+        "question": "abbiamo? aeroporti Quanti",
+        "q_id": 189
+    },
+    {
+        "db_id": "flight_2",
+        "question": "di il Restituisce numero aeroporti.",
+        "q_id": 190
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quanti abbiamo? voli",
+        "q_id": 191
+    },
+    {
+        "db_id": "flight_2",
+        "question": "numero di il voli. Restituisce",
+        "q_id": 192
+    },
+    {
+        "db_id": "flight_2",
+        "question": "ha aerea l'abbreviazione \"ual\"? compagnia Quale",
+        "q_id": 193
+    },
+    {
+        "db_id": "flight_2",
+        "question": "con aerea alla abbreviazione Dai 'ual'. compagnia",
+        "q_id": 194
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Uniti? Stati compagnie aeree sono dagli Quante",
+        "q_id": 195
+    },
+    {
+        "db_id": "flight_2",
+        "question": "numero il Restituisce Uniti. negli di compagnie Stati aeree",
+        "q_id": 196
+    },
+    {
+        "db_id": "flight_2",
+        "question": "paese e l'aeroporto In di è Alton? città quale",
+        "q_id": 197
+    },
+    {
+        "db_id": "flight_2",
+        "question": "paese la e di Alton. per l'aeroporto Dai città il",
+        "q_id": 198
+    },
+    {
+        "db_id": "flight_2",
+        "question": "\"Ako\"? l'aeroporto per dell'aeroporto nome Qual è il",
+        "q_id": 199
+    },
+    {
+        "db_id": "flight_2",
+        "question": "il dell'aeroporto \"Ako\". con Restituisce il codice nome",
+        "q_id": 200
+    },
+    {
+        "db_id": "flight_2",
+        "question": "aeroporti Cosa \"Aberdeen\"? City nomi a sono degli i",
+        "q_id": 201
+    },
+    {
+        "db_id": "flight_2",
+        "question": "aeroporti i di sono nomi degli Quali Aberdeen?",
+        "q_id": 202
+    },
+    {
+        "db_id": "flight_2",
+        "question": "da voli Quanti partono \"APG\"?",
+        "q_id": 203
+    },
+    {
+        "db_id": "flight_2",
+        "question": "in partenza voli il numero da \"APG\". Conta di",
+        "q_id": 204
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Destination voli hanno Quanti Ato?",
+        "q_id": 205
+    },
+    {
+        "db_id": "flight_2",
+        "question": "il di ATO. voli numero in Conta",
+        "q_id": 206
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quanti City partono da Aberdeen? voli",
+        "q_id": 207
+    },
+    {
+        "db_id": "flight_2",
+        "question": "da voli numero Restituisce partenza di Aberdeen. in il",
+        "q_id": 208
+    },
+    {
+        "db_id": "flight_2",
+        "question": "City? Quanti arrivo a in Aberdeen voli",
+        "q_id": 209
+    },
+    {
+        "db_id": "flight_2",
+        "question": "arrivo il Restituisce numero voli in Aberdeen. di ad",
+        "q_id": 210
+    },
+    {
+        "db_id": "flight_2",
+        "question": "hai Quanti città di partono voli e \"Ashley\"? destinazione da City la \"Aberdeen\"",
+        "q_id": 211
+    },
+    {
+        "db_id": "flight_2",
+        "question": "voli ad da volano Aberdeen Quanti Ashley?",
+        "q_id": 212
+    },
+    {
+        "db_id": "flight_2",
+        "question": "\"JetBlue ha della Airways\" compagnia Quanti aerea? voli",
+        "q_id": 213
+    },
+    {
+        "db_id": "flight_2",
+        "question": "voli il Airways. di JetBlue Dai numero",
+        "q_id": 214
+    },
+    {
+        "db_id": "flight_2",
+        "question": "vanno voli \"United Airlines\" all'aeroporto Quanti \"Asy\"?",
+        "q_id": 215
+    },
+    {
+        "db_id": "flight_2",
+        "question": "della che Conta numero arrivano Airlines di all'aeroporto ASY. il United voli",
+        "q_id": 216
+    },
+    {
+        "db_id": "flight_2",
+        "question": "dall'aeroporto \"AHD\"? Airlines\" voli \"United Quanti partono",
+        "q_id": 217
+    },
+    {
+        "db_id": "flight_2",
+        "question": "numero Airlines dall'aeroporto partenza di in voli AHD. il United Restituisce della",
+        "q_id": 218
+    },
+    {
+        "db_id": "flight_2",
+        "question": "città in Quanti United voli della vanno Airlines \"Aberdeen\"?",
+        "q_id": 219
+    },
+    {
+        "db_id": "flight_2",
+        "question": "che di United Aberdeen. Conta ad numero voli arrivano della il Airlines",
+        "q_id": 220
+    },
+    {
+        "db_id": "flight_2",
+        "question": "parte dei maggior ha in città voli Quale arrivo? la",
+        "q_id": 221
+    },
+    {
+        "db_id": "flight_2",
+        "question": "ha destinazione città l'aeroporto frequente? di più Quale",
+        "q_id": 222
+    },
+    {
+        "db_id": "flight_2",
+        "question": "voli parte partenza? città in ha dei Quale maggior la",
+        "q_id": 223
+    },
+    {
+        "db_id": "flight_2",
+        "question": "l'aeroporto di Quale città frequente? fonte è più",
+        "q_id": 224
+    },
+    {
+        "db_id": "flight_2",
+        "question": "numero di voli? dell'aeroporto il codice che maggior il è ha Qual",
+        "q_id": 225
+    },
+    {
+        "db_id": "flight_2",
+        "question": "dell'aeroporto con Qual il codice di il numero dell'aeroporto maggior voli? è",
+        "q_id": 226
+    },
+    {
+        "db_id": "flight_2",
+        "question": "meno voli? il Qual che ha di è codice dell'aeroporto numero",
+        "q_id": 227
+    },
+    {
+        "db_id": "flight_2",
+        "question": "con i Dai minimi dell'aeroporto voli. il codice",
+        "q_id": 228
+    },
+    {
+        "db_id": "flight_2",
+        "question": "aerea compagnia dei voli? la parte Quale ha maggior",
+        "q_id": 229
+    },
+    {
+        "db_id": "flight_2",
+        "question": "aerea compagnia numero il maggior voli? serve Quale di",
+        "q_id": 230
+    },
+    {
+        "db_id": "flight_2",
+        "question": "paese ha della Trova meno che numero voli? aerea l'abbreviazione compagnia di il e",
+        "q_id": 231
+    },
+    {
+        "db_id": "flight_2",
+        "question": "in Airilne trova? si di Qual minor e che è ha paese il l'abbreviazione numero voli di",
+        "q_id": 232
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quali che in un volo \"AHD\"? partenza aeree le sono dall'aeroporto hanno compagnie",
+        "q_id": 233
+    },
+    {
+        "db_id": "flight_2",
+        "question": "l'aeroporto hanno volo con di aeree AHD? origine un compagnie Quali",
+        "q_id": 234
+    },
+    {
+        "db_id": "flight_2",
+        "question": "\"AHD\"? sono voli compagnie hanno aeree arrivano all'aeroporto Quali che che le",
+        "q_id": 235
+    },
+    {
+        "db_id": "flight_2",
+        "question": "volo compagnie hanno Quali di AHD? un destinazione aeree con l'aeroporto",
+        "q_id": 236
+    },
+    {
+        "db_id": "flight_2",
+        "question": "aeree le e aeroporti tutte \"APG\" compagnie entrambi gli voli hanno che Trova \"CVO\". da",
+        "q_id": 237
+    },
+    {
+        "db_id": "flight_2",
+        "question": "hanno CVO? dagli compagnie voli e APG in aeree Quali partenza aeroporti",
+        "q_id": 238
+    },
+    {
+        "db_id": "flight_2",
+        "question": "da \"APG\". \"CVO\" dall'aeroporto tutte compagnie ma non hanno Trova voli aeree che le",
+        "q_id": 239
+    },
+    {
+        "db_id": "flight_2",
+        "question": "APG? ma partenze Quali compagnie dagli aeree non da aeroporti CVO hanno",
+        "q_id": 240
+    },
+    {
+        "db_id": "flight_2",
+        "question": "aeree almeno le tutte 10 compagnie che hanno voli. Trova",
+        "q_id": 241
+    },
+    {
+        "db_id": "flight_2",
+        "question": "voli? 10 aeree Quali compagnie hanno almeno",
+        "q_id": 242
+    },
+    {
+        "db_id": "flight_2",
+        "question": "aeree 200 meno che compagnie voli. tutte Trova le hanno di",
+        "q_id": 243
+    },
+    {
+        "db_id": "flight_2",
+        "question": "voli? 200 di meno aeree compagnie hanno Quali",
+        "q_id": 244
+    },
+    {
+        "db_id": "flight_2",
+        "question": "i Quali compagnia aerea numeri \"United volo della sono Airlines\"? di",
+        "q_id": 245
+    },
+    {
+        "db_id": "flight_2",
+        "question": "volo voli Quali di United della ai corrispondono Airlines? numeri",
+        "q_id": 246
+    },
+    {
+        "db_id": "flight_2",
+        "question": "di partenza \"APG\"? in di volo dall'aeroporto i sono numeri voli Quali",
+        "q_id": 247
+    },
+    {
+        "db_id": "flight_2",
+        "question": "il di voli di partenza Dai APG. numero in da voli",
+        "q_id": 248
+    },
+    {
+        "db_id": "flight_2",
+        "question": "voli di volo i \"APG\"? Quali all'aeroporto numeri sono arrivano di che",
+        "q_id": 249
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Dai atterrano che APG. di volo il numero voli di ad",
+        "q_id": 250
+    },
+    {
+        "db_id": "flight_2",
+        "question": "città partenza numero sono di Quali \"Aberdeen\"? il dalla voli di voli in",
+        "q_id": 251
+    },
+    {
+        "db_id": "flight_2",
+        "question": "voli Aberdeen. partenza numero Dai di voli in il da di",
+        "q_id": 252
+    },
+    {
+        "db_id": "flight_2",
+        "question": "sono di di arrivano il voli voli \"Aberdeen\"? a City che numero Quali",
+        "q_id": 253
+    },
+    {
+        "db_id": "flight_2",
+        "question": "in il ad di numero voli di Aberdeen. voli arrivo Dai",
+        "q_id": 254
+    },
+    {
+        "db_id": "flight_2",
+        "question": "o il città di voli nella Trova che di Abilene. Aberdeen numero atterrano",
+        "q_id": 255
+    },
+    {
+        "db_id": "flight_2",
+        "question": "o Quanti Aberdeen ad atterrano Abilene? voli",
+        "q_id": 256
+    },
+    {
+        "db_id": "flight_2",
+        "question": "degli che hanno aeroporti dentro e Trova nome non fuori. alcun il volo",
+        "q_id": 257
+    },
+    {
+        "db_id": "flight_2",
+        "question": "Quali o in non aeroporti partenza hanno in arrivo? voli",
+        "q_id": 258
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "ci dipendenti sono? Quanti",
+        "q_id": 259
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "numero il di dipendenti Conta",
+        "q_id": 260
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "nomi loro dei la per Ordina età in ordine i crescente. dipendenti",
+        "q_id": 261
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "di i dipendenti ordina dei Elenca età. nomi e crescente ordine in",
+        "q_id": 262
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "ogni di città? il è numero dipendenti di Qual",
+        "q_id": 263
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "il di città. per numero Conta ogni dipendenti",
+        "q_id": 264
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "di ai di inferiore Da provengono età anni? più un 30 città dipendente quali",
+        "q_id": 265
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "30 di ai inferiore anni. Trova che età dipendente di città hanno più un le",
+        "q_id": 266
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Trova di negozi in numero ogni posizione. il",
+        "q_id": 267
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "in negozi Quanti ogni sono ci posizione?",
+        "q_id": 268
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "del cui il distretto e numero il più il nome è del di direttore grande. il negozio Trova prodotti",
+        "q_id": 269
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "il sono di numero vende che Quali negozio distretto e prodotti? del manager il nome maggior il",
+        "q_id": 270
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "di di massimo il negozi. prodotti e i numero minimo Trova tutti",
+        "q_id": 271
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "tutti sono Quali prodotti in i massimo minimo di e numero il negozi?",
+        "q_id": 272
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "il nome, di e il tutti in negozi prodotti. Restituisce la posizione decrescente di ordine distretto numero i di",
+        "q_id": 273
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "per distretto di di il nome, i e posizione e ogni prodotti restituisci negozio. decrescente negozi tutti numero in Ordina ordine il la",
+        "q_id": 274
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "prodotti più i prodotti. nomi numerici dei medio i numero di sono cui del negozi Trova",
+        "q_id": 275
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "della nomi del dei prodotti i negozi negozio. sono di media?Dammi al sopra Quali numerici",
+        "q_id": 276
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "stato numero è Trova il nome il di a nella valutazione. del maggior cui volte dipendente assegnato",
+        "q_id": 277
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "numero il di premi maggior del valutazioni?Dammi nelle ha dipendente. ricevuto il dipendente nome Quale",
+        "q_id": 278
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "bonus ha dipendente il più Trova che volta il una nome ottenuto alto. del",
+        "q_id": 279
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "più grande?Dammi dipendente del il Quale dipendente. ricevuto ha nome bonus il",
+        "q_id": 280
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "hanno valutazione. mai dipendenti nella Trova i vinto nomi che alcun non dei premio",
+        "q_id": 281
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "i non ricevuto mai che dei sono alcuna dipendenti nomi Quali valutazione? hanno",
+        "q_id": 282
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "è assumendo che numero nome di maggior sta Qual negozio dipendenti? il del il",
+        "q_id": 283
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "negozio il numero del il di ha dipendenti?Dammi maggior nome negozio. Quale",
+        "q_id": 284
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "negozi dei che nome dipendente. non alcun assumono Trova il",
+        "q_id": 285
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "i negozio funzionano del Quali senza negozi nomi dipendenti?Trova",
+        "q_id": 286
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "numero ogni dipendenti il di Trova anche negozio;Mostra assunti il del negozio. nome in",
+        "q_id": 287
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "lavorano dipendenti che negozio. nome numero lì Per il e di il restituisce negozio, ogni del",
+        "q_id": 288
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "Cosa totale in le il valutazioni? dato viene bonus tutte",
+        "q_id": 289
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "totale indicato di valutazioni. bonus Trova la tutte le quantità in",
+        "q_id": 290
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "sull'assunzione. informazioni le Dammi tutte",
+        "q_id": 291
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "è sull'assunzione? tutte informazioni le Qual",
+        "q_id": 292
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "distretto ha negozi prodotti? con i Quale 3000 entrambi meno con 10000 di e prodotti negozi oltre",
+        "q_id": 293
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "i vendono di 3000 negozi che e sono prodotti distretti vendono di più negozi i Trova che entrambi ci 10000 prodotti. meno cui in",
+        "q_id": 294
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "sono? ci dei Quante negozi diverse posizioni",
+        "q_id": 295
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "question": "negozi. dei Contare numero il di distinte posizioni",
+        "q_id": 296
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quanti abbiamo? documenti",
+        "q_id": 297
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "il di numero Conta documenti.",
+        "q_id": 298
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "i e documenti. ID di nomi documenti, per di documenti tutti Elenca documenti descrizioni",
+        "q_id": 299
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "ID, descrizioni per gli nomi tutti Quali i i sono documenti? le e",
+        "q_id": 300
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "del il documento descrizione nome Qual l'ID la \"W\"? lettera il per è modello e documento con con",
+        "q_id": 301
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "i e Restituisci W contengono gli lettera modello nomi descrizione. loro nella documenti che per ID la",
+        "q_id": 302
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "l'ID del \"Robbin denominato modello il descrizione documento Qual CV\"? l'ID e la documento, per è",
+        "q_id": 303
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "modello documento per il la l'ID e con documento, il Robbin CV. nome l'ID Restituisci descrizione",
+        "q_id": 304
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "diversi Quanti utilizzano documenti? modelli i tutti",
+        "q_id": 305
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "il per utilizzati modelli i diversi di numero Contare documenti.",
+        "q_id": 306
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "\"ppt\"? documenti codice Quanti modello tipo di con il utilizzano il",
+        "q_id": 307
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "documenti che di di il il numero tipo modello PPT. Conta utilizzano",
+        "q_id": 308
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "ciascun il ID di e Mostra gli numero documenti usando modello. modello tutti",
+        "q_id": 309
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "utilizzati i e volte modelli Quali quante diversi per essi? di sono documenti ciascuno sono stati ID utilizzati i tutti",
+        "q_id": 310
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "di è tipo dal utilizzato il Qual modello ID numero il per documenti? e codice maggior",
+        "q_id": 311
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Restituisci il per e tipo di del maggior l'ID numero utilizzato modello codice di il documenti.",
+        "q_id": 312
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "più i per da ID di utilizzati modelli documento. tutti Mostra un",
+        "q_id": 313
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "utilizzato gli sono qualsiasi singolo Quali di modello modello un documento? in più ID di",
+        "q_id": 314
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "documento. nessun tutti non modelli utilizzati da Mostra per ID i",
+        "q_id": 315
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "modelli ID utilizzati che i vengono sono in documento? Quali alcun gli per non",
+        "q_id": 316
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "modelli Quanti abbiamo?",
+        "q_id": 317
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Conta numero di il modelli.",
+        "q_id": 318
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "modello, versione di modello Mostra e tutti modelli. codici tipo di numeri i per ID",
+        "q_id": 319
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "versione gli i di sono Quali ID, numeri codici per modello? tipo e i di ogni",
+        "q_id": 320
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "tutti codici tutti tipo Mostra per i di distinti i modelli. modello",
+        "q_id": 321
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "i tipo sono Quali diversi codici modello? di",
+        "q_id": 322
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "o PP PPT? gli sono modelli modello codice con Quali dei tipo ID",
+        "q_id": 323
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "hanno gli PPT. modelli che il o codice dei PP Restituisci ID",
+        "q_id": 324
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "modello hanno codice modelli CV? tipo Quanti di",
+        "q_id": 325
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Contare CV. numero il modelli di del tipo",
+        "q_id": 326
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "di 5? il di e versione versione modello modello di il tardi Qual numero è di per più il tipo numero con tipo di",
+        "q_id": 327
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "numeri di con versione i un 5. a numero e di versione modello modelli dei codici superiore di Restituisci i tipo",
+        "q_id": 328
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "per modello di Mostra il numero tutti modelli di e ciascuno. codici i tipo",
+        "q_id": 329
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "di diversi Quali corrispondono a codici sono quanti i modello e ciascuno? tipo modelli",
+        "q_id": 330
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "parte modelli? codice dei di maggior Quale tipo ha modello la",
+        "q_id": 331
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "parte del Restituisci tipo maggior appartiene tipo modelli. la a cui di dei modello codice il",
+        "q_id": 332
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "modello codici di di tre meno tutti modelli. tipo con i Mostra",
+        "q_id": 333
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "di dei 3 hanno sono di meno modelli? che tipi i modelli codici Quali",
+        "q_id": 334
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual è numero piccolo versione e il di il tipo del codice più modello? di",
+        "q_id": 335
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "di versione basso, modello più tipo corrispondente. insieme numero al codice il Restituisci",
+        "q_id": 336
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "utilizzato il dal tipo documento modello modello di il \"Base con codice dati\"? del è Qual nome",
+        "q_id": 337
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "modello utilizzato base Restituisci modello del da il codice un di documento dati. denominato tipo",
+        "q_id": 338
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "BK. modelli tutti codice modello documenti tipo Mostra usando nomi dei con i",
+        "q_id": 339
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quali i i BK? documenti dei sono nomi che codice utilizzano modelli il con",
+        "q_id": 340
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "usando e modello Mostra i tipo il di numero tutti codici tipo. di documenti ciascun",
+        "q_id": 341
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "ogni codici usano diversi tipo? di tipo documenti quanti e sono i modello Quali",
+        "q_id": 342
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "dalla maggior tipo documenti? del codice viene modello di parte numero utilizzato Quale di",
+        "q_id": 343
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "del il nei codice tipo usato comunemente che Restituisci più di documenti. viene modello",
+        "q_id": 344
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "modello i Mostra tutti tipo di non nessun da codici sono che documento. utilizzati",
+        "q_id": 345
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "di utilizzati nessun che modelli vengono i tipi documento? per non dei codici sono Quali",
+        "q_id": 346
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "descrizioni modello. codici e tutti Mostra di le i del tipo",
+        "q_id": 347
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "modelli? i tipi descrizioni tutti Quali sono codici di e i per le tipo di",
+        "q_id": 348
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual del descrizioni di \"annuncio\". modello le per è codice tipo il tipo",
+        "q_id": 349
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Restituisci modello di l'annuncio del codice. di tipo del Descrizione modello il tipo con",
+        "q_id": 350
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "di Descrizione modello tipo il tipo è per Qual codice \"libro\". il modello",
+        "q_id": 351
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "della Restituisci descrizione. modello del \"libro\" tipo di codice con tipo il il",
+        "q_id": 352
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "da di tipo documento? del per un distinte utilizzati mai Quali modelli descrizioni sono i modelli le",
+        "q_id": 353
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "per utilizzati diverse che Restituisce in stati descrizioni modelli i sono documento. un le",
+        "q_id": 354
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "gli modello Quali Descrizione sono di tipo modello con \"Presentazione\". ID tipo del",
+        "q_id": 355
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "descrizione con \"Presentazione\". Restituisci corrispondenti modelli gli ai la ID",
+        "q_id": 356
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Quanti in paragrafi totale?",
+        "q_id": 357
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Contare di paragrafi. il numero",
+        "q_id": 358
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "il nome documento il paragrafi Show\"? \"Summer Quanti per con",
+        "q_id": 359
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "chiamato di \"Summer nel il numero documento paragrafi Conta Show\".",
+        "q_id": 360
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "i dettagli Mostra il testo del \"Corea\". paragrafo con per paragrafo il",
+        "q_id": 361
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "\"Corea\"? Quali dettagli il paragrafo per i il include testo che sono",
+        "q_id": 362
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "testi e nome il gli Mostra NY\". il tutti \"Welcome paragrafo ID con documento di per to",
+        "q_id": 363
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "\"Welcome dei NY\"? testi paragrafi nel sono ID to intitolato documento gli Quali e i",
+        "q_id": 364
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "documento \"Recensioni di clienti\". dei per i testi tutti il paragrafo Mostra",
+        "q_id": 365
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "documento di con il per clienti\"? i paragrafo il testi Quali \"recensioni dei sono nome",
+        "q_id": 366
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "documento gli ciascun di per ID. e documento.Ordine Mostra numero tutti il documenti ID in paragrafi",
+        "q_id": 367
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "di i del paragrafi ordinato Restituisci al insieme documento numero corrispondenti ID ciascuno, a diversi per ID.",
+        "q_id": 368
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "ID ciascun gli e documenti, in tutti il documento. Mostra numero di nomi i paragrafi",
+        "q_id": 369
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "ciascun Quali ID i ciascuno? paragrafi numero di documento, in e nonché il sono gli di nomi",
+        "q_id": 370
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "tutti con Elenca documenti paragrafi. gli ID almeno due",
+        "q_id": 371
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "hanno 2 sono dei documenti ID gli o più paragrafi? che Quali",
+        "q_id": 372
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "maggior numero è e con documento l'ID di nome paragrafi? il Qual il",
+        "q_id": 373
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Restituisci paragrafi. il documento di maggior nome e l'ID il del con numero",
+        "q_id": 374
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "Qual con numero è di minor il documento paragrafi? l'ID",
+        "q_id": 375
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "il numero del paragrafi. minor con documento l'ID di Restituisci",
+        "q_id": 376
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "2 Qual paragrafi? con l'ID è a 1 documento",
+        "q_id": 377
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "che hanno dei gli due ID e uno Dare documenti tra paragrafi.",
+        "q_id": 378
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "il \"Irlanda\". di paragrafo testo \"Brasile\" documento l'ID e Mostra con",
+        "q_id": 379
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "question": "di il \"Irlanda\"? e gli \"Brasile\" dei sono documenti paragrafo ID testo contengono Quali che",
+        "q_id": 380
+    },
+    {
+        "db_id": "course_teach",
+        "question": "insegnanti sono? ci Quanti",
+        "q_id": 381
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Qual il è insegnanti? conteggio degli totale",
+        "q_id": 382
+    },
+    {
+        "db_id": "course_teach",
+        "question": "nomi i insegnanti Elenca di ordine età degli crescente. in",
+        "q_id": 383
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Quali insegnanti i degli ordinati ascendente? nomi dall'età sono",
+        "q_id": 384
+    },
+    {
+        "db_id": "course_teach",
+        "question": "degli l'età sono Quali e insegnanti? città la natale",
+        "q_id": 385
+    },
+    {
+        "db_id": "course_teach",
+        "question": "è città Qual la ogni insegnante? natale l'età di e",
+        "q_id": 386
+    },
+    {
+        "db_id": "course_teach",
+        "question": "il Little cui Elenca District ''. città la natale degli non nome `` Urban insegnanti Lever è",
+        "q_id": 387
+    },
+    {
+        "db_id": "course_teach",
+        "question": "sono nomi District degli la non Quali Urban `` città insegnanti cui natale Little ''? i Lever è",
+        "q_id": 388
+    },
+    {
+        "db_id": "course_teach",
+        "question": "di di tra 33? Mostra nome o compresa 32 il insegnanti età",
+        "q_id": 389
+    },
+    {
+        "db_id": "course_teach",
+        "question": "che 32 sono insegnanti hanno Quali i anni? nomi 33 degli o",
+        "q_id": 390
+    },
+    {
+        "db_id": "course_teach",
+        "question": "giovane? Qual più città è la dell'insegnante natale",
+        "q_id": 391
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Da dove giovane? più viene l'insegnante",
+        "q_id": 392
+    },
+    {
+        "db_id": "course_teach",
+        "question": "natale. insegnanti insegnanti ogni diverse città numero il Mostra di di di e città",
+        "q_id": 393
+    },
+    {
+        "db_id": "course_teach",
+        "question": "insegnanti natale, città ci Per sono? ogni quanti",
+        "q_id": 394
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Elenca natale più comune degli insegnanti. la città",
+        "q_id": 395
+    },
+    {
+        "db_id": "course_teach",
+        "question": "insegnanti? per gli Quali sono comuni le più città",
+        "q_id": 396
+    },
+    {
+        "db_id": "course_teach",
+        "question": "le da almeno due città condivise città Mostra delle insegnanti.",
+        "q_id": 397
+    },
+    {
+        "db_id": "course_teach",
+        "question": "insegnanti? cui almeno da le città provengono provengono cosa Da due",
+        "q_id": 398
+    },
+    {
+        "db_id": "course_teach",
+        "question": "dei corsi per insegnanti i Mostra insegnare. sono degli e che nomi organizzati",
+        "q_id": 399
+    },
+    {
+        "db_id": "course_teach",
+        "question": "quale ogni nome il insegnano? insegnante è Qual e corso di",
+        "q_id": 400
+    },
+    {
+        "db_id": "course_teach",
+        "question": "alfabetico un i nomi nome in corsi insegnanti per Mostra che dei organizzati dell'insegnante. e ascendente insegnare del sono ordine degli",
+        "q_id": 401
+    },
+    {
+        "db_id": "course_teach",
+        "question": "alfabetico i insegnano ascendente insegnanti Quali sono nome il dei degli corsi che nomi e con nell'ordine dell'insegnante?",
+        "q_id": 402
+    },
+    {
+        "db_id": "course_teach",
+        "question": "Mostra dell'insegnante corso per nome di il matematica. il",
+        "q_id": 403
+    },
+    {
+        "db_id": "course_teach",
+        "question": "nomi delle corsi persone di matematica? i che Quali sono insegnano",
+        "q_id": 404
+    },
+    {
+        "db_id": "course_teach",
+        "question": "e i insegnano. degli Mostra numero insegnanti il di nomi corsi che",
+        "q_id": 405
+    },
+    {
+        "db_id": "course_teach",
+        "question": "e Quali corsi insegnanti nomi i degli insegnano? sono quanti",
+        "q_id": 406
+    },
+    {
+        "db_id": "course_teach",
+        "question": "insegnanti due insegnano di Mostra che almeno corsi. nomi",
+        "q_id": 407
+    },
+    {
+        "db_id": "course_teach",
+        "question": "due almeno corsi? insegnano nomi sono Quali i che degli insegnanti",
+        "q_id": 408
+    },
+    {
+        "db_id": "course_teach",
+        "question": "stati insegnanti sono corsi. Elenca organizzati che insegnare non degli per i nomi",
+        "q_id": 409
+    },
+    {
+        "db_id": "course_teach",
+        "question": "degli corsi Quali insegnanti non cui nomi sono i stati i sono organizzati?",
+        "q_id": 410
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "visitatori ci età di anni inferiore sono? 30 Quanti ai",
+        "q_id": 411
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "i è e a livello livello iscrizione alto Trova i cui superiore a nomi risultati basso. dei visitatori di 4 da dal il ordina",
+        "q_id": 412
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "il 4? superiore l'età media livello non iscrizione visitatori è Qual cui di dei a è",
+        "q_id": 413
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "il iscrizione abbonamento Trova di loro dei giovani. visitatori età e cui 4 di superiore ordina è a livello da vecchio per la livello nome a il il e",
+        "q_id": 414
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "museo e il che numero ha staff? nome membri di del maggior l'ID dello il Trova",
+        "q_id": 415
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "di per prima 2009. Trova personale musei che del numero lavora i il aperti medio",
+        "q_id": 416
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "e apertura Plaza? l'anno di museo personale del Museo di del sono Quali del numero il",
+        "q_id": 417
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "minimo i 2010. musei musei che rispetto personale nomi tutti Trova dopo al i hanno il dei più aperti di numero",
+        "q_id": 418
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "Trova di per visitato l'ID, il visitatori più musei nome e l'età che volta. una i hanno alcuni",
+        "q_id": 419
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "denaro visitatori tutti che l'ID, in i quantità sono per il nome dei grande il e di in il museo? Quali la iscrizione di speso hanno livello totale biglietti più",
+        "q_id": 420
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "la sono nome visitato parte del il delle volte? l'ID e museo maggior Quali",
+        "q_id": 421
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "museo visitatori? è del che ancora aveva Qual non il nome",
+        "q_id": 422
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "nome biglietti l'età Trova hanno maggior il e numero acquistato contemporaneamente. che il di visitatore del",
+        "q_id": 423
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "il biglietti Quali medio massimo in numero di visite? e tutte le acquistati sono",
+        "q_id": 424
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "è livello iscrizione il Qual è 1? cui visitatori biglietto di dei la spesa del totale",
+        "q_id": 425
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "aperto aperto dopo nome è visitatore Qual un prima visitato 2011? il un museo il museo sia 2009 del ha del che e",
+        "q_id": 426
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "che hanno di Trova il visitato visitatori 2010. museo dopo alcun aperto numero il non",
+        "q_id": 427
+    },
+    {
+        "db_id": "museum_visit",
+        "question": "il 2008? del aperti dopo Quanti stati sono musei 2013 prima o",
+        "q_id": 428
+    },
+    {
+        "db_id": "wta_1",
+        "question": "il Trova totale numero giocatori. di",
+        "q_id": 429
+    },
+    {
+        "db_id": "wta_1",
+        "question": "giocatori sono? Quanti ci",
+        "q_id": 430
+    },
+    {
+        "db_id": "wta_1",
+        "question": "numero il Trova corrispondenze. totale di",
+        "q_id": 431
+    },
+    {
+        "db_id": "wta_1",
+        "question": "di il Conta partite. numero",
+        "q_id": 432
+    },
+    {
+        "db_id": "wta_1",
+        "question": "giocatori con di Code USA. il paese e i di nascita la Elenca del data tutti nome",
+        "q_id": 433
+    },
+    {
+        "db_id": "wta_1",
+        "question": "giocatori Quali i e degli sono dei date di Stati nomi le nascita Uniti?",
+        "q_id": 434
+    },
+    {
+        "db_id": "wta_1",
+        "question": "partite. Trova tutte le dei l'età dei perdenti e di vincitori media",
+        "q_id": 435
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quali perdenti attraverso media vincitori partite? sono dei l'età le dei e",
+        "q_id": 436
+    },
+    {
+        "db_id": "wta_1",
+        "question": "grado tutte in le medio il di vincitori Trova partite.",
+        "q_id": 437
+    },
+    {
+        "db_id": "wta_1",
+        "question": "i è vincitori in per partite? tutte il le grado medio Qual",
+        "q_id": 438
+    },
+    {
+        "db_id": "wta_1",
+        "question": "alto in partite. di Trova più tutte il grado le perdenti",
+        "q_id": 439
+    },
+    {
+        "db_id": "wta_1",
+        "question": "è miglior partite? tutte le il di in Qual perdenti grado",
+        "q_id": 440
+    },
+    {
+        "db_id": "wta_1",
+        "question": "tutti di codici di nazionali Trova il giocatori. numero i distinti",
+        "q_id": 441
+    },
+    {
+        "db_id": "wta_1",
+        "question": "i paesi quanti provengono giocatori? distinti Da",
+        "q_id": 442
+    },
+    {
+        "db_id": "wta_1",
+        "question": "nome perdenti. distinti numero di Trova di il",
+        "q_id": 443
+    },
+    {
+        "db_id": "wta_1",
+        "question": "perdenti sono? Quanti ci nomi diversi di",
+        "q_id": 444
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trova del ha più partite. di che torneo il nome 10",
+        "q_id": 445
+    },
+    {
+        "db_id": "wta_1",
+        "question": "sono tornei nomi partite? Quali dei di hanno che i più 10",
+        "q_id": 446
+    },
+    {
+        "db_id": "wta_1",
+        "question": "2016. i vincitori 2013 nel i che giocato hanno di nomi nel Elenca tutti che sia",
+        "q_id": 447
+    },
+    {
+        "db_id": "wta_1",
+        "question": "giocatori che nel nel 2016? vinto 2013 che sono Quali i sia nomi hanno dei",
+        "q_id": 448
+    },
+    {
+        "db_id": "wta_1",
+        "question": "partite di tutte o hanno 2016. giocato negli Elenca anni numero che il 2013 le",
+        "q_id": 449
+    },
+    {
+        "db_id": "wta_1",
+        "question": "2013 state nel nel sono partite giocate o Quante 2016?",
+        "q_id": 450
+    },
+    {
+        "db_id": "wta_1",
+        "question": "australiani di e torneo dei sia codice il hanno campagna Open? WTA giocatori il Quali vinto del che campionati nome che nei sono",
+        "q_id": 451
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quali Australian giocatori i vinto codici che per Open? sono che sia WTA e campagna nomi i i i campionati di gli hanno",
+        "q_id": 452
+    },
+    {
+        "db_id": "wta_1",
+        "question": "nome di campagna del il codice più il giocatore Trova anziano. e",
+        "q_id": 453
+    },
+    {
+        "db_id": "wta_1",
+        "question": "di il codice più è nome giocatore e Qual del anziano? campagna il",
+        "q_id": 454
+    },
+    {
+        "db_id": "wta_1",
+        "question": "il nell'ordine i nascita. e cognome tutti Elenca nome di di giocatori il",
+        "q_id": 455
+    },
+    {
+        "db_id": "wta_1",
+        "question": "di Quali completi giocatori, sono nomi data ordinati per i tutti di nascita? i",
+        "q_id": 456
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Elenca giocatori / tutti di cognome L che di nascita. rimasti il nella data il sono e i nome",
+        "q_id": 457
+    },
+    {
+        "db_id": "wta_1",
+        "question": "giocatori di tutti Quali a sinistra, in completi di nascita? sono i nomi ordine i",
+        "q_id": 458
+    },
+    {
+        "db_id": "wta_1",
+        "question": "che Trova il fatto giocatore campagna maggior tour. nome codice il di di ha del numero il e",
+        "q_id": 459
+    },
+    {
+        "db_id": "wta_1",
+        "question": "di del maggior il codice con e il campagna il è Qual numero giocatore nome di tour?",
+        "q_id": 460
+    },
+    {
+        "db_id": "wta_1",
+        "question": "ha Trova che il l'anno di numero maggior partite.",
+        "q_id": 461
+    },
+    {
+        "db_id": "wta_1",
+        "question": "partite? avuto anno numero il In maggior ha di quale",
+        "q_id": 462
+    },
+    {
+        "db_id": "wta_1",
+        "question": "punti e di il di vincitore volte. del Trova maggior numero che nome ha il vinto rango i",
+        "q_id": 463
+    },
+    {
+        "db_id": "wta_1",
+        "question": "che ha rango e il giocatore? numero ha quanti nome maggior Qual del vincitore questo di vinto punti partite di il è",
+        "q_id": 464
+    },
+    {
+        "db_id": "wta_1",
+        "question": "che ha i Trova aperto australiano. nome punti ha e il del al torneo alti più partecipato vincitore",
+        "q_id": 465
+    },
+    {
+        "db_id": "wta_1",
+        "question": "hanno nome più con il è Open? di partecipato punti vincitore i Torneo rango Australian del al che Qual",
+        "q_id": 466
+    },
+    {
+        "db_id": "wta_1",
+        "question": "con maggior un partita nomi nella che numero hanno i Trova di perdente e del minuti. giocato vincitore del",
+        "q_id": 467
+    },
+    {
+        "db_id": "wta_1",
+        "question": "vincitore nomi giocato lunga? che perdente Quali del hanno del più sono partita i e nella",
+        "q_id": 468
+    },
+    {
+        "db_id": "wta_1",
+        "question": "media classifica il ogni per loro nome. la e Trova giocatore",
+        "q_id": 469
+    },
+    {
+        "db_id": "wta_1",
+        "question": "i loro e tutti i le primi giocatori classifiche medie? di sono nomi Quali",
+        "q_id": 470
+    },
+    {
+        "db_id": "wta_1",
+        "question": "e loro di nome. classificazione i per totale il punti giocatore ogni Trova",
+        "q_id": 471
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quali nomi loro i i di punti giocatori primi i totale? classificazione di tutti sono e",
+        "q_id": 472
+    },
+    {
+        "db_id": "wta_1",
+        "question": "di il Trova ogni giocatori per numero paese.",
+        "q_id": 473
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quanti giocatori ogni paese? sono da",
+        "q_id": 474
+    },
+    {
+        "db_id": "wta_1",
+        "question": "il numero il del ha Trova codice giocatori. maggior di paese dove",
+        "q_id": 475
+    },
+    {
+        "db_id": "wta_1",
+        "question": "con è parte dei paese il del codice la maggior giocatori? Qual",
+        "q_id": 476
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Trova paesi di 50 codici più giocatori. dei che i hanno",
+        "q_id": 477
+    },
+    {
+        "db_id": "wta_1",
+        "question": "Quali 50 con giocatori? i di dei più sono paesi codici",
+        "q_id": 478
+    },
+    {
+        "db_id": "wta_1",
+        "question": "ogni tour di per totale di numero Trova data classificazione. il",
+        "q_id": 479
+    },
+    {
+        "db_id": "wta_1",
+        "question": "di per c'erano totali ogni classificazione? tour Quanti data",
+        "q_id": 480
+    },
+    {
+        "db_id": "wta_1",
+        "question": "avvenuto che è ogni il anno. di Trova numero partite",
+        "q_id": 481
+    },
+    {
+        "db_id": "wta_1",
+        "question": "giocate venivano Quante ogni anno? partite",
+        "q_id": 482
+    },
+    {
+        "db_id": "wta_1",
+        "question": "le Trova tutte partite. il in dei vincitori nome grado giovani e 3 il più",
+        "q_id": 483
+    },
+    {
+        "db_id": "wta_1",
+        "question": "e dei nomi i tre vincitori più i Quali giovani tutte partite? le ranghi sono in",
+        "q_id": 484
+    },
+    {
+        "db_id": "wta_1",
+        "question": "vincitori Quanti WTA e hanno sono stati campionati mancino? ai diversi entrambi partecipato",
+        "q_id": 485
+    },
+    {
+        "db_id": "wta_1",
+        "question": "campionati di il che della Trova numero hanno vincitori WTA. ai partecipato sinistra mano",
+        "q_id": 486
+    },
+    {
+        "db_id": "wta_1",
+        "question": "il paese data alti del che ha codice i partite. di tutte e in vincitore Trova punti nascita le nome, del la il più",
+        "q_id": 487
+    },
+    {
+        "db_id": "wta_1",
+        "question": "del giocatore partite? di tutte vincitori Qual di con di e campagna più il la è il data nome, i codice le punti in nascita classificazione",
+        "q_id": 488
+    },
+    {
+        "db_id": "wta_1",
+        "question": "ogni tipo per di numero Trova mano. di il giocatori",
+        "q_id": 489
+    },
+    {
+        "db_id": "wta_1",
+        "question": "tipo per mano? di ci giocatori sono Quanti ogni",
+        "q_id": 490
+    },
+    {
+        "db_id": "battle_death",
+        "question": "\"catturate\"? finito per essere navi hanno Quante",
+        "q_id": 491
+    },
+    {
+        "db_id": "battle_death",
+        "question": "ordinati discendente e il il nomi. nome ordine in i alfabetico Elenca tonnellaggio da per",
+        "q_id": 492
+    },
+    {
+        "db_id": "battle_death",
+        "question": "e ogni battaglia. Elenca data la nome, risultato di il il",
+        "q_id": 493
+    },
+    {
+        "db_id": "battle_death",
+        "question": "vittime bilancio delle Qual è ogni minimo il causato e volta? massimo",
+        "q_id": 494
+    },
+    {
+        "db_id": "battle_death",
+        "question": "è lesioni causate volta? Qual il di numero ogni medio",
+        "q_id": 495
+    },
+    {
+        "db_id": "battle_death",
+        "question": "lesioni dalla tonnellaggio Quali causate sono nave di e situazioni con le morte \"t\"?",
+        "q_id": 496
+    },
+    {
+        "db_id": "battle_death",
+        "question": "non quando il il battaglie e Quali è sono nome \"boril\" bulgaro delle comandante i risultati",
+        "q_id": 497
+    },
+    {
+        "db_id": "battle_death",
+        "question": "diversi che qualsiasi tipo tipo delle hanno nomi e ID sono \"brig\"? perso i di Quali battaglie",
+        "q_id": 498
+    },
+    {
+        "db_id": "battle_death",
+        "question": "nomi battaglie Quali ID i che portato hanno persone a e uccise totale. in delle sono di 10 gli più",
+        "q_id": 499
+    },
+    {
+        "db_id": "battle_death",
+        "question": "causato e nave nome il è delle parte la totali? hanno l'ID della che Qual maggior lesioni",
+        "q_id": 500
+    },
+    {
+        "db_id": "battle_death",
+        "question": "latino distinti sono sono comandante \"Baldwin bulgaro il di i battaglia nomi \"Kaloyan\" I\"? che comandante il tra Quali e",
+        "q_id": 501
+    },
+    {
+        "db_id": "battle_death",
+        "question": "per le diversi risultati sono battaglie? Quanti ci",
+        "q_id": 502
+    },
+    {
+        "db_id": "battle_death",
+        "question": "nave hanno la Quante \"225\"? non il battaglie perso con tonnellaggio",
+        "q_id": 503
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Atalanta\" e nave nave chiamata chiamata \"HMS perso battaglia la e il che data nome \"Lettice\" ha Elenca la la della",
+        "q_id": 504
+    },
+    {
+        "db_id": "battle_death",
+        "question": "Mostra navi inglese\". battaglie risultati bulgari nel e delle perse senza nomi, di comandanti \"canale",
+        "q_id": 505
+    },
+    {
+        "db_id": "battle_death",
+        "question": "note che Quali morte \"est\"? di sottostringa ha degli eventi la sono le",
+        "q_id": 506
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Cosa riga 2? la riga la e 1 gli sono cui tra tutti indirizzi",
+        "q_id": 507
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual seconda la tutti e per gli è riga prima la indirizzi?",
+        "q_id": 508
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "elencati? totale corsi sono Quanti in",
+        "q_id": 509
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "corsi sono? Quanti ci",
+        "q_id": 510
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "descritto viene di corso il Come matematica?",
+        "q_id": 511
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "le sono per di matematica? corsi i descrizioni Quali tutti",
+        "q_id": 512
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "postale codice della è il città? nel Qual Chelsea dell'indirizzo Port",
+        "q_id": 513
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "il postale è Port Chelsea? Qual codice per",
+        "q_id": 514
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "numero dipartimento offre il gradi?Elenco del e maggior di Quale Nome ID. Dipartimento",
+        "q_id": 515
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "il di numero e è con Qual l'ID il gradi? nome del dipartimento maggior",
+        "q_id": 516
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "dipartimenti laurea? offrono qualche Quanti",
+        "q_id": 517
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quanti dipartimenti offrono diversi gradi?",
+        "q_id": 518
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "nomi offerti? laurea diversi di sono Quanti",
+        "q_id": 519
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "sono diversi Quanti gradi offerti?",
+        "q_id": 520
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "offre di Quanti ingegneria? il gradi dipartimento",
+        "q_id": 521
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "dipartimento di Quanti ha ingegneria? il gradi",
+        "q_id": 522
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quali e le descrizioni tutte nomi i sono di sezioni? le",
+        "q_id": 523
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "per sono e le tutte sezioni? nomi le descrizioni Quali i",
+        "q_id": 524
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "e 2 l'ID sezioni? massimo corsi dei che al nomi i sono Quali hanno",
+        "q_id": 525
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quali ogni gli sezioni? di meno di i sono corso con ID nomi 2 e",
+        "q_id": 526
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "in invertito. lessicografico sezione_name Elenca il ordine",
+        "q_id": 527
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "i ordine alfabetico sono Quali inverso? in delle nomi sezioni",
+        "q_id": 528
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "la in nome l'ID. semestre il studenti degli è cui si il registrata?Mostra sia è che Qual parte maggior",
+        "q_id": 529
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "di il ogni l'ID nome maggior registrati? studenti e di Per qual quello semestre, numero è il con",
+        "q_id": 530
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "cui ha è la descrizione nome computer? del il Qual il sottostringa dipartimento la",
+        "q_id": 531
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "nome Qual dipartimento ha è il cui la la per parola chi del descrizione computer?",
+        "q_id": 532
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "il Chi in e gradi l'ID. iscritti programmi e sono il nome, cognome semestre?Elenca di secondo nome in un 2 il",
+        "q_id": 533
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "ID, 2 gradi in iscritti a che insieme cognomi, semestre? e Quali studenti di primi, di agli i un medi tutti si sono programmi gli sono",
+        "q_id": 534
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "un il secondo Chi il è iscritto a il laurea?Elenca nome, cognome. programma nome, di",
+        "q_id": 535
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "un primi, iscritti medi di a laurea? programma Quali i per cognomi e sono tutti",
+        "q_id": 536
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Trova programma la iscritto è di in il cui del studenti? tipo maggior parte numero di",
+        "q_id": 537
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "che di studenti nome Qual sintesi maggior di il il ha è numero iscritti?",
+        "q_id": 538
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "sia l'ID degli riepilogo. è la iscritta. Elenca parte programma che il in maggior cui Trova il studenti",
+        "q_id": 539
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual che del ha il riepilogo degli l'ID e maggior iscritti? laurea studenti parte programma la è della",
+        "q_id": 540
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "il il iscritto maggior delle e ID la cognome, qualsiasi il secondo studente il studente. iscrizioni per l'ID, volte si numero nome, è programma?Elenca parte nome, in Quale di",
+        "q_id": 541
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "e si iscrizioni, qualsiasi di per iscritto il primo, programma? numero al è cognome, più è all'ID medio in che di lo Qual insieme studente e",
+        "q_id": 542
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "non Quali il studente semestri semestre. nome hanno uno iscritto?Elenca del",
+        "q_id": 543
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "semestre iscritti? è Qual del studenti senza il nome",
+        "q_id": 544
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "nomi iscritto Quali sono dei corsi mai studenti? i corsi dei hanno tutti che gli",
+        "q_id": 545
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "che nomi hanno di Quali tutti studenti i alcuni corsi iscritti? i sono",
+        "q_id": 546
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "iscrizioni? delle maggior del con nome corso la il Qual parte è",
+        "q_id": 547
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "corso con parte maggior iscritti? è Qual il la nome degli del studenti",
+        "q_id": 548
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "cognome in ma programma il stato della nello Carolina attualmente del Trova Nord nessun sono degli che studenti si laurea. vivono registrati non di",
+        "q_id": 549
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Carolina ma cognome del che programmi sono in Nord studenti si Quali degli sono vivono nella registrati il laurea? non di",
+        "q_id": 550
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Mostra e risultati con almeno data l'ID della la 2 corso. trascrizione del",
+        "q_id": 551
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "data 2 la della e l'ID elencati? trascrizione Qual con almeno corsi è",
+        "q_id": 552
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "dell'uomo telefono Ward? Qual è numero il il di nome Timmothy e cognome il con",
+        "q_id": 553
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "il è Timmothy dello studente di cellulare Ward? nome numero di Qual",
+        "q_id": 554
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "cognome. a registrarsi?Elenca secondo il studente nome il il il nome, è Chi e primo",
+        "q_id": 555
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "del e è registrarsi? centro a il Qual il primo primo, il studente cognome",
+        "q_id": 556
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "nome cognome. e il della nome, scuola?Elenca il è Chi primo secondo il diplomato il",
+        "q_id": 557
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "il primo, Qual diplomato il cognome è e della del primo il scuola? medio",
+        "q_id": 558
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "permanente indirizzo indirizzo quale diverso Il è suo attuale?Elenca nome. il dal suo",
+        "q_id": 559
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "attuale? diverso da il quello studente indirizzo primo Qual il è è nome dello cui permanente",
+        "q_id": 560
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "numero Quale di righe. indirizzo maggior contiene il tutte e studenti attualmente?Elenca l'ID le indirizzo",
+        "q_id": 561
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "di il 2 Qual numero riga riga studenti? 1 dell'indirizzo e con l'ID, la la maggior è",
+        "q_id": 562
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "sono trascrizioni? state media, In le stampate quando",
+        "q_id": 563
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "di media? Qual data è la trascrizione",
+        "q_id": 564
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "la rilasciata i e la viene prima trascrizione?Elenca dettagli. data Quando",
+        "q_id": 565
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "quali versione trascritta una prima data e la è Qual puoi di dettagli dirmi?",
+        "q_id": 566
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "rilasciate? vengono trascrizioni Quante",
+        "q_id": 567
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "sono trascrizioni Quante elencate?",
+        "q_id": 568
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Qual l'ultima della è data di rilascio trascrizione?",
+        "q_id": 569
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "Quando trascrizione? stata è l'ultima rilasciata",
+        "q_id": 570
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "corso al iscrizione corso. risultato volte in iscrizione diverse essere Quante al l'ID massimo anche un di trascrizioni?Mostra di al può",
+        "q_id": 571
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "di in di trascrizioni diverse volte e il è cui quel un in visualizzato corso è l'ID viene di corso? qual iscrizione massimo numero Qual",
+        "q_id": 572
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "di la trascrizione minimo della mostra data anche Mostra numero che risultati, il elenca l'ID.",
+        "q_id": 573
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "con il risultati? è l'ID trascrizione minimo la della numero Qual e data di",
+        "q_id": 574
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "maestri che sono gli in Trova di laurea. semestre il iscritti studenti cui sia si studenti gli",
+        "q_id": 575
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "è registrato che del l'ID sia maestri ha che di laurea? studenti semestre Qual",
+        "q_id": 576
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "studenti diversi attualmente? gli indirizzi vivono Quanti",
+        "q_id": 577
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "vivono che lì? che Quali i sono studenti indirizzi diversi hanno",
+        "q_id": 578
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "ordine i studenti degli invertito. dettagli in Elenca tutti lessicografico",
+        "q_id": 579
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "inverso? parlarmi ordine alfabetico studenti Quali degli puoi altri dettagli in",
+        "q_id": 580
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "la sezione h. Descrivi",
+        "q_id": 581
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "descrizione Qual sezione la è la per chiamata H?",
+        "q_id": 582
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "nel nome Trova numero o Haiti paese permanentemente degli il di vivono 09700166582. studenti cellulare il hanno che",
+        "q_id": 583
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "question": "primi sono degli numero nomi hanno o studenti di il che vivono Haiti ad i cellulare 09700166582? permanentemente Quali",
+        "q_id": 584
+    },
+    {
+        "db_id": "tvshow",
+        "question": "in Elenca di i animati ordine il cartoni tutti alfabetico. titolo",
+        "q_id": 585
+    },
+    {
+        "db_id": "tvshow",
+        "question": "alfabetico? i sono ordinati cartoni ordine dei in Quali titoli",
+        "q_id": 586
+    },
+    {
+        "db_id": "tvshow",
+        "question": "diretti i da cartoni Jones\". tutti Elenca animati \"Ben",
+        "q_id": 587
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Quali Jones? tutti nomi di Ben i cartoni da diretti i sono",
+        "q_id": 588
+    },
+    {
+        "db_id": "tvshow",
+        "question": "sono scritti Quanti cartoni da \"Joseph stati Kuhr\"?",
+        "q_id": 589
+    },
+    {
+        "db_id": "tvshow",
+        "question": "cartone di Qual è numero Kuhr? da Joseph il scritte",
+        "q_id": 590
+    },
+    {
+        "db_id": "tvshow",
+        "question": "loro dei i e con animati registi Elenca tutti ordinati i loro titoli cartoni la data aerea",
+        "q_id": 591
+    },
+    {
+        "db_id": "tvshow",
+        "question": "e sono i i il tutti che cartoni per registi Qual nome di aerea? è data ordinati",
+        "q_id": 592
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Elenca animati il o \"Brandon cartoni di tutti da Vietti\". diretti \"Ben titolo Jones\" i",
+        "q_id": 593
+    },
+    {
+        "db_id": "tvshow",
+        "question": "tutti diretti Jones Quali Vietti? o titoli di i Brandon i cartoni sono da Ben",
+        "q_id": 594
+    },
+    {
+        "db_id": "tvshow",
+        "question": "ha dei canali numero TV?Elenca che TV canali il la Quale ha. di paese paese maggior e parte il",
+        "q_id": 595
+    },
+    {
+        "db_id": "tvshow",
+        "question": "TV di paese il Qual maggior il numero hanno? e con è canali quanti",
+        "q_id": 596
+    },
+    {
+        "db_id": "tvshow",
+        "question": "contenuti Elenca il nella tabella nomi TV. diversi dei di di numero canali e serie",
+        "q_id": 597
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Quante diversi TV? nella sono tabella contenuti dei canali e serie elencati",
+        "q_id": 598
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Radio\"? TV Qual nome \"Sky il con contenuto il del è seriale canale",
+        "q_id": 599
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Radio? della Sky è Serie contenuto il Qual",
+        "q_id": 600
+    },
+    {
+        "db_id": "tvshow",
+        "question": "nome l'opzione del pacchetto TV Qual seriale con canale Radio\"? \"Sky è",
+        "q_id": 601
+    },
+    {
+        "db_id": "tvshow",
+        "question": "canali cui nomi delle Radio? serie i Quali di pacchetto TV opzioni le Sky sono dei sono",
+        "q_id": 602
+    },
+    {
+        "db_id": "tvshow",
+        "question": "usano Quanti che TV l'inglese canali linguistico?",
+        "q_id": 603
+    },
+    {
+        "db_id": "tvshow",
+        "question": "lingua inglese? canali usano Quanti TV la",
+        "q_id": 604
+    },
+    {
+        "db_id": "tvshow",
+        "question": "di canale TV. linguaggio di TV.Lingua canale e numero il utilizzato elenco di Elenca numero meno",
+        "q_id": 605
+    },
+    {
+        "db_id": "tvshow",
+        "question": "minimo quanti dal e TV sono usano? numero lo canali di le lingue utilizzate Quali canali",
+        "q_id": 606
+    },
+    {
+        "db_id": "tvshow",
+        "question": "numero il lingua Elenca TV canali e di ogni usandola.",
+        "q_id": 607
+    },
+    {
+        "db_id": "tvshow",
+        "question": "numero Per ogni di canali che lingua, TV utilizzano. lo elenca il",
+        "q_id": 608
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Rise serie il Blue il of del è TV della canale Beetle!\"?Elenca cartone nome TV. animato \"The il Qual che the canale mostra",
+        "q_id": 609
+    },
+    {
+        "db_id": "tvshow",
+        "question": "mostra della serie \"The of il del il che animato è nome Beetle\"? canale the Blue Rise TV Qual cartone",
+        "q_id": 610
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Radio\". tutti canale di serie Elenca il nome TV mostrati con \"Sky animati i cartoni il sul titolo della",
+        "q_id": 611
+    },
+    {
+        "db_id": "tvshow",
+        "question": "titolo il serie con il della trovano che TV si di i canale nome \"Sky tutti cartools sul Radio\"? Qual è",
+        "q_id": 612
+    },
+    {
+        "db_id": "tvshow",
+        "question": "di l'episodio ordinate tutte serie per valutazione. TV le Elenca",
+        "q_id": 613
+    },
+    {
+        "db_id": "tvshow",
+        "question": "ordinati sono Quali valutazioni? episodi gli tutti dalle",
+        "q_id": 614
+    },
+    {
+        "db_id": "tvshow",
+        "question": "di TV più e della le serie valutazione 3 valutazione. alta.Elenca prime serie Elenca TV l'episodio la",
+        "q_id": 615
+    },
+    {
+        "db_id": "tvshow",
+        "question": "apprezzati serie TV e più quali 3 valutazioni? episodi sono Quali nella tabella delle erano i quelle",
+        "q_id": 616
+    },
+    {
+        "db_id": "tvshow",
+        "question": "TV? quota e serie delle massima minima Qual la è",
+        "q_id": 617
+    },
+    {
+        "db_id": "tvshow",
+        "question": "massima la minima e per quota la serie è TV? Qual",
+        "q_id": 618
+    },
+    {
+        "db_id": "tvshow",
+        "question": "con è l'episodio data la Lifetime\"? A of della \"A TV aerea Love serie Qual",
+        "q_id": 619
+    },
+    {
+        "db_id": "tvshow",
+        "question": "trasmesso Love Quando of l'episodio stato \"A è A Lifetime\"?",
+        "q_id": 620
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual serie è settimanale di il A \"A of con grado Lifetime\"? l'episodio TV Love",
+        "q_id": 621
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Lifetime\"? è Qual \"A l'episodio rango settimanale of A Love il per",
+        "q_id": 622
+    },
+    {
+        "db_id": "tvshow",
+        "question": "serie canale della serie Love il canale con of TV. Qual della TV l'episodio Lifetime\"?Elenca del il \"A nome è A TV",
+        "q_id": 623
+    },
+    {
+        "db_id": "tvshow",
+        "question": "\"A nome of serie Lifetime\"? della l'episodio ha A che Love è il Qual",
+        "q_id": 624
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Series Elenca TV Radio\". della il mostrato All Channel serie \"Sky nome con su di l'episodio TV",
+        "q_id": 625
+    },
+    {
+        "db_id": "tvshow",
+        "question": "è serie Qual Radio\"? la per chiamata l'episodio TV \"Sky",
+        "q_id": 626
+    },
+    {
+        "db_id": "tvshow",
+        "question": "dei di da direttori cartoni diretti Trova numero il elencati. ciascuno",
+        "q_id": 627
+    },
+    {
+        "db_id": "tvshow",
+        "question": "cartoni creato hanno ogni regista? Quanti",
+        "q_id": 628
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Trova canale il più animato cartone e produzione in codice il onda recente. del di",
+        "q_id": 629
+    },
+    {
+        "db_id": "tvshow",
+        "question": "più è Qual di il del cartone recente? il e animato produzione codice canale",
+        "q_id": 630
+    },
+    {
+        "db_id": "tvshow",
+        "question": "TV pacchetto alta Trova nome e la ad TV il con del serie della canale del scelta definizione.",
+        "q_id": 631
+    },
+    {
+        "db_id": "tvshow",
+        "question": "serie TV del il TV le ad e opzioni della definizione? alta pacchetto sono il che Quali per canale supporta nome",
+        "q_id": 632
+    },
+    {
+        "db_id": "tvshow",
+        "question": "canali animato Todd stanno paesi Casey? da dei scritto giocando cartone Quali un TV",
+        "q_id": 633
+    },
+    {
+        "db_id": "tvshow",
+        "question": "i TV che da scritti stati animati sono che in Casey? hanno sono paesi Todd Quali cartoni",
+        "q_id": 634
+    },
+    {
+        "db_id": "tvshow",
+        "question": "scritto da non TV animato alcun canali Quali Casey? giocano Todd paesi dei cartone",
+        "q_id": 635
+    },
+    {
+        "db_id": "tvshow",
+        "question": "da i suonano sono i Quali che animati Casey? non cartoni Todd paesi scritti",
+        "q_id": 636
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Trova canale che televisivo cartoni del Chang? e il suona alcuni nome serie della paese il e diretti Ben da Michael Jones",
+        "q_id": 637
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Qual i Michael il paese della diretti e i Jones cartoni TV animati di diretti suonano da e tutti il Ben animati da cartoni canali serie che Chang? è nome",
+        "q_id": 638
+    },
+    {
+        "db_id": "tvshow",
+        "question": "dei non TV nazione canali Trova il l'inglese. e la pixel usano rapporto che",
+        "q_id": 639
+    },
+    {
+        "db_id": "tvshow",
+        "question": "il che il non rapporto paese canali usano tutti pixel origine i per di Qual e l'inglese? TV è",
+        "q_id": 640
+    },
+    {
+        "db_id": "tvshow",
+        "question": "in canali TV dai due Trova TV. più dei cui ID che paesi canali di hanno",
+        "q_id": 641
+    },
+    {
+        "db_id": "tvshow",
+        "question": "di TV? tutti canali Quali TV hanno canali i di ID gli 2 sono più che",
+        "q_id": 642
+    },
+    {
+        "db_id": "tvshow",
+        "question": "diretto l'ID Ben dei animato che non Jones. Trova alcun suonano canali da cartone TV",
+        "q_id": 643
+    },
+    {
+        "db_id": "tvshow",
+        "question": "canali cartoni da diretti Ben TV Quali dei hanno animati gli Jones? non sono che ID",
+        "q_id": 644
+    },
+    {
+        "db_id": "tvshow",
+        "question": "Ben cartone animato pacchetto TV ha canale che Trova l'opzione del da alcun non diretto Jones.",
+        "q_id": 645
+    },
+    {
+        "db_id": "tvshow",
+        "question": "canali i TV non cartoni opzioni tutti le diretti suonano pacchetto Ben sono di Jones? Quali che animati da di",
+        "q_id": 646
+    },
+    {
+        "db_id": "poker_player",
+        "question": "sono? Quanti giocatori poker ci di",
+        "q_id": 647
+    },
+    {
+        "db_id": "poker_player",
+        "question": "poker. giocatori di numero Conta di il",
+        "q_id": 648
+    },
+    {
+        "db_id": "poker_player",
+        "question": "in i ordine Elenca guadagni decrescente. giocatori dei di poker",
+        "q_id": 649
+    },
+    {
+        "db_id": "poker_player",
+        "question": "di poker, di i dei guadagni scendere ordinato per sono giocatori Quali valore?",
+        "q_id": 650
+    },
+    {
+        "db_id": "poker_player",
+        "question": "migliori di tabelle Elenca poker. dei finali le e finiture le giocatori realizzate",
+        "q_id": 651
+    },
+    {
+        "db_id": "poker_player",
+        "question": "i poker? giocatori realizzati per tutti finali Quali sono i di tavoli e finiture le migliori",
+        "q_id": 652
+    },
+    {
+        "db_id": "poker_player",
+        "question": "guadagno giocatori poker? di medio il è dei Qual",
+        "q_id": 653
+    },
+    {
+        "db_id": "poker_player",
+        "question": "in medi di poker. guadagni tutti Restituisce i giocatori i",
+        "q_id": 654
+    },
+    {
+        "db_id": "poker_player",
+        "question": "alti? più di rango guadagni giocatore Qual con poker di denaro i è il del",
+        "q_id": 655
+    },
+    {
+        "db_id": "poker_player",
+        "question": "grado di con Restituisce denaro il giocatore guadagni. maggiori del i",
+        "q_id": 656
+    },
+    {
+        "db_id": "poker_player",
+        "question": "finali realizzate inferiori con tabelle guadagni Qual a numero massimo giocatori i il di è tra di 200000? poker",
+        "q_id": 657
+    },
+    {
+        "db_id": "poker_player",
+        "question": "i 200000. su guadagni che finali massimi giocatori tavoli Restituisce poker hanno i di a realizzati inferiori tutti",
+        "q_id": 658
+    },
+    {
+        "db_id": "poker_player",
+        "question": "dei giocatori di i sono poker? Quali nomi",
+        "q_id": 659
+    },
+    {
+        "db_id": "poker_player",
+        "question": "di poker. i tutti i nomi Restituisce giocatori di",
+        "q_id": 660
+    },
+    {
+        "db_id": "poker_player",
+        "question": "sono dei i 300000? guadagni Quali cui nomi i giocatori sono superiori a poker di",
+        "q_id": 661
+    },
+    {
+        "db_id": "poker_player",
+        "question": "di 300000. i superiori guadagni dei poker hanno a giocatori nomi che Dai",
+        "q_id": 662
+    },
+    {
+        "db_id": "poker_player",
+        "question": "i nomi tabelle giocatori ordine realizzate finali dei poker di Elenca ordinati dalle crescente. in",
+        "q_id": 663
+    },
+    {
+        "db_id": "poker_player",
+        "question": "dal finali giocatori i ordinati numero che ascendenti dei tabelle hanno di di sono fatto? nomi poker, Quali",
+        "q_id": 664
+    },
+    {
+        "db_id": "poker_player",
+        "question": "la Qual del con di i poker data nascita giocatore bassi? guadagni di più è",
+        "q_id": 665
+    },
+    {
+        "db_id": "poker_player",
+        "question": "bassi. data nascita più Restituisce con poker guadagni giocatore la di i del di",
+        "q_id": 666
+    },
+    {
+        "db_id": "poker_player",
+        "question": "più rango è poker giocatore del di di denaro alto? il Qual",
+        "q_id": 667
+    },
+    {
+        "db_id": "poker_player",
+        "question": "poker denaro giocatore Restituisce di massima con la grado il del di altezza.",
+        "q_id": 668
+    },
+    {
+        "db_id": "poker_player",
+        "question": "di superiore Qual medio guadagno giocatori poker con 200? a è dei il altezza",
+        "q_id": 669
+    },
+    {
+        "db_id": "poker_player",
+        "question": "poker di di guadagni di che Dai medi sono 200. più alti giocatori",
+        "q_id": 670
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Quali i in nomi sono di di guadagni? decrescente dei ordine giocatori poker",
+        "q_id": 671
+    },
+    {
+        "db_id": "poker_player",
+        "question": "loro nomi ordinati con i i Restituisce di guadagni poker giocatori discendenti. dei",
+        "q_id": 672
+    },
+    {
+        "db_id": "poker_player",
+        "question": "le numero il corrispondente Quali sono di di nazionalità diverse nazione? persone ogni e delle persone",
+        "q_id": 673
+    },
+    {
+        "db_id": "poker_player",
+        "question": "nazionalità? ogni di persone Quante ci sono",
+        "q_id": 674
+    },
+    {
+        "db_id": "poker_player",
+        "question": "delle è la Qual persone? comune nazionalità più",
+        "q_id": 675
+    },
+    {
+        "db_id": "poker_player",
+        "question": "comune tutte più nazionalità le la Dai persone. in",
+        "q_id": 676
+    },
+    {
+        "db_id": "poker_player",
+        "question": "almeno le da condivise sono due nazionalità persone? Quali",
+        "q_id": 677
+    },
+    {
+        "db_id": "poker_player",
+        "question": "più o le ci Restituisce quali persone. sono nazionalità due le per",
+        "q_id": 678
+    },
+    {
+        "db_id": "poker_player",
+        "question": "in ascendente date di nomi delle di persone le i Elenca nascita e nome. ordine alfabetico",
+        "q_id": 679
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Quali con alfabetico? e in persone, date le sono delle di i loro i ordinate nomi nascita ordine nomi",
+        "q_id": 680
+    },
+    {
+        "db_id": "poker_player",
+        "question": "di nomi \"Russia\". è Mostra la persone non nazionalità cui",
+        "q_id": 681
+    },
+    {
+        "db_id": "poker_player",
+        "question": "Russia? i vengono dalla che sono Quali non persone nomi delle",
+        "q_id": 682
+    },
+    {
+        "db_id": "poker_player",
+        "question": "nomi non giocatori sono persone Elenca che poker. di i delle",
+        "q_id": 683
+    },
+    {
+        "db_id": "poker_player",
+        "question": "delle persone giocano Quali sono i non poker? nomi a che",
+        "q_id": 684
+    },
+    {
+        "db_id": "poker_player",
+        "question": "sono? nazionalità ci distinte Quante",
+        "q_id": 685
+    },
+    {
+        "db_id": "poker_player",
+        "question": "numero diverse Conta il di nazionalità.",
+        "q_id": 686
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Quanti ci sono? stati",
+        "q_id": 687
+    },
+    {
+        "db_id": "voter_1",
+        "question": "discendente. ordinati i dal i concorrente del concorrenti, numeri dei e Elenca nomi nome",
+        "q_id": 688
+    },
+    {
+        "db_id": "voter_1",
+        "question": "stati di tutti i Elenca gli e telefono gli numeri i voti. ID di voti,",
+        "q_id": 689
+    },
+    {
+        "db_id": "voter_1",
+        "question": "dei codici massimi e di i Quali sono valori area? minimi",
+        "q_id": 690
+    },
+    {
+        "db_id": "voter_1",
+        "question": "dallo stato Qual voti creata \"CA\"? dai è l'ultima data",
+        "q_id": 691
+    },
+    {
+        "db_id": "voter_1",
+        "question": "nomi sono partire\" sono \"Jessie i dei concorrenti non Quali nomi i cui a",
+        "q_id": 692
+    },
+    {
+        "db_id": "voter_1",
+        "question": "tempo i gli Quali di creare sono voti? e tutti distinti stati",
+        "q_id": 693
+    },
+    {
+        "db_id": "voter_1",
+        "question": "concorrenti almeno sono avuto dei i che dei i e numeri concorrenti due nomi hanno voti? Quali",
+        "q_id": 694
+    },
+    {
+        "db_id": "voter_1",
+        "question": "numero i votati, il del qual che ha il tutti concorrente nome del il Di ottenuto concorrenti sono e minimo che è stati voto? concorrente",
+        "q_id": 695
+    },
+    {
+        "db_id": "voter_1",
+        "question": "di dello Quali \"NY\" sono stato o voti \"CA\"? numero il",
+        "q_id": 696
+    },
+    {
+        "db_id": "voter_1",
+        "question": "stati concorrenti non votati? Quanti sono",
+        "q_id": 697
+    },
+    {
+        "db_id": "voter_1",
+        "question": "in cui maggior di è di elettori? votato codice il il ha area Qual numero",
+        "q_id": 698
+    },
+    {
+        "db_id": "voter_1",
+        "question": "numeri il sono erano stati chiamato concorrente Gehling\"? per di creazione, dei voti i telefono e date che le di Quali gli \"Tabatha",
+        "q_id": 699
+    },
+    {
+        "db_id": "voter_1",
+        "question": "Gehling\" codici il sia sia Clauss\". i per \"Tabatha concorrente area elettori in Elenca \"Kelly di concorrente votato il hanno cui per gli",
+        "q_id": 700
+    },
+    {
+        "db_id": "voter_1",
+        "question": "contengono concorrenti cui nomi nomi Restituisce dei i sottostringa i la \"Al\".",
+        "q_id": 701
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali paesi i i tutti nomi di il sono sono 1950? dopo che indipendenti diventati",
+        "q_id": 702
+    },
+    {
+        "db_id": "world_1",
+        "question": "fondate che delle 1950. i il nazioni dopo nomi Dai furono",
+        "q_id": 703
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quanti di come paesi forma governo? una repubblica hanno",
+        "q_id": 704
+    },
+    {
+        "db_id": "world_1",
+        "question": "sono repubbliche? paesi Quanti governi che hanno",
+        "q_id": 705
+    },
+    {
+        "db_id": "world_1",
+        "question": "è Caraibi? la Qual regione paesi dei superficie totale nella dei",
+        "q_id": 706
+    },
+    {
+        "db_id": "world_1",
+        "question": "nei paesi si superficie i Quanta Caraibi? coprono",
+        "q_id": 707
+    },
+    {
+        "db_id": "world_1",
+        "question": "Anguilla? In quale continente trova si",
+        "q_id": 708
+    },
+    {
+        "db_id": "world_1",
+        "question": "cui Qual il Anguilla? a del è appartiene nome continente",
+        "q_id": 709
+    },
+    {
+        "db_id": "world_1",
+        "question": "di si la Kabul? In quale città trova regione",
+        "q_id": 710
+    },
+    {
+        "db_id": "world_1",
+        "question": "In si Kabul? trova regione che",
+        "q_id": 711
+    },
+    {
+        "db_id": "world_1",
+        "question": "popolare lingua Aruba? in Quale più è la",
+        "q_id": 712
+    },
+    {
+        "db_id": "world_1",
+        "question": "parla Aruba? si prevalentemente in lingua Quale",
+        "q_id": 713
+    },
+    {
+        "db_id": "world_1",
+        "question": "e le vita aspettative in Quali sono Brasile? di popolazione",
+        "q_id": 714
+    },
+    {
+        "db_id": "world_1",
+        "question": "aspettative la di del Dammi popolazione le e Brasile vita.",
+        "q_id": 715
+    },
+    {
+        "db_id": "world_1",
+        "question": "la popolazione Quali regione e dell'Angola? la sono",
+        "q_id": 716
+    },
+    {
+        "db_id": "world_1",
+        "question": "l'Angola la A qual e popolazione? regione è quale appartiene sua",
+        "q_id": 717
+    },
+    {
+        "db_id": "world_1",
+        "question": "media l'aspettativa prevista Qual è dell'Africa paesi centrale? per i regione nella vita di",
+        "q_id": 718
+    },
+    {
+        "db_id": "world_1",
+        "question": "dura persone in centrale? delle vita media Quanto l'aspettativa di Africa",
+        "q_id": 719
+    },
+    {
+        "db_id": "world_1",
+        "question": "in del nome che più è Asia? ha il paese la Qual di breve vita aspettativa",
+        "q_id": 720
+    },
+    {
+        "db_id": "world_1",
+        "question": "il del in bassa Asia la con paese più nome Dai aspettativa vita. di",
+        "q_id": 721
+    },
+    {
+        "db_id": "world_1",
+        "question": "PIL il la e è Qual totale popolazione Asia? massimo in",
+        "q_id": 722
+    },
+    {
+        "db_id": "world_1",
+        "question": "e Asia qual è loro? più il tra vivono grande persone Quante in PIL",
+        "q_id": 723
+    },
+    {
+        "db_id": "world_1",
+        "question": "africani nei vita che paesi media l'aspettativa è Qual sono repubbliche? di",
+        "q_id": 724
+    },
+    {
+        "db_id": "world_1",
+        "question": "Africa di media vita paesi repubbliche? l'aspettativa quali le i Dare per in sono",
+        "q_id": 725
+    },
+    {
+        "db_id": "world_1",
+        "question": "totale superficie la Qual Europa? Asia e continenti è dei",
+        "q_id": 726
+    },
+    {
+        "db_id": "world_1",
+        "question": "Asia in la Europa. totale paesi da Dare superficie coperta in o",
+        "q_id": 727
+    },
+    {
+        "db_id": "world_1",
+        "question": "persone Gelderland? Quante distretto di nel vivono",
+        "q_id": 728
+    },
+    {
+        "db_id": "world_1",
+        "question": "Gelderland? del popolazione è di Qual la distretto totale",
+        "q_id": 729
+    },
+    {
+        "db_id": "world_1",
+        "question": "medio in PIL la e totale Qual il tutte il il Uniti? cui le popolazione è nazioni degli territorio è governo Stati",
+        "q_id": 730
+    },
+    {
+        "db_id": "world_1",
+        "question": "considerati sono che di nazioni Dare totale territori e statunitensi. il medio PIL la popolazione",
+        "q_id": 731
+    },
+    {
+        "db_id": "world_1",
+        "question": "lingue parlate mondo? nel sono uniche Quante",
+        "q_id": 732
+    },
+    {
+        "db_id": "world_1",
+        "question": "mondo? il usate lingue Qual in è il distinte tutto di numero",
+        "q_id": 733
+    },
+    {
+        "db_id": "world_1",
+        "question": "sono Quanti governi tipi in di Africa?",
+        "q_id": 734
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quante diverse di forme governi in sono ci Africa?",
+        "q_id": 735
+    },
+    {
+        "db_id": "world_1",
+        "question": "totale Qual il lingue è di in utilizzate Aruba? numero",
+        "q_id": 736
+    },
+    {
+        "db_id": "world_1",
+        "question": "lingue Aruba? Quante in parla si",
+        "q_id": 737
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quante ha ufficiali lingue l'Afghanistan?",
+        "q_id": 738
+    },
+    {
+        "db_id": "world_1",
+        "question": "parla lingue si Afghanistan? in Quante ufficiali",
+        "q_id": 739
+    },
+    {
+        "db_id": "world_1",
+        "question": "il Qual che numero maggior lingue? parla di paese nome il del è",
+        "q_id": 740
+    },
+    {
+        "db_id": "world_1",
+        "question": "la usa che grande nome il lingue. nazione quantità Dai più di della",
+        "q_id": 741
+    },
+    {
+        "db_id": "world_1",
+        "question": "le ha continente lingue Quale diverse? più",
+        "q_id": 742
+    },
+    {
+        "db_id": "world_1",
+        "question": "più lingue? Quale continente parla",
+        "q_id": 743
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quanti parlano paesi sia che inglese olandese?",
+        "q_id": 744
+    },
+    {
+        "db_id": "world_1",
+        "question": "il Qual di che e numero l'inglese è nazioni usano l'olandese?",
+        "q_id": 745
+    },
+    {
+        "db_id": "world_1",
+        "question": "francese? sono che i parlano nomi sia Quali delle nazioni inglese",
+        "q_id": 746
+    },
+    {
+        "db_id": "world_1",
+        "question": "parlano che francese. nomi Dai i sia che inglese delle nazioni",
+        "q_id": 747
+    },
+    {
+        "db_id": "world_1",
+        "question": "ufficiali? i e nomi sono francesi nazioni inglesi sono cui Quali delle lingue in",
+        "q_id": 748
+    },
+    {
+        "db_id": "world_1",
+        "question": "inglese nomi ufficiali. e paesi come Dai i con lingue dei francese",
+        "q_id": 749
+    },
+    {
+        "db_id": "world_1",
+        "question": "cinese? il numero continenti cui è di si Qual parla distinti in",
+        "q_id": 750
+    },
+    {
+        "db_id": "world_1",
+        "question": "cinese? Quanti continenti parlano",
+        "q_id": 751
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali che o sono l'olandese? regioni usano l'inglese le",
+        "q_id": 752
+    },
+    {
+        "db_id": "world_1",
+        "question": "regioni parlano Quali olandese inglese? o",
+        "q_id": 753
+    },
+    {
+        "db_id": "world_1",
+        "question": "in la lingua cui Quali è l'olandese ufficiale? o l'inglese sono paesi i",
+        "q_id": 754
+    },
+    {
+        "db_id": "world_1",
+        "question": "come ufficiale? hanno lingua Quali olandese paesi inglese o",
+        "q_id": 755
+    },
+    {
+        "db_id": "world_1",
+        "question": "lingua popolare nel è Quale più continente la asiatico?",
+        "q_id": 756
+    },
+    {
+        "db_id": "world_1",
+        "question": "lingua che viene utilizzata la è nazioni asiatiche? dal di Qual maggior numero",
+        "q_id": 757
+    },
+    {
+        "db_id": "world_1",
+        "question": "paese nei governi lingue Quali della da solo parlate un Repubblica? sono",
+        "q_id": 758
+    },
+    {
+        "db_id": "world_1",
+        "question": "Repubblica? paese della con solo governo utilizzate un da singolo Quali vengono lingue un",
+        "q_id": 759
+    },
+    {
+        "db_id": "world_1",
+        "question": "usa città grande la popolazione più con l'inglese. che la Trova",
+        "q_id": 760
+    },
+    {
+        "db_id": "world_1",
+        "question": "la popolare città più inglese? Qual è parla che",
+        "q_id": 761
+    },
+    {
+        "db_id": "world_1",
+        "question": "lunghezza e nome, asiatico della grande del vita la attesa con popolazione la il Trova più paese area? la",
+        "q_id": 762
+    },
+    {
+        "db_id": "world_1",
+        "question": "terra? l'aspettativa popolazione nome, più asiatico di del il paese Quali per la vita grande sono e",
+        "q_id": 763
+    },
+    {
+        "db_id": "world_1",
+        "question": "l'inglese di la in non nei ufficiale? Qual paesi è cui media l'aspettativa lingua è vita",
+        "q_id": 764
+    },
+    {
+        "db_id": "world_1",
+        "question": "cattiva non ufficiale. vita paesi l'inglese Dai di la lingua la dei aspettativa in cui è",
+        "q_id": 765
+    },
+    {
+        "db_id": "world_1",
+        "question": "che usano nazioni totale nelle non Qual l'inglese? numero che di è vivono il persone",
+        "q_id": 766
+    },
+    {
+        "db_id": "world_1",
+        "question": "non vivono in inglese? paesi che Quante parlano persone",
+        "q_id": 767
+    },
+    {
+        "db_id": "world_1",
+        "question": "la Qual ufficiale è Beatrix? il cui lingua parlata nel di è capo stato paese",
+        "q_id": 768
+    },
+    {
+        "db_id": "world_1",
+        "question": "di capo del la nome Qual usata paese cui è Beatrix. nel ufficiale il stato è lingua",
+        "q_id": 769
+    },
+    {
+        "db_id": "world_1",
+        "question": "nei del il di che totale è parlate Qual fondono ufficiali paesi lingue si 1930? numero prima uniche",
+        "q_id": 770
+    },
+    {
+        "db_id": "world_1",
+        "question": "qual Per è lingue ufficiali totale prima del paesi i di 1930, numero il distinte? fondati",
+        "q_id": 771
+    },
+    {
+        "db_id": "world_1",
+        "question": "in di qualsiasi che Quali hanno Europa? sono una superficie maggiore i paese paesi",
+        "q_id": 772
+    },
+    {
+        "db_id": "world_1",
+        "question": "maggiore di qualsiasi Europa? di hanno in Quali un'area paese quella paesi",
+        "q_id": 773
+    },
+    {
+        "db_id": "world_1",
+        "question": "qualsiasi paesi popolazione Quali sono i africani meno paese Asia? che di hanno in una",
+        "q_id": 774
+    },
+    {
+        "db_id": "world_1",
+        "question": "hanno qualsiasi Quali in di africani popolazione una piccola paese di paesi quella Asia? più",
+        "q_id": 775
+    },
+    {
+        "db_id": "world_1",
+        "question": "di più hanno asiatici una Africa? qualsiasi popolazione paesi paese Quali grande in",
+        "q_id": 776
+    },
+    {
+        "db_id": "world_1",
+        "question": "popolazione più asiatici i hanno Quali qualsiasi una paese in paesi di Africa? di che sono grande quella",
+        "q_id": 777
+    },
+    {
+        "db_id": "world_1",
+        "question": "nazionali Quali inglese? parlano codici non i sono che per paesi i",
+        "q_id": 778
+    },
+    {
+        "db_id": "world_1",
+        "question": "paesi non codici Restituisce i che campagna di inglese. per i parlano",
+        "q_id": 779
+    },
+    {
+        "db_id": "world_1",
+        "question": "sono nazionali in persone cui dall'inglese? usano lingue codici diverse dei i paesi Quali le",
+        "q_id": 780
+    },
+    {
+        "db_id": "world_1",
+        "question": "paese i le inglesi. non parlano lingue sono cui del codici i Dai persone paesi per in che",
+        "q_id": 781
+    },
+    {
+        "db_id": "world_1",
+        "question": "sono repubbliche? dei forme governative le inglese non non e codici parlano sono paesi cui che i Quali",
+        "q_id": 782
+    },
+    {
+        "db_id": "world_1",
+        "question": "non non i Restituisci parlano paesi repubbliche per hanno e i codici dei governi. inglese che",
+        "q_id": 783
+    },
+    {
+        "db_id": "world_1",
+        "question": "non è sono la città ufficiale? lingua paesi in Quali l'inglese nei cui europei",
+        "q_id": 784
+    },
+    {
+        "db_id": "world_1",
+        "question": "i nomi ufficiale? città sono Quali Europa per l'inglese non è delle la in lingua quali le",
+        "q_id": 785
+    },
+    {
+        "db_id": "world_1",
+        "question": "città cui uniche è nei Quali ufficiale? paesi lingua la sono in asiatici",
+        "q_id": 786
+    },
+    {
+        "db_id": "world_1",
+        "question": "lingua e il cinese nomi ufficiale. i che in la è Asia per Restituisci città diversi quali sono delle le",
+        "q_id": 787
+    },
+    {
+        "db_id": "world_1",
+        "question": "di la del la nome, paese indipendenza il l'anno con e più piccola? è Qual popolazione superficie",
+        "q_id": 788
+    },
+    {
+        "db_id": "world_1",
+        "question": "di il e più paese bassa. del la l'anno nome, la superficie popolazione che ha Dai indipendenza",
+        "q_id": 789
+    },
+    {
+        "db_id": "world_1",
+        "question": "leader grande? Quali il con più paese del la il nome popolazione, l'area e sono",
+        "q_id": 790
+    },
+    {
+        "db_id": "world_1",
+        "question": "grande di e il il più nome, la paese Dai il stato ha capo popolazione area. la per che",
+        "q_id": 791
+    },
+    {
+        "db_id": "world_1",
+        "question": "il paese il 3 di lingue. che almeno e nome lingue Restituisce numero del parlate paese per parla ogni",
+        "q_id": 792
+    },
+    {
+        "db_id": "world_1",
+        "question": "lingue più 2 i e parlano? sono dei che parlano nomi Quali paesi di lingue quante",
+        "q_id": 793
+    },
+    {
+        "db_id": "world_1",
+        "question": "città? è media il la popolazione maggiore in popolazione ogni distretto città delle numero della Trova di cui",
+        "q_id": 794
+    },
+    {
+        "db_id": "world_1",
+        "question": "le una Quante città popolazione di distretto in della ogni in media città? popolazione hanno tutte al sopra",
+        "q_id": 795
+    },
+    {
+        "db_id": "world_1",
+        "question": "cui vita 72. totale ogni più lunga aspettativa del il di è per popolazione governo del modulo di la la media Trova del e governo forma nome",
+        "q_id": 796
+    },
+    {
+        "db_id": "world_1",
+        "question": "governative le di popolazione superiore e a governo sono che le vita Quali 72? qual un'aspettativa di forme media ciascuno è per forme diverse del totale la hanno",
+        "q_id": 797
+    },
+    {
+        "db_id": "world_1",
+        "question": "media di la Trova vita vita media continente totale a inferiore per popolazione di è l'aspettativa e cui l'aspettativa in ogni 72?",
+        "q_id": 798
+    },
+    {
+        "db_id": "world_1",
+        "question": "hanno e la i di un'aspettativa vita popolazione media Quali diversi per inferiore sono l'aspettativa totale corrispondente media a che ciascuno, di i continenti vita e a continenti 72?",
+        "q_id": 799
+    },
+    {
+        "db_id": "world_1",
+        "question": "le le aree più aree paesi sono 5 e con dei prime i grandi? nomi Quali",
+        "q_id": 800
+    },
+    {
+        "db_id": "world_1",
+        "question": "dei le più i 5 superficiali aree e paesi nomi Restituisci grandi.",
+        "q_id": 801
+    },
+    {
+        "db_id": "world_1",
+        "question": "paesi più i con prime le Quali nomi sono dei 3 popolazioni grandi?",
+        "q_id": 802
+    },
+    {
+        "db_id": "world_1",
+        "question": "dei più 3 popolati. Restituisci i paesi nomi",
+        "q_id": 803
+    },
+    {
+        "db_id": "world_1",
+        "question": "con i 3 nomi più sono nazioni delle basse? le Quali popolazioni",
+        "q_id": 804
+    },
+    {
+        "db_id": "world_1",
+        "question": "con nomi minor numero persone. Restituisce dei i di paesi il 3",
+        "q_id": 805
+    },
+    {
+        "db_id": "world_1",
+        "question": "Asia? sono in Quanti paesi",
+        "q_id": 806
+    },
+    {
+        "db_id": "world_1",
+        "question": "paesi di Asia. in il Conta numero",
+        "q_id": 807
+    },
+    {
+        "db_id": "world_1",
+        "question": "Quali dei nomi di trovano i popolazione europeo 80000? una paesi che continente sono e si hanno nel",
+        "q_id": 808
+    },
+    {
+        "db_id": "world_1",
+        "question": "nomi e a Dai 80000. hanno paesi dei pari in Europa popolazione i una",
+        "q_id": 809
+    },
+    {
+        "db_id": "world_1",
+        "question": "area 3000? paesi continente America è di media Qual popolazione del è Nord la e dei totale la grande più cui nel l'area",
+        "q_id": 810
+    },
+    {
+        "db_id": "world_1",
+        "question": "America Nord una corrispondente e ai superiore hanno del superficie 3000. a superficie totale media paesi che la popolazione la Fornire",
+        "q_id": 811
+    },
+    {
+        "db_id": "world_1",
+        "question": "la sono Quali il cui popolazione e 160000 900000? le tra città il è",
+        "q_id": 812
+    },
+    {
+        "db_id": "world_1",
+        "question": "nomi città il popolazione 160000 delle e Restituisce i tra che 900000. il una hanno",
+        "q_id": 813
+    },
+    {
+        "db_id": "world_1",
+        "question": "è numero dal lingua di paesi? maggior parlata Quale",
+        "q_id": 814
+    },
+    {
+        "db_id": "world_1",
+        "question": "parte parlata la nella Dai paesi. dei lingua maggior",
+        "q_id": 815
+    },
+    {
+        "db_id": "world_1",
+        "question": "di ogni parlata la paese? dalla percentuale persone è Qual lingua più grande in",
+        "q_id": 816
+    },
+    {
+        "db_id": "world_1",
+        "question": "i le persone nazionali percentuale più parlate quali lingue dei per codici Quali di paesi diversi grande ciascuno? sono dalla e sono",
+        "q_id": 817
+    },
+    {
+        "db_id": "world_1",
+        "question": "il numero spagnolo di paesi percentuale Qual è di è lo grande dalla persone? parlato più in cui totale",
+        "q_id": 818
+    },
+    {
+        "db_id": "world_1",
+        "question": "il quali la numero parlata. Conta lingua di prevalentemente spagnolo lo per i paesi è",
+        "q_id": 819
+    },
+    {
+        "db_id": "world_1",
+        "question": "dei dalla è di lo più percentuale grande in sono i spagnolo persone? Quali codici paesi parlato cui",
+        "q_id": 820
+    },
+    {
+        "db_id": "world_1",
+        "question": "i paesi i è la parlata. quali lo Restituisce lingua codici prevalentemente spagnolo dei per",
+        "q_id": 821
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Quanti ci conduttori sono?",
+        "q_id": 822
+    },
+    {
+        "db_id": "orchestra",
+        "question": "il Conta di conduttori. numero",
+        "q_id": 823
+    },
+    {
+        "db_id": "orchestra",
+        "question": "nomi dei di ordine i conduttori crescente. Elenca età in",
+        "q_id": 824
+    },
+    {
+        "db_id": "orchestra",
+        "question": "età? dei ordinati conduttori, i Quali nomi sono per",
+        "q_id": 825
+    },
+    {
+        "db_id": "orchestra",
+        "question": "\"USA\"? nazionalità cui le Quali sono dei i sono non conduttori nomi",
+        "q_id": 826
+    },
+    {
+        "db_id": "orchestra",
+        "question": "nazionalità che conduttori non nomi dei \"USA\". i hanno Restituisci la",
+        "q_id": 827
+    },
+    {
+        "db_id": "orchestra",
+        "question": "le di case anni fondate? in delle cui orchestre state in sono Quali discografiche sono decrescente ordine",
+        "q_id": 828
+    },
+    {
+        "db_id": "orchestra",
+        "question": "anni le cui furono delle fondate. Restituisce scendendo orchestre, negli case discografiche ordinate in",
+        "q_id": 829
+    },
+    {
+        "db_id": "orchestra",
+        "question": "la spettacoli? frequenza media Qual degli è",
+        "q_id": 830
+    },
+    {
+        "db_id": "orchestra",
+        "question": "la tutti gli in media spettacoli. frequenza Restituisce",
+        "q_id": 831
+    },
+    {
+        "db_id": "orchestra",
+        "question": "sono non in minima di il e diretta massima è quota spettacoli la cui tipo diretta\". \"in Quali",
+        "q_id": 832
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Restituisce il tipo che massime spettacoli e diretta\". le \"in non hanno minime azioni per",
+        "q_id": 833
+    },
+    {
+        "db_id": "orchestra",
+        "question": "hanno conduttori? Quante diverse nazionalità i",
+        "q_id": 834
+    },
+    {
+        "db_id": "orchestra",
+        "question": "numero nazionalità il conduttori. diverse Contare di dei",
+        "q_id": 835
+    },
+    {
+        "db_id": "orchestra",
+        "question": "lavoro. i anni di ordine Elenca conduttori di in dei decrescente nomi",
+        "q_id": 836
+    },
+    {
+        "db_id": "orchestra",
+        "question": "il dei di nomi i Quali ordinati lavorato? anni numero conduttori, per scendendo che sono hanno",
+        "q_id": 837
+    },
+    {
+        "db_id": "orchestra",
+        "question": "la nome Elenca direttore maggior anni lavoro. degli del parte di con il",
+        "q_id": 838
+    },
+    {
+        "db_id": "orchestra",
+        "question": "che direttore nome il Qual il lavorato è ha del numero anni? maggior di",
+        "q_id": 839
+    },
+    {
+        "db_id": "orchestra",
+        "question": "condotto. che i orchestre delle nomi conduttori Mostra dei hanno e",
+        "q_id": 840
+    },
+    {
+        "db_id": "orchestra",
+        "question": "le sono corrispondenti orchestre i che hanno condotto? e nomi Quali conduttori dei",
+        "q_id": 841
+    },
+    {
+        "db_id": "orchestra",
+        "question": "i conduttori una condotto nomi più dei orchestre. hanno che Mostra di",
+        "q_id": 842
+    },
+    {
+        "db_id": "orchestra",
+        "question": "hanno di un'orchestra? sono in nomi che Quali condotto conduttori più dei i",
+        "q_id": 843
+    },
+    {
+        "db_id": "orchestra",
+        "question": "maggior numero conduttore che del Mostra il il condotto di ha nome orchestre.",
+        "q_id": 844
+    },
+    {
+        "db_id": "orchestra",
+        "question": "del il ha che orchestre? condotto è Qual direttore nome più",
+        "q_id": 845
+    },
+    {
+        "db_id": "orchestra",
+        "question": "orchestre il prega di che ha nome conduttore il condotto Si dopo fondate del 2008. mostrare",
+        "q_id": 846
+    },
+    {
+        "db_id": "orchestra",
+        "question": "Quali nomi fondate che orchestre dopo condotto 2008? hanno conduttori dei sono i l'anno",
+        "q_id": 847
+    },
+    {
+        "db_id": "orchestra",
+        "question": "di di il le corrispondente prega compagnie discografiche mostrare diverse Si numero e orchestre.",
+        "q_id": 848
+    },
+    {
+        "db_id": "orchestra",
+        "question": "discografica? Quante orchestre ogni gestisce casa",
+        "q_id": 849
+    },
+    {
+        "db_id": "orchestra",
+        "question": "in delle mostrare di conteggio orchestre prega Si di ordine di record formati ascendente. i",
+        "q_id": 850
+    },
+    {
+        "db_id": "orchestra",
+        "question": "ordinati la formati Quali frequenza? di di orchestre, sono per loro principali i record",
+        "q_id": 851
+    },
+    {
+        "db_id": "orchestra",
+        "question": "maggior numero orchestre. dal condivisa casa Elencare la di discografica",
+        "q_id": 852
+    },
+    {
+        "db_id": "orchestra",
+        "question": "orchestre? casa dal utilizzata numero Qual di discografica maggior la è",
+        "q_id": 853
+    },
+    {
+        "db_id": "orchestra",
+        "question": "che delle hanno Elenca i nomi prestazioni. non orchestre",
+        "q_id": 854
+    },
+    {
+        "db_id": "orchestra",
+        "question": "che Quali sono le hanno non esibizioni? orchestre",
+        "q_id": 855
+    },
+    {
+        "db_id": "orchestra",
+        "question": "fondate Mostra 2003 prima e da Orchestre dopo il discografiche 2003. condivise case del le",
+        "q_id": 856
+    },
+    {
+        "db_id": "orchestra",
+        "question": "le case discografiche dopo fondate quelle utilizzate entrambe e vengono sono Quali prima orchestre 2003? le del il fondate 2003 che da",
+        "q_id": 857
+    },
+    {
+        "db_id": "orchestra",
+        "question": "formato numero orchestre di Trova cui o è \"DVD\". il \"CD\" record il",
+        "q_id": 858
+    },
+    {
+        "db_id": "orchestra",
+        "question": "di CD formato numero il orchestre o che DVD record. come Contare hanno",
+        "q_id": 859
+    },
+    {
+        "db_id": "orchestra",
+        "question": "fondate che anni vengono dato hanno più orchestre gli di Mostra cui performance. in una",
+        "q_id": 860
+    },
+    {
+        "db_id": "orchestra",
+        "question": "di avuto orchestre le performance? anni singola più Quali fondazione per una hanno gli che di sono",
+        "q_id": 861
+    },
+    {
+        "db_id": "network_1",
+        "question": "liceali sono? ci Quanti",
+        "q_id": 862
+    },
+    {
+        "db_id": "network_1",
+        "question": "licei. di numero Conta il",
+        "q_id": 863
+    },
+    {
+        "db_id": "network_1",
+        "question": "nomi i voti e Mostra liceo. i di ogni",
+        "q_id": 864
+    },
+    {
+        "db_id": "network_1",
+        "question": "voti nomi Quali sono per liceo? i ogni i e",
+        "q_id": 865
+    },
+    {
+        "db_id": "network_1",
+        "question": "tutti i dei licei. Mostra gradi",
+        "q_id": 866
+    },
+    {
+        "db_id": "network_1",
+        "question": "liceale? il è ogni di grado Qual",
+        "q_id": 867
+    },
+    {
+        "db_id": "network_1",
+        "question": "che grado è Kyle? In",
+        "q_id": 868
+    },
+    {
+        "db_id": "network_1",
+        "question": "Kyle. per voto Restituisce di liceo il il nome",
+        "q_id": 869
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mostra nomi i licei di tutti i 10. grado di",
+        "q_id": 870
+    },
+    {
+        "db_id": "network_1",
+        "question": "i tutti di sono grado nomi 10? licei i Quali di",
+        "q_id": 871
+    },
+    {
+        "db_id": "network_1",
+        "question": "liceo nome Mostra di l'ID Kyle. del",
+        "q_id": 872
+    },
+    {
+        "db_id": "network_1",
+        "question": "l'ID Cos'è di Kyle?",
+        "q_id": 873
+    },
+    {
+        "db_id": "network_1",
+        "question": "grado sono o Quanti 10? liceali 9 in ci",
+        "q_id": 874
+    },
+    {
+        "db_id": "network_1",
+        "question": "numero o Contare 9 10. di il nei gradi liceali",
+        "q_id": 875
+    },
+    {
+        "db_id": "network_1",
+        "question": "il per ogni Mostra numero liceali grado. di",
+        "q_id": 876
+    },
+    {
+        "db_id": "network_1",
+        "question": "licei Quanti in ogni grado? ci sono",
+        "q_id": 877
+    },
+    {
+        "db_id": "network_1",
+        "question": "liceali? più voto ha Quale",
+        "q_id": 878
+    },
+    {
+        "db_id": "network_1",
+        "question": "ha voto il liceali. maggior che numero Restituisce di il",
+        "q_id": 879
+    },
+    {
+        "db_id": "network_1",
+        "question": "almeno 4 Mostrami tutti studenti. hanno voti i che",
+        "q_id": 880
+    },
+    {
+        "db_id": "network_1",
+        "question": "4 hanno voti o Quali licei? più",
+        "q_id": 881
+    },
+    {
+        "db_id": "network_1",
+        "question": "ciascuno. e gli a studenti ID di corrispondenti numero amici il Mostra",
+        "q_id": 882
+    },
+    {
+        "db_id": "network_1",
+        "question": "studente? ogni Quanti ha amici",
+        "q_id": 883
+    },
+    {
+        "db_id": "network_1",
+        "question": "e studenti loro scuole Mostra nomi amici. corrispondente superiori degli numero i di delle il",
+        "q_id": 884
+    },
+    {
+        "db_id": "network_1",
+        "question": "e quanti hanno dei i sono licei amici Quali nomi ciascuno?",
+        "q_id": 885
+    },
+    {
+        "db_id": "network_1",
+        "question": "maggior ha amici? che liceo di nome il è il numero Qual del",
+        "q_id": 886
+    },
+    {
+        "db_id": "network_1",
+        "question": "con scuole amici. parte la dello studente nome il Restituisci superiori degli maggior delle",
+        "q_id": 887
+    },
+    {
+        "db_id": "network_1",
+        "question": "nomi Mostra 3 dei hanno amici. i che licei almeno",
+        "q_id": 888
+    },
+    {
+        "db_id": "network_1",
+        "question": "i che hanno o più nomi liceali sono amici? dei 3 Quali",
+        "q_id": 889
+    },
+    {
+        "db_id": "network_1",
+        "question": "liceo Mostra di gli nomi tutti amici Kyle. i del",
+        "q_id": 890
+    },
+    {
+        "db_id": "network_1",
+        "question": "del Kyle. dello liceo i Restituisce amici studente degli nomi",
+        "q_id": 891
+    },
+    {
+        "db_id": "network_1",
+        "question": "Kyle? studente amici ha del liceo Quanti lo",
+        "q_id": 892
+    },
+    {
+        "db_id": "network_1",
+        "question": "Conta amici Kyle numero ha. che il di",
+        "q_id": 893
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mostra gli hanno studenti che amici. ID tutti non di",
+        "q_id": 894
+    },
+    {
+        "db_id": "network_1",
+        "question": "hanno superiori amici? scuole Quali non ID sono delle degli gli che studenti",
+        "q_id": 895
+    },
+    {
+        "db_id": "network_1",
+        "question": "non superiori che scuole tutti gli studenti di delle nomi amici. hanno Mostra",
+        "q_id": 896
+    },
+    {
+        "db_id": "network_1",
+        "question": "sono hanno amici? i Quali non nomi studenti che degli",
+        "q_id": 897
+    },
+    {
+        "db_id": "network_1",
+        "question": "anche che licei altro. da e sono Mostra apprezzati hanno qualcun gli dei ID amici",
+        "q_id": 898
+    },
+    {
+        "db_id": "network_1",
+        "question": "apprezzati? Quali ID entrambi amici gli degli studenti hanno sono e che",
+        "q_id": 899
+    },
+    {
+        "db_id": "network_1",
+        "question": "che nome degli il e per hanno tutti amici di gli altro. anche qualcun Mostra studenti",
+        "q_id": 900
+    },
+    {
+        "db_id": "network_1",
+        "question": "entrambi che sono nomi e che Quali hanno dei amici liceali sono i apprezzati?",
+        "q_id": 901
+    },
+    {
+        "db_id": "network_1",
+        "question": "di Conta il ID studente. ogni Mi per numero piace",
+        "q_id": 902
+    },
+    {
+        "db_id": "network_1",
+        "question": "ID corrispondono Quanti mi studente? a piace ciascun",
+        "q_id": 903
+    },
+    {
+        "db_id": "network_1",
+        "question": "piace per Mi nomi un Mostra dei Mi e che i numero liceali di ciascuno. piace hanno",
+        "q_id": 904
+    },
+    {
+        "db_id": "network_1",
+        "question": "hanno ognuno nomi mi e i di sono ciascuno? Quali dei piace che piacciono quanti liceali",
+        "q_id": 905
+    },
+    {
+        "db_id": "network_1",
+        "question": "che il Mi di del ha numero liceo è nome il Qual maggior piace?",
+        "q_id": 906
+    },
+    {
+        "db_id": "network_1",
+        "question": "più Dai piace. nome il Mi studente dello con",
+        "q_id": 907
+    },
+    {
+        "db_id": "network_1",
+        "question": "Mostra i piace. che hanno 2 almeno Mi nomi degli studenti",
+        "q_id": 908
+    },
+    {
+        "db_id": "network_1",
+        "question": "piace? più i Quali studenti nomi hanno degli sono o 2 Mi che",
+        "q_id": 909
+    },
+    {
+        "db_id": "network_1",
+        "question": "un i 5 hanno a degli studenti voto Mostra superiore almeno e nomi amici. 2 che hanno",
+        "q_id": 910
+    },
+    {
+        "db_id": "network_1",
+        "question": "hanno nomi i dei di voto Quali e più sono amici? hanno liceali 5 che 2 oltre un o",
+        "q_id": 911
+    },
+    {
+        "db_id": "network_1",
+        "question": "Quanti piace ha mi Kyle?",
+        "q_id": 912
+    },
+    {
+        "db_id": "network_1",
+        "question": "nome liceo piace ha. Mi il di che Kyle Restituisce numero il di",
+        "q_id": 913
+    },
+    {
+        "db_id": "network_1",
+        "question": "amici. di tutti grado medio il hanno studenti che Trova degli gli",
+        "q_id": 914
+    },
+    {
+        "db_id": "network_1",
+        "question": "è che il studenti di grado amici? hanno Qual medio",
+        "q_id": 915
+    },
+    {
+        "db_id": "network_1",
+        "question": "di hanno che studenti non grado amici. Trova il minimo",
+        "q_id": 916
+    },
+    {
+        "db_id": "network_1",
+        "question": "hanno Qual di è più studenti basso che grado il amici? non",
+        "q_id": 917
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "sia lì? che hanno che stati Quali vivono proprietari professionisti",
+        "q_id": 918
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "che stati proprietari Trova sia in cui gli professionisti. vivono",
+        "q_id": 919
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "l'età Qual attraversato dei cani che media trattamenti? è hanno",
+        "q_id": 920
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "trattamenti. Trova che cani dei media l'età attraversato hanno",
+        "q_id": 921
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "cellulare. cognome ID, 2 professionisti o stato su fatto telefono hanno cure trattamenti?Elenca di Quali suo più e nello il dell'Indiana vivono",
+        "q_id": 922
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "eseguito due che professionisti hanno dei di l'ID, il il Trova dell'Indiana vivono o cellulare cognome più stato trattamenti. nello e",
+        "q_id": 923
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "trattamento?Elenca proprietario loro per più non i cani. al 1000 Quali sono il dei cani costati di nomi",
+        "q_id": 924
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "proprietario nomi sono cani di per quali il dei speso ha più non 1000 trattamento? Quali i il per i",
+        "q_id": 925
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "ma cani? o proprietari sono professionisti nomi sono come usati per nomi di usati Quali non",
+        "q_id": 926
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "non nomi proprietari Trova nomi i che come ma di utilizzati per vengono professionisti o usati sono cani.",
+        "q_id": 927
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "del ruolo Quale -mail non ha trattamento alcun e sui il cani?Elenca professionista. professionista l'ID, ed operato",
+        "q_id": 928
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "sui non dei -mail trattamento Dammi ed professionisti cani. ruolo hanno l'ID, che il alcun eseguito e",
+        "q_id": 929
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "il Quale proprietario, e numero di possiede cognome. nome il cani?Elenca proprietario il l'ID maggior",
+        "q_id": 930
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "proprietario il ha cani. l'ID del di e cognome maggior numero proprietario, nome il Restituisce il che",
+        "q_id": 931
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "due almeno professionista. il del nome e l'ID, ruolo trattamenti?Elenca Quali professionisti il fatto hanno",
+        "q_id": 932
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "due trattamenti? e che ruolo eseguito o dei sono hanno più Quali professionisti nome il l'ID, il",
+        "q_id": 933
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "della numero razza di nome con il maggior cani? è il Qual",
+        "q_id": 934
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "cani?Dammi razza. il hanno della più razza Quale nome",
+        "q_id": 935
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "sui suoi proprietario per cani?Elenca ha numero maggior cognome. trattamenti l'ID e proprietario Quale pagato di il il",
+        "q_id": 936
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Dimmi dei l'ID ha il cognome del di i suoi cani. trattamenti e che proprietario più speso per proprietario",
+        "q_id": 937
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "in trattamento denaro Qual descrizione tipo la è di costa totale? che del meno",
+        "q_id": 938
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "di Dammi totale tipo il è più cui basso. il costo la trattamento descrizione del",
+        "q_id": 939
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "i cani?Mostra l'ID per quantità proprietario e codice la postale. in loro più Quale grande pagato denaro proprietario ha di il totale",
+        "q_id": 940
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "suoi proprietario proprietario il del denaro in speso e codice l'ID hanno cani. più i postale per totale Trova che",
+        "q_id": 941
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "e hanno di cellulare. due professionisti trattamenti?Elenca l'ID professionale Quali almeno tipi il fatto",
+        "q_id": 942
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "professionisti l'ID dei due di più il tipi Trova e che o telefono gestiscono trattamenti. cellulare",
+        "q_id": 943
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "il cognome dei e fatto inferiore cure hanno Quali costo professionisti con alla che il nome sono media?",
+        "q_id": 944
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "professionisti Quali un nomi hanno cognomi. loro e media?Dammi che della costa i trattamento gestito meno",
+        "q_id": 945
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "lo professionista ogni che trattamento, nome insieme gestito. data di del ha la al Elenca",
+        "q_id": 946
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "ogni Quali operativo data sono di nome trattamento? il professionista e del la",
+        "q_id": 947
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "e il del corrispondente Elencare di di ciascun trattamento descrizione costo trattamento. tipo la",
+        "q_id": 948
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "trattamento tipo costo sono descrizione la e di del di ogni Quali trattamento? del",
+        "q_id": 949
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "e proprietario, il Elenca cane. ogni suo nome cognome le il per di del dimensioni il suo",
+        "q_id": 950
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "cane? cognome dimensioni le loro il sono del nome, il e Quali",
+        "q_id": 951
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "proprietario e nome le dei del nome coppie del Elenca il cani.",
+        "q_id": 952
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali di ogni proprietario e nome loro sono nome dei cani? il il",
+        "q_id": 953
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "le e trattamento. nomi date Elenca cani della più di razza rara dei i",
+        "q_id": 954
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "cani sono nomi le e i più razza del della rara?Mostra Quali date trattamento. loro",
+        "q_id": 955
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "del il Quali che di Virginia?Elenca nome proprietà qualcuno nome cani e vive in il cane. del sono proprietario di",
+        "q_id": 956
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "dei i nomi i che nomi vivono nomi cani dei Trova e proprietari dei che possiedono. in Virginia",
+        "q_id": 957
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "un in la trattamento? sono arrivo subito data in hanno che e Quali partenza cani la data dei",
+        "q_id": 958
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "dei hanno di che arrivo partenza in ricevuto data trattamento. data la cani e la un Trova",
+        "q_id": 959
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "giovane. Elenca più del cane cognome che possiede il proprietario il",
+        "q_id": 960
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "suo il Chi cognome. il cane possiede giovane?Dammi più",
+        "q_id": 961
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Hawaii -mail nello professionisti stato del Elenca vivono le e o dei nello Wisconsin. che delle stato",
+        "q_id": 962
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "nello nello Hawaii stato delle Quali Wisconsin? del dei professionisti -mail le che e o vivono sono stato",
+        "q_id": 963
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali la in sono di tutti data in cani? data la e partenza i arrivo",
+        "q_id": 964
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "tutti di e per la data la di arrivo Elenca data partenza i cani.",
+        "q_id": 965
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "hanno cani Quanti trattamenti? attraversato",
+        "q_id": 966
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "trattamento. numero di il un cani Conta che attraversato hanno",
+        "q_id": 967
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "un cani? eseguito hanno professionisti trattamento per i Quanti",
+        "q_id": 968
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "mai il di che trattato hanno professionisti Trova cani. i numero",
+        "q_id": 969
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "la città il Quali contenente professionisti suo strada, e una stato. ruolo, \"West\"?Elenca vivono sottostringa città in",
+        "q_id": 970
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "professionisti il strada, dei ruolo, e vivono stato \"West\". in Trova che città città che sottostringa contiene una la",
+        "q_id": 971
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "cognome contiene \"North\"?Elenca ed proprietari -mail. nello Quali nome, e la stato suo nome sottostringa vivono cui il il",
+        "q_id": 972
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "nome, contiene dei sottostringa in -mail cognome la il il proprietari e vivono che uno il l'e \"North\". stato cui nome Restituisce",
+        "q_id": 973
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "hanno inferiore cani media? un'età alla Quanti",
+        "q_id": 974
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "inferiore media. di numero cani alla Conta il di età",
+        "q_id": 975
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "più trattamento Quanto recente? costa il",
+        "q_id": 976
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "del eseguito più Mostrami recentemente. costo trattamento il",
+        "q_id": 977
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quanti trattamento? cani alcun attraversato non hanno",
+        "q_id": 978
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "ricevuto non alcun di il cani Dimmi trattamento. che hanno numero",
+        "q_id": 979
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quanti cani? hanno temporaneamente proprietari non",
+        "q_id": 980
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "non di in cani il momento. proprietari possiedono questo numero che Trova",
+        "q_id": 981
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "cani? non operato professionisti hanno alcun trattamento sui Quanti",
+        "q_id": 982
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "che numero hanno Trova il non professionisti trattato cani. alcun di",
+        "q_id": 983
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "e per cani il per dei 0 e peso che il sono sta l'età sta cane, Elenca abbandonati?1 stati sì il nome del no.",
+        "q_id": 984
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "noti l'età cane, sono cani per il sta per sì no il nelle Quali sono dei nome 0 del tabelle. 1 e sta che abbandonati?Si e peso stati che",
+        "q_id": 985
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "media i di cani? l'età tutti Qual è",
+        "q_id": 986
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "di l'età media Calcola i cani. tutti",
+        "q_id": 987
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "del antico? più cane è Qual l'età",
+        "q_id": 988
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "del l'età Dimmi più cane antico.",
+        "q_id": 989
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "costa tipo addebito?Elencare che addebito di sia ogni l'importo. di Quanto il tipo",
+        "q_id": 990
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "addebito ogni il suo e di Elenca tipo importo.",
+        "q_id": 991
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "costa il Quanto costoso? di più tipo addebito",
+        "q_id": 992
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Qual di costoso? del di la quantità tipo più è addebito addebito",
+        "q_id": 993
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Elenca il di telefono casa e -mail, cellulare professionisti. di l'e telefono i tutti il",
+        "q_id": 994
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "sono ogni Quali professionista? a telefono -mail, il telefono di l'e e casa cellulare il",
+        "q_id": 995
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "Quali razza tutte tipo combinazioni possibili di sono di e le dimensioni?",
+        "q_id": 996
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "razza tipo di tipo di e per combinazioni le dimensione cani. distinte Trova di i",
+        "q_id": 997
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "alla del che hanno insieme tutti fatto. di professionisti il i nome descrizione trattamento Elenca",
+        "q_id": 998
+    },
+    {
+        "db_id": "dog_kennels",
+        "question": "nome che ogni sono il descrizione hanno e professionista la Quali eseguito? trattamento del di",
+        "q_id": 999
+    },
+    {
+        "db_id": "singer",
+        "question": "Quanti ci cantanti sono?",
+        "q_id": 1000
+    },
+    {
+        "db_id": "singer",
+        "question": "conteggio dei cantanti? è Qual il",
+        "q_id": 1001
+    },
+    {
+        "db_id": "singer",
+        "question": "dei ascendente il Elenca cantanti nome del patrimonio netto. nell'ordine",
+        "q_id": 1002
+    },
+    {
+        "db_id": "singer",
+        "question": "dal nomi i ascendente? patrimonio netto sono cantanti Quali ordinati dei",
+        "q_id": 1003
+    },
+    {
+        "db_id": "singer",
+        "question": "la sono cantanti? nascita Quali l'anno cittadinanza dei e di",
+        "q_id": 1004
+    },
+    {
+        "db_id": "singer",
+        "question": "e cittadinanza di nascita gli Quali la anni dei sono cantanti?",
+        "q_id": 1005
+    },
+    {
+        "db_id": "singer",
+        "question": "cui Elenca nome la il non \"Francia\". cantanti cittadinanza di è",
+        "q_id": 1006
+    },
+    {
+        "db_id": "singer",
+        "question": "cittadini i Quali dei sono che cantanti sono non nomi francesi?",
+        "q_id": 1007
+    },
+    {
+        "db_id": "singer",
+        "question": "è di 1948 cantanti Mostra nome il o 1949? ​​cui anno il nascita di",
+        "q_id": 1008
+    },
+    {
+        "db_id": "singer",
+        "question": "i cantanti cui i o sono nomi 1948 sono dei Quali nascita anni di 1949?",
+        "q_id": 1009
+    },
+    {
+        "db_id": "singer",
+        "question": "del è nome patrimonio cantante il grande netto? più con Qual il",
+        "q_id": 1010
+    },
+    {
+        "db_id": "singer",
+        "question": "vale del più? nome Qual che cantante il è di",
+        "q_id": 1011
+    },
+    {
+        "db_id": "singer",
+        "question": "cittadinanza cantanti cittadinanza. ogni di diverse cantanti numero di Mostra di il e",
+        "q_id": 1012
+    },
+    {
+        "db_id": "singer",
+        "question": "ogni cittadinanza, da cantanti provengono paese? quel Per quanti",
+        "q_id": 1013
+    },
+    {
+        "db_id": "singer",
+        "question": "cittadinanza mostra comune Per dei più cantanti. favore, la",
+        "q_id": 1014
+    },
+    {
+        "db_id": "singer",
+        "question": "comune? è Qual del cittadinanza più cantante la",
+        "q_id": 1015
+    },
+    {
+        "db_id": "singer",
+        "question": "patrimonio cantanti e netto di cittadini di massimo ogni il cittadinanza. Mostra diverse",
+        "q_id": 1016
+    },
+    {
+        "db_id": "singer",
+        "question": "ogni il massimo? netto è qual patrimonio Per cittadinanza,",
+        "q_id": 1017
+    },
+    {
+        "db_id": "singer",
+        "question": "e di titoli cantanti. di canzoni nomi Mostra",
+        "q_id": 1018
+    },
+    {
+        "db_id": "singer",
+        "question": "i titoli e canzoni i nomi dei sono cantanti? delle Quali",
+        "q_id": 1019
+    },
+    {
+        "db_id": "singer",
+        "question": "hanno di cantanti 300000. canzoni nomi vendite distinti Mostra più di con che",
+        "q_id": 1020
+    },
+    {
+        "db_id": "singer",
+        "question": "cantanti diversi sono vendite di Quali che più nomi 300000? i dei hanno",
+        "q_id": 1021
+    },
+    {
+        "db_id": "singer",
+        "question": "i canzone. hanno che una Mostra di più dei cantanti nomi",
+        "q_id": 1022
+    },
+    {
+        "db_id": "singer",
+        "question": "di i che hanno cantanti Quali più canzone? dei una sono nomi",
+        "q_id": 1023
+    },
+    {
+        "db_id": "singer",
+        "question": "delle le totali cantanti Mostra vendite i loro canzoni. dei nomi e",
+        "q_id": 1024
+    },
+    {
+        "db_id": "singer",
+        "question": "quali vendite le cantante, il canzoni? sono Per per le totali di loro nome ogni",
+        "q_id": 1025
+    },
+    {
+        "db_id": "singer",
+        "question": "canzone. che nome hanno il Elenca cantanti di alcuna non",
+        "q_id": 1026
+    },
+    {
+        "db_id": "singer",
+        "question": "ogni ha Qual è di canzone? che alcuna peccato non nome il",
+        "q_id": 1027
+    },
+    {
+        "db_id": "singer",
+        "question": "cantanti cittadinanza dopo condivisa e nascita la prima 1955. l'anno dai Mostra di 1945 il del con",
+        "q_id": 1028
+    },
+    {
+        "db_id": "singer",
+        "question": "dai del nascita 1955? il sono e di che 1945 prima condivise dopo con cantanti sono un cittadini Quali anno le",
+        "q_id": 1029
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "sono ci Quante in totale? disponibili funzionalità",
+        "q_id": 1030
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "di Qual tipo funzionalità del Feature il di è Aircon? nome",
+        "q_id": 1031
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "delle Mostra descrizioni proprietà appartenenti a di dei le proprietà codice. tipi quel",
+        "q_id": 1032
+    },
+    {
+        "db_id": "real_estate_properties",
+        "question": "proprietà o 1 delle camera? con i Quali che sono sono case appartamenti più di nomi",
+        "q_id": 1033
+    }
+]
