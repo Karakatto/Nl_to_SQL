@@ -1,0 +1,19 @@
+{
+    "Total Queries": 120,
+    "Execution Exact Matches": 39,
+    "String Exact Matches": 0,
+    "Executable Queries": 73,
+    "Executable Execution Matches": 39,
+    "Execution Accuracy": 32.5,
+    "String Accuracy": 0.0,
+    "Average Cosine Similarity": 0.64,
+    "Executable Execution Accuracy": 53.42,
+    "Easy Execution Accuracy": 43.04,
+    "Medium Execution Accuracy": 5.88,
+    "Hard Execution Accuracy": 30.77,
+    "Extra Execution Accuracy": 0.0,
+    "Easy Queries": 79,
+    "Medium Queries": 17,
+    "Hard Queries": 13,
+    "Extra Queries": 11
+}

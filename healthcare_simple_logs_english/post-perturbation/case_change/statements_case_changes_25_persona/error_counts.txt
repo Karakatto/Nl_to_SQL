@@ -1,0 +1,132 @@
+Categorized Error Counts:
+syntax_error: 45
+other: 44
+no_such_column: 26
+no_such_function: 5
+misuse_of_aggregate: 2
+no_such_table: 1
+
+Specific Error Counts:
+Error executing gold query 2 on database: '<' not supported between instances of 'NoneType' and 'str': 1
+Error executing predicted query 2 on database: '<' not supported between instances of 'NoneType' and 'str': 1
+Error executing gold query 4 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing gold query 5 on database: '<' not supported between instances of 'float' and 'str': 1
+Error executing predicted query 5 on database: near "FROM": syntax error: 1
+Error executing gold query 6 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 6 on database: near "1": syntax error: 1
+Error executing gold query 7 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 14 on database: no such column: p.Phone: 1
+Error executing predicted query 15 on database: near ".": syntax error: 1
+Error executing predicted query 19 on database: no such column: PhoneNumber: 1
+Error executing predicted query 29 on database: near "8": syntax error: 1
+Error executing predicted query 35 on database: no such function: DATE_PART: 1
+Error executing predicted query 36 on database: near "FROM": syntax error: 1
+Error executing predicted query 37 on database: no such column: p.Diagnosis: 1
+Error executing predicted query 38 on database: near "pJOIN": syntax error: 1
+Error executing predicted query 41 on database: no such column: p.EmergencyContactID: 1
+Error executing predicted query 51 on database: near "6": syntax error: 1
+Error executing predicted query 52 on database: no such column: AdmissionID: 1
+Error executing predicted query 54 on database: near "JOIN": syntax error: 1
+Error executing gold query 55 on database: '<' not supported between instances of 'float' and 'str': 1
+Error executing predicted query 55 on database: no such column: year: 1
+Error executing predicted query 56 on database: near "3": syntax error: 1
+Error executing predicted query 58 on database: near "PJOIN": syntax error: 1
+Error executing predicted query 62 on database: near "1": syntax error: 1
+Error executing predicted query 65 on database: near "Department": syntax error: 1
+Error executing predicted query 72 on database: no such column: Patient.DoctorID: 1
+Error executing predicted query 73 on database: near "FROM": syntax error: 1
+Error executing predicted query 74 on database: no such column: Admission.Date: 1
+Error executing predicted query 76 on database: no such column: TreatmentDescription: 1
+Error executing predicted query 77 on database: near "aJOIN": syntax error: 1
+Error executing predicted query 81 on database: near "aJOIN": syntax error: 1
+Error executing predicted query 83 on database: no such column: d.Name: 1
+Error executing predicted query 84 on database: near "6": syntax error: 1
+Error executing predicted query 87 on database: near "FROM": syntax error: 1
+Error executing predicted query 89 on database: no such function: MONTH: 1
+Error executing predicted query 94 on database: near "dJOIN": syntax error: 1
+Error executing predicted query 95 on database: no such column: d.DoctorID: 1
+Error executing predicted query 97 on database: near "Admission": syntax error: 1
+Error executing predicted query 99 on database: near "PJOIN": syntax error: 1
+Error executing predicted query 100 on database: near "pJOIN": syntax error: 1
+Error executing predicted query 101 on database: near "pJOIN": syntax error: 1
+Error executing predicted query 104 on database: near "dJOIN": syntax error: 1
+Error executing predicted query 105 on database: near "DWHERE": syntax error: 1
+Error executing predicted query 107 on database: near "Doctor": syntax error: 1
+Error executing predicted query 110 on database: no such function: MONTH: 1
+Error executing predicted query 111 on database: no such function: DATE_PART: 1
+Error executing predicted query 115 on database: near "Doctor": syntax error: 1
+Error executing predicted query 122 on database: near "Procedure": syntax error: 1
+Error executing gold query 123 on database: '<' not supported between instances of 'float' and 'str': 1
+Error executing predicted query 123 on database: no such column: Admission.DateOfAdmission: 1
+Error executing predicted query 125 on database: near "pINNER": syntax error: 1
+Error executing gold query 126 on database: '<' not supported between instances of 'float' and 'str': 1
+Error executing predicted query 126 on database: '<' not supported between instances of 'str' and 'float': 1
+Error executing gold query 127 on database: '<' not supported between instances of 'str' and 'int': 1
+Error executing predicted query 127 on database: near "JOIN": syntax error: 1
+Error executing gold query 128 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 128 on database: '<' not supported between instances of 'str' and 'int': 1
+Error executing predicted query 129 on database: near "FROM": syntax error: 1
+Error executing predicted query 130 on database: no such column: a.Gender: 1
+Error executing gold query 131 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 131 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 133 on database: near "pJOIN": syntax error: 1
+Error executing predicted query 135 on database: near "JOIN": syntax error: 1
+Error executing predicted query 136 on database: near "INNER": syntax error: 1
+Error executing predicted query 137 on database: no such column: d.Department: 1
+Error executing predicted query 138 on database: unrecognized token: "```Solution:Here is the translated SQL query:[Query:] SELECT p.PhoneNumber, p.Email, p.Address FROM Patient p JOIN Admission a ON p.PatientID = a.PatientID JOIN Doctor d ON a.DoctorID = d.DoctorCode WHERE d.Specialization = 'Cardiologist'": 1
+Error executing predicted query 139 on database: near "Admission": syntax error: 1
+Error executing predicted query 141 on database: near "pJOIN": syntax error: 1
+Error executing gold query 143 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 143 on database: near "2": syntax error: 1
+Error executing gold query 144 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 144 on database: no such column: d.DoctorCode: 1
+Error executing gold query 145 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 145 on database: no such table: Diagnosis: 1
+Error executing gold query 146 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 146 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 147 on database: no such column: p.DoctorID: 1
+Error executing predicted query 150 on database: no such column: p.Procedure: 1
+Error executing gold query 151 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 151 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing gold query 152 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 152 on database: near "FROM": syntax error: 1
+Error executing gold query 153 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing gold query 154 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 154 on database: no such column: p.PatientID: 1
+Error executing predicted query 155 on database: no such column: d.DepartmentName: 1
+Error executing predicted query 156 on database: no such column: d.DoctorName: 1
+Error executing gold query 158 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 158 on database: no such column: M.DoctorID: 1
+Error executing predicted query 164 on database: no such column: p.Phone: 1
+Error executing predicted query 165 on database: near "PJOIN": syntax error: 1
+Error executing gold query 166 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing gold query 169 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 169 on database: near "Admission": syntax error: 1
+Error executing predicted query 171 on database: near "2": syntax error: 1
+Error executing predicted query 174 on database: no such column: d.DepartmentName: 1
+Error executing gold query 175 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 175 on database: near "Department": syntax error: 1
+Error executing predicted query 177 on database: no such column: DepartmentCode: 1
+Error executing predicted query 180 on database: near "Doctor": syntax error: 1
+Error executing predicted query 182 on database: no such column: d.DepartmentCode: 1
+Error executing gold query 184 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 184 on database: near "Department": syntax error: 1
+Error executing gold query 185 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing gold query 186 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing gold query 187 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 187 on database: no such column: p.Phone: 1
+Error executing predicted query 188 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 189 on database: no such function: YEAR: 1
+Error executing predicted query 190 on database: near "JOIN": syntax error: 1
+Error executing gold query 191 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 191 on database: near "dJOIN": syntax error: 1
+Error executing predicted query 192 on database: misuse of aggregate: COUNT(): 1
+Error executing gold query 194 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing gold query 195 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing gold query 196 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing gold query 197 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 197 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing gold query 198 on database: '<' not supported between instances of 'int' and 'str': 1
+Error executing predicted query 198 on database: misuse of aggregate: COUNT(): 1
+Error executing gold query 199 on database: '<' not supported between instances of 'float' and 'str': 1
+Error executing predicted query 199 on database: '<' not supported between instances of 'int' and 'str': 1

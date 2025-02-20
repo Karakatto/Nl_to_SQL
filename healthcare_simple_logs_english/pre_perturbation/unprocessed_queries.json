@@ -1,0 +1,542 @@
+[
+    [
+        2,
+        "SELECT * FROM Admission;",
+        "SELECT * FROM Admission",
+        "'<' not supported between instances of 'NoneType' and 'str'"
+    ],
+    [
+        4,
+        "SELECT Gender, COUNT(*) AS PatientCount FROM Patient GROUP BY Gender;",
+        "SELECT COUNT(Distinct Patient.Gender), Patient.GenderFROM Patient",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        5,
+        "SELECT strftime('%Y', AdmissionDate) AS Year, CASE WHEN strftime('%m', AdmissionDate) BETWEEN '01' AND '06' THEN 'First Semester' ELSE 'Second Semester' END AS Semester, AVG(JULIANDAY(DischargeDate) - JULIANDAY(AdmissionDate)) AS AverageLengthOfStay FROM Admission WHERE DischargeDate IS NOT NULL GROUP BY Year, Semester;",
+        "SELECT AVG(CASE WHEN EXTRACT(MONTH FROM AdmissionDate) BETWEEN 1 AND 6 THEN 1 ELSE 0 END) AS 'First Semester',    AVG(CASE WHEN EXTRACT(MONTH FROM AdmissionDate) BETWEEN 7 AND 12 THEN 1 ELSE 0 END) AS 'Second Semester'FROM     Admission GROUP BY     EXTRACT(YEAR FROM AdmissionDate)",
+        "'<' not supported between instances of 'float' and 'str'"
+    ],
+    [
+        6,
+        "SELECT strftime('%Y', Admission.AdmissionDate) AS Year, COUNT(*) AS ScansCount FROM Admission WHERE Admission.Treatments LIKE '%MRI Scan%' OR Admission.Treatments LIKE '%CT Scan%' GROUP BY Year;",
+        "SELECT COUNT(DISTINCT AdmissionID) AS TotalScans FROM Procedure WHERE ProcedureDescription LIKE '%MRI%' OR ProcedureDescription LIKE '%CT%'",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        7,
+        "SELECT strftime('%Y', Admission.AdmissionDate) AS Year, COUNT(*) AS VaccinationsCount FROM Admission WHERE Admission.Treatments LIKE '%Vaccination%' GROUP BY Year;",
+        "SELECT COUNT(*) FROM Admission AS aJOIN Procedure AS p ON a.AdmissionID = p.AdmissionIDWHERE p.ProcedureDescription LIKE '%Vaccination%'",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        8,
+        "SELECT DepartmentName, (SELECT Name FROM Doctor WHERE DoctorCode = Department.HeadOfDepartment) AS HeadName FROM Department;",
+        "SELECT d.DepartmentName, d.Phone, d.Email, d.HeadOfDepartment, d2.Name AS HeadNameFROM Department dJOIN Doctor d2 ON d.HeadOfDepartment = d2.DoctorCode",
+        "near \"Department\": syntax error"
+    ],
+    [
+        17,
+        "SELECT Department.DepartmentName, Doctor.Name FROM Department INNER JOIN Doctor ON Department.HeadOfDepartment = Doctor.DoctorCode WHERE Department.Phone LIKE '%555%';",
+        "SELECT d.DepartmentName, d.HeadOfDepartmentFROM Department dJOIN Doctor doc ON d.HeadOfDepartment = doc.DoctorCodeWHERE doc.Phone LIKE '%555%'",
+        "near \"dJOIN\": syntax error"
+    ],
+    [
+        25,
+        "SELECT Name, AdmissionDate FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Neurology');",
+        "SELECT p.Name, a.AdmissionDateFROM Patient p, Admission a, Department dWHERE p.PatientID = a.PatientID AND a.DepartmentID = d.DepartmentCode AND d.DepartmentName = 'Neurology'",
+        "near \"p\": syntax error"
+    ],
+    [
+        29,
+        "SELECT Name, Diagnosis FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE AdmissionDate >= DATE('now', '-56 days');",
+        "SELECT p.Name, a.Diagnosis FROM Patient p, Admission a WHERE a.PatientID = p.PatientID AND a.AdmissionDate >= DATE_SUB(CURRENT_DATE, INTERVAL 8 WEEK)",
+        "near \"8\": syntax error"
+    ],
+    [
+        30,
+        "SELECT Patient.Name, Admission.Diagnosis FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE Admission.Diagnosis LIKE '%Diabetes%' AND Admission.Diagnosis LIKE '%Hypertension%';",
+        "SELECT p.Name, a.Diagnosis FROM Patient pINNER JOIN Admission a ON p.PatientID = a.PatientIDWHERE a.Diagnosis LIKE '%Diabetes%' AND a.Diagnosis LIKE '%Hypertension%'",
+        "near \"a\": syntax error"
+    ],
+    [
+        33,
+        "SELECT Name, Email FROM Patient WHERE EmergencyContactRelation = 'Wife';",
+        "SELECT p.Name, p.EmailFROM Patient pJOIN Admission a ON p.PatientID = a.PatientIDJOIN EmergencyContact ec ON p.PatientID = ec.PatientIDWHERE ec.EmergencyContactRelation = 'Spouse'",
+        "near \"pJOIN\": syntax error"
+    ],
+    [
+        35,
+        "SELECT Name, PhoneNumber FROM Patient WHERE DateOfBirth <= DATE('now', '-65 years');",
+        "SELECT Patient.Name, Patient.PhoneNumber FROM Patient WHERE DATE_PART('year', CURRENT_DATE - Patient.DateOfBirth) > 65",
+        "no such function: DATE_PART"
+    ],
+    [
+        36,
+        "SELECT Name, PhoneNumber FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission WHERE AdmissionDate BETWEEN '2024-01-01' AND '2024-01-31');",
+        "SELECT P.Name, P.PhoneNumber FROM Patient P, Admission A WHERE P.PatientID = A.PatientID AND MONTH(A.AdmissionDate) = 1 AND YEAR(A.AdmissionDate) = 2024",
+        "no such function: MONTH"
+    ],
+    [
+        37,
+        "SELECT Doctor.Name, Doctor.Email FROM Doctor WHERE Doctor.DoctorCode IN (SELECT Admission.DoctorID FROM Admission WHERE Admission.Diagnosis LIKE '%Hypertension%');",
+        "SELECT d.Name, d.Phone FROM Doctor d JOIN Admission a ON d.DoctorCode = a.DoctorID JOIN Patient p ON a.PatientID = p.PatientID WHERE p.Diagnosis LIKE '%Hypertension%'",
+        "no such column: p.Diagnosis"
+    ],
+    [
+        41,
+        "SELECT Name, PhoneNumber FROM Patient WHERE EmergencyContactRelation = 'Brother' OR EmergencyContactRelation = 'Sister';",
+        "SELECT p.Name, p.PhoneNumber FROM Patient p, Admission a WHERE p.PatientID = a.PatientID AND a.Diagnosis LIKE '%sibling%' OR p.PhoneNumber IN (SELECT ec.Phone FROM Patient p, EmergencyContact ec WHERE p.PatientID = ec.PatientID AND ec.EmergencyContactRelation = 'brother' OR ec.EmergencyContactRelation = 'sister')",
+        "no such table: EmergencyContact"
+    ],
+    [
+        50,
+        "SELECT Name FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Pediatrics'));",
+        "SELECT P.NameFROM Admission AJOIN Patient P ON A.PatientID = P.PatientIDJOIN Department D ON A.DepartmentID = D.DepartmentCodeWHERE D.DepartmentName = 'Pediatrics'",
+        "near \"AJOIN\": syntax error"
+    ],
+    [
+        51,
+        "SELECT Doctor.Name FROM Doctor WHERE DoctorCode NOT IN (SELECT DoctorID FROM Admission WHERE AdmissionDate >= DATE('now', '-6 months'));",
+        "SELECT d.Name FROM Doctor d WHERE d.DoctorCode NOT IN (SELECT ad.DoctorID FROM Admission ad WHERE ad.AdmissionDate >= DATE_SUB(CURRENT_DATE, INTERVAL 6 MONTH))",
+        "near \"6\": syntax error"
+    ],
+    [
+        55,
+        "SELECT strftime('%Y', AdmissionDate) AS Year, AVG(JULIANDAY(DischargeDate) - JULIANDAY(AdmissionDate)) AS AverageLengthOfStay FROM Admission WHERE DischargeDate IS NOT NULL GROUP BY Year;",
+        "SELECT AVG(DATEDIFF(DischargeDate, AdmissionDate)) FROM Admission WHERE EXTRACT(YEAR FROM AdmissionDate) IN (2022, 2023, 2024)",
+        "'<' not supported between instances of 'float' and 'str'"
+    ],
+    [
+        56,
+        "SELECT Name, AdmissionDate FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE AdmissionDate >= DATE('now', '-3 month');",
+        "SELECT P.Name, A.AdmissionDate FROM Patient P, Admission A WHERE A.PatientID = P.PatientID AND DATE_SUB(CURDATE(), INTERVAL 3 MONTH) <= A.AdmissionDate",
+        "near \"3\": syntax error"
+    ],
+    [
+        57,
+        "SELECT Name, AdmissionDate FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Neurology') AND AdmissionDate BETWEEN '2023-01-01' AND '2023-12-31';",
+        "SELECT p.Name, a.AdmissionDate FROM Patient p, Admission a, Department d WHERE p.PatientID = a.PatientID AND a.DepartmentID = d.DepartmentCode AND d.DepartmentName = 'Neurology' AND EXTRACT(YEAR FROM a.AdmissionDate) = 2023",
+        "near \"FROM\": syntax error"
+    ],
+    [
+        61,
+        "SELECT Name, PhoneNumber FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission WHERE DoctorID IN (SELECT DoctorCode FROM Doctor WHERE Specialization = 'Cardiology'));",
+        "SELECT P.Name, P.PhoneNumber FROM Patient P, Admission A, Doctor D, Department department WHERE P.PatientID = A.PatientID AND A.DoctorID = D.DoctorCode AND D.DepartmentCode = department.DepartmentCode AND department.DepartmentName = 'Cardiology'",
+        "no such column: D.DepartmentCode"
+    ],
+    [
+        62,
+        "SELECT Name, PhoneNumber FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission WHERE DoctorID IN (SELECT DoctorCode FROM Doctor WHERE Gender = 'Male')) AND PatientID IN (SELECT PatientID FROM Admission WHERE DoctorID IN (SELECT DoctorCode FROM Doctor WHERE Gender = 'Female')) AND PatientID IN (SELECT PatientID FROM Admission WHERE strftime('%Y', AdmissionDate) = strftime('%Y', 'now', '-1 year'));",
+        "SELECT DISTINCT p.Name, p.PhoneNumber FROM Patient p JOIN Admission a ON p.PatientID = a.PatientID JOIN Doctor d ON a.DoctorID = d.DoctorCode WHERE a.AdmissionDate >= DATE_SUB(CURDATE(), INTERVAL 1 YEAR) AND d.Gender IN ('Male', 'Female')",
+        "near \"1\": syntax error"
+    ],
+    [
+        63,
+        "SELECT Name, Specialization FROM Doctor WHERE DoctorCode IN (SELECT DoctorID FROM Admission WHERE AdmissionDate BETWEEN '2024-01-01' AND '2024-01-31');",
+        "SELECT Doctor.Name, Doctor.Specialization FROM Doctor, Admission WHERE Doctor.DoctorCode = Admission.DoctorID AND EXTRACT(MONTH FROM Admission.AdmissionDate) = 1 AND EXTRACT(YEAR FROM Admission.AdmissionDate) = 2024",
+        "near \"FROM\": syntax error"
+    ],
+    [
+        65,
+        "SELECT DepartmentName, (SELECT Name FROM Doctor WHERE DoctorCode = Department.HeadOfDepartment) AS HeadName FROM Department WHERE HeadOfDepartment IN (SELECT DoctorCode FROM Doctor WHERE Specialization = 'Neurology');",
+        "SELECT d.DepartmentName, d.HeadOfDepartment, d.Phone, d.Email, d.Specialization FROM Department d JOIN Doctor d2 ON d.HeadOfDepartment = d2.DoctorCode WHERE d2.Specialization = 'Neurology'",
+        "no such column: d.Specialization"
+    ],
+    [
+        72,
+        "SELECT AdmissionDate, DoctorID FROM Admission WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Pediatrics');",
+        "SELECT A.AdmissionDate,     D.Name AS DoctorNameFROM     Admission AJOIN     Department D ON A.DepartmentID = D.DepartmentCodeWHERE     D.DepartmentName = 'Pediatrics'ORDER BY     A.AdmissionDate",
+        "near \"Admission\": syntax error"
+    ],
+    [
+        73,
+        "SELECT AdmissionDate FROM Admission WHERE strftime('%Y', AdmissionDate) = '2023';",
+        "SELECT Admission.AdmissionDate FROM Admission, Patient WHERE EXTRACT(YEAR FROM Admission.AdmissionDate) = 2023 AND Admission.PatientID = Patient.PatientID",
+        "near \"FROM\": syntax error"
+    ],
+    [
+        76,
+        "SELECT Diagnosis, TreatmentDescription FROM Admission INNER JOIN Treatment ON Admission.AdmissionID = Treatment.AdmissionID WHERE DoctorID = (SELECT DoctorCode FROM Doctor WHERE Name = 'Emma Young');",
+        "SELECT A.Diagnosis, T.TreatmentDescriptionFROM Admission AJOIN Doctor D ON A.DoctorID = D.DoctorCodeJOIN Treatment T ON A.AdmissionID = T.AdmissionIDWHERE D.Name = 'Emma Young'",
+        "near \"AJOIN\": syntax error"
+    ],
+    [
+        81,
+        "SELECT MedicationDescription FROM Medication WHERE AdmissionID IN (SELECT AdmissionID FROM Admission WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Radiology'));",
+        "SELECT AdmissionID, MedicationDescription FROM Medication, Admission WHERE AdmissionID = Admission.AdmissionID AND DepartmentID IN (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Radiology')",
+        "ambiguous column name: AdmissionID"
+    ],
+    [
+        83,
+        "SELECT Name, Email FROM Doctor WHERE DoctorCode = (SELECT HeadOfDepartment FROM Department WHERE DepartmentName = 'Cardiology');",
+        "SELECT d.Name, d.Email from Department d JOIN Doctor doc ON d.HeadOfDepartment = doc.DoctorCode WHERE d.DepartmentName = 'Cardiology'",
+        "no such column: d.Name"
+    ],
+    [
+        84,
+        "SELECT Patient.Name, Patient.Address FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE Admission.AdmissionDate >= DATE('now', '-6 months');",
+        "SELECT P.Name, P.Address FROM Patient PJOIN Admission A ON P.PatientID = A.PatientIDWHERE A.AdmissionDate >= DATE_SUB(CURDATE(), INTERVAL 6 MONTH)ORDER BY P.Name",
+        "near \"Admission\": syntax error"
+    ],
+    [
+        85,
+        "SELECT Name, AdmissionDate FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE strftime('%Y-%m', AdmissionDate) = (SELECT strftime('%Y-%m', AdmissionDate) FROM Admission WHERE PatientID = (SELECT PatientID FROM Patient WHERE Name = 'Joseph Garcia'));",
+        "SELECT p.Name, a.AdmissionDate FROM Patient p, Admission a WHERE p.PatientID = a.PatientID AND MONTH(a.AdmissionDate) = MONTH('2022-03-01') AND p.Name = 'Joseph Garcia'",
+        "no such function: MONTH"
+    ],
+    [
+        88,
+        "SELECT Name, AdmissionDate FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE strftime('%Y-%m', AdmissionDate) = (SELECT strftime('%Y-%m', AdmissionDate) FROM Admission WHERE PatientID = (SELECT PatientID FROM Patient WHERE Name = 'Joseph Garcia'));",
+        "SELECT p.Name, a.AdmissionDate FROM Patient p JOIN Admission a ON p.PatientID = a.PatientID WHERE MONTH(a.AdmissionDate) = MONTH('2020-07-15')",
+        "no such function: MONTH"
+    ],
+    [
+        89,
+        "SELECT Name, AdmissionDate FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE strftime('%m', AdmissionDate) = strftime('%m', DischargeDate);",
+        "SELECT p.Name, a.AdmissionDate FROM Patient p, Admission a WHERE p.PatientID = a.PatientID AND MONTH(a.AdmissionDate) = MONTH(a.DischargeDate)",
+        "no such function: MONTH"
+    ],
+    [
+        90,
+        "SELECT Name, DateOfBirth FROM Doctor WHERE DoctorCode IN (SELECT DoctorID FROM Admission WHERE AdmissionDate BETWEEN '2023-01-01' AND '2023-12-31');",
+        "SELECT d.Name, d.DateOfBirthFROM Doctor dJOIN Admission a ON d.DoctorCode = a.DoctorIDWHERE a.AdmissionDate >= '2023-01-01' AND a.AdmissionDate < '2024-01-01'",
+        "near \"dJOIN\": syntax error"
+    ],
+    [
+        92,
+        "SELECT Name, Diagnosis FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE DoctorID = (SELECT DoctorCode FROM Doctor WHERE Name = 'Ava Rodriguez') AND DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Pediatrics');",
+        "SELECT p.Name, a.Diagnosis FROM Patient p, Admission a, Doctor d, Department de WHERE p.PatientID = a.PatientID AND a.DoctorID = d.DoctorCode AND d.DepartmentCode = de.DepartmentCode AND d.Name = 'Ava Rodriguez' AND de.DepartmentName = 'Pediatrics'",
+        "no such column: d.DepartmentCode"
+    ],
+    [
+        96,
+        "SELECT DepartmentName, HeadOfDepartment FROM Department WHERE Phone IS NOT NULL;",
+        "SELECT d.DepartmentName, d.HeadOfDepartment, d.PhoneFROM Department dWHERE d.Phone IS NOT NULL",
+        "near \"dWHERE\": syntax error"
+    ],
+    [
+        100,
+        "SELECT Name, PhoneNumber FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Oncology')) AND PatientID IN (SELECT PatientID FROM Admission WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Radiology'));",
+        "SELECT DISTINCT P.Name, P.PhoneNumberFROM Patient PJOIN Admission A ON P.PatientID = A.PatientIDJOIN Department D ON A.DepartmentID = D.DepartmentCodeWHERE D.DepartmentName IN ('Oncology', 'Radiology')",
+        "near \"PJOIN\": syntax error"
+    ],
+    [
+        101,
+        "SELECT Patient.Name, Patient.PhoneNumber FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE Admission.DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Emergency') AND Admission.AdmissionDate >= DATE('now', '-1 year');",
+        "SELECT p.Name, p.PhoneNumber FROM Patient p JOIN Admission a ON p.PatientID = a.PatientID JOIN Department d ON a.DepartmentID = d.DepartmentCode WHERE d.DepartmentName = 'Emergency' AND a.AdmissionDate >= DATE_SUB(CURDATE(), INTERVAL 1 YEAR)",
+        "near \"1\": syntax error"
+    ],
+    [
+        110,
+        "SELECT Name, AdmissionDate, DischargeDate FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE AdmissionDate BETWEEN '2024-01-01' AND '2024-01-31';",
+        "SELECT p.Name, a.AdmissionDate, a.DischargeDate FROM Patient p JOIN Admission a ON p.PatientID = a.PatientID WHERE MONTH(a.AdmissionDate) = 1 AND YEAR(a.AdmissionDate) = 2024",
+        "no such function: MONTH"
+    ],
+    [
+        111,
+        "SELECT Name FROM Patient WHERE strftime('%Y', 'now') - strftime('%Y', DateOfBirth) >= 50;",
+        "SELECT Name FROM Patient WHERE DATE_SUB(CURDATE(), INTERVAL DateOfBirth YEAR) >= 50",
+        "near \"DateOfBirth\": syntax error"
+    ],
+    [
+        113,
+        "SELECT Doctor.Name, Admission.AdmissionDate FROM Doctor INNER JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID WHERE Admission.PatientID = (SELECT PatientID FROM Patient WHERE Name = 'Linda Johnson') AND Admission.AdmissionDate BETWEEN '2023-01-01' AND '2023-12-31';",
+        "SELECT D.Name, A.AdmissionDate FROM Doctor D JOIN Admission A ON D.DoctorCode = A.DoctorID JOIN Patient P ON A.PatientID = P.PatientID WHERE P.Name = 'Linda Johnson' AND YEAR(A.AdmissionDate) = 2023",
+        "no such function: YEAR"
+    ],
+    [
+        123,
+        "SELECT strftime('%Y', AdmissionDate) AS Year, AVG(JULIANDAY(DischargeDate) - JULIANDAY(AdmissionDate)) AS AverageLengthOfStay FROM Admission WHERE DischargeDate IS NOT NULL AND LENGTH(Procedures) > 0 GROUP BY Year;",
+        "SELECT AVG(DATEDIFF(DischargeDate, AdmissionDate)) AS AverageHospitalizationLength, YEAR(AdmissionDate) AS YearFROM AdmissionJOIN Patient ON Admission.PatientID = Patient.PatientIDJOIN Procedure ON Admission.AdmissionID = Procedure.AdmissionIDWHERE Procedure.ProcedureDescription LIKE '%Surgery%'GROUP BY YEAR(AdmissionDate)",
+        "'<' not supported between instances of 'float' and 'str'"
+    ],
+    [
+        124,
+        "SELECT AVG(JULIANDAY(Admission.DischargeDate) - JULIANDAY(Admission.AdmissionDate)) AS AverageLengthOfStay FROM Admission WHERE Admission.DischargeDate IS NOT NULL;",
+        "SELECT AVG(DATEDIFF(DischargeDate,AdmissionDate)) AS AverageLengthOfHospitalization FROM Admission",
+        "no such function: DATEDIFF"
+    ],
+    [
+        125,
+        "SELECT Patient.Name, Admission.Medications, Department.DepartmentName FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID JOIN Department ON Admission.DepartmentID = Department.DepartmentCode WHERE Admission.Diagnosis LIKE '%COPD%';",
+        "SELECT P.PatientID, P.Name, D.DepartmentName, M.MedicationDescriptionFROM Patient PJOIN Admission A ON P.PatientID = A.PatientIDJOIN Department D ON A.DepartmentID = D.DepartmentCodeJOIN Medication M ON A.AdmissionID = M.AdmissionIDWHERE A.Diagnosis LIKE '%COPD%'",
+        "near \"PJOIN\": syntax error"
+    ],
+    [
+        126,
+        "SELECT Doctor.Specialization, AVG(JULIANDAY(DischargeDate) - JULIANDAY(AdmissionDate)) AS AverageLengthOfStay FROM Admission JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode WHERE DischargeDate IS NOT NULL GROUP BY Doctor.Specialization ORDER BY AverageLengthOfStay DESC;",
+        "SELECT d.Specialization, AVG(DATEDIFF(d.DischargeDate, a.AdmissionDate)) AS AverageStay FROM Admission a JOIN Doctor d ON a.DoctorID = d.DoctorCode GROUP BY d.Specialization ORDER BY AverageStay DESC",
+        "'<' not supported between instances of 'float' and 'str'"
+    ],
+    [
+        127,
+        "SELECT COUNT(*), GROUP_CONCAT(DISTINCT Admission.Medications) FROM Admission WHERE Admission.Procedures LIKE '%Hip Replacement Surgery%';",
+        "SELECT COUNT(Procedure.ProcedureDescription) AS TotalHipReplacementSurgery,     GROUP_CONCAT(DISTINCT Medication.MedicationDescription ORDER BY Medication.MedicationDescription SEPARATOR ',') AS Medications FROM Procedure JOIN Admission ON Procedure.AdmissionID = Admission.AdmissionID JOIN Medication ON Admission.AdmissionID = Medication.AdmissionID WHERE Procedure.ProcedureDescription LIKE '%Hip Replacement Surgery%' GROUP BY Admission.AdmissionID",
+        "'<' not supported between instances of 'str' and 'int'"
+    ],
+    [
+        128,
+        "SELECT Department.DepartmentName, COUNT(*) AS OngoingAdmissions FROM Admission JOIN Department ON Admission.DepartmentID = Department.DepartmentCode WHERE Admission.DischargeDate IS NULL GROUP BY Department.DepartmentName;",
+        "SELECT COUNT(*) AS TotalAdmissions, d.DepartmentName FROM Admission a JOIN Department d ON a.DepartmentID = d.DepartmentCode WHERE a.DischargeDate IS NULL",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        130,
+        "SELECT Doctor.Name AS DoctorName, Doctor.DateOfBirth, Doctor.Gender, Patient.Name AS PatientName, Admission.Medications FROM Doctor JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID JOIN Patient ON Admission.PatientID = Patient.PatientID WHERE Doctor.Specialization = 'Anesthesiology';",
+        "SELECT DISTINCT d.DoctorCode, d.Name, d.Gender, p.PatientID, p.Name AS PatientName, m.MedicationDescriptionFROM Doctor dJOIN Admission a ON d.DoctorCode = a.DoctorIDJOIN Patient p ON a.PatientID = p.PatientIDJOIN Medication m ON a.AdmissionID = m.AdmissionIDWHERE d.Specialization = 'Anesthesist'",
+        "near \"dJOIN\": syntax error"
+    ],
+    [
+        131,
+        "SELECT Admission.Diagnosis, COUNT(Patient.PatientID) AS PatientCount FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID WHERE Admission.AdmissionDate BETWEEN '2024-01-01' AND '2024-12-31' GROUP BY Admission.Diagnosis ORDER BY PatientCount DESC;",
+        "SELECT Diagnosis,     COUNT(*) AS Count,     ROUND(COUNT(*)/(        SELECT             COUNT(*)         FROM            Admission         WHERE             EXTRACT(YEAR FROM AdmissionDate) = 2024), 2) AS Percentage FROM     Admission WHERE     EXTRACT(YEAR FROM AdmissionDate) = 2024 GROUP BY     Diagnosis ORDER BY     Count DESC",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        132,
+        "SELECT DISTINCT Doctor.Name, Doctor.Email FROM Doctor WHERE Doctor.DoctorCode IN (SELECT DoctorID FROM Admission WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Oncology')) AND Doctor.DoctorCode IN (SELECT DoctorID FROM Admission WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Gastroenterology'));",
+        "SELECT d.Name, d.EmailFROM Doctor dJOIN Admission a ON d.DoctorCode = a.DoctorIDJOIN Department dept ON a.DepartmentID = dept.DepartmentCodeWHERE dept.DepartmentName IN ('Oncology', 'Gastroenterology')GROUP BY d.Name, d.EmailHAVING COUNT(DISTINCT a.DepartmentID) = 2",
+        "near \"dJOIN\": syntax error"
+    ],
+    [
+        136,
+        "SELECT Name, Diagnosis, TreatmentDescription FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID INNER JOIN Treatment ON Admission.AdmissionID = Treatment.AdmissionID WHERE Diagnosis LIKE '%Infection%';",
+        "SELECT p.Name, a.Diagnosis, t.TreatmentDescription FROM Patient p INNER JOIN Admission a ON p.PatientID = a.PatientID INNER JOIN Procedure p1 ON a.AdmissionID = p1.AdmissionID INNER JOIN Treatment t ON p1.ProcedureID = t.ProcedureID WHERE a.Diagnosis LIKE '%Infection%'",
+        "no such column: p1.ProcedureID"
+    ],
+    [
+        137,
+        "SELECT Department.DepartmentName, Doctor.Name, Doctor.Email, Doctor.Phone FROM Doctor JOIN Department ON Doctor.DoctorCode = Department.HeadOfDepartment ORDER BY Department.DepartmentName;",
+        "SELECT d.Name, d.Email, d.Phone, d.DepartmentCode, d.AddressFROM Doctor dJOIN Department dpt ON d.DepartmentCode = dpt.DepartmentCodeORDER BY dpt.DepartmentName, d.Name",
+        "near \"dJOIN\": syntax error"
+    ],
+    [
+        141,
+        "SELECT Patient.Name, Admission.AdmissionDate FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID INNER JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode WHERE Doctor.Specialization = 'Cardiology';",
+        "SELECT p.Name, a.AdmissionDate     FROM Patient p     JOIN Admission a ON p.PatientID = a.PatientID     JOIN Doctor d ON a.DoctorID = d.DoctorCode     JOIN Department dept ON d.DepartmentID = dept.DepartmentCode     WHERE dept.DepartmentName = 'Cardiology'",
+        "no such column: d.DepartmentID"
+    ],
+    [
+        143,
+        "SELECT Department.DepartmentName, COUNT(Admission.AdmissionID) AS TotalAdmissions FROM Department INNER JOIN Admission ON Department.DepartmentCode = Admission.DepartmentID WHERE Admission.AdmissionDate >= DATE('now', '-2 month') GROUP BY Department.DepartmentName;",
+        "SELECT d.DepartmentName, COUNT(a.AdmissionID) AS TotalAdmissions FROM Admission a JOIN Department d ON a.DepartmentID = d.DepartmentCode WHERE a.AdmissionDate >= DATE_SUB(CURRENT_DATE, INTERVAL 2 MONTH) GROUP BY d.DepartmentName ORDER BY TotalAdmissions DESC",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        144,
+        "SELECT DepartmentName, COUNT(DoctorCode) as DoctorCount FROM Department INNER JOIN Doctor ON Department.HeadOfDepartment = Doctor.DoctorCode GROUP BY DepartmentName;",
+        "SELECT d.DepartmentName, COUNT(d.DoctorCode) AS TotalDoctors FROM Department d GROUP BY d.DepartmentName",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        145,
+        "SELECT Doctor.Name, COUNT(Admission.PatientID) AS HypertensionPatientsCount FROM Doctor JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID WHERE Admission.Diagnosis LIKE '%Hypertension%' GROUP BY Doctor.Name;",
+        "SELECT Doctor.Name, COUNT(Admission.PatientID) AS 'Count of Patients'FROM AdmissionINNER JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCodeINNER JOIN Patient ON Admission.PatientID = Patient.PatientIDWHERE Patient.Diagnosis = 'Hypertension'GROUP BY Doctor.NameORDER BY COUNT(Admission.PatientID) DESC",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        146,
+        "SELECT Doctor.Name, COUNT(DISTINCT Admission.PatientID) AS TotalPatients FROM Doctor INNER JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID GROUP BY Doctor.Name;",
+        "SELECT d.Name AS Doctor, COUNT(DISTINCT a.PatientID) AS TotalPatients FROM Doctor d JOIN Admission a ON d.DoctorCode = a.DoctorID GROUP BY d.Name ORDER BY d.Name",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        147,
+        "SELECT Patient.Name, Doctor.Name FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID INNER JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode WHERE Doctor.Specialization = 'Cardiology';",
+        "SELECT p.Name AS PatientName, d.Name AS DoctorNameFROM Patient p JOIN Admission a ON p.PatientID = a.PatientID JOIN Doctor d ON a.DoctorID = d.DoctorCode JOIN Department dep ON a.DepartmentID = dep.DepartmentCode WHERE dep.DepartmentName = 'Cardiology'",
+        "near \"Patient\": syntax error"
+    ],
+    [
+        148,
+        "SELECT Name, AdmissionDate, MedicationDescription FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID INNER JOIN Medication ON Admission.AdmissionID = Medication.AdmissionID WHERE DoctorID = (SELECT DoctorCode FROM Doctor WHERE Name = 'Ethan Martinez');",
+        "SELECT p.Name, a.AdmissionDate, m.MedicationDescriptionFROM Patient pJOIN Admission a ON p.PatientID = a.PatientIDJOIN Procedure pr ON a.AdmissionID = pr.AdmissionIDJOIN Medication m ON a.AdmissionID = m.AdmissionIDWHERE pr.ProcedureDescription LIKE '%Surgery%' AND a.DoctorID = (SELECT d.DoctorCode FROM Doctor d WHERE d.Name = 'Ethan Martinez')",
+        "near \"pJOIN\": syntax error"
+    ],
+    [
+        150,
+        "SELECT Name, AdmissionDate, ProcedureDescription FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID INNER JOIN Procedure ON Admission.AdmissionID = Procedure.AdmissionID WHERE AdmissionDate BETWEEN '2023-01-01' AND '2023-02-28';",
+        "SELECT p.Name, a.AdmissionDate, p.Procedure FROM Patient p, Admission a, Procedure p WHERE a.PatientID = p.PatientID AND a.AdmissionDate >= '2023-01-01' AND a.DischargeDate <= '2023-02-28'",
+        "no such column: p.Procedure"
+    ],
+    [
+        151,
+        "SELECT Department.DepartmentName, COUNT(Admission.AdmissionID) AS TotalAdmissions FROM Department INNER JOIN Admission ON Department.DepartmentCode = Admission.DepartmentID GROUP BY Department.DepartmentName;",
+        "SELECT Department.DepartmentCode, COUNT(Admission.DepartmentID) AS TotalAdmissions FROM Admission JOIN Department ON Admission.DepartmentID = Department.DepartmentCode GROUP BY Department.DepartmentCode",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        152,
+        "SELECT strftime('%m', AdmissionDate) AS Month, COUNT(*) AS AdmissionsCount FROM Admission GROUP BY Month ORDER BY AdmissionsCount DESC LIMIT 1;",
+        "SELECT EXTRACT(MONTH FROM AdmissionDate) AS Month,    COUNT(*) AS AverageAdmissionsFROM     AdmissionGROUP BY     EXTRACT(MONTH FROM AdmissionDate)ORDER BY     AverageAdmissions DESC",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        153,
+        "SELECT MedicationDescription, COUNT(*) AS Frequency FROM Medication GROUP BY MedicationDescription ORDER BY Frequency DESC LIMIT 1;",
+        "SELECT m.MedicationDescription, COUNT(m.MedicationDescription) AS CountFROM Medication mGROUP BY m.MedicationDescriptionORDER BY Count DESC",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        154,
+        "SELECT ProcedureDescription, COUNT(*) AS Frequency FROM Procedure GROUP BY ProcedureDescription ORDER BY Frequency DESC LIMIT 1;",
+        "SELECT s.ProcedureDescription, COUNT(s.ProcedureDescription) AS 'Frequency' FROM Procedure s GROUP BY s.ProcedureDescription ORDER BY Frequency DESC LIMIT 1",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        155,
+        "SELECT Department.DepartmentName, Patient.Name FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID JOIN Department ON Admission.DepartmentID = Department.DepartmentCode WHERE LENGTH(Admission.Medications) - LENGTH(REPLACE(Admission.Medications, ',', '')) > 0 GROUP BY Department.DepartmentName, Patient.Name;",
+        "SELECT d.DepartmentName, COUNT(m.MedicationDescription) AS CountMedicationsFROM Admission aJOIN Patient p ON a.PatientID = p.PatientIDJOIN Medication m ON a.AdmissionID = m.AdmissionIDJOIN Department d ON a.DepartmentID = d.DepartmentCodeGROUP BY d.DepartmentNameHAVING COUNT(m.MedicationDescription) > 1",
+        "near \"Admission\": syntax error"
+    ],
+    [
+        156,
+        "SELECT Patient.Name AS PatientName, Doctor.Name AS DoctorName, Department.DepartmentName FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode JOIN Department ON Admission.DepartmentID = Department.DepartmentCode WHERE LENGTH(Admission.Medications) - LENGTH(REPLACE(Admission.Medications, ',', '')) > 1;",
+        "SELECT Patient.Name, Doctor.Name, Department.DepartmentName FROM Patient JOIN Admission ON Patient.PatientID = Admission.PatientID JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode JOIN Department ON Admission.DepartmentID = Department.DepartmentCode JOIN Medication ON Admission.AdmissionID = Medication.AdmissionID WHERE COUNT(Medication.MedicationDescription) > 2 GROUP BY Patient.Name, Doctor.Name, Department.DepartmentName",
+        "misuse of aggregate: COUNT()"
+    ],
+    [
+        157,
+        "SELECT Patient.PatientID, Patient.Name, Doctor.Name AS DoctorName, Department.DepartmentName FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode JOIN Department ON Admission.DepartmentID = Department.DepartmentCode WHERE Admission.AdmissionDate BETWEEN '2024-05-01' AND '2024-06-30';",
+        "SELECT P.Name, P.PatientID, D.Name AS 'Admitting Doctor', D.DepartmentCode FROM Patient P JOIN Admission A ON P.PatientID = A.PatientID JOIN Doctor D ON A.DoctorID = D.DoctorCode WHERE A.AdmissionDate BETWEEN '2024-05-01' AND '2024-06-30' GROUP BY P.Name, P.PatientID, D.Name, D.DepartmentCode",
+        "no such column: D.DepartmentCode"
+    ],
+    [
+        158,
+        "SELECT Patient.Name, COUNT(*), Doctor.Name AS AdmittingDoctor FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode WHERE Admission.Diagnosis LIKE '%Stroke%' AND Admission.Medications LIKE '%Aspirin%' GROUP BY Patient.Name, Doctor.Name;",
+        "SELECT COUNT(*) FROM Patient pJOIN Admission a ON p.PatientID = a.PatientIDJOIN Medication m ON a.AdmissionID = m.AdmissionIDJOIN Doctor d ON a.DoctorID = d.DoctorCodeWHERE a.Diagnosis LIKE '%stroke%' AND m.MedicationDescription LIKE '%aspirin%'AND d.Specialization IN ('Cardiology', 'Neurology')",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        161,
+        "SELECT Name, Email FROM Doctor WHERE DoctorCode IN (SELECT DoctorID FROM Admission WHERE DepartmentID = (SELECT DepartmentCode FROM Department WHERE DepartmentName = 'Cardiology') GROUP BY DoctorID HAVING COUNT(*) > 1);",
+        "SELECT d.Name, d.EmailFROM Doctor dJOIN Admission a ON d.DoctorCode = a.DoctorIDJOIN Department de ON a.DepartmentID = de.DepartmentCodeWHERE de.DepartmentName = 'Cardiology'GROUP BY d.DoctorCode, d.Name, d.EmailHAVING COUNT(a.AdmissionID) > 1",
+        "near \"dJOIN\": syntax error"
+    ],
+    [
+        166,
+        "SELECT PatientID, COUNT(*) FROM Admission GROUP BY PatientID HAVING COUNT(*) > 1;",
+        "SELECT PatientID FROM Admission GROUP BY PatientID HAVING COUNT(PatientID) > 1",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        169,
+        "SELECT strftime('%Y', Admission.AdmissionDate) AS Year, Department.DepartmentName, COUNT(*) AS DiazepamPrescriptions FROM Medication JOIN Admission ON Medication.AdmissionID = Admission.AdmissionID JOIN Department ON Admission.DepartmentID = Department.DepartmentCode WHERE Medication.MedicationDescription = 'Diazepam' GROUP BY Year, Department.DepartmentName;",
+        "SELECT EXTRACT(YEAR FROM a.DischargeDate) AS Year,    d.DepartmentName,    COUNT(m.MedicationDescription) AS DiazepamPrescriptionsFROM     Admission aJOIN     Medication m ON a.AdmissionID = m.AdmissionIDJOIN     Department d ON a.DepartmentID = d.DepartmentCodeWHERE     m.MedicationDescription = 'Diazepam'GROUP BY     EXTRACT(YEAR FROM a.DischargeDate),     d.DepartmentName",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        171,
+        "SELECT Doctor.Name, Doctor.Email FROM Doctor WHERE Doctor.DoctorCode IN (SELECT DoctorID FROM Admission WHERE AdmissionDate >= DATE('now', '-2 year') GROUP BY DoctorID HAVING COUNT(*) > 3);",
+        "SELECT D.Name, D.Email FROM Doctor D, Admission A WHERE D.DoctorCode = A.DoctorID AND A.AdmissionDate >= DATE_SUB(CURDATE(), INTERVAL 2 YEAR) GROUP BY D.Name, D.Email HAVING COUNT(A.PatientID) > 3",
+        "near \"2\": syntax error"
+    ],
+    [
+        173,
+        "SELECT Doctor.Name AS DoctorName, Patient.Name AS PatientName, Admission.Diagnosis, Admission.Medications, Department.DepartmentName FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode JOIN Department ON Admission.DepartmentID = Department.DepartmentCode ORDER BY JULIANDAY(Admission.DischargeDate) - JULIANDAY(Admission.AdmissionDate) DESC LIMIT 1;",
+        "SELECT d.Name, p.Name, a.Diagnosis, m.MedicationDescription, d1.DepartmentNameFROM Patient pJOIN Admission a ON p.PatientID = a.PatientIDJOIN Doctor d ON a.DoctorID = d.DoctorCodeJOIN Department d1 ON a.DepartmentID = d1.DepartmentCodeJOIN Medication m ON a.AdmissionID = m.AdmissionIDWHERE a.DischargeDate - a.AdmissionDate = (SELECT MAX(a1.DischargeDate - a1.AdmissionDate)FROM Admission a1)ORDER BY a.DischargeDate - a.AdmissionDate DESC",
+        "near \"pJOIN\": syntax error"
+    ],
+    [
+        174,
+        "SELECT d.DepartmentName, doc.Name AS DoctorName, doc.Email AS DoctorEmail, head.Name AS HeadOfDepartment FROM Department d LEFT JOIN Doctor head ON d.HeadOfDepartment = head.DoctorCode JOIN Admission adm ON d.DepartmentCode = adm.DepartmentID JOIN Doctor doc ON adm.DoctorID = doc.DoctorCode GROUP BY d.DepartmentName, doc.Name, doc.Email, head.Name ORDER BY d.DepartmentName, doc.Name;",
+        "SELECT d.DoctorCode, d.Name, d.Phone, d.Email, d.Specialization, d.Address, d2.DepartmentName, d2.HeadOfDepartmentFROM Doctor dJOIN Admission a ON a.DoctorID = d.DoctorCodeJOIN Department d2 ON d2.DepartmentCode = a.DepartmentIDGROUP BY d.DoctorCode, d.Name, d.Phone, d.Email, d.Specialization, d.Address, d2.DepartmentCode, d2.DepartmentName, d2.HeadOfDepartment",
+        "near \"dJOIN\": syntax error"
+    ],
+    [
+        175,
+        "SELECT Department.DepartmentName, Doctor.Name, COUNT(*) FROM Department INNER JOIN Doctor ON Department.HeadOfDepartment = Doctor.DoctorCode INNER JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID GROUP BY Department.DepartmentName, Doctor.Name HAVING COUNT(*) > 3;",
+        "SELECT d.DepartmentName, d.HeadOfDepartment, COUNT(a.AdmissionID) FROM Department d INNER JOIN Admission a ON d.DepartmentCode = a.DepartmentID GROUP BY d.DepartmentName, d.HeadOfDepartment HAVING COUNT(a.AdmissionID) > 3",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        178,
+        "SELECT Name, EmergencyContactName, EmergencyContactPhone FROM Patient WHERE PatientID IN (SELECT PatientID FROM Admission GROUP BY PatientID HAVING COUNT(DISTINCT DoctorID) > 1);",
+        "SELECT DISTINCT P.Name, P.PhoneNumber, P.EmailFROM Patient PJOIN Admission A ON P.PatientID = A.PatientIDJOIN Doctor D ON A.DoctorID = D.DoctorCodeWHERE COUNT(A.DoctorID) > 1GROUP BY P.PatientID, P.Name, P.PhoneNumber, P.Email",
+        "near \"PJOIN\": syntax error"
+    ],
+    [
+        180,
+        "SELECT Name, Email FROM Doctor WHERE DoctorCode IN (SELECT DoctorID FROM Admission GROUP BY DoctorID HAVING COUNT(DISTINCT Diagnosis) > 1);",
+        "SELECT d.Name, d.Email FROM Doctor d JOIN Admission a ON d.DoctorCode = a.DoctorID WHERE a.Diagnosis != '' AND (SELECT COUNT(DISTINCT a.Diagnosis) FROM Admission WHERE a.PatientID = Admission.PatientID) > 1",
+        "misuse of aggregate: COUNT()"
+    ],
+    [
+        184,
+        "SELECT Department.DepartmentName, COUNT(*) FROM Department INNER JOIN Admission ON Department.DepartmentCode = Admission.DepartmentID WHERE Admission.AdmissionDate BETWEEN '2022-01-01' AND '2023-12-31' GROUP BY Department.DepartmentName HAVING COUNT(*) > 10;",
+        "SELECT d.DepartmentName, COUNT(a.AdmissionID) AS AdmissionCountFROM Admission aJOIN Department d ON a.DepartmentID = d.DepartmentCodeWHERE YEAR(a.AdmissionDate) IN (2022, 2023) AND COUNT(a.AdmissionID) > 10GROUP BY d.DepartmentName",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        185,
+        "SELECT Doctor.Name, COUNT(*) FROM Doctor INNER JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID GROUP BY Doctor.Name HAVING COUNT(*) > 5;",
+        "SELECT d.DoctorName FROM Doctor d JOIN Admission a ON d.DoctorCode = a.DoctorID GROUP BY d.DoctorName HAVING COUNT(a.PatientID) > 5",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        186,
+        "SELECT Patient.Name, COUNT(*) FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE Admission.Diagnosis LIKE '%Diabetes%' GROUP BY Patient.Name HAVING COUNT(*) > 2;",
+        "SELECT p.Name, a.Diagnosis FROM Patient p INNER JOIN Admission a ON p.PatientID = a.PatientID WHERE a.Diagnosis LIKE '%Diabetes%' GROUP BY p.Name, a.Diagnosis HAVING COUNT(a.Diagnosis) > 2",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        187,
+        "SELECT Doctor.DoctorCode, Doctor.Name, Doctor.Email, Doctor.Phone, strftime('%Y', Admission.AdmissionDate) AS Year, COUNT(*) AS ScanCount FROM Doctor JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID WHERE Admission.Treatments LIKE '%CT Scan%' OR Admission.Treatments LIKE '%MRI Scan%' GROUP BY Doctor.DoctorCode, Year ORDER BY ScanCount DESC LIMIT 1;",
+        "SELECT d.DoctorCode,   d.Name,   d.Phone,   d.Email,   COUNT(CASE WHEN p.ProcedureDescription = 'CT Scan' THEN 1 END) AS CT_Scans,   COUNT(CASE WHEN p.ProcedureDescription = 'MRI' THEN 1 END) AS MRI,   YEAR(p.AdmissionDate) AS Year FROM   Doctor d   JOIN Admission a ON d.DoctorCode = a.DoctorID   JOIN Procedure p ON a.AdmissionID = p.AdmissionID GROUP BY   d.DoctorCode,   d.Name,   d.Phone,   d.Email,   YEAR(p.AdmissionDate) ORDER BY   CT_Scans + MRI DESC",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        188,
+        "SELECT Doctor.*, Admission.Medications FROM Doctor JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID WHERE Doctor.DoctorCode = (SELECT DoctorID FROM Admission GROUP BY DoctorID ORDER BY COUNT(*) DESC LIMIT 1);",
+        "SELECT d.DoctorCode, d.Name, COUNT(a.PatientID) AS TotalPatientsAdmitted, GROUP_CONCAT(m.MedicationDescription) AS MedicationsPrescribedFROM Doctor dJOIN Admission a ON a.DoctorID = d.DoctorCodeJOIN Medication m ON m.AdmissionID = a.AdmissionIDGROUP BY d.DoctorCode, d.NameORDER BY COUNT(a.PatientID) DESC",
+        "near \"Doctor\": syntax error"
+    ],
+    [
+        189,
+        "SELECT Name, AdmissionDate FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE Patient.PatientID IN (SELECT PatientID FROM Admission GROUP BY PatientID HAVING COUNT(DISTINCT DepartmentID) > 1);",
+        "SELECT p.Name, a.AdmissionDateFROM Patient p, Admission aWHERE p.PatientID = a.PatientIDAND a.AdmissionDate BETWEEN '2020-01-01' AND '2020-12-31'GROUP BY p.Name, a.AdmissionDateHAVING COUNT(DISTINCT a.DepartmentID) > 1",
+        "near \"p\": syntax error"
+    ],
+    [
+        191,
+        "SELECT Department.DepartmentName, Doctor.Name, Doctor.Email, COUNT(Patient.PatientID) AS FemalePatientCount FROM Doctor JOIN Admission ON Doctor.DoctorCode = Admission.DoctorID JOIN Patient ON Admission.PatientID = Patient.PatientID JOIN Department ON Admission.DepartmentID = Department.DepartmentCode WHERE Patient.Gender = 'Female' GROUP BY Department.DepartmentName, Doctor.DoctorCode HAVING (SELECT COUNT(Patient.PatientID) FROM Admission JOIN Patient ON Admission.PatientID = Patient.PatientID WHERE Patient.Gender = 'Female' AND Admission.DoctorID = Doctor.DoctorCode) > 2;",
+        "SELECT d.Name,     d.Email,     d.Specialization,     d.Address,     COUNT(a.PatientID) AS FemalePatientsCount,     d.DepartmentCode FROM     Doctor d JOIN     Admission a ON d.DoctorCode = a.DoctorID JOIN     Patient p ON a.PatientID = p.PatientID WHERE     p.Gender = 'Female' GROUP BY     d.Name,     d.Email,     d.Specialization,     d.Address,     d.DepartmentCode HAVING     COUNT(a.PatientID) > 2",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        194,
+        "SELECT Patient.Name, COUNT(*) AS AdmissionCount FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID GROUP BY Patient.PatientID HAVING COUNT(*) > 3;",
+        "SELECT p.Name, d.Name AS DoctorName FROM Patient p JOIN Admission a ON p.PatientID = a.PatientID JOIN Doctor d ON a.DoctorID = d.DoctorCode GROUP BY p.Name, d.Name HAVING COUNT(a.AdmissionID) > 3",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        195,
+        "SELECT Patient.Name, COUNT(*) AS AmoxicillinCount FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE LOWER(Admission.Medications) LIKE '%amoxicillin%' GROUP BY Patient.PatientID HAVING COUNT(*) > 1;",
+        "SELECT p.Name, m.MedicationDescription FROM Patient p JOIN Admission a ON p.PatientID = a.PatientID JOIN Medication m ON a.AdmissionID = m.AdmissionID WHERE m.MedicationDescription LIKE '%Antibiotic%' GROUP BY p.Name, m.MedicationDescription HAVING COUNT(m.MedicationDescription) > 1",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        196,
+        "SELECT Patient.Name, COUNT(*) AS SurgeryCount FROM Patient INNER JOIN Admission ON Patient.PatientID = Admission.PatientID WHERE Admission.Procedures LIKE '%Surgery%' GROUP BY Patient.PatientID HAVING COUNT(*) > 1;",
+        "SELECT Patient.Name FROM Patient, Admission, Procedure WHERE Patient.PatientID = Admission.PatientID AND Admission.AdmissionID = Procedure.AdmissionID GROUP BY Patient.Name HAVING COUNT(Procedure.ProcedureDescription) > 1",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        197,
+        "SELECT MedicationDescription, COUNT(*) AS Frequency FROM Medication JOIN Admission ON Medication.AdmissionID = Admission.AdmissionID WHERE Admission.AdmissionDate BETWEEN '2023-01-01' AND '2023-12-31' GROUP BY MedicationDescription ORDER BY Frequency DESC LIMIT 1;",
+        "SELECT M.MedicationDescription, COUNT(*) as CountFROM Medication MJOIN Admission A ON M.AdmissionID = A.AdmissionIDWHERE YEAR(A.AdmissionDate) = 2023GROUP BY M.MedicationDescriptionORDER BY Count DESC",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        198,
+        "SELECT MedicationDescription, COUNT(*) AS Frequency FROM Medication JOIN Admission ON Medication.AdmissionID = Admission.AdmissionID WHERE Admission.AdmissionDate BETWEEN '2023-01-01' AND '2023-12-31' GROUP BY MedicationDescription ORDER BY Frequency DESC LIMIT 1;",
+        "SELECT m.MedicationDescription, COUNT(*) AS TotalPrescriptions FROM Medication m INNER JOIN Admission a ON m.AdmissionID = a.AdmissionID WHERE a.AdmissionDate >= '2023-01-01' AND a.AdmissionDate <= '2023-12-31' GROUP BY m.MedicationDescription ORDER BY TotalPrescriptions DESC LIMIT 1",
+        "'<' not supported between instances of 'int' and 'str'"
+    ],
+    [
+        199,
+        "SELECT Doctor.Name, Admission.AdmissionID, Patient.Name, (JULIANDAY(Admission.DischargeDate) - JULIANDAY(Admission.AdmissionDate)) AS LengthOfStay FROM Admission JOIN Doctor ON Admission.DoctorID = Doctor.DoctorCode JOIN Patient ON Admission.PatientID = Patient.PatientID ORDER BY LengthOfStay DESC LIMIT 1;",
+        "SELECT d.Name, a.AdmissionDate, a.DischargeDate, a.Diagnosis, a.Treatments, a.Medications FROM Doctor d JOIN Admission a ON d.DoctorCode = a.DoctorID WHERE (a.DischargeDate - a.AdmissionDate) = (SELECT MAX(a2.DischargeDate - a2.AdmissionDate) FROM Admission a2)",
+        "'<' not supported between instances of 'float' and 'str'"
+    ]
+]
